@@ -61,6 +61,30 @@ function attachImgFallback(root) {
   });
 }
 
+/* ===========================
+   AS-OF STATS (the fix)
+   =========================== */
+
+function statsAsOf(songObj, weekStr) {
+  // returns { peak, weeks } computed up to and including weekStr
+  if (!songObj || !Array.isArray(songObj.history)) {
+    return { peak: null, weeks: null };
+  }
+  const upTo = songObj.history.filter(h => String(h.week) <= String(weekStr));
+  if (!upTo.length) return { peak: null, weeks: 0 };
+  const peak = Math.min(...upTo.map(h => Number(h.rank)));
+  return { peak, weeks: upTo.length };
+}
+
+function lastWeekRankAsOf(songObj, weekStr) {
+  if (!songObj || !Array.isArray(songObj.history)) return null;
+  const prev = songObj.history
+    .filter(h => String(h.week) < String(weekStr))
+    .sort((a, b) => String(a.week).localeCompare(String(b.week)))
+    .pop();
+  return prev ? Number(prev.rank) : null;
+}
+
 function buildHistoryHtml(history) {
   if (!history || history.length === 0) {
     return `<div class="history"><div class="historyRow"><span>No history yet.</span></div></div>`;
@@ -85,10 +109,21 @@ function buildHistoryHtml(history) {
   `;
 }
 
-function buildExpandHtml(entry, catalogSong) {
-  const peak = catalogSong?.peak ?? entry.peak;
-  const weeks = catalogSong?.weeks ?? entry.weeks;
-  const history = catalogSong?.history ?? [];
+function buildExpandHtml(entry, catalogSong, asOfWeek) {
+  // ✅ compute as-of stats for the selected week
+  let lw = entry.lastWeek;
+  let peak = entry.peak;
+  let weeks = entry.weeks;
+  let history = catalogSong?.history ?? [];
+
+  if (catalogSong && asOfWeek) {
+    const asof = statsAsOf(catalogSong, asOfWeek);
+    const lwRank = lastWeekRankAsOf(catalogSong, asOfWeek);
+
+    if (asof.peak !== null) peak = asof.peak;
+    if (asof.weeks !== null) weeks = asof.weeks;
+    lw = (lwRank === null || Number.isNaN(lwRank)) ? null : lwRank;
+  }
 
   return `
     <div class="expandInner">
@@ -101,7 +136,7 @@ function buildExpandHtml(entry, catalogSong) {
             </a>
           </div>
           <div class="pills" style="margin-top:10px">
-            <span>LW <b>${fmtRankOrDash(entry.lastWeek)}</b></span>
+            <span>LW <b>${fmtRankOrDash(lw)}</b></span>
             <span>Peak <b>${fmtRankOrDash(peak)}</b></span>
             <span>Weeks <b>${fmtRankOrDash(weeks)}</b></span>
           </div>
@@ -219,9 +254,8 @@ async function main() {
 
   // Build a song lookup from catalog:
   // catalog.artists[artist].songs[songKey] -> {history, peak, weeks, ...}
-  // NOTE: Your exporter uses songKey with artist + title lowercased, same as we compute.
   const songLookup = new Map();
-  for (const [artistName, artistObj] of Object.entries(catalog.artists || {})) {
+  for (const [, artistObj] of Object.entries(catalog.artists || {})) {
     const songs = artistObj.songs || {};
     for (const [skey, songObj] of Object.entries(songs)) {
       songLookup.set(skey.toLowerCase().trim(), songObj);
@@ -240,6 +274,8 @@ async function main() {
 
   const list = document.getElementById("chart");
 
+  const asOfWeek = chart.week;
+
   // Render rows (each row has a collapsible expand section)
   list.innerHTML = chart.entries.map(e => {
     const mv = moveLabel(e.movement);
@@ -247,9 +283,22 @@ async function main() {
     const skey = songKey(e.title, e.artist);
     const ariaId = `exp_${e.rank}`;
 
-    // stash week for "open this week" link in expand panel
-    const entryWithWeek = { ...e, _week: chart.week };
-    // we can't JSON.stringify in HTML safely; we store key and rank then lookup in JS
+    // ✅ compute as-of stats for THIS week from catalog history (when available)
+    const catalogSong = songLookup.get(skey) || null;
+
+    let lwDisplay = e.lastWeek;
+    let peakDisplay = e.peak;
+    let weeksDisplay = e.weeks;
+
+    if (catalogSong) {
+      const asof = statsAsOf(catalogSong, asOfWeek);
+      const lwRank = lastWeekRankAsOf(catalogSong, asOfWeek);
+
+      if (asof.peak !== null) peakDisplay = asof.peak;
+      if (asof.weeks !== null) weeksDisplay = asof.weeks;
+      lwDisplay = (lwRank === null || Number.isNaN(lwRank)) ? null : lwRank;
+    }
+
     return `
       <li class="row" data-songkey="${escapeHtml(skey)}" data-rank="${escapeHtml(e.rank)}">
         <div class="rowTop" tabindex="0" role="button" aria-expanded="false" aria-controls="${ariaId}">
@@ -269,9 +318,9 @@ async function main() {
           </div>
 
           <div class="stats3">
-            <span>LW <b>${escapeHtml(fmtRankOrDash(e.lastWeek))}</b></span>
-            <span>Peak <b>${escapeHtml(fmtRankOrDash(e.peak))}</b></span>
-            <span>Weeks <b>${escapeHtml(fmtRankOrDash(e.weeks))}</b></span>
+            <span>LW <b>${escapeHtml(fmtRankOrDash(lwDisplay))}</b></span>
+            <span>Peak <b>${escapeHtml(fmtRankOrDash(peakDisplay))}</b></span>
+            <span>Weeks <b>${escapeHtml(fmtRankOrDash(weeksDisplay))}</b></span>
           </div>
         </div>
 
@@ -322,17 +371,14 @@ async function main() {
     const catalogSong = songLookup.get(skey) || null;
     const entryWithWeek = { ...entry, _week: chart.week };
 
-    exp.innerHTML = buildExpandHtml(entryWithWeek, catalogSong);
+    exp.innerHTML = buildExpandHtml(entryWithWeek, catalogSong, asOfWeek);
   }
 
   list.querySelectorAll(".row").forEach(row => {
     const top = row.querySelector(".rowTop");
     if (!top) return;
 
-    top.addEventListener("click", (e) => {
-      // clicking artist link shouldn't toggle (handled with stopPropagation)
-      toggleRow(row);
-    });
+    top.addEventListener("click", () => toggleRow(row));
 
     top.addEventListener("keydown", (e) => {
       if (e.key === "Enter" || e.key === " ") {
