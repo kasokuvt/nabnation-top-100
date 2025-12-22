@@ -1,10 +1,19 @@
-const PLACEHOLDER = "covers/_placeholder.png";
+/* =========================
+   CONFIG
+========================= */
+
+const PLACEHOLDER = "./covers/placeholder.png";
+const DATA_DIR = "./data";
+
+/* =========================
+   HELPERS
+========================= */
 
 function qs(name) {
   return new URLSearchParams(location.search).get(name);
 }
 
-function escapeHtml(str) {
+function escapeHtml(str = "") {
   return String(str)
     .replaceAll("&", "&amp;")
     .replaceAll("<", "&lt;")
@@ -13,515 +22,207 @@ function escapeHtml(str) {
     .replaceAll("'", "&#039;");
 }
 
-async function loadJSON(path) {
-  const res = await fetch(path, { cache: "no-store" });
-  if (!res.ok) throw new Error(`Failed to load ${path}`);
-  return await res.json();
+function cleanArtistName(name = "") {
+  return name
+    .replace(/\(.*?pts.*?\)/gi, "")
+    .replace(/\(.*?listeners.*?\)/gi, "")
+    .replace(/\*+/g, "")
+    .trim();
 }
 
-/**
- * Some weeks accidentally stored "artist" as:
- *   "fakemink (60.0 pts) (6 listeners)* (new release)"
- * We strip that junk so the UI + artist search doesn't treat it as a real artist.
- */
-function normalizeArtistName(name) {
-  if (name === null || name === undefined) return "";
-  let s = String(name).trim();
-
-  // Remove trailing asterisks
-  s = s.replace(/\*+$/g, "").trim();
-
-  // Repeatedly remove trailing parenthetical chunks that contain common exporter junk
-  // Examples:
-  //   (60.0 pts)
-  //   (6 listeners)
-  //   (new release)
-  //   (44.5 pts) (4 listeners)*
-  const junkParen = /\s*\(([^)]*)\)\s*$/i;
-  for (let i = 0; i < 8; i++) {
-    const m = s.match(junkParen);
-    if (!m) break;
-    const inside = (m[1] || "").toLowerCase();
-
-    const looksLikeJunk =
-      inside.includes("pts") ||
-      inside.includes("point") ||
-      inside.includes("listener") ||
-      inside.includes("new release") ||
-      inside.includes("reentry") ||
-      inside.includes("scrobble");
-
-    if (!looksLikeJunk) break;
-    s = s.replace(junkParen, "").trim();
-  }
-
-  // Collapse whitespace
-  s = s.replace(/\s+/g, " ").trim();
-  return s;
-}
-
-function moveLabel(m) {
-  if (!m) return { text: "—", cls: "" };
-  if (m.type === "up") return { text: `▲ ${m.value}`, cls: "up" };
-  if (m.type === "down") return { text: `▼ ${m.value}`, cls: "down" };
-  if (m.type === "new") return { text: "NEW", cls: "new" };
-  if (m.type === "re") return { text: "RE", cls: "re" };
-  if (m.type === "stay") return { text: "•", cls: "" };
-  return { text: "—", cls: "" };
-}
-
-function fmtRankOrDash(v) {
-  return v === null || v === undefined ? "—" : String(v);
-}
-
-function artistUrl(artistName) {
-  return `artist.html?name=${encodeURIComponent(artistName)}`;
-}
-
-function weekUrl(weekStr) {
-  return `/?week=${encodeURIComponent(weekStr)}`;
-}
-
-/**
- * must match Python exporter: "{artist} - {title}".lower()
- * BUT we normalize artist first to avoid "(60 pts) (6 listeners)" pollution.
- */
-function songKey(title, artist) {
-  const a = normalizeArtistName(artist);
-  return `${a} - ${title}`.toLowerCase().trim();
-}
-
-function setWeekParam(week) {
-  const u = new URL(location.href);
-  u.searchParams.set("week", week);
-  location.href = u.toString();
-}
-
-function attachImgFallback(root) {
-  // Keep this as a backup fallback (we also add inline onerror on <img>)
-  root.querySelectorAll("img.cover").forEach((img) => {
-    img.addEventListener("error", () => {
-      if (img.src.includes(PLACEHOLDER)) return;
-      img.src = PLACEHOLDER;
-    });
-  });
-}
-
-function buildHistoryHtml(history) {
-  if (!history || history.length === 0) {
-    return `<div class="history"><div class="historyRow"><span>No history yet.</span></div></div>`;
-  }
-
-  // Sort newest -> oldest by week string (YYYY-MM-DD)
-  const rows = [...history].sort(
-    (a, b) => String(b.week).localeCompare(String(a.week)) || a.rank - b.rank
-  );
-
+function imgWithFallback(src) {
   return `
-    <div class="history">
-      ${rows
-        .map(
-          (h) => `
-          <div class="historyRow">
-            <span>
-              <a href="${weekUrl(h.week)}">${escapeHtml(h.week)}</a>
-            </span>
-            <span>Rank <b>#${escapeHtml(h.rank)}</b></span>
-          </div>
-        `
-        )
-        .join("")}
-    </div>
+    <img
+      src="${src || PLACEHOLDER}"
+      onerror="this.onerror=null;this.src='${PLACEHOLDER}'"
+      loading="lazy"
+    >
   `;
 }
 
-/**
- * LW display rule:
- * - NEW or RE should show "—" for LW, even if lastWeek is present in JSON.
- */
-function displayLastWeek(entry) {
-  const t = entry?.movement?.type;
-  if (t === "new" || t === "re") return null;
-  return entry.lastWeek;
+/* =========================
+   DATA LOAD
+========================= */
+
+async function loadJSON(path) {
+  const r = await fetch(path);
+  if (!r.ok) throw new Error(path);
+  return r.json();
 }
 
-function buildExpandHtml(entry, catalogSong) {
-  const peak = catalogSong?.peak ?? entry.peak;
-  const weeks = catalogSong?.weeks ?? entry.weeks;
-  const history = catalogSong?.history ?? [];
+async function loadWeek(week) {
+  return loadJSON(`${DATA_DIR}/${week}.json`);
+}
 
-  const lw = displayLastWeek(entry);
+async function loadHistory() {
+  return loadJSON(`${DATA_DIR}/history.json`);
+}
 
-  // Use normalized display name but link with canonical key (if provided)
-  const displayArtist = entry._displayArtist ?? normalizeArtistName(entry.artist);
-  const artistKey = entry._artistKey ?? entry.artist;
+/* =========================
+   STATS AS OF WEEK
+========================= */
+
+function computeStatsUpToWeek(songKey, history, currentWeek) {
+  const entries = history
+    .filter(e => e.key === songKey && e.week <= currentWeek)
+    .sort((a, b) => a.week.localeCompare(b.week));
+
+  if (!entries.length) return null;
+
+  let peak = Infinity;
+  entries.forEach(e => peak = Math.min(peak, e.rank));
+
+  return {
+    debut: entries[0].week,
+    peak,
+    weeks: entries.length
+  };
+}
+
+function getLastWeekRank(songKey, history, currentWeek) {
+  const prev = history.find(
+    e => e.key === songKey && e.week < currentWeek
+  );
+  return prev ? prev.rank : null;
+}
+
+/* =========================
+   MOVEMENT / BADGES
+========================= */
+
+function movementBadge(entry) {
+  if (!entry.movement) return "";
+
+  if (entry.movement.type === "new")
+    return `<span class="badge new">NEW</span>`;
+
+  if (entry.movement.type === "re")
+    return `<span class="badge re">RE</span>`;
+
+  if (entry.movement.value > 0)
+    return `<span class="badge up">▲ ${entry.movement.value}</span>`;
+
+  if (entry.movement.value < 0)
+    return `<span class="badge down">▼ ${Math.abs(entry.movement.value)}</span>`;
+
+  return `<span class="badge same">—</span>`;
+}
+
+/* =========================
+   AWARDS
+========================= */
+
+function computeAwards(entries) {
+  let biggestJump = null;
+  let biggestFall = null;
+  let hotShotDebut = null;
+  let hotShotRe = null;
+  let longest = null;
+
+  for (const e of entries) {
+    if (e.movement?.type === "new") {
+      if (!hotShotDebut || e.rank < hotShotDebut.rank) hotShotDebut = e;
+    }
+
+    if (e.movement?.type === "re") {
+      if (!hotShotRe || e.rank < hotShotRe.rank) hotShotRe = e;
+    }
+
+    if (typeof e.movement?.value === "number") {
+      if (e.movement.value > 0) {
+        if (!biggestJump || e.movement.value > biggestJump.movement.value)
+          biggestJump = e;
+      }
+      if (e.movement.value < 0) {
+        if (!biggestFall || e.movement.value < biggestFall.movement.value)
+          biggestFall = e;
+      }
+    }
+
+    if (!longest || e.weeks > longest.weeks) longest = e;
+  }
+
+  return { biggestJump, biggestFall, hotShotDebut, hotShotRe, longest };
+}
+
+/* =========================
+   RENDER
+========================= */
+
+function renderAwards(entry, awards) {
+  const lines = [];
+
+  if (awards.biggestJump === entry)
+    lines.push(`<span class="award jump">Biggest Jump (+${entry.movement.value})</span>`);
+
+  if (awards.biggestFall === entry)
+    lines.push(`<span class="award fall">Biggest Fall (${entry.movement.value})</span>`);
+
+  if (awards.hotShotDebut === entry)
+    lines.push(`<span class="award debut">Hot Shot Debut</span>`);
+
+  if (awards.hotShotRe === entry)
+    lines.push(`<span class="award re">Hot Shot Re-Entry</span>`);
+
+  if (awards.longest === entry)
+    lines.push(`<span class="award long">Longest Chart Sitter</span>`);
+
+  return lines.join("<br>");
+}
+
+function renderRow(entry, stats, lastWeek, awards) {
+  const lw = entry.movement?.type === "re" ? "—" : (lastWeek ?? "—");
 
   return `
-    <div class="expandInner">
-      <div class="expandTop">
-        <div>
-          <div class="expandTitle">${escapeHtml(entry.title)}</div>
-          <div class="expandSub">
-            <a href="${artistUrl(artistKey)}" style="color:inherit; text-decoration:none; border-bottom:1px solid rgba(244,246,251,.25)">
-              ${escapeHtml(displayArtist)}
-            </a>
-          </div>
-          <div class="pills" style="margin-top:10px">
-            <span>LW <b>${fmtRankOrDash(lw)}</b></span>
-            <span>Peak <b>${fmtRankOrDash(peak)}</b></span>
-            <span>Weeks <b>${fmtRankOrDash(weeks)}</b></span>
-          </div>
+    <div class="chart-row" data-key="${entry.key}">
+      <div class="rank">
+        ${entry.rank}
+        ${movementBadge(entry)}
+      </div>
 
-          <div class="expandLinks">
-            <a href="${artistUrl(artistKey)}">Open artist page</a>
-            <a href="${weekUrl(entry._week)}">Open this week</a>
-          </div>
+      <div class="song">
+        ${imgWithFallback(entry.cover)}
+        <div class="meta">
+          <div class="title">${escapeHtml(entry.title)}</div>
+          <div class="artist">${escapeHtml(cleanArtistName(entry.artist))}</div>
+          ${renderAwards(entry, awards)}
         </div>
       </div>
 
-      ${buildHistoryHtml(history)}
+      <div class="stats">
+        LW ${lw} &nbsp; Peak ${stats?.peak ?? entry.rank}
+        &nbsp; Weeks ${stats?.weeks ?? 1}
+      </div>
     </div>
   `;
 }
 
-/**
- * Build an alias map:
- *   normalizedName -> best existing catalog key
- * Prefer:
- *   1) exact match to normalized
- *   2) shortest string (least junk)
- */
-function buildArtistAliasMap(catalog) {
-  const keys = Object.keys(catalog?.artists || {});
-  const alias = new Map(); // normalized -> canonicalKey
+/* =========================
+   MAIN
+========================= */
 
-  for (const k of keys) {
-    const norm = normalizeArtistName(k);
-    if (!norm) continue;
+async function init() {
+  const week = qs("week");
+  if (!week) return;
 
-    if (!alias.has(norm)) {
-      alias.set(norm, k);
-      continue;
-    }
+  const weekData = await loadWeek(week);
+  const history = await loadHistory();
 
-    const cur = alias.get(norm);
-    const curNorm = normalizeArtistName(cur);
+  const awards = computeAwards(weekData.entries);
 
-    // Prefer exact clean match
-    const kIsExact = k === norm;
-    const curIsExact = cur === curNorm && cur === norm;
+  const html = weekData.entries.map(e => {
+    const stats = computeStatsUpToWeek(e.key, history, week);
+    const lw = getLastWeekRank(e.key, history, week);
+    return renderRow(e, stats, lw, awards);
+  }).join("");
 
-    if (kIsExact && !curIsExact) {
-      alias.set(norm, k);
-      continue;
-    }
+  document.querySelector("#chart").innerHTML = html;
 
-    // Otherwise prefer shorter
-    if (String(k).length < String(cur).length) {
-      alias.set(norm, k);
-    }
-  }
-
-  return alias;
-}
-
-/**
- * Build a merged artist index for search results so you don't see:
- * - fakemink
- * - fakemink (60.0 pts) (6 listeners)*
- */
-function buildMergedArtistSearchIndex(catalog, aliasMap) {
-  const artistStats = catalog?.artists || {};
-  const merged = new Map(); // norm -> { canonicalKey, songKeys:Set, entries:number }
-
-  for (const [artistKey, aObj] of Object.entries(artistStats)) {
-    const norm = normalizeArtistName(artistKey);
-    if (!norm) continue;
-
-    const canonicalKey = aliasMap.get(norm) || artistKey;
-    if (!merged.has(norm)) {
-      merged.set(norm, { norm, canonicalKey, songKeys: new Set(), entries: 0 });
-    }
-
-    const bucket = merged.get(norm);
-    const songsObj = aObj?.songs || {};
-    for (const [skey, songObj] of Object.entries(songsObj)) {
-      bucket.songKeys.add(String(skey));
-      bucket.entries += songObj?.history?.length || 0;
-    }
-  }
-
-  const items = [...merged.values()];
-  // Stable display sorting
-  items.sort((a, b) => a.norm.localeCompare(b.norm));
-  return items;
-}
-
-function setupArtistSearch(catalog, aliasMap) {
-  const input = document.getElementById("artistSearch");
-  const box = document.getElementById("searchResults");
-  if (!input || !box) return;
-
-  const mergedIndex = buildMergedArtistSearchIndex(catalog, aliasMap);
-
-  function hide() {
-    box.classList.add("hidden");
-    box.innerHTML = "";
-  }
-
-  function show(results) {
-    box.classList.remove("hidden");
-    box.innerHTML = results
-      .map((item) => {
-        const songCount = item.songKeys.size;
-        const entries = item.entries;
-
-        return `
-          <div class="searchItem" data-artist="${escapeHtml(item.canonicalKey)}">
-            <div class="name">${escapeHtml(item.norm)}</div>
-            <div class="meta">${songCount} song(s) • ${entries} chart entry(s)</div>
-          </div>
-        `;
-      })
-      .join("");
-
-    box.querySelectorAll(".searchItem").forEach((el) => {
-      el.addEventListener("click", () => {
-        const a = el.getAttribute("data-artist");
-        if (!a) return;
-        location.href = artistUrl(a);
-      });
-    });
-  }
-
-  function filter(q) {
-    const s = q.trim().toLowerCase();
-    if (!s) return [];
-    const starts = [];
-    const includes = [];
-
-    for (const item of mergedIndex) {
-      const low = item.norm.toLowerCase();
-      if (low.startsWith(s)) starts.push(item);
-      else if (low.includes(s)) includes.push(item);
-    }
-
-    return [...starts, ...includes].slice(0, 10);
-  }
-
-  input.addEventListener("input", () => {
-    const results = filter(input.value);
-    if (results.length === 0) hide();
-    else show(results);
-  });
-
-  input.addEventListener("keydown", (e) => {
-    if (e.key === "Escape") hide();
-    if (e.key === "Enter") {
-      const results = filter(input.value);
-      if (results.length > 0) location.href = artistUrl(results[0].canonicalKey);
-    }
-  });
-
-  // click outside closes
-  document.addEventListener("click", (e) => {
-    if (!box.contains(e.target) && e.target !== input) hide();
-  });
-
-  input.addEventListener("focus", () => {
-    const results = filter(input.value);
-    if (results.length > 0) show(results);
-  });
-}
-
-function parseCatalogSongKey(skey) {
-  // Expected exporter format: "{artist} - {title}".lower()
-  // We'll split on the first " - " occurrence.
-  const raw = String(skey || "");
-  const low = raw.toLowerCase();
-  const sep = " - ";
-  const i = low.indexOf(sep);
-  if (i < 0) return null;
-
-  const artistPart = raw.slice(0, i).trim();
-  const titlePart = raw.slice(i + sep.length).trim();
-  return { artistPart, titlePart };
-}
-
-async function main() {
-  // Load manifest (weeks list)
-  const manifest = await loadJSON("data/manifest.json");
-  const weeks = manifest.weeks || [];
-  const requested = qs("week");
-
-  const weekToLoad = requested && weeks.includes(requested) ? requested : weeks[0] || null;
-
-  // Populate week dropdown
-  const sel = document.getElementById("weekSelect");
-  sel.innerHTML = weeks.map((w) => `<option value="${w}">${w}</option>`).join("");
-  if (weekToLoad) sel.value = weekToLoad;
-  sel.addEventListener("change", () => setWeekParam(sel.value));
-
-  // Load catalog (for artist search + song history)
-  const catalog = await loadJSON("data/catalog.json");
-
-  // Build alias map + merged search index
-  const artistAlias = buildArtistAliasMap(catalog);
-  setupArtistSearch(catalog, artistAlias);
-
-  // Build a song lookup from catalog:
-  // catalog.artists[artist].songs[songKey] -> {history, peak, weeks, ...}
-  // We add alias keys too, so polluted artist names can still resolve history.
-  const songLookup = new Map();
-
-  for (const [artistName, artistObj] of Object.entries(catalog.artists || {})) {
-    const songs = artistObj.songs || {};
-    for (const [skey, songObj] of Object.entries(songs)) {
-      const k0 = String(skey).toLowerCase().trim();
-      if (!songLookup.has(k0)) songLookup.set(k0, songObj);
-
-      // Also add a normalized-artist version of the key
-      const parsed = parseCatalogSongKey(skey);
-      if (parsed) {
-        const normArtist = normalizeArtistName(parsed.artistPart);
-        const k1 = `${normArtist} - ${parsed.titlePart}`.toLowerCase().trim();
-        if (!songLookup.has(k1)) songLookup.set(k1, songObj);
-      }
-    }
-  }
-
-  // Load chart week JSON
-  const chart = weekToLoad ? await loadJSON(`data/${weekToLoad}.json`) : await loadJSON("data/latest.json");
-
-  document.getElementById("chartTitle").textContent = chart.chartName || "Hot 100";
-  document.getElementById("weekLabel").textContent = `Week of ${chart.week}`;
-  document.getElementById("footInfo").textContent = `Showing ${chart.entries.length} entries • Archive: ${weeks.length} week(s)`;
-
-  const list = document.getElementById("chart");
-
-  // Render rows (each row has a collapsible expand section)
-  list.innerHTML = chart.entries
-    .map((e) => {
-      const mv = moveLabel(e.movement);
-
-      const displayArtist = normalizeArtistName(e.artist);
-      const artistKey = artistAlias.get(displayArtist) || e.artist;
-
-      const cover = e.cover ? escapeHtml(e.cover) : PLACEHOLDER;
-      const skey = songKey(e.title, e.artist); // normalizes artist internally
-      const ariaId = `exp_${e.rank}`;
-
-      const lw = displayLastWeek(e);
-
-      return `
-        <li class="row" data-songkey="${escapeHtml(skey)}" data-rank="${escapeHtml(e.rank)}"
-            data-artistkey="${escapeHtml(String(artistKey))}"
-            data-displayartist="${escapeHtml(String(displayArtist))}">
-          <div class="rowTop" tabindex="0" role="button" aria-expanded="false" aria-controls="${ariaId}">
-            <div class="rankbox">
-              <div class="rank">${escapeHtml(e.rank)}</div>
-              <div class="move ${mv.cls}">${escapeHtml(mv.text)}</div>
-            </div>
-
-            <div class="songRow">
-              <img class="cover"
-                   src="${cover}"
-                   alt=""
-                   loading="lazy"
-                   onerror="this.onerror=null;this.src='covers/_placeholder.png';" />
-              <div class="song">
-                <div class="titleline">${escapeHtml(e.title)}</div>
-                <div class="artist">
-                  <a href="${artistUrl(artistKey)}" onclick="event.stopPropagation()">${escapeHtml(displayArtist)}</a>
-                </div>
-              </div>
-            </div>
-
-            <div class="stats3">
-              <span>LW <b>${escapeHtml(fmtRankOrDash(lw))}</b></span>
-              <span>Peak <b>${escapeHtml(fmtRankOrDash(e.peak))}</b></span>
-              <span>Weeks <b>${escapeHtml(fmtRankOrDash(e.weeks))}</b></span>
-            </div>
-          </div>
-
-          <div class="expand" id="${ariaId}"></div>
-        </li>
-      `;
-    })
-    .join("");
-
-  // Backup fallback handler (inline onerror is the main fix)
-  attachImgFallback(list);
-
-  // click-to-expand logic (build expand content on demand)
-  function toggleRow(row) {
-    const top = row.querySelector(".rowTop");
-    const exp = row.querySelector(".expand");
-    if (!top || !exp) return;
-
-    const isOpen = row.classList.contains("open");
-    // close
-    if (isOpen) {
-      row.classList.remove("open");
-      top.setAttribute("aria-expanded", "false");
-      exp.innerHTML = "";
-      return;
-    }
-
-    // open (close others for a clean “accordion” feel)
-    document.querySelectorAll(".row.open").forEach((other) => {
-      if (other === row) return;
-      const otherTop = other.querySelector(".rowTop");
-      const otherExp = other.querySelector(".expand");
-      other.classList.remove("open");
-      if (otherTop) otherTop.setAttribute("aria-expanded", "false");
-      if (otherExp) otherExp.innerHTML = "";
-    });
-
-    row.classList.add("open");
-    top.setAttribute("aria-expanded", "true");
-
-    const skey = (row.getAttribute("data-songkey") || "").toLowerCase().trim();
-    const rank = Number(row.getAttribute("data-rank") || "0");
-
-    const entry = chart.entries.find((x) => Number(x.rank) === rank);
-    if (!entry) {
-      exp.innerHTML = `<div class="expandInner">Could not find entry.</div>`;
-      return;
-    }
-
-    const catalogSong = songLookup.get(skey) || null;
-
-    // enrich with week + normalized artist + canonical artist key for links
-    const displayArtist = row.getAttribute("data-displayartist") || normalizeArtistName(entry.artist);
-    const artistKey = row.getAttribute("data-artistkey") || entry.artist;
-
-    const entryWithWeek = {
-      ...entry,
-      _week: chart.week,
-      _displayArtist: displayArtist,
-      _artistKey: artistKey,
-    };
-
-    exp.innerHTML = buildExpandHtml(entryWithWeek, catalogSong);
-  }
-
-  list.querySelectorAll(".row").forEach((row) => {
-    const top = row.querySelector(".rowTop");
-    if (!top) return;
-
-    top.addEventListener("click", () => toggleRow(row));
-
-    top.addEventListener("keydown", (e) => {
-      if (e.key === "Enter" || e.key === " ") {
-        e.preventDefault();
-        toggleRow(row);
-      }
+  document.querySelectorAll(".chart-row").forEach(row => {
+    row.addEventListener("click", () => {
+      row.classList.toggle("open");
     });
   });
 }
 
-main().catch((err) => {
-  console.error(err);
-  alert(err.message);
-});
+init();
