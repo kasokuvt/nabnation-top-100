@@ -573,3 +573,20 @@ body{
     text-align: center !important;
   }
 }
+.awardLine{
+  margin-top: 6px;
+  font-size: 12px;
+  line-height: 1.2;
+  letter-spacing: .02em;
+}
+
+.awardText{
+  font-weight: 750;
+}
+
+/* Distinct colors */
+.awardJump{ color: #7CFFB2; }     /* green */
+.awardFall{ color: #FF7C7C; }     /* red */
+.awardDebut{ color: #7CC7FF; }    /* blue */
+.awardReentry{ color: #D7B7FF; }  /* purple */
+.awardSitter{ color: #6bd4b9; }   /* your divider teal */
