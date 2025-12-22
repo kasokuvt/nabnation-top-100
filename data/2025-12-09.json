@@ -1,7 +1,7 @@
 {
   "chartName": "Nabnation Top 100",
   "week": "2025-12-09",
-  "generatedAt": "2025-12-22T03:15:03.792706Z",
+  "generatedAt": "2025-12-22T04:50:14.640756Z",
   "entries": [
     {
       "rank": 1,
@@ -118,8 +118,8 @@
         "value": 4
       },
       "lastWeek": 4,
-      "peak": 3,
-      "weeks": 15,
+      "peak": 4,
+      "weeks": 11,
       "points": 103.5,
       "listeners": 10
     },
@@ -164,7 +164,7 @@
       },
       "lastWeek": 29,
       "peak": 2,
-      "weeks": 10,
+      "weeks": 8,
       "points": 77.5,
       "listeners": 15
     },
@@ -179,7 +179,7 @@
       },
       "lastWeek": 12,
       "peak": 2,
-      "weeks": 12,
+      "weeks": 11,
       "points": 70.0,
       "listeners": 14
     },
@@ -254,7 +254,7 @@
       },
       "lastWeek": null,
       "peak": 1,
-      "weeks": 12,
+      "weeks": 11,
       "points": 59.0,
       "listeners": 11
     },
@@ -299,7 +299,7 @@
       },
       "lastWeek": 90,
       "peak": 1,
-      "weeks": 9,
+      "weeks": 7,
       "points": 57.0,
       "listeners": 9
     },
@@ -313,8 +313,8 @@
         "value": 5
       },
       "lastWeek": 26,
-      "peak": 6,
-      "weeks": 5,
+      "peak": 21,
+      "weeks": 4,
       "points": 55.0,
       "listeners": 7
     },
@@ -344,7 +344,7 @@
       },
       "lastWeek": 10,
       "peak": 2,
-      "weeks": 14,
+      "weeks": 11,
       "points": 53.0,
       "listeners": 13
     },
@@ -479,7 +479,7 @@
       },
       "lastWeek": null,
       "peak": 12,
-      "weeks": 8,
+      "weeks": 7,
       "points": 46.5,
       "listeners": 7
     },
@@ -667,7 +667,7 @@
       "rank": 45,
       "title": "Basketball Shoes",
       "artist": "Live from the Queen Elizabeth Hall - Black Country, New Road",
-      "cover": "covers/_placeholder.png",
+      "cover": "covers/live_from_the_queen_elizabeth_hall_black_country_new_road__basketball_shoes.jpg",
       "movement": {
         "type": "new",
         "value": null
@@ -809,7 +809,7 @@
       },
       "lastWeek": null,
       "peak": 2,
-      "weeks": 7,
+      "weeks": 6,
       "points": 40.0,
       "listeners": 7
     },
@@ -884,7 +884,7 @@
       },
       "lastWeek": 59,
       "peak": 10,
-      "weeks": 8,
+      "weeks": 7,
       "points": 39.0,
       "listeners": 9
     },
@@ -982,7 +982,7 @@
       "rank": 66,
       "title": "Open Your Heart",
       "artist": "Main Theme of ”Sonic Adventure” - - Crush 40",
-      "cover": "covers/_placeholder.png",
+      "cover": "covers/main_theme_of_sonic_adventure_crush_40__open_your_heart.jpg",
       "movement": {
         "type": "new",
         "value": null
@@ -1034,7 +1034,7 @@
       },
       "lastWeek": 36,
       "peak": 8,
-      "weeks": 7,
+      "weeks": 6,
       "points": 37.0,
       "listeners": 11
     },
@@ -1049,7 +1049,7 @@
       },
       "lastWeek": 44,
       "peak": 4,
-      "weeks": 10,
+      "weeks": 9,
       "points": 37.0,
       "listeners": 9
     },
@@ -1108,8 +1108,8 @@
         "value": null
       },
       "lastWeek": null,
-      "peak": 39,
-      "weeks": 3,
+      "peak": 47,
+      "weeks": 2,
       "points": 37.0,
       "listeners": 6
     },
@@ -1184,7 +1184,7 @@
       },
       "lastWeek": 23,
       "peak": 1,
-      "weeks": 13,
+      "weeks": 10,
       "points": 36.5,
       "listeners": 3
     },
@@ -1348,8 +1348,8 @@
         "value": null
       },
       "lastWeek": null,
-      "peak": 18,
-      "weeks": 2,
+      "peak": 90,
+      "weeks": 1,
       "points": 35.5,
       "listeners": 3
     },
@@ -1424,7 +1424,7 @@
       },
       "lastWeek": 51,
       "peak": 10,
-      "weeks": 9,
+      "weeks": 6,
       "points": 34.5,
       "listeners": 6
     },

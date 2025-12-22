@@ -1,6 +1,7 @@
 {
-  "chartName": "Kasoku Hot 100",
+  "chartName": "Nabnation Top 100",
   "week": "2025-12-21",
+  "generatedAt": "2025-12-22T04:50:14.653777Z",
   "entries": [
     {
       "rank": 1,
@@ -8,10 +9,10 @@
       "artist": "Jane Remover",
       "cover": "covers/jane_remover__music_baby.png",
       "movement": {
-        "type": "new",
-        "value": null
+        "type": "up",
+        "value": 2
       },
-      "lastWeek": null,
+      "lastWeek": 3,
       "peak": 1,
       "weeks": 3,
       "points": 156.5,
@@ -23,10 +24,10 @@
       "artist": "Jane Remover",
       "cover": "covers/jane_remover__so_what.png",
       "movement": {
-        "type": "new",
-        "value": null
+        "type": "down",
+        "value": 1
       },
-      "lastWeek": null,
+      "lastWeek": 1,
       "peak": 1,
       "weeks": 3,
       "points": 145.0,
@@ -38,10 +39,10 @@
       "artist": "ILLIT",
       "cover": "covers/illit__not_cute_anymore.png",
       "movement": {
-        "type": "new",
-        "value": null
+        "type": "up",
+        "value": 46
       },
-      "lastWeek": null,
+      "lastWeek": 49,
       "peak": 3,
       "weeks": 4,
       "points": 105.0,
@@ -53,10 +54,10 @@
       "artist": "Jane Remover",
       "cover": "covers/jane_remover__magic_i_want_u.png",
       "movement": {
-        "type": "new",
-        "value": null
+        "type": "down",
+        "value": 2
       },
-      "lastWeek": null,
+      "lastWeek": 2,
       "peak": 2,
       "weeks": 8,
       "points": 99.5,
@@ -68,7 +69,7 @@
       "artist": "And One",
       "cover": "covers/and_one__driving_with_my_darling.png",
       "movement": {
-        "type": "new",
+        "type": "re",
         "value": null
       },
       "lastWeek": null,
@@ -83,10 +84,10 @@
       "artist": "Jane Remover",
       "cover": "covers/jane_remover__how_to_teleport.png",
       "movement": {
-        "type": "new",
-        "value": null
+        "type": "down",
+        "value": 1
       },
-      "lastWeek": null,
+      "lastWeek": 5,
       "peak": 4,
       "weeks": 7,
       "points": 85.5,
@@ -113,10 +114,10 @@
       "artist": "Cameron Winter",
       "cover": "covers/cameron_winter__love_takes_miles.png",
       "movement": {
-        "type": "new",
-        "value": null
+        "type": "up",
+        "value": 69
       },
-      "lastWeek": null,
+      "lastWeek": 77,
       "peak": 8,
       "weeks": 5,
       "points": 80.5,
@@ -128,10 +129,10 @@
       "artist": "underscores",
       "cover": "covers/underscores__do_it.png",
       "movement": {
-        "type": "new",
-        "value": null
+        "type": "up",
+        "value": 31
       },
-      "lastWeek": null,
+      "lastWeek": 40,
       "peak": 1,
       "weeks": 7,
       "points": 74.0,
@@ -143,10 +144,10 @@
       "artist": "Jane Remover",
       "cover": "covers/jane_remover__flash_in_the_pan.png",
       "movement": {
-        "type": "new",
-        "value": null
+        "type": "down",
+        "value": 1
       },
-      "lastWeek": null,
+      "lastWeek": 9,
       "peak": 5,
       "weeks": 6,
       "points": 73.5,
@@ -158,10 +159,10 @@
       "artist": "Jane Remover",
       "cover": "covers/jane_remover__dream_sequence.png",
       "movement": {
-        "type": "new",
-        "value": null
+        "type": "up",
+        "value": 7
       },
-      "lastWeek": null,
+      "lastWeek": 18,
       "peak": 6,
       "weeks": 4,
       "points": 70.5,
@@ -173,10 +174,10 @@
       "artist": "femtanyl",
       "cover": "covers/femtanyl__body_the_pistol.png",
       "movement": {
-        "type": "new",
-        "value": null
+        "type": "down",
+        "value": 8
       },
-      "lastWeek": null,
+      "lastWeek": 4,
       "peak": 4,
       "weeks": 3,
       "points": 68.0,
@@ -188,12 +189,12 @@
       "artist": "EsDeeKid",
       "cover": "covers/esdeekid__lv_sandals.png",
       "movement": {
-        "type": "new",
-        "value": null
+        "type": "up",
+        "value": 24
       },
-      "lastWeek": null,
+      "lastWeek": 37,
       "peak": 13,
-      "weeks": 7,
+      "weeks": 6,
       "points": 67.0,
       "listeners": 9
     },
@@ -203,12 +204,12 @@
       "artist": "Lucy Bedroque",
       "cover": "covers/lucy_bedroque__2010_justin_bieber.png",
       "movement": {
-        "type": "new",
-        "value": null
+        "type": "up",
+        "value": 9
       },
-      "lastWeek": null,
+      "lastWeek": 23,
       "peak": 8,
-      "weeks": 7,
+      "weeks": 6,
       "points": 66.0,
       "listeners": 14
     },
@@ -218,7 +219,7 @@
       "artist": "Lil Uzi Vert",
       "cover": "covers/lil_uzi_vert__20_min.png",
       "movement": {
-        "type": "new",
+        "type": "re",
         "value": null
       },
       "lastWeek": null,
@@ -233,7 +234,7 @@
       "artist": "Arctic Monkeys",
       "cover": "covers/arctic_monkeys__505.png",
       "movement": {
-        "type": "new",
+        "type": "re",
         "value": null
       },
       "lastWeek": null,
@@ -248,10 +249,10 @@
       "artist": "Jane Remover",
       "cover": "covers/jane_remover__dancing_with_your_eyes_closed.png",
       "movement": {
-        "type": "new",
-        "value": null
+        "type": "up",
+        "value": 16
       },
-      "lastWeek": null,
+      "lastWeek": 33,
       "peak": 2,
       "weeks": 9,
       "points": 64.0,
@@ -263,10 +264,10 @@
       "artist": "PinkPantheress",
       "cover": "covers/pinkpantheress__stateside_zara_larsson.jpg",
       "movement": {
-        "type": "new",
-        "value": null
+        "type": "up",
+        "value": 7
       },
-      "lastWeek": null,
+      "lastWeek": 25,
       "peak": 18,
       "weeks": 2,
       "points": 63.5,
@@ -278,7 +279,7 @@
       "artist": "Jane Remover",
       "cover": "covers/jane_remover__professional_vengeance.png",
       "movement": {
-        "type": "new",
+        "type": "re",
         "value": null
       },
       "lastWeek": null,
@@ -293,7 +294,7 @@
       "artist": "HAZBIN HOTEL",
       "cover": "covers/hazbin_hotel__love_in_a_bottle.png",
       "movement": {
-        "type": "new",
+        "type": "re",
         "value": null
       },
       "lastWeek": null,
@@ -308,12 +309,12 @@
       "artist": "Jane Remover",
       "cover": "covers/jane_remover__dreamflasher.png",
       "movement": {
-        "type": "new",
+        "type": "re",
         "value": null
       },
       "lastWeek": null,
       "peak": 2,
-      "weeks": 12,
+      "weeks": 11,
       "points": 61.0,
       "listeners": 13
     },
@@ -323,12 +324,12 @@
       "artist": "Bladee",
       "cover": "covers/bladee__be_nice_2_me.png",
       "movement": {
-        "type": "new",
-        "value": null
+        "type": "up",
+        "value": 14
       },
-      "lastWeek": null,
+      "lastWeek": 36,
       "peak": 7,
-      "weeks": 9,
+      "weeks": 8,
       "points": 59.5,
       "listeners": 13
     },
@@ -338,12 +339,12 @@
       "artist": "Kenshi Yonezu",
       "cover": "covers/kenshi_yonezu__iris_out.png",
       "movement": {
-        "type": "new",
-        "value": null
+        "type": "down",
+        "value": 16
       },
-      "lastWeek": null,
-      "peak": 3,
-      "weeks": 15,
+      "lastWeek": 7,
+      "peak": 4,
+      "weeks": 11,
       "points": 59.5,
       "listeners": 9
     },
@@ -353,12 +354,12 @@
       "artist": "Geese",
       "cover": "covers/geese__au_pays_du_cocaine.png",
       "movement": {
-        "type": "new",
-        "value": null
+        "type": "up",
+        "value": 31
       },
-      "lastWeek": null,
+      "lastWeek": 55,
       "peak": 1,
-      "weeks": 12,
+      "weeks": 9,
       "points": 59.0,
       "listeners": 9
     },
@@ -383,12 +384,12 @@
       "artist": "Tame Impala",
       "cover": "covers/tame_impala__dracula.png",
       "movement": {
-        "type": "new",
-        "value": null
+        "type": "up",
+        "value": 45
       },
-      "lastWeek": null,
+      "lastWeek": 71,
       "peak": 1,
-      "weeks": 13,
+      "weeks": 10,
       "points": 58.0,
       "listeners": 5
     },
@@ -398,10 +399,10 @@
       "artist": "Playboi Carti",
       "cover": "covers/playboi_carti__evil_j0rdan.png",
       "movement": {
-        "type": "new",
-        "value": null
+        "type": "up",
+        "value": 11
       },
-      "lastWeek": null,
+      "lastWeek": 38,
       "peak": 27,
       "weeks": 2,
       "points": 57.0,
@@ -413,7 +414,7 @@
       "artist": "Cameron Winter",
       "cover": "covers/cameron_winter__drinking_age.png",
       "movement": {
-        "type": "new",
+        "type": "re",
         "value": null
       },
       "lastWeek": null,
@@ -428,10 +429,10 @@
       "artist": "Death Grips",
       "cover": "covers/death_grips__ive_seen_footage.png",
       "movement": {
-        "type": "new",
-        "value": null
+        "type": "stay",
+        "value": 0
       },
-      "lastWeek": null,
+      "lastWeek": 29,
       "peak": 13,
       "weeks": 6,
       "points": 52.5,
@@ -443,10 +444,10 @@
       "artist": "Jane Remover",
       "cover": "covers/jane_remover__psychoboost.jpg",
       "movement": {
-        "type": "new",
-        "value": null
+        "type": "down",
+        "value": 17
       },
-      "lastWeek": null,
+      "lastWeek": 13,
       "peak": 13,
       "weeks": 7,
       "points": 51.5,
@@ -458,12 +459,12 @@
       "artist": "Lucy Bedroque",
       "cover": "covers/lucy_bedroque__how_to_pretend.png",
       "movement": {
-        "type": "new",
-        "value": null
+        "type": "down",
+        "value": 5
       },
-      "lastWeek": null,
+      "lastWeek": 26,
       "peak": 12,
-      "weeks": 8,
+      "weeks": 7,
       "points": 51.5,
       "listeners": 9
     },
@@ -488,7 +489,7 @@
       "artist": "Bladee",
       "cover": "covers/bladee__reality_surf.png",
       "movement": {
-        "type": "new",
+        "type": "re",
         "value": null
       },
       "lastWeek": null,
@@ -503,10 +504,10 @@
       "artist": "Jane Remover",
       "cover": "covers/jane_remover__census_designated.png",
       "movement": {
-        "type": "new",
-        "value": null
+        "type": "up",
+        "value": 48
       },
-      "lastWeek": null,
+      "lastWeek": 82,
       "peak": 34,
       "weeks": 2,
       "points": 49.5,
@@ -518,7 +519,7 @@
       "artist": "Lil Baby",
       "cover": "covers/lil_baby__lets_do_it_feat_playboi_carti_skooly.jpg",
       "movement": {
-        "type": "new",
+        "type": "re",
         "value": null
       },
       "lastWeek": null,
@@ -533,7 +534,7 @@
       "artist": "Zara Larsson",
       "cover": "covers/zara_larsson__midnight_sun.png",
       "movement": {
-        "type": "new",
+        "type": "re",
         "value": null
       },
       "lastWeek": null,
@@ -563,12 +564,12 @@
       "artist": "LE SSERAFIM",
       "cover": "covers/le_sserafim__spaghetti.png",
       "movement": {
-        "type": "new",
+        "type": "re",
         "value": null
       },
       "lastWeek": null,
-      "peak": 6,
-      "weeks": 5,
+      "peak": 21,
+      "weeks": 4,
       "points": 48.0,
       "listeners": 9
     },
@@ -578,12 +579,12 @@
       "artist": "Flavor Foley",
       "cover": "covers/flavor_foley__spoken_for.png",
       "movement": {
-        "type": "new",
-        "value": null
+        "type": "down",
+        "value": 25
       },
-      "lastWeek": null,
+      "lastWeek": 14,
       "peak": 4,
-      "weeks": 11,
+      "weeks": 9,
       "points": 48.0,
       "listeners": 8
     },
@@ -608,10 +609,10 @@
       "artist": "Jamie Paige",
       "cover": "covers/jamie_paige__machine_love.png",
       "movement": {
-        "type": "new",
-        "value": null
+        "type": "down",
+        "value": 21
       },
-      "lastWeek": null,
+      "lastWeek": 20,
       "peak": 9,
       "weeks": 12,
       "points": 47.0,
@@ -621,7 +622,7 @@
       "rank": 42,
       "title": "モニタリング",
       "artist": "DECO*27",
-      "cover": "covers/deco_27__.png",
+      "cover": "covers/deco27__モニタリング.jpg",
       "movement": {
         "type": "new",
         "value": null
@@ -638,10 +639,10 @@
       "artist": "100 gecs",
       "cover": "covers/100_gecs__dumbest_girl_alive.png",
       "movement": {
-        "type": "new",
-        "value": null
+        "type": "down",
+        "value": 28
       },
-      "lastWeek": null,
+      "lastWeek": 15,
       "peak": 15,
       "weeks": 2,
       "points": 46.0,
@@ -698,12 +699,12 @@
       "artist": "NEEDY GIRL OVERDOSE",
       "cover": "covers/needy_girl_overdose__cubibibibism.jpg",
       "movement": {
-        "type": "new",
+        "type": "re",
         "value": null
       },
       "lastWeek": null,
-      "peak": 39,
-      "weeks": 3,
+      "peak": 47,
+      "weeks": 2,
       "points": 44.5,
       "listeners": 4
     },
@@ -728,7 +729,7 @@
       "artist": "femtanyl",
       "cover": "covers/femtanyl__attacking_vertical.png",
       "movement": {
-        "type": "new",
+        "type": "re",
         "value": null
       },
       "lastWeek": null,
@@ -743,12 +744,12 @@
       "artist": "bôa",
       "cover": "covers/bôa__duvet.png",
       "movement": {
-        "type": "new",
+        "type": "re",
         "value": null
       },
       "lastWeek": null,
-      "peak": 11,
-      "weeks": 9,
+      "peak": 17,
+      "weeks": 8,
       "points": 43.5,
       "listeners": 9
     },
@@ -773,10 +774,10 @@
       "artist": "bleood",
       "cover": "covers/bleood__charlie_murder.png",
       "movement": {
-        "type": "new",
-        "value": null
+        "type": "up",
+        "value": 44
       },
-      "lastWeek": null,
+      "lastWeek": 96,
       "peak": 52,
       "weeks": 2,
       "points": 43.5,
@@ -788,10 +789,10 @@
       "artist": "Glass Beach",
       "cover": "covers/glass_beach__cold_weather.png",
       "movement": {
-        "type": "new",
-        "value": null
+        "type": "up",
+        "value": 1
       },
-      "lastWeek": null,
+      "lastWeek": 54,
       "peak": 53,
       "weeks": 3,
       "points": 43.0,
@@ -818,7 +819,7 @@
       "artist": "Tyler, The Creator",
       "cover": "covers/tyler_the_creator__ill_take_care_of_you_feat_yebba.jpg",
       "movement": {
-        "type": "new",
+        "type": "re",
         "value": null
       },
       "lastWeek": null,
@@ -833,7 +834,7 @@
       "artist": "Tyler, The Creator",
       "cover": "covers/tyler_the_creator__sucka_free.png",
       "movement": {
-        "type": "new",
+        "type": "re",
         "value": null
       },
       "lastWeek": null,
@@ -893,12 +894,12 @@
       "artist": "EsDeeKid",
       "cover": "covers/esdeekid__4_raws.png",
       "movement": {
-        "type": "new",
-        "value": null
+        "type": "down",
+        "value": 41
       },
-      "lastWeek": null,
+      "lastWeek": 19,
       "peak": 2,
-      "weeks": 10,
+      "weeks": 8,
       "points": 41.0,
       "listeners": 8
     },
@@ -923,10 +924,10 @@
       "artist": "Laufey",
       "cover": "covers/laufey__lover_girl.png",
       "movement": {
-        "type": "new",
-        "value": null
+        "type": "down",
+        "value": 46
       },
-      "lastWeek": null,
+      "lastWeek": 16,
       "peak": 11,
       "weeks": 8,
       "points": 41.0,
@@ -938,10 +939,10 @@
       "artist": "Clipse",
       "cover": "covers/clipse__mtbttf.jpg",
       "movement": {
-        "type": "new",
-        "value": null
+        "type": "down",
+        "value": 5
       },
-      "lastWeek": null,
+      "lastWeek": 58,
       "peak": 53,
       "weeks": 6,
       "points": 41.0,
@@ -1013,7 +1014,7 @@
       "artist": "Cameron Winter",
       "cover": "covers/cameron_winter__nausicaä_love_will_be_revealed.png",
       "movement": {
-        "type": "new",
+        "type": "re",
         "value": null
       },
       "lastWeek": null,
@@ -1028,7 +1029,7 @@
       "artist": "Jane Remover",
       "cover": "covers/jane_remover__turn_up_or_die.png",
       "movement": {
-        "type": "new",
+        "type": "re",
         "value": null
       },
       "lastWeek": null,
@@ -1043,10 +1044,10 @@
       "artist": "Lucy Bedroque",
       "cover": "covers/lucy_bedroque__g6_anthem.png",
       "movement": {
-        "type": "new",
-        "value": null
+        "type": "down",
+        "value": 5
       },
-      "lastWeek": null,
+      "lastWeek": 65,
       "peak": 45,
       "weeks": 4,
       "points": 39.0,
@@ -1058,7 +1059,7 @@
       "artist": "Alex G",
       "cover": "covers/alex_g__forever.png",
       "movement": {
-        "type": "new",
+        "type": "re",
         "value": null
       },
       "lastWeek": null,
@@ -1073,12 +1074,12 @@
       "artist": "OsamaSon",
       "cover": "covers/osamason__habits.png",
       "movement": {
-        "type": "new",
+        "type": "re",
         "value": null
       },
       "lastWeek": null,
-      "peak": 14,
-      "weeks": 6,
+      "peak": 18,
+      "weeks": 5,
       "points": 38.5,
       "listeners": 7
     },
@@ -1086,7 +1087,7 @@
       "rank": 73,
       "title": "Ni**as in Paris",
       "artist": "JAY-Z",
-      "cover": "covers/jay_z__ni_as_in_paris.png",
+      "cover": "covers/jay_z__nias_in_paris.jpg",
       "movement": {
         "type": "new",
         "value": null
@@ -1118,7 +1119,7 @@
       "artist": "Tyler, The Creator",
       "cover": "covers/tyler_the_creator__big_poe_feat_sk8brd.png",
       "movement": {
-        "type": "new",
+        "type": "re",
         "value": null
       },
       "lastWeek": null,
@@ -1133,10 +1134,10 @@
       "artist": "Laufey",
       "cover": "covers/laufey__from_the_start.png",
       "movement": {
-        "type": "new",
-        "value": null
+        "type": "down",
+        "value": 46
       },
-      "lastWeek": null,
+      "lastWeek": 30,
       "peak": 20,
       "weeks": 5,
       "points": 38.0,
@@ -1163,10 +1164,10 @@
       "artist": "Wham!",
       "cover": "covers/wham__last_christmas.png",
       "movement": {
-        "type": "new",
-        "value": null
+        "type": "down",
+        "value": 54
       },
-      "lastWeek": null,
+      "lastWeek": 24,
       "peak": 18,
       "weeks": 5,
       "points": 38.0,
@@ -1176,7 +1177,7 @@
       "rank": 79,
       "title": "IT'S TIME",
       "artist": "femtanyl",
-      "cover": "covers/femtanyl__it_s_time.png",
+      "cover": "covers/femtanyl__its_time.jpg",
       "movement": {
         "type": "new",
         "value": null
@@ -1208,7 +1209,7 @@
       "artist": "Lil Uzi Vert",
       "cover": "covers/lil_uzi_vert__relevant.png",
       "movement": {
-        "type": "new",
+        "type": "re",
         "value": null
       },
       "lastWeek": null,
@@ -1223,7 +1224,7 @@
       "artist": "Bershy",
       "cover": "covers/bershy__radio.png",
       "movement": {
-        "type": "new",
+        "type": "re",
         "value": null
       },
       "lastWeek": null,
@@ -1253,7 +1254,7 @@
       "artist": "Clipse",
       "cover": "covers/clipse__the_birds_dont_sing.png",
       "movement": {
-        "type": "new",
+        "type": "re",
         "value": null
       },
       "lastWeek": null,
@@ -1268,7 +1269,7 @@
       "artist": "Jane Remover",
       "cover": "covers/jane_remover__jrjrjr.png",
       "movement": {
-        "type": "new",
+        "type": "re",
         "value": null
       },
       "lastWeek": null,
@@ -1313,12 +1314,12 @@
       "artist": "EsDeeKid",
       "cover": "covers/esdeekid__phantom.png",
       "movement": {
-        "type": "new",
-        "value": null
+        "type": "up",
+        "value": 3
       },
-      "lastWeek": null,
-      "peak": 36,
-      "weeks": 3,
+      "lastWeek": 91,
+      "peak": 88,
+      "weeks": 2,
       "points": 36.5,
       "listeners": 7
     },
@@ -1328,10 +1329,10 @@
       "artist": "Malcolm Todd",
       "cover": "covers/malcolm_todd__earrings.jpg",
       "movement": {
-        "type": "new",
-        "value": null
+        "type": "down",
+        "value": 10
       },
-      "lastWeek": null,
+      "lastWeek": 79,
       "peak": 33,
       "weeks": 3,
       "points": 36.5,
@@ -1343,10 +1344,10 @@
       "artist": "Addison Rae",
       "cover": "covers/addison_rae__fame_is_a_gun.png",
       "movement": {
-        "type": "new",
-        "value": null
+        "type": "down",
+        "value": 31
       },
-      "lastWeek": null,
+      "lastWeek": 59,
       "peak": 33,
       "weeks": 3,
       "points": 36.5,
@@ -1358,10 +1359,10 @@
       "artist": "femtanyl",
       "cover": "covers/femtanyl__dinner.png",
       "movement": {
-        "type": "new",
-        "value": null
+        "type": "down",
+        "value": 79
       },
-      "lastWeek": null,
+      "lastWeek": 12,
       "peak": 12,
       "weeks": 3,
       "points": 36.5,
@@ -1373,10 +1374,10 @@
       "artist": "XG",
       "cover": "covers/xg__gala.png",
       "movement": {
-        "type": "new",
-        "value": null
+        "type": "down",
+        "value": 50
       },
-      "lastWeek": null,
+      "lastWeek": 42,
       "peak": 42,
       "weeks": 2,
       "points": 36.5,
@@ -1388,10 +1389,10 @@
       "artist": "EsDeeKid",
       "cover": "covers/esdeekid__cali_man.png",
       "movement": {
-        "type": "new",
-        "value": null
+        "type": "down",
+        "value": 83
       },
-      "lastWeek": null,
+      "lastWeek": 10,
       "peak": 10,
       "weeks": 6,
       "points": 36.0,
@@ -1403,7 +1404,7 @@
       "artist": "Kanye West",
       "cover": "covers/kanye_west__champion.png",
       "movement": {
-        "type": "new",
+        "type": "re",
         "value": null
       },
       "lastWeek": null,
@@ -1433,7 +1434,7 @@
       "artist": "Death Grips",
       "cover": "covers/death_grips__hacker.png",
       "movement": {
-        "type": "new",
+        "type": "re",
         "value": null
       },
       "lastWeek": null,
@@ -1463,7 +1464,7 @@
       "artist": "Daft Punk",
       "cover": "covers/daft_punk__digital_love.png",
       "movement": {
-        "type": "new",
+        "type": "re",
         "value": null
       },
       "lastWeek": null,
@@ -1478,7 +1479,7 @@
       "artist": "venturing",
       "cover": "covers/venturing__play_my_guitar.png",
       "movement": {
-        "type": "new",
+        "type": "re",
         "value": null
       },
       "lastWeek": null,
@@ -1493,7 +1494,7 @@
       "artist": "Jamie Paige",
       "cover": "covers/jamie_paige__i_wish_that_i_could_fall.png",
       "movement": {
-        "type": "new",
+        "type": "re",
         "value": null
       },
       "lastWeek": null,

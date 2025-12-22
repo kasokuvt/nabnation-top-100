@@ -1,7 +1,7 @@
 {
   "chartName": "Nabnation Top 100",
   "week": "2025-12-02",
-  "generatedAt": "2025-12-22T03:15:03.783253Z",
+  "generatedAt": "2025-12-22T04:50:14.630721Z",
   "entries": [
     {
       "rank": 1,
@@ -58,8 +58,8 @@
         "value": 9
       },
       "lastWeek": 13,
-      "peak": 3,
-      "weeks": 15,
+      "peak": 4,
+      "weeks": 11,
       "points": 83.5,
       "listeners": 12
     },
@@ -89,7 +89,7 @@
       },
       "lastWeek": 11,
       "peak": 1,
-      "weeks": 7,
+      "weeks": 5,
       "points": 79.5,
       "listeners": 8
     },
@@ -104,7 +104,7 @@
       },
       "lastWeek": 14,
       "peak": 7,
-      "weeks": 9,
+      "weeks": 8,
       "points": 73.5,
       "listeners": 14
     },
@@ -149,7 +149,7 @@
       },
       "lastWeek": 28,
       "peak": 2,
-      "weeks": 14,
+      "weeks": 11,
       "points": 67.5,
       "listeners": 9
     },
@@ -164,7 +164,7 @@
       },
       "lastWeek": null,
       "peak": 3,
-      "weeks": 9,
+      "weeks": 7,
       "points": 67.0,
       "listeners": 8
     },
@@ -179,7 +179,7 @@
       },
       "lastWeek": 6,
       "peak": 2,
-      "weeks": 12,
+      "weeks": 11,
       "points": 65.0,
       "listeners": 10
     },
@@ -209,7 +209,7 @@
       },
       "lastWeek": 62,
       "peak": 14,
-      "weeks": 6,
+      "weeks": 5,
       "points": 58.5,
       "listeners": 6
     },
@@ -224,7 +224,7 @@
       },
       "lastWeek": 73,
       "peak": 1,
-      "weeks": 12,
+      "weeks": 9,
       "points": 58.5,
       "listeners": 5
     },
@@ -313,8 +313,8 @@
         "value": null
       },
       "lastWeek": null,
-      "peak": 16,
-      "weeks": 7,
+      "peak": 21,
+      "weeks": 5,
       "points": 55.0,
       "listeners": 7
     },
@@ -344,7 +344,7 @@
       },
       "lastWeek": 96,
       "peak": 1,
-      "weeks": 13,
+      "weeks": 10,
       "points": 53.5,
       "listeners": 8
     },
@@ -352,7 +352,7 @@
       "rank": 24,
       "title": "Big Guy",
       "artist": "from \"The SpongeBob Movie: Search for SquarePants” - Ice Spice",
-      "cover": "covers/_placeholder.png",
+      "cover": "covers/from_the_spongebob_movie_search_for_squarepants_ice_spice__big_guy.jpg",
       "movement": {
         "type": "new",
         "value": null
@@ -388,8 +388,8 @@
         "value": null
       },
       "lastWeek": null,
-      "peak": 6,
-      "weeks": 5,
+      "peak": 21,
+      "weeks": 4,
       "points": 51.5,
       "listeners": 9
     },
@@ -434,7 +434,7 @@
       },
       "lastWeek": 7,
       "peak": 2,
-      "weeks": 10,
+      "weeks": 8,
       "points": 50.5,
       "listeners": 9
     },
@@ -539,7 +539,7 @@
       },
       "lastWeek": null,
       "peak": 8,
-      "weeks": 7,
+      "weeks": 6,
       "points": 48.5,
       "listeners": 10
     },
@@ -659,7 +659,7 @@
       },
       "lastWeek": 30,
       "peak": 4,
-      "weeks": 10,
+      "weeks": 9,
       "points": 47.0,
       "listeners": 9
     },
@@ -674,7 +674,7 @@
       },
       "lastWeek": null,
       "peak": 17,
-      "weeks": 5,
+      "weeks": 4,
       "points": 47.0,
       "listeners": 6
     },
@@ -734,7 +734,7 @@
       },
       "lastWeek": 23,
       "peak": 13,
-      "weeks": 7,
+      "weeks": 6,
       "points": 45.5,
       "listeners": 6
     },
@@ -764,7 +764,7 @@
       },
       "lastWeek": null,
       "peak": 10,
-      "weeks": 9,
+      "weeks": 6,
       "points": 44.0,
       "listeners": 5
     },
@@ -809,7 +809,7 @@
       },
       "lastWeek": 1,
       "peak": 1,
-      "weeks": 6,
+      "weeks": 5,
       "points": 43.5,
       "listeners": 5
     },
@@ -839,7 +839,7 @@
       },
       "lastWeek": null,
       "peak": 8,
-      "weeks": 10,
+      "weeks": 9,
       "points": 42.5,
       "listeners": 9
     },
@@ -884,7 +884,7 @@
       },
       "lastWeek": 68,
       "peak": 10,
-      "weeks": 8,
+      "weeks": 7,
       "points": 42.5,
       "listeners": 5
     },
@@ -973,8 +973,8 @@
         "value": 24
       },
       "lastWeek": 41,
-      "peak": 12,
-      "weeks": 3,
+      "peak": 41,
+      "weeks": 2,
       "points": 42.0,
       "listeners": 6
     },
@@ -1258,8 +1258,8 @@
         "value": null
       },
       "lastWeek": null,
-      "peak": 12,
-      "weeks": 8,
+      "peak": 32,
+      "weeks": 6,
       "points": 38.5,
       "listeners": 3
     },
@@ -1289,7 +1289,7 @@
       },
       "lastWeek": null,
       "peak": 15,
-      "weeks": 8,
+      "weeks": 7,
       "points": 38.0,
       "listeners": 6
     },
@@ -1349,7 +1349,7 @@
       },
       "lastWeek": 31,
       "peak": 1,
-      "weeks": 9,
+      "weeks": 7,
       "points": 37.0,
       "listeners": 6
     },

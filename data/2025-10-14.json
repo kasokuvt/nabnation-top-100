@@ -1,12 +1,12 @@
 {
   "chartName": "Nabnation Top 100",
   "week": "2025-10-14",
-  "generatedAt": "2025-12-22T03:15:03.712983Z",
+  "generatedAt": "2025-12-22T04:50:14.564537Z",
   "entries": [
     {
       "rank": 1,
       "title": "Dread Architect",
-      "artist": "Machine Girl",
+      "artist": "Machine Girl (95.5 pts)",
       "cover": "covers/_placeholder.png",
       "movement": {
         "type": "new",
@@ -14,89 +14,59 @@
       },
       "lastWeek": null,
       "peak": 1,
-      "weeks": 2,
+      "weeks": 1,
       "points": null,
       "listeners": null
     },
     {
       "rank": 2,
       "title": "BIRDBRAIN",
-      "artist": "Jamie Paige",
+      "artist": "Jamie Paige (86.5 pts)",
       "cover": "covers/_placeholder.png",
-      "movement": {
-        "type": "new",
-        "value": null
-      },
-      "lastWeek": null,
-      "peak": 1,
-      "weeks": 12,
-      "points": null,
-      "listeners": null
-    },
-    {
-      "rank": 3,
-      "title": "I WANT THINGS TO BE BEAUTIFUL",
-      "artist": "Devi McCallion",
-      "cover": "covers/devi_mccallion_780_pts__i_want_things_to_be_beautiful.jpg",
       "movement": {
         "type": "new",
         "value": null
       },
       "lastWeek": null,
       "peak": 2,
-      "weeks": 14,
+      "weeks": 1,
       "points": null,
       "listeners": null
     },
     {
-      "rank": 4,
-      "title": "Au Pays du Cocaine",
-      "artist": "Geese",
-      "cover": "covers/geese_720_pts__au_pays_du_cocaine.png",
-      "movement": {
-        "type": "new",
-        "value": null
-      },
-      "lastWeek": null,
-      "peak": 1,
-      "weeks": 12,
-      "points": null,
-      "listeners": null
-    },
-    {
-      "rank": 5,
-      "title": "Inferno",
-      "artist": "Bladee",
-      "cover": "covers/_placeholder.png",
+      "rank": 3,
+      "title": "I WANT THINGS TO BE BEAUTIFUL",
+      "artist": "Devi McCallion (78.0 pts)",
+      "cover": "covers/devi_mccallion_780_pts__i_want_things_to_be_beautiful.jpg",
       "movement": {
         "type": "new",
         "value": null
       },
       "lastWeek": null,
       "peak": 3,
-      "weeks": 4,
+      "weeks": 1,
       "points": null,
       "listeners": null
     },
     {
-      "rank": 6,
-      "title": "Inferno",
-      "artist": "OsamaSon",
-      "cover": "covers/_placeholder.png",
+      "rank": 4,
+      "title": "Au Pays du Cocaine",
+      "artist": "Geese (72.0 pts)",
+      "cover": "covers/geese_720_pts__au_pays_du_cocaine.png",
       "movement": {
         "type": "new",
         "value": null
       },
       "lastWeek": null,
-      "peak": 6,
-      "weeks": 3,
+      "peak": 4,
+      "weeks": 1,
       "points": null,
       "listeners": null
     },
     {
-      "rank": 7,
-      "title": "Twilight",
-      "artist": "bôa",
+      "rank": 5,
+      "title": "Inferno",
+      "artist": "Bladee (71.5 pts)",
       "cover": "covers/_placeholder.png",
       "movement": {
         "type": "new",
@@ -104,29 +74,59 @@
       },
       "lastWeek": null,
       "peak": 5,
-      "weeks": 4,
+      "weeks": 1,
+      "points": null,
+      "listeners": null
+    },
+    {
+      "rank": 6,
+      "title": "Inferno",
+      "artist": "OsamaSon (69.5 pts)",
+      "cover": "covers/_placeholder.png",
+      "movement": {
+        "type": "new",
+        "value": null
+      },
+      "lastWeek": null,
+      "peak": 6,
+      "weeks": 1,
+      "points": null,
+      "listeners": null
+    },
+    {
+      "rank": 7,
+      "title": "Twilight",
+      "artist": "bôa (63.5 pts)",
+      "cover": "covers/_placeholder.png",
+      "movement": {
+        "type": "new",
+        "value": null
+      },
+      "lastWeek": null,
+      "peak": 7,
+      "weeks": 1,
       "points": null,
       "listeners": null
     },
     {
       "rank": 8,
       "title": "Dracula",
-      "artist": "Tame Impala",
+      "artist": "Tame Impala (60.0 pts)",
       "cover": "covers/tame_impala_600_pts__dracula.jpg",
       "movement": {
         "type": "new",
         "value": null
       },
       "lastWeek": null,
-      "peak": 1,
-      "weeks": 13,
+      "peak": 8,
+      "weeks": 1,
       "points": null,
       "listeners": null
     },
     {
       "rank": 9,
       "title": "Fmj",
-      "artist": "OsamaSon",
+      "artist": "OsamaSon (59.5 pts)",
       "cover": "covers/_placeholder.png",
       "movement": {
         "type": "new",
@@ -141,7 +141,7 @@
     {
       "rank": 10,
       "title": "Sleeping Powder",
-      "artist": "Gorillaz",
+      "artist": "Gorillaz (59.0 pts)",
       "cover": "covers/_placeholder.png",
       "movement": {
         "type": "new",
@@ -156,7 +156,7 @@
     {
       "rank": 11,
       "title": "Duvet",
-      "artist": "bôa",
+      "artist": "bôa (58.5 pts)",
       "cover": "covers/_placeholder.png",
       "movement": {
         "type": "new",
@@ -164,14 +164,14 @@
       },
       "lastWeek": null,
       "peak": 11,
-      "weeks": 9,
+      "weeks": 1,
       "points": null,
       "listeners": null
     },
     {
       "rank": 12,
       "title": "weathergirl",
-      "artist": "Flavor Foley",
+      "artist": "Flavor Foley (58.0 pts)",
       "cover": "covers/_placeholder.png",
       "movement": {
         "type": "new",
@@ -179,29 +179,29 @@
       },
       "lastWeek": null,
       "peak": 12,
-      "weeks": 8,
+      "weeks": 1,
       "points": null,
       "listeners": null
     },
     {
       "rank": 13,
       "title": "SUGAR ON MY TONGUE",
-      "artist": "Tyler, The Creator",
+      "artist": "Tyler, The Creator (54.5 pts)",
       "cover": "covers/tyler_the_creator_545_pts__sugar_on_my_tongue.png",
       "movement": {
         "type": "new",
         "value": null
       },
       "lastWeek": null,
-      "peak": 3,
-      "weeks": 9,
+      "peak": 13,
+      "weeks": 1,
       "points": null,
       "listeners": null
     },
     {
       "rank": 14,
       "title": "Habits",
-      "artist": "OsamaSon",
+      "artist": "OsamaSon (53.0 pts)",
       "cover": "covers/_placeholder.png",
       "movement": {
         "type": "new",
@@ -209,59 +209,59 @@
       },
       "lastWeek": null,
       "peak": 14,
-      "weeks": 6,
+      "weeks": 1,
       "points": null,
       "listeners": null
     },
     {
       "rank": 15,
       "title": "Ring Ring Ring",
-      "artist": "Tyler, The Creator",
+      "artist": "Tyler, The Creator (53.0 pts)",
       "cover": "covers/tyler_the_creator_530_pts__ring_ring_ring.png",
       "movement": {
         "type": "new",
         "value": null
       },
       "lastWeek": null,
-      "peak": 8,
-      "weeks": 10,
+      "peak": 15,
+      "weeks": 1,
       "points": null,
       "listeners": null
     },
     {
       "rank": 16,
       "title": "Golden",
-      "artist": "HUNTR/X",
+      "artist": "HUNTR/X (50.5 pts)",
       "cover": "covers/huntrx_505_pts__golden.jpg",
       "movement": {
         "type": "new",
         "value": null
       },
       "lastWeek": null,
-      "peak": 14,
-      "weeks": 6,
+      "peak": 16,
+      "weeks": 1,
       "points": null,
       "listeners": null
     },
     {
       "rank": 17,
       "title": "IRIS OUT",
-      "artist": "Kenshi Yonezu",
+      "artist": "Kenshi Yonezu (50.0 pts)",
       "cover": "covers/kenshi_yonezu_500_pts__iris_out.png",
       "movement": {
         "type": "new",
         "value": null
       },
       "lastWeek": null,
-      "peak": 3,
-      "weeks": 15,
+      "peak": 17,
+      "weeks": 1,
       "points": null,
       "listeners": null
     },
     {
       "rank": 18,
       "title": "Devil Trigger",
-      "artist": "Casey Edwards",
+      "artist": "Casey Edwards (50.0 pts)",
       "cover": "covers/casey_edwards_500_pts__devil_trigger.png",
       "movement": {
         "type": "new",
@@ -269,14 +269,14 @@
       },
       "lastWeek": null,
       "peak": 18,
-      "weeks": 2,
+      "weeks": 1,
       "points": null,
       "listeners": null
     },
     {
       "rank": 19,
       "title": "Blues",
-      "artist": "Geordie Greep",
+      "artist": "Geordie Greep (49.5 pts)",
       "cover": "covers/_placeholder.png",
       "movement": {
         "type": "new",
@@ -284,14 +284,14 @@
       },
       "lastWeek": null,
       "peak": 19,
-      "weeks": 3,
+      "weeks": 1,
       "points": null,
       "listeners": null
     },
     {
       "rank": 20,
       "title": "As Alive As You Need Me To Be",
-      "artist": "Nine Inch Nails",
+      "artist": "Nine Inch Nails (49.0 pts)",
       "cover": "covers/nine_inch_nails_490_pts__as_alive_as_you_need_me_to_be.png",
       "movement": {
         "type": "new",
@@ -299,29 +299,29 @@
       },
       "lastWeek": null,
       "peak": 20,
-      "weeks": 3,
+      "weeks": 1,
       "points": null,
       "listeners": null
     },
     {
       "rank": 21,
       "title": "Menlo Park",
-      "artist": "Ayesha Erotica",
+      "artist": "Ayesha Erotica (49.0 pts)",
       "cover": "covers/ayesha_erotica_490_pts__menlo_park.png",
       "movement": {
         "type": "new",
         "value": null
       },
       "lastWeek": null,
-      "peak": 2,
-      "weeks": 7,
+      "peak": 21,
+      "weeks": 1,
       "points": null,
       "listeners": null
     },
     {
       "rank": 22,
       "title": "DARE (feat. Shaun Ryder & Roses Gabor)",
-      "artist": "Gorillaz",
+      "artist": "Gorillaz (48.5 pts)",
       "cover": "covers/gorillaz_485_pts__dare_feat_shaun_ryder_roses_gabor.jpg",
       "movement": {
         "type": "new",
@@ -329,29 +329,29 @@
       },
       "lastWeek": null,
       "peak": 22,
-      "weeks": 3,
+      "weeks": 1,
       "points": null,
       "listeners": null
     },
     {
       "rank": 23,
       "title": "1539 N. Calvert",
-      "artist": "JPEGMAFIA",
+      "artist": "JPEGMAFIA (48.0 pts)",
       "cover": "covers/jpegmafia_480_pts__1539_n_calvert.png",
       "movement": {
         "type": "new",
         "value": null
       },
       "lastWeek": null,
-      "peak": 17,
-      "weeks": 3,
+      "peak": 23,
+      "weeks": 1,
       "points": null,
       "listeners": null
     },
     {
       "rank": 24,
       "title": "Wall",
-      "artist": "Good Kid",
+      "artist": "Good Kid (46.5 pts)",
       "cover": "covers/good_kid_465_pts__wall.jpg",
       "movement": {
         "type": "new",
@@ -366,7 +366,7 @@
     {
       "rank": 25,
       "title": "The Diary of Jane",
-      "artist": "Single Version - Breaking Benjamin",
+      "artist": "Single Version - Breaking Benjamin (45.0 pts)",
       "cover": "covers/single_version_breaking_benjamin_450_pts__the_diary_of_jane.png",
       "movement": {
         "type": "new",
@@ -381,7 +381,7 @@
     {
       "rank": 26,
       "title": "ASHEVILLE",
-      "artist": "glaive",
+      "artist": "glaive (45.0 pts)",
       "cover": "covers/_placeholder.png",
       "movement": {
         "type": "new",
@@ -389,14 +389,14 @@
       },
       "lastWeek": null,
       "peak": 26,
-      "weeks": 5,
+      "weeks": 1,
       "points": null,
       "listeners": null
     },
     {
       "rank": 27,
       "title": "P.O.V.",
-      "artist": "Clipse",
+      "artist": "Clipse (45.0 pts)",
       "cover": "covers/_placeholder.png",
       "movement": {
         "type": "new",
@@ -404,14 +404,14 @@
       },
       "lastWeek": null,
       "peak": 27,
-      "weeks": 2,
+      "weeks": 1,
       "points": null,
       "listeners": null
     },
     {
       "rank": 28,
       "title": "Forty Six & 2",
-      "artist": "Tool",
+      "artist": "Tool (45.0 pts)",
       "cover": "covers/tool_450_pts__forty_six_2.jpg",
       "movement": {
         "type": "new",
@@ -426,7 +426,7 @@
     {
       "rank": 29,
       "title": "untitled 05 | 09.21.2014.",
-      "artist": "Kendrick Lamar",
+      "artist": "Kendrick Lamar (44.5 pts)",
       "cover": "covers/_placeholder.png",
       "movement": {
         "type": "new",
@@ -441,7 +441,7 @@
     {
       "rank": 30,
       "title": "Face to Face",
-      "artist": "Daft Punk",
+      "artist": "Daft Punk (44.0 pts)",
       "cover": "covers/daft_punk_440_pts__face_to_face.png",
       "movement": {
         "type": "new",
@@ -449,14 +449,14 @@
       },
       "lastWeek": null,
       "peak": 30,
-      "weeks": 2,
+      "weeks": 1,
       "points": null,
       "listeners": null
     },
     {
       "rank": 31,
       "title": "function",
-      "artist": "OsamaSon",
+      "artist": "OsamaSon (44.0 pts)",
       "cover": "covers/_placeholder.png",
       "movement": {
         "type": "new",
@@ -464,14 +464,14 @@
       },
       "lastWeek": null,
       "peak": 31,
-      "weeks": 3,
+      "weeks": 1,
       "points": null,
       "listeners": null
     },
     {
       "rank": 32,
       "title": "Dead!",
-      "artist": "My Chemical Romance",
+      "artist": "My Chemical Romance (43.5 pts)",
       "cover": "covers/my_chemical_romance_435_pts__dead.png",
       "movement": {
         "type": "new",
@@ -479,29 +479,29 @@
       },
       "lastWeek": null,
       "peak": 32,
-      "weeks": 2,
+      "weeks": 1,
       "points": null,
       "listeners": null
     },
     {
       "rank": 33,
       "title": "Taxes",
-      "artist": "Geese",
+      "artist": "Geese (43.5 pts)",
       "cover": "covers/_placeholder.png",
       "movement": {
         "type": "new",
         "value": null
       },
       "lastWeek": null,
-      "peak": 10,
-      "weeks": 9,
+      "peak": 33,
+      "weeks": 1,
       "points": null,
       "listeners": null
     },
     {
       "rank": 34,
       "title": "Weird Fishes / Arpeggi",
-      "artist": "Radiohead",
+      "artist": "Radiohead (42.5 pts)",
       "cover": "covers/radiohead_425_pts__weird_fishes_arpeggi.png",
       "movement": {
         "type": "new",
@@ -516,7 +516,7 @@
     {
       "rank": 35,
       "title": "Wet",
-      "artist": "Dazey and the Scouts",
+      "artist": "Dazey and the Scouts (42.5 pts)",
       "cover": "covers/_placeholder.png",
       "movement": {
         "type": "new",
@@ -524,29 +524,29 @@
       },
       "lastWeek": null,
       "peak": 35,
-      "weeks": 2,
+      "weeks": 1,
       "points": null,
       "listeners": null
     },
     {
       "rank": 36,
       "title": "Gabriela",
-      "artist": "KATSEYE",
+      "artist": "KATSEYE (42.5 pts)",
       "cover": "covers/katseye_425_pts__gabriela.png",
       "movement": {
         "type": "new",
         "value": null
       },
       "lastWeek": null,
-      "peak": 1,
-      "weeks": 9,
+      "peak": 36,
+      "weeks": 1,
       "points": null,
       "listeners": null
     },
     {
       "rank": 37,
       "title": "Maag Dump",
-      "artist": "OsamaSon",
+      "artist": "OsamaSon (42.5 pts)",
       "cover": "covers/_placeholder.png",
       "movement": {
         "type": "new",
@@ -561,7 +561,7 @@
     {
       "rank": 38,
       "title": "Heartbeat",
-      "artist": "Childish Gambino",
+      "artist": "Childish Gambino (42.0 pts)",
       "cover": "covers/childish_gambino_420_pts__heartbeat.jpg",
       "movement": {
         "type": "new",
@@ -569,29 +569,29 @@
       },
       "lastWeek": null,
       "peak": 38,
-      "weeks": 2,
+      "weeks": 1,
       "points": null,
       "listeners": null
     },
     {
       "rank": 39,
       "title": "Music and Me",
-      "artist": "fakemink",
+      "artist": "fakemink (41.5 pts)",
       "cover": "covers/_placeholder.png",
       "movement": {
         "type": "new",
         "value": null
       },
       "lastWeek": null,
-      "peak": 16,
-      "weeks": 6,
+      "peak": 39,
+      "weeks": 1,
       "points": null,
       "listeners": null
     },
     {
       "rank": 40,
       "title": "Something About Us",
-      "artist": "Daft Punk",
+      "artist": "Daft Punk (40.5 pts)",
       "cover": "covers/daft_punk_405_pts__something_about_us.png",
       "movement": {
         "type": "new",
@@ -599,7 +599,7 @@
       },
       "lastWeek": null,
       "peak": 40,
-      "weeks": 2,
+      "weeks": 1,
       "points": null,
       "listeners": null
     },
@@ -614,7 +614,7 @@
       },
       "lastWeek": 32,
       "peak": 1,
-      "weeks": 8,
+      "weeks": 6,
       "points": 42.5,
       "listeners": 3
     },
@@ -703,8 +703,8 @@
         "value": 12
       },
       "lastWeek": 35,
-      "peak": 26,
-      "weeks": 5,
+      "peak": 35,
+      "weeks": 4,
       "points": 41.0,
       "listeners": 4
     },
@@ -793,8 +793,8 @@
         "value": null
       },
       "lastWeek": null,
-      "peak": 40,
-      "weeks": 2,
+      "peak": 53,
+      "weeks": 1,
       "points": 38.5,
       "listeners": 5
     },
@@ -809,7 +809,7 @@
       },
       "lastWeek": 52,
       "peak": 8,
-      "weeks": 10,
+      "weeks": 9,
       "points": 38.5,
       "listeners": 5
     },
@@ -824,7 +824,7 @@
       },
       "lastWeek": null,
       "peak": 9,
-      "weeks": 3,
+      "weeks": 2,
       "points": 38.5,
       "listeners": 3
     },
@@ -884,7 +884,7 @@
       },
       "lastWeek": 55,
       "peak": 15,
-      "weeks": 8,
+      "weeks": 7,
       "points": 37.5,
       "listeners": 6
     },
@@ -944,7 +944,7 @@
       },
       "lastWeek": null,
       "peak": 1,
-      "weeks": 9,
+      "weeks": 7,
       "points": 37.0,
       "listeners": 6
     },
@@ -974,7 +974,7 @@
       },
       "lastWeek": 25,
       "peak": 3,
-      "weeks": 9,
+      "weeks": 7,
       "points": 36.5,
       "listeners": 8
     },
@@ -989,7 +989,7 @@
       },
       "lastWeek": 3,
       "peak": 2,
-      "weeks": 7,
+      "weeks": 6,
       "points": 36.5,
       "listeners": 3
     },
@@ -1048,8 +1048,8 @@
         "value": null
       },
       "lastWeek": null,
-      "peak": 12,
-      "weeks": 8,
+      "peak": 32,
+      "weeks": 6,
       "points": 34.5,
       "listeners": 6
     },
@@ -1228,8 +1228,8 @@
         "value": null
       },
       "lastWeek": null,
-      "peak": 7,
-      "weeks": 3,
+      "peak": 28,
+      "weeks": 2,
       "points": 32.0,
       "listeners": 5
     },
@@ -1259,7 +1259,7 @@
       },
       "lastWeek": 10,
       "peak": 10,
-      "weeks": 9,
+      "weeks": 6,
       "points": 31.5,
       "listeners": 3
     },
@@ -1379,7 +1379,7 @@
       },
       "lastWeek": 69,
       "peak": 16,
-      "weeks": 6,
+      "weeks": 4,
       "points": 30.0,
       "listeners": 5
     },
@@ -1423,8 +1423,8 @@
         "value": null
       },
       "lastWeek": null,
-      "peak": 30,
-      "weeks": 2,
+      "peak": 95,
+      "weeks": 1,
       "points": 30.0,
       "listeners": 4
     },
@@ -1468,8 +1468,8 @@
         "value": null
       },
       "lastWeek": null,
-      "peak": 25,
-      "weeks": 3,
+      "peak": 83,
+      "weeks": 2,
       "points": 29.5,
       "listeners": 6
     },
