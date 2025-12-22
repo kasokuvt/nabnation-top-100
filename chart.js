@@ -1,519 +1,848 @@
-/* =========================
-   Nabnation Top 100 — chart.js
-   Fixes:
-   - song/artist to the RIGHT of cover (matches styles.css: .songRow/.song/.titleline/.artist)
-   - stats are "as-of" selected week (not today)
-   - re-entry LW shows — (not previous position)
-   - artist name junk removed (pts/listeners/*)
-   - placeholder cover fallback works on GitHub Pages
-   - awards inline under artist
-   - click row to expand/collapse (history)
-========================= */
+/* chart.js — Nabnation Top 100
+   - Renders weekly chart rows
+   - Computes LW / Peak / Weeks "as-of selected week"
+   - Fixes RE entry LW display
+   - Adds weekly awards as colored text under artist
+   - Cleans bad artist strings that contain points/listeners
+   - Robust cover placeholder fallback (GitHub Pages underscore-safe)
+*/
 
-const COVER_FALLBACKS = [
-  "./covers/_placeholder.png",
-  "./covers/placeholder.png",
-  "./assets/icon.webp",
-];
+(() => {
+  "use strict";
 
-const DATA = {
-  manifest: "./data/manifest.json",
-  latest: "./data/latest.json",
-  catalog: "./data/catalog.json",
-  weekFile: (week) => `./data/${week}.json`,
-};
+  // -----------------------
+  // Config
+  // -----------------------
+  const DATA_DIR = "data";
+  const MANIFEST_URLS = [`${DATA_DIR}/manifest.json`, "manifest.json"];
+  const LATEST_URLS = [`${DATA_DIR}/latest.json`, "latest.json"];
 
-/* -------------------------
-   Utilities
-------------------------- */
-function qs(name) {
-  return new URLSearchParams(location.search).get(name);
-}
+  const WEEK_FILE = (week) => `${DATA_DIR}/${week}.json`;
 
-function setQueryParam(key, value) {
-  const u = new URL(location.href);
-  if (value == null || value === "") u.searchParams.delete(key);
-  else u.searchParams.set(key, value);
-  location.href = u.toString();
-}
+  // Placeholder handling:
+  // 1) Try non-underscore placeholder first (works on GitHub Pages without .nojekyll)
+  // 2) Try underscore placeholder (works if you add .nojekyll OR if your host allows it)
+  // 3) Inline SVG fallback (always works)
+  const PLACEHOLDER_CANDIDATES = [
+    "covers/placeholder.png",
+    "covers/_placeholder.png",
+    "assets/placeholder.png",
+  ];
 
-function escapeHtml(str = "") {
-  return String(str)
-    .replaceAll("&", "&amp;")
-    .replaceAll("<", "&lt;")
-    .replaceAll(">", "&gt;")
-    .replaceAll('"', "&quot;")
-    .replaceAll("'", "&#039;");
-}
+  const INLINE_PLACEHOLDER_SVG =
+    "data:image/svg+xml;charset=utf-8," +
+    encodeURIComponent(`
+      <svg xmlns="http://www.w3.org/2000/svg" width="96" height="96">
+        <defs>
+          <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+            <stop offset="0" stop-color="#0b0b0f"/>
+            <stop offset="1" stop-color="#1a1a24"/>
+          </linearGradient>
+        </defs>
+        <rect width="100%" height="100%" rx="18" ry="18" fill="url(#g)"/>
+        <path d="M20 64l14-18 12 14 10-12 20 24H20z" fill="rgba(255,255,255,0.12)"/>
+        <circle cx="36" cy="34" r="6" fill="rgba(255,255,255,0.14)"/>
+        <text x="50%" y="82%" text-anchor="middle"
+              font-family="system-ui, -apple-system, Segoe UI, Roboto, Arial"
+              font-size="10" fill="rgba(255,255,255,0.30)">no cover</text>
+      </svg>
+    `);
 
-function cleanArtistName(name = "") {
-  return String(name)
-    .replace(/\([^)]*?\bpts\b[^)]*?\)/gi, "")
-    .replace(/\([^)]*?\blisteners?\b[^)]*?\)/gi, "")
-    .replace(/\*+/g, "")
-    .replace(/\s{2,}/g, " ")
-    .trim();
-}
-
-function cleanTitleName(name = "") {
-  return String(name).replace(/\s{2,}/g, " ").trim();
-}
-
-function songKey(title, artist) {
-  return `${cleanArtistName(artist)} - ${cleanTitleName(title)}`.toLowerCase().trim();
-}
-
-async function loadJSON(path) {
-  const res = await fetch(path, { cache: "no-store" });
-  if (!res.ok) throw new Error(`Failed to load ${path} (${res.status})`);
-  return await res.json();
-}
-
-/* -------------------------
-   Cover fallback (global onerror)
-------------------------- */
-window.__coverFallback = function (imgEl) {
-  try {
-    const list = (imgEl.dataset.fallbacks || "").split("|").filter(Boolean);
-    const idx = Number(imgEl.dataset.fallbackIndex || "0");
-    const nextIdx = idx + 1;
-    if (nextIdx >= list.length) return;
-    imgEl.dataset.fallbackIndex = String(nextIdx);
-    imgEl.src = list[nextIdx];
-  } catch {
-    // ignore
-  }
-};
-
-function coverImgHtml(src) {
-  const fallbacks = [src, ...COVER_FALLBACKS].filter(Boolean).join("|");
-  const first = src || COVER_FALLBACKS[0];
-  return `
-    <img
-      class="cover"
-      src="${escapeHtml(first)}"
-      data-fallbacks="${escapeHtml(fallbacks)}"
-      data-fallback-index="0"
-      onerror="window.__coverFallback(this)"
-      loading="lazy"
-      alt=""
-    />
-  `;
-}
-
-/* -------------------------
-   Movement badge (uses your CSS: .move.up/.down/.new/.re)
-------------------------- */
-function moveLabel(m) {
-  if (!m) return { text: "—", cls: "" };
-  if (m.type === "up") return { text: `▲ ${m.value}`, cls: "up" };
-  if (m.type === "down") return { text: `▼ ${m.value}`, cls: "down" };
-  if (m.type === "new") return { text: "NEW", cls: "new" };
-  if (m.type === "re") return { text: "RE", cls: "re" };
-  return { text: "—", cls: "" };
-}
-
-/* -------------------------
-   Catalog lookup + "as-of-week" stats
-------------------------- */
-function buildSongLookup(catalog) {
-  const lookup = new Map();
-  for (const [, artistObj] of Object.entries(catalog.artists || {})) {
-    const songs = artistObj.songs || {};
-    for (const [k, v] of Object.entries(songs)) {
-      lookup.set(k.toLowerCase().trim(), v);
-    }
-  }
-  return lookup;
-}
-
-function statsAsOfWeek(songObj, currentWeek) {
-  const hist = Array.isArray(songObj?.history) ? songObj.history : [];
-  const filtered = hist
-    .filter(h => h && typeof h.week === "string" && h.week <= currentWeek && typeof h.rank === "number")
-    .sort((a, b) => a.week.localeCompare(b.week));
-
-  if (!filtered.length) return null;
-
-  let peak = Infinity;
-  for (const h of filtered) peak = Math.min(peak, h.rank);
-
-  return {
-    debut: filtered[0].week,
-    peak: Number.isFinite(peak) ? peak : filtered[filtered.length - 1].rank,
-    weeks: filtered.length,
-    filteredHistory: filtered,
+  // Awards colors
+  const AWARD_STYLES = {
+    biggestJump: { label: "Biggest Jump", color: "#7CFFB2" },
+    biggestFall: { label: "Biggest Fall", color: "#FF7C7C" },
+    hotShotDebut: { label: "Hot Shot Debut", color: "#7CC7FF" },
+    hotShotReentry: { label: "Hot Shot Re-Entry", color: "#D7B7FF" },
+    longestSitter: { label: "Longest Chart Sitter", color: "#F7D36A" },
   };
-}
 
-function lastWeekRankAsOf(songObj, currentWeek) {
-  const hist = Array.isArray(songObj?.history) ? songObj.history : [];
-  const prev = hist
-    .filter(h => h && typeof h.week === "string" && h.week < currentWeek && typeof h.rank === "number")
-    .sort((a, b) => b.week.localeCompare(a.week))[0];
-  return prev ? prev.rank : null;
-}
+  // -----------------------
+  // DOM helpers
+  // -----------------------
+  const $ = (sel, root = document) => root.querySelector(sel);
+  const el = (tag, props = {}, children = []) => {
+    const n = document.createElement(tag);
+    Object.assign(n, props);
+    for (const c of children) n.appendChild(typeof c === "string" ? document.createTextNode(c) : c);
+    return n;
+  };
 
-/* -------------------------
-   Awards (inline under artist)
-------------------------- */
-function computeAwards(entries, statsByKey) {
-  let biggestJump = null;   // { key, val }
-  let biggestFall = null;   // { key, val }
-  let hotShotDebut = null;  // { key, rank }
-  let hotShotRe = null;     // { key, rank }
-  let longest = null;       // { key, weeks }
+  const setText = (node, text) => {
+    if (!node) return;
+    node.textContent = text;
+  };
 
-  for (const e of entries) {
-    const key = e.__key;
-    const m = e.movement || null;
+  // -----------------------
+  // URL helpers
+  // -----------------------
+  const getParam = (key) => new URLSearchParams(location.search).get(key);
+  const setParam = (key, value, { replace = true } = {}) => {
+    const url = new URL(location.href);
+    if (value == null || value === "") url.searchParams.delete(key);
+    else url.searchParams.set(key, value);
+    if (replace) history.replaceState({}, "", url.toString());
+    else history.pushState({}, "", url.toString());
+  };
 
-    if (m?.type === "up" && typeof m.value === "number") {
-      if (!biggestJump || m.value > biggestJump.val) biggestJump = { key, val: m.value };
+  // -----------------------
+  // Normalization / cleaning
+  // -----------------------
+  const normalizeSpace = (s) => String(s ?? "")
+    .replace(/\s+/g, " ")
+    .trim();
+
+  // Remove trailing junk like: "fakemink (60.0 pts) (6 listeners)* (new release)"
+  // but keep normal artist names intact as much as possible.
+  const cleanArtist = (raw) => {
+    let s = normalizeSpace(raw);
+
+    // Remove trailing "*" markers
+    s = s.replace(/\*+$/g, "").trim();
+
+    // Remove any trailing parentheses that include pts/listeners/new release-ish tags
+    // Repeat because some strings have multiple parentheses at the end.
+    while (/\)\s*$/.test(s)) {
+      const m = s.match(/\s*\(([^()]*)\)\s*$/);
+      if (!m) break;
+      const inside = m[1].toLowerCase();
+      const looksLikeJunk =
+        inside.includes("pts") ||
+        inside.includes("point") ||
+        inside.includes("listener") ||
+        inside.includes("scrobble") ||
+        inside.includes("new release") ||
+        inside.includes("re-release") ||
+        inside.includes("re release") ||
+        inside.includes("new") && inside.includes("release");
+
+      if (!looksLikeJunk) break;
+      s = s.slice(0, m.index).trim();
     }
-    if (m?.type === "down" && typeof m.value === "number") {
-      if (!biggestFall || m.value > biggestFall.val) biggestFall = { key, val: m.value };
-    }
 
-    if (m?.type === "new") {
-      if (!hotShotDebut || e.rank < hotShotDebut.rank) hotShotDebut = { key, rank: e.rank };
-    }
-    if (m?.type === "re") {
-      if (!hotShotRe || e.rank < hotShotRe.rank) hotShotRe = { key, rank: e.rank };
-    }
+    // Remove any remaining "(xx pts)" or "(xx listeners)" anywhere at end
+    s = s
+      .replace(/\s*\(\s*\d+(\.\d+)?\s*pts?\s*\)\s*$/i, "")
+      .replace(/\s*\(\s*\d+\s*listeners?\s*\)\s*$/i, "")
+      .trim();
 
-    const s = statsByKey.get(key);
-    const w = s?.weeks ?? e.weeks ?? 1;
-    if (!longest || w > longest.weeks) longest = { key, weeks: w };
+    return s;
+  };
+
+  const cleanTitle = (raw) => normalizeSpace(raw);
+
+  const songKey = (artist, title) => {
+    const a = cleanArtist(artist).toLowerCase();
+    const t = cleanTitle(title).toLowerCase();
+    return `${a} — ${t}`;
+  };
+
+  // -----------------------
+  // Fetch with fallbacks + caching
+  // -----------------------
+  const fetchJSONCache = new Map();
+
+  async function fetchJSON(url) {
+    if (fetchJSONCache.has(url)) return fetchJSONCache.get(url);
+
+    const p = (async () => {
+      const res = await fetch(url, { cache: "no-store" });
+      if (!res.ok) throw new Error(`Failed to fetch ${url}: ${res.status}`);
+      return await res.json();
+    })();
+
+    fetchJSONCache.set(url, p);
+    return p;
   }
 
-  return { biggestJump, biggestFall, hotShotDebut, hotShotRe, longest };
-}
-
-function awardHtmlForEntry(entry, awards) {
-  const key = entry.__key;
-  const lines = [];
-
-  const teal = "#6bd4b9";
-  const green = "#7CFFB2";
-  const red = "#FF7C7C";
-  const blue = "#7CC7FF";
-  const purple = "#D7B7FF";
-
-  if (awards.biggestJump?.key === key)
-    lines.push(`<span style="color:${green};font-weight:700;">Biggest Jump (+${awards.biggestJump.val})</span>`);
-  if (awards.biggestFall?.key === key)
-    lines.push(`<span style="color:${red};font-weight:700;">Biggest Fall (-${awards.biggestFall.val})</span>`);
-  if (awards.hotShotDebut?.key === key)
-    lines.push(`<span style="color:${blue};font-weight:700;">Hot Shot Debut</span>`);
-  if (awards.hotShotRe?.key === key)
-    lines.push(`<span style="color:${purple};font-weight:700;">Hot Shot Re-Entry</span>`);
-  if (awards.longest?.key === key)
-    lines.push(`<span style="color:${teal};font-weight:700;">Longest Chart Sitter</span>`);
-
-  if (!lines.length) return "";
-  return `<div class="awards" style="margin-top:6px;font-size:12px;line-height:1.15;">${lines.join("<br>")}</div>`;
-}
-
-/* -------------------------
-   Expand panel (styled by your CSS: .expandInner/.expandTitle/.expandSub/.pills/.expandLinks/.history/.historyRow)
-------------------------- */
-function weekUrl(week) {
-  return `/?week=${encodeURIComponent(week)}`;
-}
-function artistUrl(artistName) {
-  return `/artist.html?artist=${encodeURIComponent(artistName)}`;
-}
-
-function buildHistoryHtml(songObj) {
-  const hist = Array.isArray(songObj?.history) ? songObj.history : [];
-  const rows = hist
-    .filter(h => h && typeof h.week === "string" && typeof h.rank === "number")
-    .sort((a, b) => b.week.localeCompare(a.week))
-    .map(h => `
-      <div class="historyRow">
-        <span><a href="${weekUrl(h.week)}" onclick="event.stopPropagation()">${escapeHtml(h.week)}</a></span>
-        <span>Rank <b>#${escapeHtml(h.rank)}</b></span>
-      </div>
-    `)
-    .join("");
-
-  return `<div class="history">${rows || `<div class="mutedSmall">No history found.</div>`}</div>`;
-}
-
-function buildExpandHtml(entry, displayArtist, week, stats, lwForDisplay, songObj) {
-  const t = escapeHtml(entry.title);
-  const a = escapeHtml(displayArtist);
-  const peak = stats?.peak ?? entry.peak ?? entry.rank;
-  const weeks = stats?.weeks ?? entry.weeks ?? 1;
-
-  return `
-    <div class="expand">
-      <div class="expandInner">
-        <div class="expandTop">
-          <div>
-            <div class="expandTitle">${t}</div>
-            <div class="expandSub">
-              <a class="artistLink" href="${artistUrl(displayArtist)}" onclick="event.stopPropagation()">${a}</a>
-            </div>
-          </div>
-
-          <div class="pills">
-            <span>LW <b>${escapeHtml(lwForDisplay)}</b></span>
-            <span>Peak <b>${escapeHtml(peak)}</b></span>
-            <span>Weeks <b>${escapeHtml(weeks)}</b></span>
-          </div>
-        </div>
-
-        <div class="expandLinks">
-          <a href="${artistUrl(displayArtist)}" onclick="event.stopPropagation()">Open artist page</a>
-          <a href="${weekUrl(week)}" onclick="event.stopPropagation()">Open this week</a>
-        </div>
-
-        ${buildHistoryHtml(songObj)}
-      </div>
-    </div>
-  `;
-}
-
-/* -------------------------
-   Artist search dropdown (index page)
-------------------------- */
-function setupArtistSearch(catalog) {
-  const input = document.getElementById("artistSearch");
-  const box = document.getElementById("searchResults");
-  if (!input || !box) return;
-
-  // Deduplicate by cleaned name so malformed artists don't split into duplicates
-  const artists = Object.keys(catalog.artists || {});
-  const seen = new Map(); // cleanedLower -> canonical
-  for (const a of artists) {
-    const cleaned = cleanArtistName(a).toLowerCase();
-    if (!seen.has(cleaned)) seen.set(cleaned, a);
+  async function fetchFirstWorking(urls) {
+    let lastErr = null;
+    for (const u of urls) {
+      try {
+        return await fetchJSON(u);
+      } catch (e) {
+        lastErr = e;
+      }
+    }
+    throw lastErr || new Error("All fetch attempts failed");
   }
 
-  const list = Array.from(seen.entries()).map(([cleaned, canonical]) => {
-    const obj = catalog.artists[canonical] || {};
-    const songsCount = Object.keys(obj.songs || {}).length;
-    const totalEntries = obj.totalEntries ?? obj.entries ?? obj.total ?? null;
+  // Week file cache (week -> Promise<weekData>)
+  const weekCache = new Map();
+
+  async function loadWeek(week) {
+    if (!week) throw new Error("loadWeek called with empty week");
+
+    if (weekCache.has(week)) return weekCache.get(week);
+
+    const p = (async () => {
+      const url = WEEK_FILE(week);
+      const raw = await fetchJSON(url);
+
+      // Support both {week, entries:[...]} and plain {entries:[...]}.
+      const entries = Array.isArray(raw.entries) ? raw.entries : [];
+      const normalized = entries
+        .map((e) => normalizeEntry(e))
+        .filter((e) => e.rank != null)
+        .sort((a, b) => a.rank - b.rank);
+
+      return {
+        week: raw.week || week,
+        entries: normalized,
+        _raw: raw,
+      };
+    })();
+
+    weekCache.set(week, p);
+    return p;
+  }
+
+  function normalizeEntry(e) {
+    const rank = Number(e.rank);
+    if (!Number.isFinite(rank)) return { ...e, rank: null };
+
+    const title = cleanTitle(e.title);
+    const artist = cleanArtist(e.artist);
+
+    const cover = normalizeSpace(e.cover);
+    const coverSafe = cover ? cover : PLACEHOLDER_CANDIDATES[0];
+
+    // Keep existing movement if present, but we will recompute for correctness.
     return {
-      cleaned,
-      canonical,
-      display: cleanArtistName(canonical),
-      songsCount,
-      totalEntries,
+      ...e,
+      rank,
+      title,
+      artist,
+      cover: coverSafe,
     };
-  });
-
-  function hide() {
-    box.style.display = "none";
-    box.innerHTML = "";
   }
 
-  function show(items) {
-    box.innerHTML = items
-      .slice(0, 10)
-      .map((it) => `
-        <div class="searchItem" data-artist="${escapeHtml(it.display)}">
-          <div class="searchName">${escapeHtml(it.display)}</div>
-          <div class="searchMeta">${escapeHtml(it.songsCount)} song(s) • ${escapeHtml(it.totalEntries ?? "—")} chart entry(s)</div>
-        </div>
-      `)
-      .join("");
-    box.style.display = items.length ? "block" : "none";
+  // -----------------------
+  // Placeholder image fallback logic
+  // -----------------------
+  function attachCoverFallback(img, originalSrc) {
+    const tried = new Set();
+    const tryNext = () => {
+      // 1) try original (if not already)
+      if (originalSrc && !tried.has(originalSrc)) {
+        tried.add(originalSrc);
+        img.src = originalSrc;
+        return;
+      }
+
+      // 2) try candidates
+      for (const c of PLACEHOLDER_CANDIDATES) {
+        if (!tried.has(c)) {
+          tried.add(c);
+          img.src = c;
+          return;
+        }
+      }
+
+      // 3) final inline
+      img.src = INLINE_PLACEHOLDER_SVG;
+    };
+
+    img.addEventListener("error", () => {
+      // if the current src failed, try another
+      tryNext();
+    });
+
+    // Start with original, but if it's the underscore placeholder, prefer non-underscore first.
+    const src = originalSrc || "";
+    if (src.endsWith("/_placeholder.png") || src.endsWith("covers/_placeholder.png")) {
+      img.src = PLACEHOLDER_CANDIDATES[0];
+    } else {
+      img.src = src || PLACEHOLDER_CANDIDATES[0];
+    }
   }
 
-  input.addEventListener("input", () => {
-    const q = input.value.trim().toLowerCase();
-    if (!q) return hide();
-    const hits = list.filter(it => it.cleaned.includes(q) || it.display.toLowerCase().includes(q));
-    show(hits);
-  });
-
-  input.addEventListener("focus", () => {
-    const q = input.value.trim().toLowerCase();
-    if (!q) return;
-    const hits = list.filter(it => it.cleaned.includes(q) || it.display.toLowerCase().includes(q));
-    show(hits);
-  });
-
-  document.addEventListener("click", (e) => {
-    if (!box.contains(e.target) && e.target !== input) hide();
-  });
-
-  box.addEventListener("click", (e) => {
-    const item = e.target.closest(".searchItem");
-    if (!item) return;
-    const artist = item.getAttribute("data-artist");
-    if (!artist) return;
-    location.href = artistUrl(artist);
-  });
-}
-
-/* -------------------------
-   Render chart (MATCHES styles.css CLASSES)
-------------------------- */
-function renderChart(entries, week, catalogSongLookup) {
-  const chartEl = document.getElementById("chart");
-  if (!chartEl) return;
-
-  // Precompute stats per entry key
-  const statsByKey = new Map();
-  for (const e of entries) {
-    const key = e.__key;
-    const sObj = catalogSongLookup.get(key);
-    statsByKey.set(key, statsAsOfWeek(sObj, week));
-  }
-
-  const awards = computeAwards(entries, statsByKey);
-
-  chartEl.innerHTML = entries.map((e) => {
-    const displayTitle = cleanTitleName(e.title);
-    const displayArtist = cleanArtistName(e.artist);
-
-    const key = e.__key;
-    const songObj = catalogSongLookup.get(key);
-
-    const stats = statsByKey.get(key);
-    const peak = stats?.peak ?? e.peak ?? e.rank;
-    const weeks = stats?.weeks ?? e.weeks ?? 1;
-
-    // LW rule: NEW/RE show —
-    let lw = "—";
-    if (e.movement?.type !== "new" && e.movement?.type !== "re") {
-      const computedLW = lastWeekRankAsOf(songObj, week);
-      lw = computedLW != null ? String(computedLW) : (e.lastWeek != null ? String(e.lastWeek) : "—");
+  // -----------------------
+  // Compute stats "as-of" a selected week
+  // -----------------------
+  async function buildStatsAsOf(weeksDesc, targetWeek) {
+    const idx = weeksDesc.indexOf(targetWeek);
+    if (idx === -1) {
+      return { statsMap: new Map(), prevRanks: new Map(), targetEntries: [] };
     }
 
-    const mv = moveLabel(e.movement);
-    const awardLine = awardHtmlForEntry(e, awards);
+    const prevWeek = weeksDesc[idx + 1] || null;
 
-    return `
-      <li class="row" data-key="${escapeHtml(key)}">
-        <div class="rowTop">
-          <div class="rankbox">
-            <div class="ranknum">${escapeHtml(e.rank)}</div>
-            <div class="move ${mv.cls}">${escapeHtml(mv.text)}</div>
-          </div>
+    // Load target + prev first
+    const target = await loadWeek(targetWeek);
+    const prev = prevWeek ? await loadWeek(prevWeek) : null;
 
-          <!-- IMPORTANT: this uses your CSS flex layout -->
-          <div class="songRow">
-            ${coverImgHtml(e.cover)}
-            <div class="song">
-              <div class="titleline">${escapeHtml(displayTitle)}</div>
-              <div class="artist">${escapeHtml(displayArtist)}</div>
-              ${awardLine}
-            </div>
-          </div>
+    const prevRanks = new Map();
+    if (prev) {
+      for (const e of prev.entries) {
+        prevRanks.set(songKey(e.artist, e.title), e.rank);
+      }
+    }
 
-          <div class="stats3">
-            <span>LW <b>${escapeHtml(lw)}</b></span>
-            <span>Peak <b>${escapeHtml(peak)}</b></span>
-            <span>Weeks <b>${escapeHtml(weeks)}</b></span>
-          </div>
-        </div>
+    // Weeks up to target in chronological order (oldest -> target)
+    const upToDesc = weeksDesc.slice(idx); // target, older...
+    const upToChrono = [...upToDesc].reverse();
 
-        ${buildExpandHtml(
-          { ...e, title: displayTitle },
-          displayArtist,
-          week,
-          stats,
-          lw,
-          songObj
-        )}
-      </li>
-    `;
-  }).join("");
+    const statsMap = new Map(); // key -> {debutWeek, peakRank, peakWeek, weeks}
 
-  // click to expand/collapse
-  chartEl.querySelectorAll(".row").forEach((row) => {
-    row.addEventListener("click", () => {
-      row.classList.toggle("open");
+    for (const w of upToChrono) {
+      const wd = await loadWeek(w);
+      for (const e of wd.entries) {
+        const key = songKey(e.artist, e.title);
+        let s = statsMap.get(key);
+        if (!s) {
+          s = { debutWeek: w, peakRank: e.rank, peakWeek: w, weeks: 1 };
+          statsMap.set(key, s);
+        } else {
+          s.weeks += 1;
+          if (e.rank < s.peakRank) {
+            s.peakRank = e.rank;
+            s.peakWeek = w;
+          }
+        }
+      }
+    }
+
+    return { statsMap, prevRanks, targetEntries: target.entries, prevWeek };
+  }
+
+  // Movement computed from prevRanks + whether it existed before target week
+  function computeMovementForEntry(entry, prevRanks, statsMap, targetWeek) {
+    const key = songKey(entry.artist, entry.title);
+    const prevRank = prevRanks.get(key) ?? null;
+
+    const s = statsMap.get(key);
+    const existedBefore = s ? (s.debutWeek !== targetWeek && s.weeks >= 2) : false;
+
+    if (prevRank == null) {
+      if (existedBefore) {
+        return { type: "re", value: null, lastWeek: null };
+      }
+      return { type: "new", value: null, lastWeek: null };
+    }
+
+    const diff = prevRank - entry.rank; // positive = up
+    if (diff > 0) return { type: "up", value: diff, lastWeek: prevRank };
+    if (diff < 0) return { type: "down", value: Math.abs(diff), lastWeek: prevRank };
+    return { type: "same", value: 0, lastWeek: prevRank };
+  }
+
+  // -----------------------
+  // Weekly awards
+  // -----------------------
+  function computeAwards(targetEntries, prevRanks, statsMap, targetWeek) {
+    const byKey = new Map(); // key -> {entry, movement, stats}
+    for (const e of targetEntries) {
+      const key = songKey(e.artist, e.title);
+      const movement = computeMovementForEntry(e, prevRanks, statsMap, targetWeek);
+      const stats = statsMap.get(key) || { debutWeek: targetWeek, peakRank: e.rank, peakWeek: targetWeek, weeks: 1 };
+      byKey.set(key, { entry: e, movement, stats });
+    }
+
+    const pick = {
+      biggestJump: null,
+      biggestFall: null,
+      hotShotDebut: null,
+      hotShotReentry: null,
+      longestSitter: null,
+    };
+
+    // Biggest jump / fall
+    for (const [key, v] of byKey.entries()) {
+      const m = v.movement;
+      if (m.type === "up" && m.value > 0) {
+        if (!pick.biggestJump) pick.biggestJump = { key, delta: m.value, rank: v.entry.rank };
+        else if (m.value > pick.biggestJump.delta || (m.value === pick.biggestJump.delta && v.entry.rank < pick.biggestJump.rank)) {
+          pick.biggestJump = { key, delta: m.value, rank: v.entry.rank };
+        }
+      }
+      if (m.type === "down" && m.value > 0) {
+        if (!pick.biggestFall) pick.biggestFall = { key, delta: m.value, rank: v.entry.rank };
+        else if (m.value > pick.biggestFall.delta || (m.value === pick.biggestFall.delta && v.entry.rank < pick.biggestFall.rank)) {
+          pick.biggestFall = { key, delta: m.value, rank: v.entry.rank };
+        }
+      }
+    }
+
+    // Hot shot debut / re-entry (best rank among that type)
+    for (const [key, v] of byKey.entries()) {
+      const m = v.movement;
+      if (m.type === "new") {
+        if (!pick.hotShotDebut || v.entry.rank < pick.hotShotDebut.rank) {
+          pick.hotShotDebut = { key, rank: v.entry.rank };
+        }
+      }
+      if (m.type === "re") {
+        if (!pick.hotShotReentry || v.entry.rank < pick.hotShotReentry.rank) {
+          pick.hotShotReentry = { key, rank: v.entry.rank };
+        }
+      }
+    }
+
+    // Longest sitter = max weeks as-of this week
+    for (const [key, v] of byKey.entries()) {
+      const weeks = Number(v.stats.weeks) || 1;
+      if (!pick.longestSitter) pick.longestSitter = { key, weeks, rank: v.entry.rank };
+      else if (weeks > pick.longestSitter.weeks || (weeks === pick.longestSitter.weeks && v.entry.rank < pick.longestSitter.rank)) {
+        pick.longestSitter = { key, weeks, rank: v.entry.rank };
+      }
+    }
+
+    // Build map songKey -> [awardLine...]
+    const awardMap = new Map();
+    const addAward = (songK, type, extraText) => {
+      if (!songK) return;
+      if (!awardMap.has(songK)) awardMap.set(songK, []);
+      awardMap.get(songK).push({ type, extraText });
+    };
+
+    if (pick.biggestJump) addAward(pick.biggestJump.key, "biggestJump", `(+${pick.biggestJump.delta})`);
+    if (pick.biggestFall) addAward(pick.biggestFall.key, "biggestFall", `(-${pick.biggestFall.delta})`);
+    if (pick.hotShotDebut) addAward(pick.hotShotDebut.key, "hotShotDebut", "");
+    if (pick.hotShotReentry) addAward(pick.hotShotReentry.key, "hotShotReentry", "");
+    if (pick.longestSitter) addAward(pick.longestSitter.key, "longestSitter", "");
+
+    return awardMap;
+  }
+
+  // -----------------------
+  // History (for expand panel)
+  // -----------------------
+  async function getSongHistory(weeksDesc, key) {
+    // newest -> oldest output
+    const out = [];
+    for (const w of weeksDesc) {
+      const wd = await loadWeek(w);
+      for (const e of wd.entries) {
+        if (songKey(e.artist, e.title) === key) {
+          out.push({ week: w, rank: e.rank });
+          break;
+        }
+      }
+    }
+    return out; // already newest->oldest because weeksDesc is newest->oldest
+  }
+
+  // -----------------------
+  // Rendering
+  // -----------------------
+  function movementBadge(m) {
+    // Types: up/down/same/new/re
+    if (!m) return el("span", { className: "move same" }, ["—"]);
+
+    if (m.type === "up") return el("span", { className: "move up" }, [`▲ ${m.value}`]);
+    if (m.type === "down") return el("span", { className: "move down" }, [`▼ ${m.value}`]);
+    if (m.type === "re") return el("span", { className: "move re" }, ["RE"]);
+    if (m.type === "new") return el("span", { className: "move new" }, ["NEW"]);
+    return el("span", { className: "move same" }, ["—"]);
+  }
+
+  function statsBlock(lastWeek, peak, weeks) {
+    const wrap = el("div", { className: "stats3" });
+
+    // LW display: dash for NEW/RE
+    const lwVal = lastWeek == null ? "—" : String(lastWeek);
+
+    wrap.appendChild(el("span", {}, ["LW ", el("b", {}, [lwVal])]));
+    wrap.appendChild(el("span", {}, ["Peak ", el("b", {}, [String(peak)])]));
+    wrap.appendChild(el("span", {}, ["Weeks ", el("b", {}, [String(weeks)])]));
+
+    return wrap;
+  }
+
+  function awardLinesFor(entry, awardMap) {
+    const key = songKey(entry.artist, entry.title);
+    const awards = awardMap.get(key);
+    if (!awards || awards.length === 0) return null;
+
+    const box = el("div", { className: "awardBox" });
+    for (const a of awards) {
+      const st = AWARD_STYLES[a.type];
+      const text = `${st.label}${a.extraText ? " " + a.extraText : ""}`;
+      box.appendChild(
+        el("div", {
+          className: "awardLine",
+          style: `margin-top:6px; font-weight:800; font-size:12px; letter-spacing:.02em; color:${st.color};`,
+        }, [text])
+      );
+    }
+    return box;
+  }
+
+  function rowHTML({ entry, movement, stats, awards, weeksDesc }) {
+    const key = songKey(entry.artist, entry.title);
+
+    const li = el("li", { className: "row", dataset: { key } });
+
+    // Top (collapsed)
+    const rankBox = el("div", { className: "rankbox" }, [
+      el("div", { className: "rank" }, [String(entry.rank)]),
+      movementBadge(movement),
+    ]);
+
+    const img = el("img", {
+      className: "cover",
+      alt: `${entry.title} cover`,
+      loading: "lazy",
+      decoding: "async",
     });
+    attachCoverFallback(img, entry.cover);
+
+    const titleLine = el("div", { className: "titleline" }, [entry.title]);
+
+    const artistLink = el("a", {
+      href: `artist.html?artist=${encodeURIComponent(entry.artist)}`,
+      title: `Open artist page for ${entry.artist}`,
+      onclick: (ev) => ev.stopPropagation(),
+    }, [entry.artist]);
+
+    const artistLine = el("div", { className: "artist" }, [artistLink]);
+
+    const awardsNode = awardLinesFor(entry, awards);
+
+    const songText = el("div", { style: "min-width:0;" }, awardsNode
+      ? [titleLine, artistLine, awardsNode]
+      : [titleLine, artistLine]
+    );
+
+    const songRow = el("div", { className: "songRow" }, [img, songText]);
+
+    const lwForDisplay = (movement.type === "new" || movement.type === "re") ? null : movement.lastWeek;
+    const rightStats = statsBlock(lwForDisplay, stats.peakRank, stats.weeks);
+
+    const top = el("div", {
+      className: "rowTop",
+      tabIndex: 0,
+      role: "button",
+      ariaExpanded: "false",
+    }, [rankBox, songRow, rightStats]);
+
+    // Expand panel
+    const expand = el("div", { className: "expand" }, [
+      el("div", { className: "expandHead" }, [
+        el("div", { className: "expandTitle" }, [entry.title]),
+        el("div", { className: "artist" }, [artistLink.cloneNode(true)]),
+        el("div", { className: "stats3", style: "justify-content:flex-start; text-align:left; margin-top:10px;" }, [
+          el("span", {}, ["LW ", el("b", {}, [lwForDisplay == null ? "—" : String(lwForDisplay)])]),
+          el("span", {}, ["Peak ", el("b", {}, [String(stats.peakRank)])]),
+          el("span", {}, ["Weeks ", el("b", {}, [String(stats.weeks)])]),
+        ]),
+        el("div", { className: "expandLinks" }, [
+          el("a", {
+            href: `artist.html?artist=${encodeURIComponent(entry.artist)}`,
+            onclick: (ev) => ev.stopPropagation(),
+          }, ["Open artist page"]),
+          el("a", {
+            href: `?week=${encodeURIComponent(stats.debutWeek || "")}`,
+            onclick: (ev) => ev.stopPropagation(),
+            style: "margin-left:18px;",
+          }, ["Open debut week"]),
+        ]),
+      ]),
+      el("div", { className: "history" }, [
+        el("div", { className: "meta", style: "font-weight:800; letter-spacing:.08em; text-transform:uppercase; font-size:12px;" }, ["Chart History"]),
+        el("div", { className: "historyList", style: "margin-top:10px;" }, [
+          el("div", { className: "meta" }, ["Loading history..."]),
+        ]),
+      ]),
+    ]);
+
+    // Toggle behavior
+    const closeAllOthers = () => {
+      const openRows = document.querySelectorAll(".row.open");
+      for (const r of openRows) {
+        if (r !== li) {
+          r.classList.remove("open");
+          const rt = $(".rowTop", r);
+          if (rt) rt.setAttribute("aria-expanded", "false");
+        }
+      }
+    };
+
+    const toggle = async () => {
+      const isOpen = li.classList.contains("open");
+      if (isOpen) {
+        li.classList.remove("open");
+        top.setAttribute("aria-expanded", "false");
+        return;
+      }
+
+      closeAllOthers();
+      li.classList.add("open");
+      top.setAttribute("aria-expanded", "true");
+
+      // Fill history
+      const list = $(".historyList", li);
+      if (!list) return;
+
+      // If already loaded, don't re-load
+      if (list.dataset.loaded === "1") return;
+
+      try {
+        const hist = await getSongHistory(weeksDesc, key);
+        list.innerHTML = "";
+        if (hist.length === 0) {
+          list.appendChild(el("div", { className: "meta" }, ["No history found."]));
+        } else {
+          // newest -> oldest
+          for (const h of hist) {
+            const row = el("div", { className: "historyRow" }, [
+              el("a", {
+                href: `?week=${encodeURIComponent(h.week)}`,
+                onclick: (ev) => ev.stopPropagation(),
+              }, [h.week]),
+              el("div", { className: "right" }, [`Rank `, el("b", {}, [`#${h.rank}`])]),
+            ]);
+            list.appendChild(row);
+          }
+        }
+        list.dataset.loaded = "1";
+      } catch (e) {
+        list.innerHTML = "";
+        list.appendChild(el("div", { className: "meta" }, ["Failed to load history."]));
+      }
+    };
+
+    top.addEventListener("click", toggle);
+    top.addEventListener("keydown", (ev) => {
+      if (ev.key === "Enter" || ev.key === " ") {
+        ev.preventDefault();
+        toggle();
+      }
+    });
+
+    li.appendChild(top);
+    li.appendChild(expand);
+    return li;
+  }
+
+  function renderWeekSelect(weeksDesc, selectedWeek) {
+    const sel = $("#weekSelect");
+    const lbl = $("#weekLabel");
+
+    if (!sel) return;
+
+    sel.innerHTML = "";
+    for (const w of weeksDesc) {
+      const opt = el("option", { value: w }, [w]);
+      if (w === selectedWeek) opt.selected = true;
+      sel.appendChild(opt);
+    }
+
+    setText(lbl, selectedWeek ? `Week of ${selectedWeek}` : "Week of —");
+
+    sel.onchange = () => {
+      const w = sel.value;
+      setParam("week", w, { replace: false });
+      // Hard reload is simplest & keeps everything consistent.
+      // If you prefer, you can call main() again instead.
+      location.reload();
+    };
+  }
+
+  function renderChart({ weeksDesc, selectedWeek, targetEntries, prevRanks, statsMap, awards }) {
+    const chart = $("#chart");
+    if (!chart) return;
+
+    chart.innerHTML = "";
+
+    for (const entry of targetEntries) {
+      const key = songKey(entry.artist, entry.title);
+      const stats = statsMap.get(key) || { debutWeek: selectedWeek, peakRank: entry.rank, peakWeek: selectedWeek, weeks: 1 };
+      const movement = computeMovementForEntry(entry, prevRanks, statsMap, selectedWeek);
+
+      chart.appendChild(
+        rowHTML({
+          entry,
+          movement,
+          stats,
+          awards,
+          weeksDesc,
+        })
+      );
+    }
+  }
+
+  // -----------------------
+  // Artist search (from loaded weeks)
+  // -----------------------
+  async function buildArtistIndex(weeksDesc) {
+    // Map normalizedArtist -> { name, songs:Set(songKey), entries:number }
+    const map = new Map();
+
+    // Load weeks (cached) to build index
+    for (const w of weeksDesc) {
+      const wd = await loadWeek(w);
+      for (const e of wd.entries) {
+        const artist = cleanArtist(e.artist);
+        const norm = artist.toLowerCase();
+
+        if (!map.has(norm)) {
+          map.set(norm, { name: artist, songs: new Set(), entries: 0 });
+        }
+        const rec = map.get(norm);
+        rec.entries += 1;
+        rec.songs.add(songKey(artist, e.title));
+      }
+    }
+
+    // Convert to array
+    const arr = [];
+    for (const rec of map.values()) {
+      arr.push({
+        name: rec.name,
+        songsCount: rec.songs.size,
+        entriesCount: rec.entries,
+      });
+    }
+
+    // Sort default by entries desc
+    arr.sort((a, b) => b.entriesCount - a.entriesCount || a.name.localeCompare(b.name));
+    return arr;
+  }
+
+  function setupArtistSearch(artistIndex) {
+    const input = $("#artistSearch");
+    const results = $("#searchResults");
+    if (!input || !results) return;
+
+    const hide = () => results.classList.add("hidden");
+    const show = () => results.classList.remove("hidden");
+
+    const renderResults = (items) => {
+      results.innerHTML = "";
+      if (items.length === 0) {
+        results.appendChild(el("div", { className: "searchItem" }, [
+          el("div", { className: "name" }, ["No matches"]),
+        ]));
+        show();
+        return;
+      }
+
+      for (const it of items) {
+        const row = el("div", { className: "searchItem" }, [
+          el("div", { className: "name" }, [it.name]),
+          el("div", { className: "meta" }, [`${it.songsCount} song(s) • ${it.entriesCount} chart entry(s)`]),
+        ]);
+
+        row.addEventListener("click", () => {
+          location.href = `artist.html?artist=${encodeURIComponent(it.name)}`;
+        });
+
+        results.appendChild(row);
+      }
+      show();
+    };
+
+    let lastQ = "";
+    input.addEventListener("input", () => {
+      const q = normalizeSpace(input.value).toLowerCase();
+      lastQ = q;
+
+      if (!q) {
+        results.innerHTML = "";
+        hide();
+        return;
+      }
+
+      const matches = artistIndex
+        .filter((a) => a.name.toLowerCase().includes(q))
+        .slice(0, 12);
+
+      // If the index is big, you can speed this up later by precomputing tokens.
+      if (q === lastQ) renderResults(matches);
+    });
+
+    input.addEventListener("focus", () => {
+      if (normalizeSpace(input.value)) show();
+    });
+
+    document.addEventListener("click", (ev) => {
+      if (!results.contains(ev.target) && ev.target !== input) hide();
+    });
+  }
+
+  // -----------------------
+  // Main
+  // -----------------------
+  async function main() {
+    // Title
+    const titleEl = $("#chartTitle");
+    if (titleEl) titleEl.textContent = "Nabnation Top 100";
+    document.title = "Nabnation Top 100";
+
+    // Load manifest + latest
+    let manifest = null;
+    let latest = null;
+
+    try {
+      manifest = await fetchFirstWorking(MANIFEST_URLS);
+    } catch (_) {
+      manifest = { weeks: [] };
+    }
+
+    try {
+      latest = await fetchFirstWorking(LATEST_URLS);
+    } catch (_) {
+      latest = null;
+    }
+
+    // Determine week list
+    let weeks = Array.isArray(manifest.weeks) ? manifest.weeks.slice() : [];
+    weeks = weeks
+      .map((w) => String(w))
+      .filter(Boolean)
+      .sort((a, b) => b.localeCompare(a)); // newest -> oldest
+
+    // Determine selected week
+    const urlWeek = getParam("week");
+    let selectedWeek = urlWeek && urlWeek.trim() ? urlWeek.trim() : null;
+
+    if (!selectedWeek && latest && latest.week) selectedWeek = String(latest.week);
+    if (!selectedWeek && weeks.length) selectedWeek = weeks[0];
+
+    // If selectedWeek not in manifest, still try to load it; but keep dropdown usable.
+    if (selectedWeek && !weeks.includes(selectedWeek)) {
+      weeks.unshift(selectedWeek);
+      weeks = weeks
+        .filter((v, i, a) => a.indexOf(v) === i)
+        .sort((a, b) => b.localeCompare(a));
+    }
+
+    renderWeekSelect(weeks, selectedWeek);
+
+    // Load stats + prev ranks
+    const { statsMap, prevRanks, targetEntries } = await buildStatsAsOf(weeks, selectedWeek);
+
+    // Compute awards
+    const awards = computeAwards(targetEntries, prevRanks, statsMap, selectedWeek);
+
+    // Render chart
+    renderChart({
+      weeksDesc: weeks,
+      selectedWeek,
+      targetEntries,
+      prevRanks,
+      statsMap,
+      awards,
+    });
+
+    // Build artist index (async) so search works
+    // (This uses cached week fetches, so it’s usually fast after first load.)
+    try {
+      const artistIndex = await buildArtistIndex(weeks);
+      setupArtistSearch(artistIndex);
+    } catch (_) {
+      // If it fails, search just won't work—page still loads.
+    }
+  }
+
+  main().catch((err) => {
+    console.error("chart.js fatal:", err);
+    // Fail-soft: show something in the chart area if possible
+    const chart = document.querySelector("#chart");
+    if (chart) {
+      chart.innerHTML = `<li class="row"><div class="rowTop"><div class="meta">Failed to load chart data. Check console.</div></div></li>`;
+    }
   });
-}
-
-/* -------------------------
-   Boot
-------------------------- */
-async function main() {
-  const weekLabelEl = document.getElementById("weekLabel");
-  const weekSelectEl = document.getElementById("weekSelect");
-  const titleEl = document.getElementById("chartTitle");
-  const footEl = document.getElementById("footInfo");
-
-  function setFoot(msg) {
-    if (footEl) footEl.textContent = msg;
-  }
-
-  // Load manifest + latest
-  let manifest = null;
-  let latest = null;
-
-  try { manifest = await loadJSON(DATA.manifest); } catch {}
-  try { latest = await loadJSON(DATA.latest); } catch {}
-
-  const weeks = Array.isArray(manifest?.weeks) ? manifest.weeks : [];
-  const requested = qs("week");
-
-  let weekToLoad = null;
-  if (requested && weeks.includes(requested)) weekToLoad = requested;
-  else if (latest?.week && (!weeks.length || weeks.includes(latest.week))) weekToLoad = latest.week;
-  else if (weeks.length) weekToLoad = weeks[0];
-
-  // Fill dropdown
-  if (weekSelectEl) {
-    weekSelectEl.innerHTML = weeks.map(w => `<option value="${w}">${w}</option>`).join("");
-    if (weekToLoad) weekSelectEl.value = weekToLoad;
-    weekSelectEl.addEventListener("change", () => setQueryParam("week", weekSelectEl.value));
-  }
-
-  if (!weekToLoad) {
-    if (weekLabelEl) weekLabelEl.textContent = "—";
-    setFoot("Could not load week list (manifest.json missing or empty).");
-    return;
-  }
-
-  // Title + label
-  if (weekLabelEl) weekLabelEl.textContent = weekToLoad;
-  if (titleEl) titleEl.textContent = "Nabnation Top 100";
-
-  // Load catalog
-  let catalog = null;
-  try {
-    catalog = await loadJSON(DATA.catalog);
-  } catch {
-    catalog = { artists: {} };
-    setFoot("Loaded chart, but catalog.json failed (artist search / stats may be limited).");
-  }
-
-  setupArtistSearch(catalog);
-  const catalogSongLookup = buildSongLookup(catalog);
-
-  // Load selected week
-  let weekData = null;
-  try {
-    weekData = await loadJSON(DATA.weekFile(weekToLoad));
-  } catch {
-    setFoot(`Failed to load data/${weekToLoad}.json`);
-    return;
-  }
-
-  const entries = Array.isArray(weekData.entries) ? weekData.entries : [];
-  for (const e of entries) {
-    e.title = cleanTitleName(e.title);
-    e.artist = cleanArtistName(e.artist);
-    e.__key = songKey(e.title, e.artist);
-  }
-
-  renderChart(entries, weekToLoad, catalogSongLookup);
-
-  const gen = weekData.generatedAt ? ` • Generated ${weekData.generatedAt}` : "";
-  setFoot(`${entries.length} songs loaded${gen}`);
-}
-
-main().catch((err) => {
-  console.error(err);
-  const footEl = document.getElementById("footInfo");
-  if (footEl) footEl.textContent = `Script error: ${err?.message || err}`;
-});
+})();
