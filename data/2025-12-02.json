@@ -52,7 +52,7 @@
       "rank": 4,
       "title": "IRIS OUT",
       "artist": "Kenshi Yonezu",
-      "cover": "covers/kenshi_yonezu__iris_out.png",
+      "cover": "covers/placeholder.png",
       "movement": {
         "type": "up",
         "value": 9
@@ -382,7 +382,7 @@
       "rank": 26,
       "title": "SPAGHETTI",
       "artist": "LE SSERAFIM",
-      "cover": "covers/le_sserafim__spaghetti.png",
+      "cover": "covers/placeholder.png",
       "movement": {
         "type": "re",
         "value": null
@@ -727,7 +727,7 @@
       "rank": 49,
       "title": "LV Sandals",
       "artist": "EsDeeKid",
-      "cover": "covers/esdeekid__lv_sandals.png",
+      "cover": "covers/placeholder.png",
       "movement": {
         "type": "down",
         "value": 26
@@ -802,7 +802,7 @@
       "rank": 54,
       "title": "get away",
       "artist": "OsamaSon",
-      "cover": "covers/osamason__get_away.png",
+      "cover": "covers/placeholder.png",
       "movement": {
         "type": "down",
         "value": 53

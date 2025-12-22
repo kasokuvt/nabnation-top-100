@@ -82,7 +82,7 @@
       "rank": 6,
       "title": "Inferno",
       "artist": "OsamaSon",
-      "cover": "covers/osamason__inferno.png",
+      "cover": "covers/placeholder.png",
       "movement": {
         "type": "same",
         "value": null
@@ -292,7 +292,7 @@
       "rank": 20,
       "title": "IRIS OUT",
       "artist": "Kenshi Yonezu",
-      "cover": "covers/kenshi_yonezu__iris_out.png",
+      "cover": "covers/placeholder.png",
       "movement": {
         "type": "down",
         "value": 3
@@ -367,7 +367,7 @@
       "rank": 25,
       "title": "worldwide",
       "artist": "OsamaSon",
-      "cover": "covers/placeholder.png",
+      "cover": "covers/osamason__worldwide.png",
       "movement": {
         "type": "up",
         "value": 73
@@ -487,7 +487,7 @@
       "rank": 33,
       "title": "function",
       "artist": "OsamaSon",
-      "cover": "covers/osamason__function.png",
+      "cover": "covers/placeholder.png",
       "movement": {
         "type": "down",
         "value": 2
@@ -592,7 +592,7 @@
       "rank": 40,
       "title": "haBITS",
       "artist": "OsamaSon",
-      "cover": "covers/osamason__habits.png",
+      "cover": "covers/placeholder.png",
       "movement": {
         "type": "down",
         "value": 26

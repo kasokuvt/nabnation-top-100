@@ -97,7 +97,7 @@
       "rank": 7,
       "title": "in the pool",
       "artist": "Kensuke Ushio",
-      "cover": "covers/kensuke_ushio__in_the_pool.png",
+      "cover": "covers/placeholder.png",
       "movement": {
         "type": "up",
         "value": 65
@@ -112,7 +112,7 @@
       "rank": 8,
       "title": "IRIS OUT",
       "artist": "Kenshi Yonezu",
-      "cover": "covers/kenshi_yonezu__iris_out.png",
+      "cover": "covers/placeholder.png",
       "movement": {
         "type": "up",
         "value": 12
@@ -412,7 +412,7 @@
       "rank": 28,
       "title": "Music and Me",
       "artist": "fakemink",
-      "cover": "covers/fakemink__music_and_me.png",
+      "cover": "covers/placeholder.png",
       "movement": {
         "type": "re",
         "value": null
@@ -1057,7 +1057,7 @@
       "rank": 72,
       "title": "in the sea",
       "artist": "Kensuke Ushio",
-      "cover": "covers/kensuke_ushio__in_the_sea.jpg",
+      "cover": "covers/placeholder.png",
       "movement": {
         "type": "re",
         "value": null
@@ -1087,7 +1087,7 @@
       "rank": 74,
       "title": "get away",
       "artist": "OsamaSon",
-      "cover": "covers/osamason__get_away.png",
+      "cover": "covers/placeholder.png",
       "movement": {
         "type": "down",
         "value": 29
@@ -1177,7 +1177,7 @@
       "rank": 80,
       "title": "LV Sandals",
       "artist": "EsDeeKid",
-      "cover": "covers/esdeekid__lv_sandals.png",
+      "cover": "covers/placeholder.png",
       "movement": {
         "type": "same",
         "value": null

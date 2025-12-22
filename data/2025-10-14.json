@@ -22,7 +22,7 @@
       "rank": 2,
       "title": "BIRDBRAIN",
       "artist": "Jamie Paige",
-      "cover": "covers/placeholder.png",
+      "cover": "covers/jamie_paige__birdbrain.jpg",
       "movement": {
         "type": "up",
         "value": 10
@@ -67,7 +67,7 @@
       "rank": 5,
       "title": "Inferno",
       "artist": "Bladee",
-      "cover": "covers/placeholder.png",
+      "cover": "covers/bladee__inferno.jpg",
       "movement": {
         "type": "up",
         "value": 45
@@ -97,7 +97,7 @@
       "rank": 7,
       "title": "Twilight",
       "artist": "bôa",
-      "cover": "covers/placeholder.png",
+      "cover": "covers/bôa__twilight.jpg",
       "movement": {
         "type": "down",
         "value": 2
@@ -112,7 +112,7 @@
       "rank": 8,
       "title": "Dracula",
       "artist": "Tame Impala",
-      "cover": "covers/tame_impala__dracula.jpg",
+      "cover": "covers/tame_impala__dracula.png",
       "movement": {
         "type": "up",
         "value": 60
@@ -157,7 +157,7 @@
       "rank": 11,
       "title": "Duvet",
       "artist": "bôa",
-      "cover": "covers/placeholder.png",
+      "cover": "covers/bôa__duvet.png",
       "movement": {
         "type": "up",
         "value": 13
@@ -172,7 +172,7 @@
       "rank": 12,
       "title": "weathergirl",
       "artist": "Flavor Foley",
-      "cover": "covers/placeholder.png",
+      "cover": "covers/flavor_foley__weathergirl.png",
       "movement": {
         "type": "re",
         "value": null
@@ -187,7 +187,7 @@
       "rank": 13,
       "title": "SUGAR ON MY TONGUE",
       "artist": "Tyler, The Creator",
-      "cover": "covers/tyler_the_creator__sugar_on_my_tongue.png",
+      "cover": "covers/tyler_the_creator__sugar_on_my_tongue.jpg",
       "movement": {
         "type": "up",
         "value": 12
@@ -217,7 +217,7 @@
       "rank": 15,
       "title": "Ring Ring Ring",
       "artist": "Tyler, The Creator",
-      "cover": "covers/tyler_the_creator__ring_ring_ring.png",
+      "cover": "covers/tyler_the_creator__ring_ring_ring.jpg",
       "movement": {
         "type": "up",
         "value": 37
@@ -247,7 +247,7 @@
       "rank": 17,
       "title": "IRIS OUT",
       "artist": "Kenshi Yonezu",
-      "cover": "covers/kenshi_yonezu__iris_out.png",
+      "cover": "covers/placeholder.png",
       "movement": {
         "type": "up",
         "value": 69
@@ -277,7 +277,7 @@
       "rank": 19,
       "title": "Blues",
       "artist": "Geordie Greep",
-      "cover": "covers/placeholder.png",
+      "cover": "covers/geordie_greep__blues.png",
       "movement": {
         "type": "re",
         "value": null
@@ -382,7 +382,7 @@
       "rank": 26,
       "title": "ASHEVILLE",
       "artist": "glaive",
-      "cover": "covers/placeholder.png",
+      "cover": "covers/glaive__asheville.png",
       "movement": {
         "type": "up",
         "value": 9
@@ -397,7 +397,7 @@
       "rank": 27,
       "title": "P.O.V.",
       "artist": "Clipse",
-      "cover": "covers/placeholder.png",
+      "cover": "covers/clipse__pov.png",
       "movement": {
         "type": "re",
         "value": null
@@ -487,7 +487,7 @@
       "rank": 33,
       "title": "Taxes",
       "artist": "Geese",
-      "cover": "covers/placeholder.png",
+      "cover": "covers/geese__taxes.jpg",
       "movement": {
         "type": "down",
         "value": 23
@@ -532,7 +532,7 @@
       "rank": 36,
       "title": "Gabriela",
       "artist": "KATSEYE",
-      "cover": "covers/katseye__gabriela.png",
+      "cover": "covers/katseye__gabriela.jpg",
       "movement": {
         "type": "re",
         "value": null
@@ -1372,7 +1372,7 @@
       "rank": 92,
       "title": "Music and Me",
       "artist": "fakemink",
-      "cover": "covers/fakemink__music_and_me.png",
+      "cover": "covers/placeholder.png",
       "movement": {
         "type": "down",
         "value": 23

@@ -156,7 +156,7 @@
         },
         "machine girl - dread architect": {
           "title": "Dread Architect",
-          "cover": "covers/_placeholder.png",
+          "cover": "covers/placeholder.png",
           "weeks": 2,
           "peak": 1,
           "debut": "2025-10-14",
@@ -214,7 +214,7 @@
         },
         "machine girl - creeping up from the pit": {
           "title": "Creeping Up From The Pit",
-          "cover": "covers/machine_girl__creeping_up_from_the_pit.jpg",
+          "cover": "covers/machine_girl__creeping_up_from_the_pit.png",
           "weeks": 2,
           "peak": 6,
           "debut": "2025-10-28",
@@ -254,7 +254,7 @@
         },
         "machine girl - psychowar": {
           "title": "Psychowar",
-          "cover": "covers/_placeholder.png",
+          "cover": "covers/placeholder.png",
           "weeks": 2,
           "peak": 8,
           "debut": "2025-10-28",
@@ -290,7 +290,7 @@
         },
         "machine girl - phantom doom": {
           "title": "Phantom Doom",
-          "cover": "covers/machine_girl_585_pts__phantom_doom.png",
+          "cover": "covers/machine_girl__phantom_doom.png",
           "weeks": 2,
           "peak": 12,
           "debut": "2025-10-28",
@@ -326,7 +326,7 @@
         },
         "machine girl - dual wield": {
           "title": "Dual Wield",
-          "cover": "covers/machine_girl_620_pts__dual_wield.png",
+          "cover": "covers/machine_girl__dual_wield.png",
           "weeks": 2,
           "peak": 15,
           "debut": "2025-10-28",
@@ -344,7 +344,7 @@
         },
         "machine girl - i-void destroyer": {
           "title": "i-Void Destroyer",
-          "cover": "covers/machine_girl_490_pts__i_void_destroyer.png",
+          "cover": "covers/machine_girl__i_void_destroyer.png",
           "weeks": 2,
           "peak": 20,
           "debut": "2025-10-28",
@@ -376,7 +376,7 @@
         },
         "machine girl - innermission": {
           "title": "Innermission",
-          "cover": "covers/_placeholder.png",
+          "cover": "covers/placeholder.png",
           "weeks": 1,
           "peak": 35,
           "debut": "2025-10-28",
@@ -618,7 +618,7 @@
         },
         "tyler, the creator - mother": {
           "title": "MOTHER",
-          "cover": "covers/_placeholder.png",
+          "cover": "covers/placeholder.png",
           "weeks": 1,
           "peak": 4,
           "debut": "2025-11-04",
@@ -1224,7 +1224,7 @@
         },
         "kendrick lamar - untitled 05 | 09.21.2014.": {
           "title": "untitled 05 | 09.21.2014.",
-          "cover": "covers/_placeholder.png",
+          "cover": "covers/placeholder.png",
           "weeks": 1,
           "peak": 29,
           "debut": "2025-10-14",
@@ -1274,7 +1274,7 @@
       "songs": {
         "sabrina carpenter - tears": {
           "title": "Tears",
-          "cover": "covers/_placeholder.png",
+          "cover": "covers/sabrina_carpenter__tears.jpg",
           "weeks": 4,
           "peak": 8,
           "debut": "2025-09-09",
@@ -1382,7 +1382,7 @@
         },
         "denzel curry - black balloons | 13lack 13alloonz [feat. twelve'len & goldlink | twelve'len + goldl1nk]": {
           "title": "BLACK BALLOONS | 13LACK 13ALLOONZ [FEAT. TWELVE'LEN & GOLDLINK | TWELVE'LEN + GOLDL1NK]",
-          "cover": "covers/_placeholder.png",
+          "cover": "covers/placeholder.png",
           "weeks": 1,
           "peak": 99,
           "debut": "2025-10-21",
@@ -1488,7 +1488,7 @@
       "songs": {
         "jpegmafia - 1539 n. calvert": {
           "title": "1539 N. Calvert",
-          "cover": "covers/jpegmafia_480_pts__1539_n_calvert.png",
+          "cover": "covers/jpegmafia__1539_n_calvert.png",
           "weeks": 3,
           "peak": 17,
           "debut": "2025-09-09",
@@ -1542,7 +1542,7 @@
         },
         "jpegmafia - kingdom hearts key (ft. redveil)": {
           "title": "Kingdom Hearts Key (ft. redveil)",
-          "cover": "covers/jpegmafia_510_pts__kingdom_hearts_key_ft_redveil.png",
+          "cover": "covers/jpegmafia__kingdom_hearts_key_ft_redveil.png",
           "weeks": 1,
           "peak": 34,
           "debut": "2025-10-28",
@@ -1816,7 +1816,7 @@
       "songs": {
         "cocteau twins - pitch the baby": {
           "title": "Pitch the Baby",
-          "cover": "covers/cocteau_twins_475_pts__pitch_the_baby.png",
+          "cover": "covers/cocteau_twins__pitch_the_baby.jpg",
           "weeks": 2,
           "peak": 20,
           "debut": "2025-09-09",
@@ -1994,7 +1994,7 @@
         },
         "nine inch nails - as alive as you need me to be": {
           "title": "As Alive As You Need Me To Be",
-          "cover": "covers/nine_inch_nails_490_pts__as_alive_as_you_need_me_to_be.png",
+          "cover": "covers/nine_inch_nails__as_alive_as_you_need_me_to_be.png",
           "weeks": 3,
           "peak": 20,
           "debut": "2025-09-23",
@@ -2048,7 +2048,7 @@
         },
         "nine inch nails - shadow over me": {
           "title": "Shadow Over Me",
-          "cover": "covers/nine_inch_nails_490_pts__shadow_over_me.png",
+          "cover": "covers/nine_inch_nails__shadow_over_me.jpg",
           "weeks": 2,
           "peak": 37,
           "debut": "2025-10-28",
@@ -2166,7 +2166,7 @@
       "songs": {
         "babymetal - from me to u (feat. poppy)": {
           "title": "from me to u (feat. Poppy)",
-          "cover": "covers/_placeholder.png",
+          "cover": "covers/placeholder.png",
           "weeks": 1,
           "peak": 30,
           "debut": "2025-09-09",
@@ -2606,7 +2606,7 @@
         },
         "gorillaz - dare (feat. shaun ryder & roses gabor)": {
           "title": "DARE (feat. Shaun Ryder & Roses Gabor)",
-          "cover": "covers/gorillaz_485_pts__dare_feat_shaun_ryder_roses_gabor.jpg",
+          "cover": "covers/gorillaz__dare_feat_shaun_ryder_roses_gabor.jpg",
           "weeks": 3,
           "peak": 22,
           "debut": "2025-09-30",
@@ -2642,7 +2642,7 @@
         },
         "gorillaz - sleeping powder": {
           "title": "Sleeping Powder",
-          "cover": "covers/_placeholder.png",
+          "cover": "covers/placeholder.png",
           "weeks": 1,
           "peak": 10,
           "debut": "2025-10-14",
@@ -2796,7 +2796,7 @@
         },
         "jane remover - audiostalker ft lucy bedroque": {
           "title": "Audiostalker ft Lucy Bedroque",
-          "cover": "covers/_placeholder.png",
+          "cover": "covers/placeholder.png",
           "weeks": 1,
           "peak": 10,
           "debut": "2025-09-16",
@@ -2874,7 +2874,7 @@
         },
         "jane remover - psychoboost feat danny brown": {
           "title": "Psychoboost feat danny brown",
-          "cover": "covers/_placeholder.png",
+          "cover": "covers/placeholder.png",
           "weeks": 4,
           "peak": 23,
           "debut": "2025-09-16",
@@ -3000,7 +3000,7 @@
         },
         "jane remover - (re)dancing with your eyes closed": {
           "title": "(RE)Dancing with your eyes closed",
-          "cover": "covers/jane_remover_700_pts__redancing_with_your_eyes_closed.png",
+          "cover": "covers/jane_remover__redancing_with_your_eyes_closed.png",
           "weeks": 1,
           "peak": 16,
           "debut": "2025-10-28",
@@ -3670,7 +3670,7 @@
       "songs": {
         "fall out boy - headfirst slide into cooperstown on a bad bet": {
           "title": "Headfirst Slide Into Cooperstown on a Bad Bet",
-          "cover": "covers/fall_out_boy_830_pts__headfirst_slide_into_cooperstown_on_a_bad_bet.png",
+          "cover": "covers/fall_out_boy__headfirst_slide_into_cooperstown_on_a_bad_bet.jpg",
           "weeks": 3,
           "peak": 9,
           "debut": "2025-09-16",
@@ -4034,7 +4034,7 @@
       "songs": {
         "fakemink - under your skin": {
           "title": "Under Your Skin",
-          "cover": "covers/_placeholder.png",
+          "cover": "covers/placeholder.png",
           "weeks": 1,
           "peak": 15,
           "debut": "2025-09-16",
@@ -4048,7 +4048,7 @@
         },
         "fakemink - music and me": {
           "title": "Music and Me",
-          "cover": "covers/fakemink__music_and_me.png",
+          "cover": "covers/placeholder.png",
           "weeks": 6,
           "peak": 16,
           "debut": "2025-09-16",
@@ -4110,7 +4110,7 @@
         },
         "fakemink - blow me": {
           "title": "Blow Me",
-          "cover": "covers/_placeholder.png",
+          "cover": "covers/placeholder.png",
           "weeks": 1,
           "peak": 21,
           "debut": "2025-10-21",
@@ -4156,7 +4156,7 @@
         },
         "fakemink - fidelio": {
           "title": "Fidelio",
-          "cover": "covers/fakemink__fidelio.png",
+          "cover": "covers/placeholder.png",
           "weeks": 2,
           "peak": 23,
           "debut": "2025-10-28",
@@ -4220,7 +4220,7 @@
         },
         "linkin park - in the end": {
           "title": "In the End",
-          "cover": "covers/linkin_park_485_pts__in_the_end.jpg",
+          "cover": "covers/linkin_park__in_the_end.jpg",
           "weeks": 1,
           "peak": 38,
           "debut": "2025-10-28",
@@ -4802,7 +4802,7 @@
         },
         "bladee - inferno": {
           "title": "Inferno",
-          "cover": "covers/_placeholder.png",
+          "cover": "covers/bladee__inferno.jpg",
           "weeks": 4,
           "peak": 3,
           "debut": "2025-09-23",
@@ -5070,7 +5070,7 @@
       "songs": {
         "kenshi yonezu - iris out": {
           "title": "IRIS OUT",
-          "cover": "covers/kenshi_yonezu__iris_out.png",
+          "cover": "covers/placeholder.png",
           "weeks": 15,
           "peak": 3,
           "debut": "2025-09-16",
@@ -5386,7 +5386,7 @@
       "songs": {
         "esdeekid - phantom": {
           "title": "Phantom",
-          "cover": "covers/esdeekid__phantom.png",
+          "cover": "covers/placeholder.png",
           "weeks": 3,
           "peak": 36,
           "debut": "2025-09-16",
@@ -5458,7 +5458,7 @@
         },
         "esdeekid - lv sandals": {
           "title": "LV Sandals",
-          "cover": "covers/esdeekid__lv_sandals.png",
+          "cover": "covers/placeholder.png",
           "weeks": 7,
           "peak": 13,
           "debut": "2025-10-28",
@@ -5648,7 +5648,7 @@
       "songs": {
         "needy girl overdose - cubibibibism": {
           "title": "Cubibibibism",
-          "cover": "covers/needy_girl_overdose__cubibibibism.jpg",
+          "cover": "covers/needy_girl_overdose_355_pts_5_listeners__cubibibibism.jpg",
           "weeks": 3,
           "peak": 39,
           "debut": "2025-09-16",
@@ -5778,7 +5778,7 @@
         },
         "clipse - p.o.v.": {
           "title": "P.O.V.",
-          "cover": "covers/_placeholder.png",
+          "cover": "covers/clipse__pov.png",
           "weeks": 2,
           "peak": 27,
           "debut": "2025-09-16",
@@ -6208,7 +6208,7 @@
         },
         "radiohead - weird fishes / arpeggi": {
           "title": "Weird Fishes / Arpeggi",
-          "cover": "covers/radiohead_425_pts__weird_fishes_arpeggi.png",
+          "cover": "covers/radiohead__weird_fishes_arpeggi.png",
           "weeks": 1,
           "peak": 34,
           "debut": "2025-10-14",
@@ -7060,7 +7060,7 @@
         },
         "tame impala - my old ways": {
           "title": "My Old Ways",
-          "cover": "covers/_placeholder.png",
+          "cover": "covers/tame_impala__my_old_ways.jpg",
           "weeks": 3,
           "peak": 7,
           "debut": "2025-10-14",
@@ -7526,7 +7526,7 @@
       "songs": {
         "franz ferdinand - take me out": {
           "title": "Take Me Out",
-          "cover": "covers/franz_ferdinand_495_pts__take_me_out.png",
+          "cover": "covers/franz_ferdinand__take_me_out.png",
           "weeks": 2,
           "peak": 35,
           "debut": "2025-09-23",
@@ -7798,7 +7798,7 @@
         },
         "magdalena bay - unoriginal": {
           "title": "Unoriginal",
-          "cover": "covers/_placeholder.png",
+          "cover": "covers/placeholder.png",
           "weeks": 1,
           "peak": 32,
           "debut": "2025-11-04",
@@ -7914,7 +7914,7 @@
         },
         "geese - cobra": {
           "title": "Cobra",
-          "cover": "covers/_placeholder.png",
+          "cover": "covers/geese__cobra.png",
           "weeks": 4,
           "peak": 15,
           "debut": "2025-09-30",
@@ -8124,7 +8124,7 @@
         },
         "geordie greep - blues": {
           "title": "Blues",
-          "cover": "covers/_placeholder.png",
+          "cover": "covers/geordie_greep__blues.png",
           "weeks": 3,
           "peak": 19,
           "debut": "2025-09-30",
@@ -8248,7 +8248,7 @@
         },
         "daft punk - face to face": {
           "title": "Face to Face",
-          "cover": "covers/daft_punk_440_pts__face_to_face.png",
+          "cover": "covers/daft_punk__face_to_face.png",
           "weeks": 2,
           "peak": 30,
           "debut": "2025-09-30",
@@ -9008,7 +9008,7 @@
         },
         "glaive - nouveau riche": {
           "title": "Nouveau Riche",
-          "cover": "covers/_placeholder.png",
+          "cover": "covers/placeholder.png",
           "weeks": 1,
           "peak": 25,
           "debut": "2025-11-04",
@@ -9022,7 +9022,7 @@
         },
         "glaive - appalachia": {
           "title": "Appalachia",
-          "cover": "covers/_placeholder.png",
+          "cover": "covers/placeholder.png",
           "weeks": 1,
           "peak": 40,
           "debut": "2025-11-04",
@@ -9176,7 +9176,7 @@
         },
         "casey edwards - devil trigger": {
           "title": "Devil Trigger",
-          "cover": "covers/casey_edwards__devil_trigger.jpg",
+          "cover": "covers/casey_edwards__devil_trigger.png",
           "weeks": 2,
           "peak": 18,
           "debut": "2025-10-14",
@@ -10108,7 +10108,7 @@
       "songs": {
         "osamason - inferno": {
           "title": "Inferno",
-          "cover": "covers/osamason__inferno.png",
+          "cover": "covers/placeholder.png",
           "weeks": 3,
           "peak": 6,
           "debut": "2025-10-14",
@@ -10130,7 +10130,7 @@
         },
         "osamason - fmj": {
           "title": "Fmj",
-          "cover": "covers/_placeholder.png",
+          "cover": "covers/placeholder.png",
           "weeks": 1,
           "peak": 9,
           "debut": "2025-10-14",
@@ -10144,7 +10144,7 @@
         },
         "osamason - habits": {
           "title": "haBITS",
-          "cover": "covers/osamason__habits.png",
+          "cover": "covers/placeholder.png",
           "weeks": 6,
           "peak": 14,
           "debut": "2025-10-14",
@@ -10178,7 +10178,7 @@
         },
         "osamason - function": {
           "title": "function",
-          "cover": "covers/osamason__function.png",
+          "cover": "covers/placeholder.png",
           "weeks": 3,
           "peak": 31,
           "debut": "2025-10-14",
@@ -10200,7 +10200,7 @@
         },
         "osamason - maag dump": {
           "title": "Maag Dump",
-          "cover": "covers/_placeholder.png",
+          "cover": "covers/placeholder.png",
           "weeks": 1,
           "peak": 37,
           "debut": "2025-10-14",
@@ -10254,7 +10254,7 @@
         },
         "osamason - get away": {
           "title": "get away",
-          "cover": "covers/osamason__get_away.png",
+          "cover": "covers/placeholder.png",
           "weeks": 6,
           "peak": 1,
           "debut": "2025-10-21",
@@ -10288,7 +10288,7 @@
         },
         "osamason - gintama": {
           "title": "GINTAMA",
-          "cover": "covers/_placeholder.png",
+          "cover": "covers/placeholder.png",
           "weeks": 1,
           "peak": 24,
           "debut": "2025-10-21",
@@ -10302,7 +10302,7 @@
         },
         "osamason - she woke up": {
           "title": "she WOKE up",
-          "cover": "covers/_placeholder.png",
+          "cover": "covers/placeholder.png",
           "weeks": 1,
           "peak": 26,
           "debut": "2025-10-21",
@@ -10316,7 +10316,7 @@
         },
         "osamason - its a party": {
           "title": "its a party",
-          "cover": "covers/osamason__its_a_party.jpg",
+          "cover": "covers/placeholder.png",
           "weeks": 2,
           "peak": 27,
           "debut": "2025-10-21",
@@ -10392,7 +10392,7 @@
       "songs": {
         "good kid - wall": {
           "title": "Wall",
-          "cover": "covers/good_kid_465_pts__wall.jpg",
+          "cover": "covers/good_kid__wall.jpg",
           "weeks": 1,
           "peak": 24,
           "debut": "2025-10-14",
@@ -10428,7 +10428,7 @@
       "songs": {
         "tool - forty six & 2": {
           "title": "Forty Six & 2",
-          "cover": "covers/tool_450_pts__forty_six_2.jpg",
+          "cover": "covers/tool__forty_six_2.jpg",
           "weeks": 1,
           "peak": 28,
           "debut": "2025-10-14",
@@ -10446,7 +10446,7 @@
       "songs": {
         "dazey and the scouts - wet": {
           "title": "Wet",
-          "cover": "covers/dazey_and_the_scouts__wet.png",
+          "cover": "covers/placeholder.png",
           "weeks": 2,
           "peak": 35,
           "debut": "2025-10-14",
@@ -10468,7 +10468,7 @@
       "songs": {
         "freddie gibbs - ensalada (feat. anderson .paak)": {
           "title": "Ensalada (feat. Anderson .Paak)",
-          "cover": "covers/_placeholder.png",
+          "cover": "covers/placeholder.png",
           "weeks": 2,
           "peak": 34,
           "debut": "2025-10-14",
@@ -11180,7 +11180,7 @@
         },
         "bbno$ - gigolo": {
           "title": "gigolo",
-          "cover": "covers/_placeholder.png",
+          "cover": "covers/placeholder.png",
           "weeks": 1,
           "peak": 14,
           "debut": "2025-10-21",
@@ -11226,7 +11226,7 @@
       "songs": {
         "black country, new road - the place where he inserted the blade": {
           "title": "The Place Where He Inserted The Blade",
-          "cover": "covers/black_country_new_road_550_pts__the_place_where_he_inserted_the_blade.png",
+          "cover": "covers/black_country_new_road__the_place_where_he_inserted_the_blade.jpg",
           "weeks": 2,
           "peak": 30,
           "debut": "2025-10-14",
@@ -11734,7 +11734,7 @@
       "songs": {
         "kim petras - i like ur look": {
           "title": "I Like Ur Look",
-          "cover": "covers/kim_petras_580_pts__i_like_ur_look.png",
+          "cover": "covers/kim_petras__i_like_ur_look.png",
           "weeks": 1,
           "peak": 27,
           "debut": "2025-10-28",
@@ -12126,7 +12126,7 @@
       "songs": {
         "le sserafim - spaghetti": {
           "title": "SPAGHETTI",
-          "cover": "covers/le_sserafim__spaghetti.png",
+          "cover": "covers/placeholder.png",
           "weeks": 5,
           "peak": 6,
           "debut": "2025-11-04",
@@ -12174,7 +12174,7 @@
       "songs": {
         "kensuke ushio - in the pool": {
           "title": "in the pool",
-          "cover": "covers/kensuke_ushio__in_the_pool.png",
+          "cover": "covers/placeholder.png",
           "weeks": 5,
           "peak": 7,
           "debut": "2025-11-04",
@@ -12204,7 +12204,7 @@
         },
         "kensuke ushio - in the sea": {
           "title": "in the sea",
-          "cover": "covers/kensuke_ushio__in_the_sea.jpg",
+          "cover": "covers/placeholder.png",
           "weeks": 2,
           "peak": 24,
           "debut": "2025-11-04",
@@ -12226,7 +12226,7 @@
       "songs": {
         "azumi takahashi - it's going down now": {
           "title": "It's Going Down Now",
-          "cover": "covers/azumi_takahashi_615_pts__its_going_down_now.jpg",
+          "cover": "covers/azumi_takahashi__its_going_down_now.jpg",
           "weeks": 1,
           "peak": 18,
           "debut": "2025-11-04",
@@ -12258,7 +12258,7 @@
       "songs": {
         "ken carson - yes": {
           "title": "yes",
-          "cover": "covers/_placeholder.png",
+          "cover": "covers/placeholder.png",
           "weeks": 1,
           "peak": 26,
           "debut": "2025-11-04",

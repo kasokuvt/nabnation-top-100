@@ -7,7 +7,7 @@
       "rank": 1,
       "title": "Copycats",
       "artist": "Danny Brown",
-      "cover": "covers/placeholder.png",
+      "cover": "covers/danny_brown__copycats.jpg",
       "movement": {
         "type": "up",
         "value": 28
@@ -67,7 +67,7 @@
       "rank": 5,
       "title": "Dracula",
       "artist": "Tame Impala",
-      "cover": "covers/tame_impala__dracula.jpg",
+      "cover": "covers/tame_impala__dracula.png",
       "movement": {
         "type": "up",
         "value": 6
@@ -97,7 +97,7 @@
       "rank": 7,
       "title": "My Old Ways",
       "artist": "Tame Impala",
-      "cover": "covers/placeholder.png",
+      "cover": "covers/tame_impala__my_old_ways.jpg",
       "movement": {
         "type": "re",
         "value": null
@@ -112,7 +112,7 @@
       "rank": 8,
       "title": "Dreamflasher",
       "artist": "Jane Remover",
-      "cover": "covers/placeholder.png",
+      "cover": "covers/jane_remover__dreamflasher.png",
       "movement": {
         "type": "up",
         "value": 66
@@ -142,7 +142,7 @@
       "rank": 10,
       "title": "PIXELATED KISSES",
       "artist": "Joji",
-      "cover": "covers/joji__pixelated_kisses.jpg",
+      "cover": "covers/joji__pixelated_kisses.png",
       "movement": {
         "type": "down",
         "value": 9
@@ -157,7 +157,7 @@
       "rank": 11,
       "title": "IRIS OUT",
       "artist": "Kenshi Yonezu",
-      "cover": "covers/kenshi_yonezu__iris_out.png",
+      "cover": "covers/placeholder.png",
       "movement": {
         "type": "down",
         "value": 8
@@ -187,7 +187,7 @@
       "rank": 13,
       "title": "Spoken For",
       "artist": "Flavor Foley",
-      "cover": "covers/placeholder.png",
+      "cover": "covers/flavor_foley__spoken_for.png",
       "movement": {
         "type": "down",
         "value": 9
@@ -232,7 +232,7 @@
       "rank": 16,
       "title": "L.E.S.",
       "artist": "Childish Gambino",
-      "cover": "covers/childish_gambino__les.jpg",
+      "cover": "covers/childish_gambino__les.png",
       "movement": {
         "type": "up",
         "value": 16
@@ -247,7 +247,7 @@
       "rank": 17,
       "title": "Cobra",
       "artist": "Geese",
-      "cover": "covers/placeholder.png",
+      "cover": "covers/geese__cobra.png",
       "movement": {
         "type": "down",
         "value": 2
@@ -292,7 +292,7 @@
       "rank": 20,
       "title": "Rabbit Season",
       "artist": "Machine Girl",
-      "cover": "covers/machine_girl__rabbit_season.png",
+      "cover": "covers/machine_girl__rabbit_season.jpg",
       "movement": {
         "type": "up",
         "value": 8
@@ -307,7 +307,7 @@
       "rank": 21,
       "title": "Taxes",
       "artist": "Geese",
-      "cover": "covers/placeholder.png",
+      "cover": "covers/geese__taxes.jpg",
       "movement": {
         "type": "up",
         "value": 4
@@ -397,7 +397,7 @@
       "rank": 27,
       "title": "jeans",
       "artist": "2hollis",
-      "cover": "covers/placeholder.png",
+      "cover": "covers/2hollis__jeans.png",
       "movement": {
         "type": "re",
         "value": null
@@ -412,7 +412,7 @@
       "rank": 28,
       "title": "Gabriela",
       "artist": "KATSEYE",
-      "cover": "covers/placeholder.png",
+      "cover": "covers/katseye__gabriela.jpg",
       "movement": {
         "type": "up",
         "value": 16
@@ -427,7 +427,7 @@
       "rank": 29,
       "title": "Stateside",
       "artist": "PinkPantheress",
-      "cover": "covers/placeholder.png",
+      "cover": "covers/pinkpantheress__stateside.jpg",
       "movement": {
         "type": "re",
         "value": null
@@ -457,7 +457,7 @@
       "rank": 31,
       "title": "4 Raws",
       "artist": "EsDeeKid",
-      "cover": "covers/placeholder.png",
+      "cover": "covers/esdeekid__4_raws.png",
       "movement": {
         "type": "down",
         "value": 10
@@ -487,7 +487,7 @@
       "rank": 33,
       "title": "Blues",
       "artist": "Geordie Greep",
-      "cover": "covers/placeholder.png",
+      "cover": "covers/geordie_greep__blues.png",
       "movement": {
         "type": "re",
         "value": null
@@ -547,7 +547,7 @@
       "rank": 37,
       "title": "Shadow Over Me",
       "artist": "Nine Inch Nails",
-      "cover": "covers/nine_inch_nails__shadow_over_me.png",
+      "cover": "covers/nine_inch_nails__shadow_over_me.jpg",
       "movement": {
         "type": "up",
         "value": 48
@@ -562,7 +562,7 @@
       "rank": 38,
       "title": "Tears",
       "artist": "Sabrina Carpenter",
-      "cover": "covers/placeholder.png",
+      "cover": "covers/sabrina_carpenter__tears.jpg",
       "movement": {
         "type": "re",
         "value": null
@@ -622,7 +622,7 @@
       "rank": 43,
       "title": "haBITS",
       "artist": "OsamaSon",
-      "cover": "covers/osamason__habits.png",
+      "cover": "covers/placeholder.png",
       "movement": {
         "type": "up",
         "value": 39
@@ -637,7 +637,7 @@
       "rank": 44,
       "title": "Despite Having No Money At All I'm Just Another Rat in the Mall",
       "artist": "Machine Girl",
-      "cover": "covers/machine_girl__despite_having_no_money_at_all_im_just_another_rat_in_the_mall.jpg",
+      "cover": "covers/placeholder.png",
       "movement": {
         "type": "down",
         "value": 35
@@ -907,7 +907,7 @@
       "rank": 62,
       "title": "Wet",
       "artist": "Dazey and the Scouts",
-      "cover": "covers/dazey_and_the_scouts__wet.png",
+      "cover": "covers/placeholder.png",
       "movement": {
         "type": "re",
         "value": null
@@ -937,7 +937,7 @@
       "rank": 64,
       "title": "Creeping Up From The Pit",
       "artist": "Machine Girl",
-      "cover": "covers/machine_girl__creeping_up_from_the_pit.jpg",
+      "cover": "covers/machine_girl__creeping_up_from_the_pit.png",
       "movement": {
         "type": "down",
         "value": 58
@@ -952,7 +952,7 @@
       "rank": 65,
       "title": "get away",
       "artist": "OsamaSon",
-      "cover": "covers/osamason__get_away.png",
+      "cover": "covers/placeholder.png",
       "movement": {
         "type": "re",
         "value": null
@@ -1162,7 +1162,7 @@
       "rank": 79,
       "title": "Fidelio",
       "artist": "fakemink",
-      "cover": "covers/fakemink__fidelio.png",
+      "cover": "covers/placeholder.png",
       "movement": {
         "type": "down",
         "value": 56

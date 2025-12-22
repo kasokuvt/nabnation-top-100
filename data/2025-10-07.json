@@ -1027,7 +1027,7 @@
       "rank": 69,
       "title": "Music and Me",
       "artist": "fakemink",
-      "cover": "covers/fakemink__music_and_me.png",
+      "cover": "covers/placeholder.png",
       "movement": {
         "type": "down",
         "value": 53
@@ -1282,7 +1282,7 @@
       "rank": 86,
       "title": "IRIS OUT",
       "artist": "Kenshi Yonezu",
-      "cover": "covers/kenshi_yonezu__iris_out.png",
+      "cover": "covers/placeholder.png",
       "movement": {
         "type": "down",
         "value": 75

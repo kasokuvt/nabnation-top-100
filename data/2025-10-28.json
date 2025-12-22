@@ -7,7 +7,7 @@
       "rank": 1,
       "title": "PIXELATED KISSES",
       "artist": "Joji",
-      "cover": "covers/joji__pixelated_kisses.jpg",
+      "cover": "covers/joji__pixelated_kisses.png",
       "movement": {
         "type": "same",
         "value": null
@@ -37,7 +37,7 @@
       "rank": 3,
       "title": "IRIS OUT",
       "artist": "Kenshi Yonezu",
-      "cover": "covers/kenshi_yonezu__iris_out.png",
+      "cover": "covers/placeholder.png",
       "movement": {
         "type": "up",
         "value": 17
@@ -52,7 +52,7 @@
       "rank": 4,
       "title": "Spoken For",
       "artist": "Flavor Foley",
-      "cover": "covers/placeholder.png",
+      "cover": "covers/flavor_foley__spoken_for.png",
       "movement": {
         "type": "up",
         "value": 12
@@ -142,7 +142,7 @@
       "rank": 10,
       "title": "Headfirst Slide Into Cooperstown on a Bad Bet",
       "artist": "Fall Out Boy",
-      "cover": "covers/fall_out_boy__headfirst_slide_into_cooperstown_on_a_bad_bet.png",
+      "cover": "covers/fall_out_boy__headfirst_slide_into_cooperstown_on_a_bad_bet.jpg",
       "movement": {
         "type": "re",
         "value": null
@@ -157,7 +157,7 @@
       "rank": 11,
       "title": "Dracula",
       "artist": "Tame Impala",
-      "cover": "covers/tame_impala__dracula.jpg",
+      "cover": "covers/tame_impala__dracula.png",
       "movement": {
         "type": "down",
         "value": 8
@@ -202,7 +202,7 @@
       "rank": 14,
       "title": "I WANT THINGS TO BE BEAUTIFUL",
       "artist": "Devi McCallion",
-      "cover": "covers/devi_mccallion__i_want_things_to_be_beautiful.png",
+      "cover": "covers/devi_mccallion__i_want_things_to_be_beautiful.jpg",
       "movement": {
         "type": "down",
         "value": 7
@@ -217,7 +217,7 @@
       "rank": 15,
       "title": "Cobra",
       "artist": "Geese",
-      "cover": "covers/placeholder.png",
+      "cover": "covers/geese__cobra.png",
       "movement": {
         "type": "re",
         "value": null
@@ -277,7 +277,7 @@
       "rank": 19,
       "title": "poster boy",
       "artist": "2hollis",
-      "cover": "covers/placeholder.png",
+      "cover": "covers/2hollis__poster_boy.png",
       "movement": {
         "type": "up",
         "value": 12
@@ -307,7 +307,7 @@
       "rank": 21,
       "title": "4 Raws",
       "artist": "EsDeeKid",
-      "cover": "covers/placeholder.png",
+      "cover": "covers/esdeekid__4_raws.png",
       "movement": {
         "type": "re",
         "value": null
@@ -367,7 +367,7 @@
       "rank": 25,
       "title": "Taxes",
       "artist": "Geese",
-      "cover": "covers/placeholder.png",
+      "cover": "covers/geese__taxes.jpg",
       "movement": {
         "type": "re",
         "value": null
@@ -412,7 +412,7 @@
       "rank": 28,
       "title": "Rabbit Season",
       "artist": "Machine Girl",
-      "cover": "covers/machine_girl__rabbit_season.png",
+      "cover": "covers/machine_girl__rabbit_season.jpg",
       "movement": {
         "type": "up",
         "value": 20
@@ -427,7 +427,7 @@
       "rank": 29,
       "title": "Copycats",
       "artist": "Danny Brown",
-      "cover": "covers/placeholder.png",
+      "cover": "covers/danny_brown__copycats.jpg",
       "movement": {
         "type": "down",
         "value": 27
@@ -442,7 +442,7 @@
       "rank": 30,
       "title": "The Place Where He Inserted The Blade",
       "artist": "Black Country, New Road",
-      "cover": "covers/black_country_new_road__the_place_where_he_inserted_the_blade.png",
+      "cover": "covers/black_country_new_road__the_place_where_he_inserted_the_blade.jpg",
       "movement": {
         "type": "re",
         "value": null
@@ -472,7 +472,7 @@
       "rank": 32,
       "title": "L.E.S.",
       "artist": "Childish Gambino",
-      "cover": "covers/childish_gambino__les.jpg",
+      "cover": "covers/childish_gambino__les.png",
       "movement": {
         "type": "up",
         "value": 21
@@ -532,7 +532,7 @@
       "rank": 36,
       "title": "weathergirl",
       "artist": "Flavor Foley",
-      "cover": "covers/placeholder.png",
+      "cover": "covers/flavor_foley__weathergirl.png",
       "movement": {
         "type": "up",
         "value": 14
@@ -547,7 +547,7 @@
       "rank": 37,
       "title": "SUGAR ON MY TONGUE",
       "artist": "Tyler, The Creator",
-      "cover": "covers/tyler_the_creator__sugar_on_my_tongue.png",
+      "cover": "covers/tyler_the_creator__sugar_on_my_tongue.jpg",
       "movement": {
         "type": "re",
         "value": null
@@ -592,7 +592,7 @@
       "rank": 40,
       "title": "Pitch the Baby",
       "artist": "Cocteau Twins",
-      "cover": "covers/cocteau_twins__pitch_the_baby.png",
+      "cover": "covers/cocteau_twins__pitch_the_baby.jpg",
       "movement": {
         "type": "re",
         "value": null
@@ -1222,7 +1222,7 @@
       "rank": 82,
       "title": "haBITS",
       "artist": "OsamaSon",
-      "cover": "covers/osamason__habits.png",
+      "cover": "covers/placeholder.png",
       "movement": {
         "type": "down",
         "value": 42

@@ -187,7 +187,7 @@
       "rank": 13,
       "title": "LV Sandals",
       "artist": "EsDeeKid",
-      "cover": "covers/esdeekid__lv_sandals.png",
+      "cover": "covers/placeholder.png",
       "movement": {
         "type": "up",
         "value": 24
@@ -337,7 +337,7 @@
       "rank": 23,
       "title": "IRIS OUT",
       "artist": "Kenshi Yonezu",
-      "cover": "covers/kenshi_yonezu__iris_out.png",
+      "cover": "covers/placeholder.png",
       "movement": {
         "type": "down",
         "value": 16
@@ -562,7 +562,7 @@
       "rank": 38,
       "title": "SPAGHETTI",
       "artist": "LE SSERAFIM",
-      "cover": "covers/le_sserafim__spaghetti.png",
+      "cover": "covers/placeholder.png",
       "movement": {
         "type": "re",
         "value": null
@@ -697,7 +697,7 @@
       "rank": 47,
       "title": "Cubibibibism",
       "artist": "NEEDY GIRL OVERDOSE",
-      "cover": "covers/needy_girl_overdose__cubibibibism.jpg",
+      "cover": "covers/needy_girl_overdose_355_pts_5_listeners__cubibibibism.jpg",
       "movement": {
         "type": "re",
         "value": null
@@ -1072,7 +1072,7 @@
       "rank": 72,
       "title": "haBITS",
       "artist": "OsamaSon",
-      "cover": "covers/osamason__habits.png",
+      "cover": "covers/placeholder.png",
       "movement": {
         "type": "re",
         "value": null
@@ -1312,7 +1312,7 @@
       "rank": 88,
       "title": "Phantom",
       "artist": "EsDeeKid",
-      "cover": "covers/esdeekid__phantom.png",
+      "cover": "covers/placeholder.png",
       "movement": {
         "type": "up",
         "value": 3
