@@ -7,14 +7,14 @@
       "rank": 1,
       "title": "Copycats",
       "artist": "Danny Brown",
-      "cover": "covers/_placeholder.png",
+      "cover": "covers/placeholder.png",
       "movement": {
-        "type": "new",
-        "value": null
+        "type": "up",
+        "value": 28
       },
-      "lastWeek": null,
+      "lastWeek": 29,
       "peak": 1,
-      "weeks": 6,
+      "weeks": 3,
       "points": null,
       "listeners": null
     },
@@ -22,37 +22,37 @@
       "rank": 2,
       "title": "Au Pays du Cocaine",
       "artist": "Geese",
-      "cover": "covers/geese_1115_pts__au_pays_du_cocaine.png",
+      "cover": "covers/geese__au_pays_du_cocaine.png",
       "movement": {
-        "type": "new",
+        "type": "same",
         "value": null
       },
-      "lastWeek": null,
+      "lastWeek": 2,
       "peak": 1,
-      "weeks": 12,
-      "points": null,
+      "weeks": 6,
+      "points": 111.5,
       "listeners": null
     },
     {
       "rank": 3,
       "title": "I WANT THINGS TO BE BEAUTIFUL",
       "artist": "Devi McCallion",
-      "cover": "covers/devi_mccallion_1095_pts__i_want_things_to_be_beautiful.jpg",
+      "cover": "covers/devi_mccallion__i_want_things_to_be_beautiful.jpg",
       "movement": {
-        "type": "new",
-        "value": null
+        "type": "up",
+        "value": 11
       },
-      "lastWeek": null,
+      "lastWeek": 14,
       "peak": 2,
-      "weeks": 14,
-      "points": null,
+      "weeks": 8,
+      "points": 109.5,
       "listeners": null
     },
     {
       "rank": 4,
       "title": "MOTHER",
       "artist": "Tyler, The Creator",
-      "cover": "covers/_placeholder.png",
+      "cover": "covers/placeholder.png",
       "movement": {
         "type": "new",
         "value": null
@@ -67,29 +67,29 @@
       "rank": 5,
       "title": "Dracula",
       "artist": "Tame Impala",
-      "cover": "covers/tame_impala_1055_pts__dracula.jpg",
+      "cover": "covers/tame_impala__dracula.jpg",
       "movement": {
-        "type": "new",
-        "value": null
+        "type": "up",
+        "value": 6
       },
-      "lastWeek": null,
+      "lastWeek": 11,
       "peak": 1,
-      "weeks": 13,
-      "points": null,
+      "weeks": 6,
+      "points": 105.5,
       "listeners": null
     },
     {
       "rank": 6,
       "title": "SPAGHETTI",
       "artist": "LE SSERAFIM",
-      "cover": "covers/_placeholder.png",
+      "cover": "covers/placeholder.png",
       "movement": {
         "type": "new",
         "value": null
       },
       "lastWeek": null,
       "peak": 6,
-      "weeks": 5,
+      "weeks": 1,
       "points": null,
       "listeners": null
     },
@@ -97,9 +97,9 @@
       "rank": 7,
       "title": "My Old Ways",
       "artist": "Tame Impala",
-      "cover": "covers/_placeholder.png",
+      "cover": "covers/placeholder.png",
       "movement": {
-        "type": "new",
+        "type": "re",
         "value": null
       },
       "lastWeek": null,
@@ -112,14 +112,14 @@
       "rank": 8,
       "title": "Dreamflasher",
       "artist": "Jane Remover",
-      "cover": "covers/_placeholder.png",
+      "cover": "covers/placeholder.png",
       "movement": {
-        "type": "new",
-        "value": null
+        "type": "up",
+        "value": 66
       },
-      "lastWeek": null,
+      "lastWeek": 74,
       "peak": 2,
-      "weeks": 12,
+      "weeks": 6,
       "points": null,
       "listeners": null
     },
@@ -127,14 +127,14 @@
       "rank": 9,
       "title": "in the pool",
       "artist": "Kensuke Ushio",
-      "cover": "covers/_placeholder.png",
+      "cover": "covers/placeholder.png",
       "movement": {
         "type": "new",
         "value": null
       },
       "lastWeek": null,
-      "peak": 7,
-      "weeks": 5,
+      "peak": 9,
+      "weeks": 1,
       "points": null,
       "listeners": null
     },
@@ -142,59 +142,59 @@
       "rank": 10,
       "title": "PIXELATED KISSES",
       "artist": "Joji",
-      "cover": "covers/joji_815_pts__pixelated_kisses.jpg",
+      "cover": "covers/joji__pixelated_kisses.jpg",
       "movement": {
-        "type": "new",
-        "value": null
+        "type": "down",
+        "value": 9
       },
-      "lastWeek": null,
+      "lastWeek": 1,
       "peak": 1,
-      "weeks": 7,
-      "points": null,
+      "weeks": 3,
+      "points": 81.5,
       "listeners": null
     },
     {
       "rank": 11,
       "title": "IRIS OUT",
       "artist": "Kenshi Yonezu",
-      "cover": "covers/kenshi_yonezu_810_pts__iris_out.png",
+      "cover": "covers/kenshi_yonezu__iris_out.png",
       "movement": {
-        "type": "new",
-        "value": null
+        "type": "down",
+        "value": 8
       },
-      "lastWeek": null,
+      "lastWeek": 3,
       "peak": 3,
-      "weeks": 15,
-      "points": null,
+      "weeks": 8,
+      "points": 81.0,
       "listeners": null
     },
     {
       "rank": 12,
       "title": "ST. CHROMA (feat. Daniel Caesar)",
       "artist": "Tyler, The Creator",
-      "cover": "covers/tyler_the_creator_690_pts__st_chroma_feat_daniel_caesar.png",
+      "cover": "covers/tyler_the_creator__st_chroma_feat_daniel_caesar.png",
       "movement": {
         "type": "new",
         "value": null
       },
       "lastWeek": null,
       "peak": 12,
-      "weeks": 3,
-      "points": null,
+      "weeks": 1,
+      "points": 69.0,
       "listeners": null
     },
     {
       "rank": 13,
       "title": "Spoken For",
       "artist": "Flavor Foley",
-      "cover": "covers/_placeholder.png",
+      "cover": "covers/placeholder.png",
       "movement": {
-        "type": "new",
-        "value": null
+        "type": "down",
+        "value": 9
       },
-      "lastWeek": null,
+      "lastWeek": 4,
       "peak": 4,
-      "weeks": 11,
+      "weeks": 8,
       "points": null,
       "listeners": null
     },
@@ -202,57 +202,57 @@
       "rank": 14,
       "title": "Ignore the Vore",
       "artist": "Machine Girl",
-      "cover": "covers/machine_girl_645_pts__ignore_the_vore.png",
+      "cover": "covers/machine_girl__ignore_the_vore.png",
       "movement": {
-        "type": "new",
-        "value": null
+        "type": "down",
+        "value": 9
       },
-      "lastWeek": null,
+      "lastWeek": 5,
       "peak": 5,
-      "weeks": 4,
-      "points": null,
+      "weeks": 2,
+      "points": 64.5,
       "listeners": null
     },
     {
       "rank": 15,
       "title": "Dual Wield",
       "artist": "Machine Girl",
-      "cover": "covers/machine_girl_620_pts__dual_wield.png",
+      "cover": "covers/machine_girl__dual_wield.png",
       "movement": {
-        "type": "new",
-        "value": null
+        "type": "up",
+        "value": 3
       },
-      "lastWeek": null,
+      "lastWeek": 18,
       "peak": 15,
       "weeks": 2,
-      "points": null,
+      "points": 62.0,
       "listeners": null
     },
     {
       "rank": 16,
       "title": "L.E.S.",
       "artist": "Childish Gambino",
-      "cover": "covers/childish_gambino_620_pts__les.jpg",
+      "cover": "covers/childish_gambino__les.jpg",
       "movement": {
-        "type": "new",
-        "value": null
+        "type": "up",
+        "value": 16
       },
-      "lastWeek": null,
+      "lastWeek": 32,
       "peak": 16,
-      "weeks": 7,
-      "points": null,
+      "weeks": 5,
+      "points": 62.0,
       "listeners": null
     },
     {
       "rank": 17,
       "title": "Cobra",
       "artist": "Geese",
-      "cover": "covers/_placeholder.png",
+      "cover": "covers/placeholder.png",
       "movement": {
-        "type": "new",
-        "value": null
+        "type": "down",
+        "value": 2
       },
-      "lastWeek": null,
+      "lastWeek": 15,
       "peak": 15,
       "weeks": 4,
       "points": null,
@@ -262,7 +262,7 @@
       "rank": 18,
       "title": "It's Going Down Now",
       "artist": "Azumi Takahashi",
-      "cover": "covers/azumi_takahashi_615_pts__its_going_down_now.jpg",
+      "cover": "covers/azumi_takahashi__its_going_down_now.jpg",
       "movement": {
         "type": "new",
         "value": null
@@ -270,51 +270,51 @@
       "lastWeek": null,
       "peak": 18,
       "weeks": 1,
-      "points": null,
+      "points": 61.5,
       "listeners": null
     },
     {
       "rank": 19,
       "title": "How To Pretend",
       "artist": "Lucy Bedroque",
-      "cover": "covers/lucy_bedroque_610_pts__how_to_pretend.png",
+      "cover": "covers/lucy_bedroque__how_to_pretend.png",
       "movement": {
-        "type": "new",
+        "type": "re",
         "value": null
       },
       "lastWeek": null,
-      "peak": 12,
-      "weeks": 8,
-      "points": null,
+      "peak": 19,
+      "weeks": 2,
+      "points": 61.0,
       "listeners": null
     },
     {
       "rank": 20,
       "title": "Rabbit Season",
       "artist": "Machine Girl",
-      "cover": "covers/machine_girl_590_pts__rabbit_season.png",
+      "cover": "covers/machine_girl__rabbit_season.png",
       "movement": {
-        "type": "new",
-        "value": null
+        "type": "up",
+        "value": 8
       },
-      "lastWeek": null,
+      "lastWeek": 28,
       "peak": 1,
-      "weeks": 8,
-      "points": null,
+      "weeks": 7,
+      "points": 59.0,
       "listeners": null
     },
     {
       "rank": 21,
       "title": "Taxes",
       "artist": "Geese",
-      "cover": "covers/_placeholder.png",
+      "cover": "covers/placeholder.png",
       "movement": {
-        "type": "new",
-        "value": null
+        "type": "up",
+        "value": 4
       },
-      "lastWeek": null,
+      "lastWeek": 25,
       "peak": 10,
-      "weeks": 9,
+      "weeks": 5,
       "points": null,
       "listeners": null
     },
@@ -322,44 +322,44 @@
       "rank": 22,
       "title": "Phantom Doom",
       "artist": "Machine Girl",
-      "cover": "covers/machine_girl_585_pts__phantom_doom.png",
+      "cover": "covers/machine_girl__phantom_doom.png",
       "movement": {
-        "type": "new",
-        "value": null
+        "type": "down",
+        "value": 10
       },
-      "lastWeek": null,
+      "lastWeek": 12,
       "peak": 12,
       "weeks": 2,
-      "points": null,
+      "points": 58.5,
       "listeners": null
     },
     {
       "rank": 23,
       "title": "ID Crisis Angel",
       "artist": "Machine Girl",
-      "cover": "covers/machine_girl_570_pts__id_crisis_angel.png",
+      "cover": "covers/machine_girl__id_crisis_angel.png",
       "movement": {
-        "type": "new",
-        "value": null
+        "type": "down",
+        "value": 16
       },
-      "lastWeek": null,
+      "lastWeek": 7,
       "peak": 7,
-      "weeks": 3,
-      "points": null,
+      "weeks": 2,
+      "points": 57.0,
       "listeners": null
     },
     {
       "rank": 24,
       "title": "in the sea",
       "artist": "Kensuke Ushio",
-      "cover": "covers/_placeholder.png",
+      "cover": "covers/placeholder.png",
       "movement": {
         "type": "new",
         "value": null
       },
       "lastWeek": null,
       "peak": 24,
-      "weeks": 2,
+      "weeks": 1,
       "points": null,
       "listeners": null
     },
@@ -367,7 +367,7 @@
       "rank": 25,
       "title": "Nouveau Riche",
       "artist": "glaive",
-      "cover": "covers/_placeholder.png",
+      "cover": "covers/placeholder.png",
       "movement": {
         "type": "new",
         "value": null
@@ -382,7 +382,7 @@
       "rank": 26,
       "title": "yes",
       "artist": "Ken Carson",
-      "cover": "covers/_placeholder.png",
+      "cover": "covers/placeholder.png",
       "movement": {
         "type": "new",
         "value": null
@@ -397,14 +397,14 @@
       "rank": 27,
       "title": "jeans",
       "artist": "2hollis",
-      "cover": "covers/_placeholder.png",
+      "cover": "covers/placeholder.png",
       "movement": {
-        "type": "new",
+        "type": "re",
         "value": null
       },
       "lastWeek": null,
       "peak": 15,
-      "weeks": 8,
+      "weeks": 5,
       "points": null,
       "listeners": null
     },
@@ -412,14 +412,14 @@
       "rank": 28,
       "title": "Gabriela",
       "artist": "KATSEYE",
-      "cover": "covers/_placeholder.png",
+      "cover": "covers/placeholder.png",
       "movement": {
-        "type": "new",
-        "value": null
+        "type": "up",
+        "value": 16
       },
-      "lastWeek": null,
+      "lastWeek": 44,
       "peak": 1,
-      "weeks": 9,
+      "weeks": 5,
       "points": null,
       "listeners": null
     },
@@ -427,14 +427,14 @@
       "rank": 29,
       "title": "Stateside",
       "artist": "PinkPantheress",
-      "cover": "covers/_placeholder.png",
+      "cover": "covers/placeholder.png",
       "movement": {
-        "type": "new",
+        "type": "re",
         "value": null
       },
       "lastWeek": null,
       "peak": 17,
-      "weeks": 5,
+      "weeks": 2,
       "points": null,
       "listeners": null
     },
@@ -442,29 +442,29 @@
       "rank": 30,
       "title": "Experimental skin",
       "artist": "Jane Remover",
-      "cover": "covers/jane_remover_505_pts__experimental_skin.png",
+      "cover": "covers/jane_remover__experimental_skin.png",
       "movement": {
-        "type": "new",
+        "type": "re",
         "value": null
       },
       "lastWeek": null,
-      "peak": 14,
-      "weeks": 6,
-      "points": null,
+      "peak": 30,
+      "weeks": 2,
+      "points": 50.5,
       "listeners": null
     },
     {
       "rank": 31,
       "title": "4 Raws",
       "artist": "EsDeeKid",
-      "cover": "covers/_placeholder.png",
+      "cover": "covers/placeholder.png",
       "movement": {
-        "type": "new",
-        "value": null
+        "type": "down",
+        "value": 10
       },
-      "lastWeek": null,
-      "peak": 2,
-      "weeks": 10,
+      "lastWeek": 21,
+      "peak": 21,
+      "weeks": 3,
       "points": null,
       "listeners": null
     },
@@ -472,7 +472,7 @@
       "rank": 32,
       "title": "Unoriginal",
       "artist": "Magdalena Bay",
-      "cover": "covers/_placeholder.png",
+      "cover": "covers/placeholder.png",
       "movement": {
         "type": "new",
         "value": null
@@ -487,9 +487,9 @@
       "rank": 33,
       "title": "Blues",
       "artist": "Geordie Greep",
-      "cover": "covers/_placeholder.png",
+      "cover": "covers/placeholder.png",
       "movement": {
-        "type": "new",
+        "type": "re",
         "value": null
       },
       "lastWeek": null,
@@ -502,12 +502,12 @@
       "rank": 34,
       "title": "Psychowar",
       "artist": "Machine Girl",
-      "cover": "covers/_placeholder.png",
+      "cover": "covers/placeholder.png",
       "movement": {
-        "type": "new",
-        "value": null
+        "type": "down",
+        "value": 26
       },
-      "lastWeek": null,
+      "lastWeek": 8,
       "peak": 8,
       "weeks": 2,
       "points": null,
@@ -517,54 +517,54 @@
       "rank": 35,
       "title": "Take Me Out",
       "artist": "Franz Ferdinand",
-      "cover": "covers/franz_ferdinand_495_pts__take_me_out.png",
+      "cover": "covers/franz_ferdinand__take_me_out.png",
       "movement": {
-        "type": "new",
+        "type": "re",
         "value": null
       },
       "lastWeek": null,
       "peak": 35,
       "weeks": 2,
-      "points": null,
+      "points": 49.5,
       "listeners": null
     },
     {
       "rank": 36,
       "title": "i-Void Destroyer",
       "artist": "Machine Girl",
-      "cover": "covers/machine_girl_490_pts__i_void_destroyer.png",
+      "cover": "covers/machine_girl__i_void_destroyer.png",
       "movement": {
-        "type": "new",
-        "value": null
+        "type": "down",
+        "value": 16
       },
-      "lastWeek": null,
+      "lastWeek": 20,
       "peak": 20,
       "weeks": 2,
-      "points": null,
+      "points": 49.0,
       "listeners": null
     },
     {
       "rank": 37,
       "title": "Shadow Over Me",
       "artist": "Nine Inch Nails",
-      "cover": "covers/nine_inch_nails_490_pts__shadow_over_me.png",
+      "cover": "covers/nine_inch_nails__shadow_over_me.png",
       "movement": {
-        "type": "new",
-        "value": null
+        "type": "up",
+        "value": 48
       },
-      "lastWeek": null,
+      "lastWeek": 85,
       "peak": 37,
       "weeks": 2,
-      "points": null,
+      "points": 49.0,
       "listeners": null
     },
     {
       "rank": 38,
       "title": "Tears",
       "artist": "Sabrina Carpenter",
-      "cover": "covers/_placeholder.png",
+      "cover": "covers/placeholder.png",
       "movement": {
-        "type": "new",
+        "type": "re",
         "value": null
       },
       "lastWeek": null,
@@ -577,9 +577,9 @@
       "rank": 39,
       "title": "Dread Architect",
       "artist": "Machine Girl",
-      "cover": "covers/_placeholder.png",
+      "cover": "covers/placeholder.png",
       "movement": {
-        "type": "new",
+        "type": "re",
         "value": null
       },
       "lastWeek": null,
@@ -592,7 +592,7 @@
       "rank": 40,
       "title": "Appalachia",
       "artist": "glaive",
-      "cover": "covers/_placeholder.png",
+      "cover": "covers/placeholder.png",
       "movement": {
         "type": "new",
         "value": null
@@ -609,10 +609,10 @@
       "artist": "STOMACH BOOK",
       "cover": "covers/stomach_book__fukouna_girl.png",
       "movement": {
-        "type": "new",
-        "value": null
+        "type": "down",
+        "value": 9
       },
-      "lastWeek": null,
+      "lastWeek": 33,
       "peak": 33,
       "weeks": 2,
       "points": 47.0,
@@ -629,20 +629,20 @@
       },
       "lastWeek": 82,
       "peak": 14,
-      "weeks": 6,
+      "weeks": 4,
       "points": 47.0,
       "listeners": 5
     },
     {
       "rank": 44,
-      "title": "Despite Having No Money At All I’m Just Another Rat in the Mall",
+      "title": "Despite Having No Money At All I'm Just Another Rat in the Mall",
       "artist": "Machine Girl",
       "cover": "covers/machine_girl__despite_having_no_money_at_all_im_just_another_rat_in_the_mall.jpg",
       "movement": {
-        "type": "new",
-        "value": null
+        "type": "down",
+        "value": 35
       },
-      "lastWeek": null,
+      "lastWeek": 9,
       "peak": 9,
       "weeks": 2,
       "points": 47.0,
@@ -734,7 +734,7 @@
       },
       "lastWeek": null,
       "peak": 6,
-      "weeks": 4,
+      "weeks": 3,
       "points": 45.5,
       "listeners": 9
     },
@@ -748,8 +748,8 @@
         "value": null
       },
       "lastWeek": null,
-      "peak": 15,
-      "weeks": 3,
+      "peak": 51,
+      "weeks": 2,
       "points": 45.5,
       "listeners": 5
     },
@@ -774,10 +774,10 @@
       "artist": "Machine Girl",
       "cover": "covers/machine_girl__come_on_baby_scrape_my_data.png",
       "movement": {
-        "type": "re",
-        "value": null
+        "type": "down",
+        "value": 29
       },
-      "lastWeek": null,
+      "lastWeek": 24,
       "peak": 2,
       "weeks": 5,
       "points": 44.5,
@@ -824,7 +824,7 @@
       },
       "lastWeek": 45,
       "peak": 9,
-      "weeks": 12,
+      "weeks": 7,
       "points": 44.0,
       "listeners": 6
     },
@@ -839,7 +839,7 @@
       },
       "lastWeek": null,
       "peak": 57,
-      "weeks": 2,
+      "weeks": 1,
       "points": 43.5,
       "listeners": 5
     },
@@ -853,8 +853,8 @@
         "value": null
       },
       "lastWeek": null,
-      "peak": 37,
-      "weeks": 2,
+      "peak": 58,
+      "weeks": 1,
       "points": 43.0,
       "listeners": 10
     },
@@ -868,8 +868,8 @@
         "value": 38
       },
       "lastWeek": 97,
-      "peak": 10,
-      "weeks": 10,
+      "peak": 59,
+      "weeks": 4,
       "points": 43.0,
       "listeners": 9
     },
@@ -898,8 +898,8 @@
         "value": null
       },
       "lastWeek": null,
-      "peak": 41,
-      "weeks": 5,
+      "peak": 55,
+      "weeks": 2,
       "points": 43.0,
       "listeners": 6
     },
@@ -909,7 +909,7 @@
       "artist": "Dazey and the Scouts",
       "cover": "covers/dazey_and_the_scouts__wet.png",
       "movement": {
-        "type": "new",
+        "type": "re",
         "value": null
       },
       "lastWeek": null,
@@ -928,8 +928,8 @@
         "value": null
       },
       "lastWeek": null,
-      "peak": 37,
-      "weeks": 3,
+      "peak": 63,
+      "weeks": 1,
       "points": 42.5,
       "listeners": 3
     },
@@ -939,10 +939,10 @@
       "artist": "Machine Girl",
       "cover": "covers/machine_girl__creeping_up_from_the_pit.jpg",
       "movement": {
-        "type": "new",
-        "value": null
+        "type": "down",
+        "value": 58
       },
-      "lastWeek": null,
+      "lastWeek": 6,
       "peak": 6,
       "weeks": 2,
       "points": 42.0,
@@ -954,12 +954,12 @@
       "artist": "OsamaSon",
       "cover": "covers/osamason__get_away.png",
       "movement": {
-        "type": "new",
+        "type": "re",
         "value": null
       },
       "lastWeek": null,
-      "peak": 1,
-      "weeks": 6,
+      "peak": 17,
+      "weeks": 2,
       "points": 42.0,
       "listeners": 4
     },
@@ -969,10 +969,10 @@
       "artist": "Machine Girl",
       "cover": "covers/machine_girl__down_to_the_essence.png",
       "movement": {
-        "type": "new",
-        "value": null
+        "type": "down",
+        "value": 49
       },
-      "lastWeek": null,
+      "lastWeek": 17,
       "peak": 17,
       "weeks": 2,
       "points": 42.0,
@@ -989,7 +989,7 @@
       },
       "lastWeek": null,
       "peak": 67,
-      "weeks": 2,
+      "weeks": 1,
       "points": 41.5,
       "listeners": 5
     },
@@ -1049,7 +1049,7 @@
       },
       "lastWeek": 77,
       "peak": 1,
-      "weeks": 12,
+      "weeks": 8,
       "points": 41.0,
       "listeners": 8
     },
@@ -1063,8 +1063,8 @@
         "value": null
       },
       "lastWeek": null,
-      "peak": 2,
-      "weeks": 8,
+      "peak": 72,
+      "weeks": 1,
       "points": 41.0,
       "listeners": 6
     },
@@ -1094,7 +1094,7 @@
       },
       "lastWeek": null,
       "peak": 74,
-      "weeks": 3,
+      "weeks": 1,
       "points": 41.0,
       "listeners": 3
     },
@@ -1153,8 +1153,8 @@
         "value": 19
       },
       "lastWeek": 59,
-      "peak": 8,
-      "weeks": 10,
+      "peak": 22,
+      "weeks": 5,
       "points": 39.5,
       "listeners": 10
     },
@@ -1164,12 +1164,12 @@
       "artist": "fakemink",
       "cover": "covers/fakemink__fidelio.png",
       "movement": {
-        "type": "new",
-        "value": null
+        "type": "down",
+        "value": 56
       },
-      "lastWeek": null,
-      "peak": 23,
-      "weeks": 2,
+      "lastWeek": 23,
+      "peak": 19,
+      "weeks": 3,
       "points": 39.5,
       "listeners": 5
     },
@@ -1183,8 +1183,8 @@
         "value": 12
       },
       "lastWeek": 92,
-      "peak": 10,
-      "weeks": 6,
+      "peak": 80,
+      "weeks": 2,
       "points": 39.5,
       "listeners": 5
     },
@@ -1250,7 +1250,7 @@
     },
     {
       "rank": 85,
-      "title": "Stupid (Can’t run from the urge)",
+      "title": "Stupid (Can't run from the urge)",
       "artist": "underscores",
       "cover": "covers/underscores__stupid_cant_run_from_the_urge.png",
       "movement": {
@@ -1258,8 +1258,8 @@
         "value": null
       },
       "lastWeek": null,
-      "peak": 31,
-      "weeks": 3,
+      "peak": 85,
+      "weeks": 1,
       "points": 39.0,
       "listeners": 6
     },
@@ -1348,8 +1348,8 @@
         "value": null
       },
       "lastWeek": null,
-      "peak": 35,
-      "weeks": 6,
+      "peak": 91,
+      "weeks": 1,
       "points": 37.5,
       "listeners": 9
     },
@@ -1363,8 +1363,8 @@
         "value": null
       },
       "lastWeek": null,
-      "peak": 15,
-      "weeks": 5,
+      "peak": 64,
+      "weeks": 2,
       "points": 37.5,
       "listeners": 7
     },
@@ -1378,8 +1378,8 @@
         "value": null
       },
       "lastWeek": null,
-      "peak": 40,
-      "weeks": 3,
+      "peak": 93,
+      "weeks": 1,
       "points": 37.5,
       "listeners": 5
     },
@@ -1423,8 +1423,8 @@
         "value": null
       },
       "lastWeek": null,
-      "peak": 63,
-      "weeks": 3,
+      "peak": 96,
+      "weeks": 1,
       "points": 37.0,
       "listeners": 6
     },
@@ -1438,8 +1438,8 @@
         "value": null
       },
       "lastWeek": null,
-      "peak": 13,
-      "weeks": 4,
+      "peak": 97,
+      "weeks": 1,
       "points": 37.0,
       "listeners": 6
     },
@@ -1453,8 +1453,8 @@
         "value": null
       },
       "lastWeek": null,
-      "peak": 41,
-      "weeks": 3,
+      "peak": 98,
+      "weeks": 1,
       "points": 37.0,
       "listeners": 5
     },
@@ -1468,8 +1468,8 @@
         "value": null
       },
       "lastWeek": null,
-      "peak": 68,
-      "weeks": 2,
+      "peak": 99,
+      "weeks": 1,
       "points": 37.0,
       "listeners": 4
     },

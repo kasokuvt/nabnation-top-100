@@ -1,0 +1,1507 @@
+{
+  "chartName": "Nabnation Top 100",
+  "week": "2025-10-14",
+  "generatedAt": "2025-12-22T04:50:14.564537Z",
+  "entries": [
+    {
+      "rank": 1,
+      "title": "Dread Architect",
+      "artist": "Machine Girl",
+      "cover": "covers/_placeholder.png",
+      "movement": {
+        "type": "new",
+        "value": null
+      },
+      "lastWeek": null,
+      "peak": 1,
+      "weeks": 2,
+      "points": null,
+      "listeners": null
+    },
+    {
+      "rank": 2,
+      "title": "BIRDBRAIN",
+      "artist": "Jamie Paige",
+      "cover": "covers/_placeholder.png",
+      "movement": {
+        "type": "new",
+        "value": null
+      },
+      "lastWeek": null,
+      "peak": 1,
+      "weeks": 12,
+      "points": null,
+      "listeners": null
+    },
+    {
+      "rank": 3,
+      "title": "I WANT THINGS TO BE BEAUTIFUL",
+      "artist": "Devi McCallion",
+      "cover": "covers/devi_mccallion_780_pts__i_want_things_to_be_beautiful.jpg",
+      "movement": {
+        "type": "new",
+        "value": null
+      },
+      "lastWeek": null,
+      "peak": 2,
+      "weeks": 14,
+      "points": null,
+      "listeners": null
+    },
+    {
+      "rank": 4,
+      "title": "Au Pays du Cocaine",
+      "artist": "Geese",
+      "cover": "covers/geese_720_pts__au_pays_du_cocaine.png",
+      "movement": {
+        "type": "new",
+        "value": null
+      },
+      "lastWeek": null,
+      "peak": 1,
+      "weeks": 12,
+      "points": null,
+      "listeners": null
+    },
+    {
+      "rank": 5,
+      "title": "Inferno",
+      "artist": "Bladee",
+      "cover": "covers/_placeholder.png",
+      "movement": {
+        "type": "new",
+        "value": null
+      },
+      "lastWeek": null,
+      "peak": 3,
+      "weeks": 4,
+      "points": null,
+      "listeners": null
+    },
+    {
+      "rank": 6,
+      "title": "Inferno",
+      "artist": "OsamaSon",
+      "cover": "covers/_placeholder.png",
+      "movement": {
+        "type": "new",
+        "value": null
+      },
+      "lastWeek": null,
+      "peak": 6,
+      "weeks": 3,
+      "points": null,
+      "listeners": null
+    },
+    {
+      "rank": 7,
+      "title": "Twilight",
+      "artist": "bôa",
+      "cover": "covers/_placeholder.png",
+      "movement": {
+        "type": "new",
+        "value": null
+      },
+      "lastWeek": null,
+      "peak": 5,
+      "weeks": 4,
+      "points": null,
+      "listeners": null
+    },
+    {
+      "rank": 8,
+      "title": "Dracula",
+      "artist": "Tame Impala",
+      "cover": "covers/tame_impala_600_pts__dracula.jpg",
+      "movement": {
+        "type": "new",
+        "value": null
+      },
+      "lastWeek": null,
+      "peak": 1,
+      "weeks": 13,
+      "points": null,
+      "listeners": null
+    },
+    {
+      "rank": 9,
+      "title": "Fmj",
+      "artist": "OsamaSon",
+      "cover": "covers/_placeholder.png",
+      "movement": {
+        "type": "new",
+        "value": null
+      },
+      "lastWeek": null,
+      "peak": 9,
+      "weeks": 1,
+      "points": null,
+      "listeners": null
+    },
+    {
+      "rank": 10,
+      "title": "Sleeping Powder",
+      "artist": "Gorillaz",
+      "cover": "covers/_placeholder.png",
+      "movement": {
+        "type": "new",
+        "value": null
+      },
+      "lastWeek": null,
+      "peak": 10,
+      "weeks": 1,
+      "points": null,
+      "listeners": null
+    },
+    {
+      "rank": 11,
+      "title": "Duvet",
+      "artist": "bôa",
+      "cover": "covers/_placeholder.png",
+      "movement": {
+        "type": "new",
+        "value": null
+      },
+      "lastWeek": null,
+      "peak": 11,
+      "weeks": 9,
+      "points": null,
+      "listeners": null
+    },
+    {
+      "rank": 12,
+      "title": "weathergirl",
+      "artist": "Flavor Foley",
+      "cover": "covers/_placeholder.png",
+      "movement": {
+        "type": "new",
+        "value": null
+      },
+      "lastWeek": null,
+      "peak": 12,
+      "weeks": 8,
+      "points": null,
+      "listeners": null
+    },
+    {
+      "rank": 13,
+      "title": "SUGAR ON MY TONGUE",
+      "artist": "Tyler, The Creator",
+      "cover": "covers/tyler_the_creator_545_pts__sugar_on_my_tongue.png",
+      "movement": {
+        "type": "new",
+        "value": null
+      },
+      "lastWeek": null,
+      "peak": 3,
+      "weeks": 9,
+      "points": null,
+      "listeners": null
+    },
+    {
+      "rank": 14,
+      "title": "Habits",
+      "artist": "OsamaSon",
+      "cover": "covers/_placeholder.png",
+      "movement": {
+        "type": "new",
+        "value": null
+      },
+      "lastWeek": null,
+      "peak": 14,
+      "weeks": 6,
+      "points": null,
+      "listeners": null
+    },
+    {
+      "rank": 15,
+      "title": "Ring Ring Ring",
+      "artist": "Tyler, The Creator",
+      "cover": "covers/tyler_the_creator_530_pts__ring_ring_ring.png",
+      "movement": {
+        "type": "new",
+        "value": null
+      },
+      "lastWeek": null,
+      "peak": 8,
+      "weeks": 10,
+      "points": null,
+      "listeners": null
+    },
+    {
+      "rank": 16,
+      "title": "Golden",
+      "artist": "HUNTR/X",
+      "cover": "covers/huntrx_505_pts__golden.jpg",
+      "movement": {
+        "type": "new",
+        "value": null
+      },
+      "lastWeek": null,
+      "peak": 14,
+      "weeks": 6,
+      "points": null,
+      "listeners": null
+    },
+    {
+      "rank": 17,
+      "title": "IRIS OUT",
+      "artist": "Kenshi Yonezu",
+      "cover": "covers/kenshi_yonezu_500_pts__iris_out.png",
+      "movement": {
+        "type": "new",
+        "value": null
+      },
+      "lastWeek": null,
+      "peak": 3,
+      "weeks": 15,
+      "points": null,
+      "listeners": null
+    },
+    {
+      "rank": 18,
+      "title": "Devil Trigger",
+      "artist": "Casey Edwards",
+      "cover": "covers/casey_edwards_500_pts__devil_trigger.png",
+      "movement": {
+        "type": "new",
+        "value": null
+      },
+      "lastWeek": null,
+      "peak": 18,
+      "weeks": 2,
+      "points": null,
+      "listeners": null
+    },
+    {
+      "rank": 19,
+      "title": "Blues",
+      "artist": "Geordie Greep",
+      "cover": "covers/_placeholder.png",
+      "movement": {
+        "type": "new",
+        "value": null
+      },
+      "lastWeek": null,
+      "peak": 19,
+      "weeks": 3,
+      "points": null,
+      "listeners": null
+    },
+    {
+      "rank": 20,
+      "title": "As Alive As You Need Me To Be",
+      "artist": "Nine Inch Nails",
+      "cover": "covers/nine_inch_nails_490_pts__as_alive_as_you_need_me_to_be.png",
+      "movement": {
+        "type": "new",
+        "value": null
+      },
+      "lastWeek": null,
+      "peak": 20,
+      "weeks": 3,
+      "points": null,
+      "listeners": null
+    },
+    {
+      "rank": 21,
+      "title": "Menlo Park",
+      "artist": "Ayesha Erotica",
+      "cover": "covers/ayesha_erotica_490_pts__menlo_park.png",
+      "movement": {
+        "type": "new",
+        "value": null
+      },
+      "lastWeek": null,
+      "peak": 2,
+      "weeks": 7,
+      "points": null,
+      "listeners": null
+    },
+    {
+      "rank": 22,
+      "title": "DARE (feat. Shaun Ryder & Roses Gabor)",
+      "artist": "Gorillaz",
+      "cover": "covers/gorillaz_485_pts__dare_feat_shaun_ryder_roses_gabor.jpg",
+      "movement": {
+        "type": "new",
+        "value": null
+      },
+      "lastWeek": null,
+      "peak": 22,
+      "weeks": 3,
+      "points": null,
+      "listeners": null
+    },
+    {
+      "rank": 23,
+      "title": "1539 N. Calvert",
+      "artist": "JPEGMAFIA",
+      "cover": "covers/jpegmafia_480_pts__1539_n_calvert.png",
+      "movement": {
+        "type": "new",
+        "value": null
+      },
+      "lastWeek": null,
+      "peak": 17,
+      "weeks": 3,
+      "points": null,
+      "listeners": null
+    },
+    {
+      "rank": 24,
+      "title": "Wall",
+      "artist": "Good Kid",
+      "cover": "covers/good_kid_465_pts__wall.jpg",
+      "movement": {
+        "type": "new",
+        "value": null
+      },
+      "lastWeek": null,
+      "peak": 24,
+      "weeks": 1,
+      "points": null,
+      "listeners": null
+    },
+    {
+      "rank": 25,
+      "title": "The Diary of Jane",
+      "artist": "Single Version - Breaking Benjamin",
+      "cover": "covers/single_version_breaking_benjamin_450_pts__the_diary_of_jane.png",
+      "movement": {
+        "type": "new",
+        "value": null
+      },
+      "lastWeek": null,
+      "peak": 25,
+      "weeks": 1,
+      "points": null,
+      "listeners": null
+    },
+    {
+      "rank": 26,
+      "title": "ASHEVILLE",
+      "artist": "glaive",
+      "cover": "covers/_placeholder.png",
+      "movement": {
+        "type": "new",
+        "value": null
+      },
+      "lastWeek": null,
+      "peak": 26,
+      "weeks": 5,
+      "points": null,
+      "listeners": null
+    },
+    {
+      "rank": 27,
+      "title": "P.O.V.",
+      "artist": "Clipse",
+      "cover": "covers/_placeholder.png",
+      "movement": {
+        "type": "new",
+        "value": null
+      },
+      "lastWeek": null,
+      "peak": 27,
+      "weeks": 2,
+      "points": null,
+      "listeners": null
+    },
+    {
+      "rank": 28,
+      "title": "Forty Six & 2",
+      "artist": "Tool",
+      "cover": "covers/tool_450_pts__forty_six_2.jpg",
+      "movement": {
+        "type": "new",
+        "value": null
+      },
+      "lastWeek": null,
+      "peak": 28,
+      "weeks": 1,
+      "points": null,
+      "listeners": null
+    },
+    {
+      "rank": 29,
+      "title": "untitled 05 | 09.21.2014.",
+      "artist": "Kendrick Lamar",
+      "cover": "covers/_placeholder.png",
+      "movement": {
+        "type": "new",
+        "value": null
+      },
+      "lastWeek": null,
+      "peak": 29,
+      "weeks": 1,
+      "points": null,
+      "listeners": null
+    },
+    {
+      "rank": 30,
+      "title": "Face to Face",
+      "artist": "Daft Punk",
+      "cover": "covers/daft_punk_440_pts__face_to_face.png",
+      "movement": {
+        "type": "new",
+        "value": null
+      },
+      "lastWeek": null,
+      "peak": 30,
+      "weeks": 2,
+      "points": null,
+      "listeners": null
+    },
+    {
+      "rank": 31,
+      "title": "function",
+      "artist": "OsamaSon",
+      "cover": "covers/_placeholder.png",
+      "movement": {
+        "type": "new",
+        "value": null
+      },
+      "lastWeek": null,
+      "peak": 31,
+      "weeks": 3,
+      "points": null,
+      "listeners": null
+    },
+    {
+      "rank": 32,
+      "title": "Dead!",
+      "artist": "My Chemical Romance",
+      "cover": "covers/my_chemical_romance_435_pts__dead.png",
+      "movement": {
+        "type": "new",
+        "value": null
+      },
+      "lastWeek": null,
+      "peak": 32,
+      "weeks": 2,
+      "points": null,
+      "listeners": null
+    },
+    {
+      "rank": 33,
+      "title": "Taxes",
+      "artist": "Geese",
+      "cover": "covers/_placeholder.png",
+      "movement": {
+        "type": "new",
+        "value": null
+      },
+      "lastWeek": null,
+      "peak": 10,
+      "weeks": 9,
+      "points": null,
+      "listeners": null
+    },
+    {
+      "rank": 34,
+      "title": "Weird Fishes / Arpeggi",
+      "artist": "Radiohead",
+      "cover": "covers/radiohead_425_pts__weird_fishes_arpeggi.png",
+      "movement": {
+        "type": "new",
+        "value": null
+      },
+      "lastWeek": null,
+      "peak": 34,
+      "weeks": 1,
+      "points": null,
+      "listeners": null
+    },
+    {
+      "rank": 35,
+      "title": "Wet",
+      "artist": "Dazey and the Scouts",
+      "cover": "covers/_placeholder.png",
+      "movement": {
+        "type": "new",
+        "value": null
+      },
+      "lastWeek": null,
+      "peak": 35,
+      "weeks": 2,
+      "points": null,
+      "listeners": null
+    },
+    {
+      "rank": 36,
+      "title": "Gabriela",
+      "artist": "KATSEYE",
+      "cover": "covers/katseye_425_pts__gabriela.png",
+      "movement": {
+        "type": "new",
+        "value": null
+      },
+      "lastWeek": null,
+      "peak": 1,
+      "weeks": 9,
+      "points": null,
+      "listeners": null
+    },
+    {
+      "rank": 37,
+      "title": "Maag Dump",
+      "artist": "OsamaSon",
+      "cover": "covers/_placeholder.png",
+      "movement": {
+        "type": "new",
+        "value": null
+      },
+      "lastWeek": null,
+      "peak": 37,
+      "weeks": 1,
+      "points": null,
+      "listeners": null
+    },
+    {
+      "rank": 38,
+      "title": "Heartbeat",
+      "artist": "Childish Gambino",
+      "cover": "covers/childish_gambino_420_pts__heartbeat.jpg",
+      "movement": {
+        "type": "new",
+        "value": null
+      },
+      "lastWeek": null,
+      "peak": 38,
+      "weeks": 2,
+      "points": null,
+      "listeners": null
+    },
+    {
+      "rank": 39,
+      "title": "Music and Me",
+      "artist": "fakemink",
+      "cover": "covers/_placeholder.png",
+      "movement": {
+        "type": "new",
+        "value": null
+      },
+      "lastWeek": null,
+      "peak": 16,
+      "weeks": 6,
+      "points": null,
+      "listeners": null
+    },
+    {
+      "rank": 40,
+      "title": "Something About Us",
+      "artist": "Daft Punk",
+      "cover": "covers/daft_punk_405_pts__something_about_us.png",
+      "movement": {
+        "type": "new",
+        "value": null
+      },
+      "lastWeek": null,
+      "peak": 40,
+      "weeks": 2,
+      "points": null,
+      "listeners": null
+    },
+    {
+      "rank": 41,
+      "title": "Rabbit Season",
+      "artist": "Machine Girl",
+      "cover": "covers/machine_girl__rabbit_season.jpg",
+      "movement": {
+        "type": "down",
+        "value": 9
+      },
+      "lastWeek": 32,
+      "peak": 1,
+      "weeks": 8,
+      "points": 42.5,
+      "listeners": 3
+    },
+    {
+      "rank": 42,
+      "title": "Ensalada (feat. Anderson .Paak)",
+      "artist": "Freddie Gibbs",
+      "cover": "covers/_placeholder.png",
+      "movement": {
+        "type": "new",
+        "value": null
+      },
+      "lastWeek": null,
+      "peak": 34,
+      "weeks": 2,
+      "points": 42.5,
+      "listeners": 3
+    },
+    {
+      "rank": 43,
+      "title": "3005",
+      "artist": "Childish Gambino",
+      "cover": "covers/childish_gambino__3005.png",
+      "movement": {
+        "type": "re",
+        "value": null
+      },
+      "lastWeek": null,
+      "peak": 43,
+      "weeks": 5,
+      "points": 41.5,
+      "listeners": 10
+    },
+    {
+      "rank": 44,
+      "title": "NASTYWERKKKK!",
+      "artist": "femtanyl",
+      "cover": "covers/femtanyl__nastywerkkkk.jpg",
+      "movement": {
+        "type": "re",
+        "value": null
+      },
+      "lastWeek": null,
+      "peak": 42,
+      "weeks": 5,
+      "points": 41.5,
+      "listeners": 7
+    },
+    {
+      "rank": 45,
+      "title": "MANNEQUIN",
+      "artist": "Che",
+      "cover": "covers/che__mannequin.png",
+      "movement": {
+        "type": "new",
+        "value": null
+      },
+      "lastWeek": null,
+      "peak": 45,
+      "weeks": 3,
+      "points": 41.5,
+      "listeners": 5
+    },
+    {
+      "rank": 46,
+      "title": "Headlock",
+      "artist": "Imogen Heap",
+      "cover": "covers/imogen_heap__headlock.png",
+      "movement": {
+        "type": "re",
+        "value": null
+      },
+      "lastWeek": null,
+      "peak": 46,
+      "weeks": 4,
+      "points": 41.5,
+      "listeners": 5
+    },
+    {
+      "rank": 47,
+      "title": "ASHEVILLE",
+      "artist": "glaive",
+      "cover": "covers/glaive__asheville.png",
+      "movement": {
+        "type": "down",
+        "value": 12
+      },
+      "lastWeek": 35,
+      "peak": 26,
+      "weeks": 5,
+      "points": 41.0,
+      "listeners": 4
+    },
+    {
+      "rank": 48,
+      "title": "Two Princes",
+      "artist": "Spin Doctors",
+      "cover": "covers/spin_doctors__two_princes.png",
+      "movement": {
+        "type": "new",
+        "value": null
+      },
+      "lastWeek": null,
+      "peak": 48,
+      "weeks": 1,
+      "points": 40.5,
+      "listeners": 3
+    },
+    {
+      "rank": 49,
+      "title": "Reunion",
+      "artist": "Korea Girl",
+      "cover": "covers/korea_girl__reunion.png",
+      "movement": {
+        "type": "new",
+        "value": null
+      },
+      "lastWeek": null,
+      "peak": 49,
+      "weeks": 2,
+      "points": 39.5,
+      "listeners": 5
+    },
+    {
+      "rank": 50,
+      "title": "Me And Mr. Wolf",
+      "artist": "The Real Tuesday Weld",
+      "cover": "covers/the_real_tuesday_weld__me_and_mr_wolf.png",
+      "movement": {
+        "type": "new",
+        "value": null
+      },
+      "lastWeek": null,
+      "peak": 44,
+      "weeks": 4,
+      "points": 39.0,
+      "listeners": 4
+    },
+    {
+      "rank": 51,
+      "title": "Closer",
+      "artist": "Nine Inch Nails",
+      "cover": "covers/nine_inch_nails__closer.png",
+      "movement": {
+        "type": "new",
+        "value": null
+      },
+      "lastWeek": null,
+      "peak": 51,
+      "weeks": 2,
+      "points": 39.0,
+      "listeners": 4
+    },
+    {
+      "rank": 52,
+      "title": "The Ghost of You",
+      "artist": "My Chemical Romance",
+      "cover": "covers/my_chemical_romance__the_ghost_of_you.png",
+      "movement": {
+        "type": "down",
+        "value": 46
+      },
+      "lastWeek": 6,
+      "peak": 6,
+      "weeks": 3,
+      "points": 39.0,
+      "listeners": 4
+    },
+    {
+      "rank": 53,
+      "title": "Something About Us",
+      "artist": "Daft Punk",
+      "cover": "covers/daft_punk__something_about_us.png",
+      "movement": {
+        "type": "new",
+        "value": null
+      },
+      "lastWeek": null,
+      "peak": 40,
+      "weeks": 2,
+      "points": 38.5,
+      "listeners": 5
+    },
+    {
+      "rank": 54,
+      "title": "Ring Ring Ring",
+      "artist": "Tyler, The Creator",
+      "cover": "covers/tyler_the_creator__ring_ring_ring.jpg",
+      "movement": {
+        "type": "down",
+        "value": 2
+      },
+      "lastWeek": 52,
+      "peak": 8,
+      "weeks": 10,
+      "points": 38.5,
+      "listeners": 5
+    },
+    {
+      "rank": 55,
+      "title": "Headfirst Slide Into Cooperstown on a Bad Bet",
+      "artist": "Fall Out Boy",
+      "cover": "covers/fall_out_boy__headfirst_slide_into_cooperstown_on_a_bad_bet.jpg",
+      "movement": {
+        "type": "re",
+        "value": null
+      },
+      "lastWeek": null,
+      "peak": 9,
+      "weeks": 3,
+      "points": 38.5,
+      "listeners": 3
+    },
+    {
+      "rank": 56,
+      "title": "scars",
+      "artist": "Novulent",
+      "cover": "covers/novulent__scars.png",
+      "movement": {
+        "type": "new",
+        "value": null
+      },
+      "lastWeek": null,
+      "peak": 56,
+      "weeks": 1,
+      "points": 38.5,
+      "listeners": 3
+    },
+    {
+      "rank": 57,
+      "title": "Strategy (feat. Megan Thee Stallion)",
+      "artist": "TWICE",
+      "cover": "covers/twice__strategy_feat_megan_thee_stallion.png",
+      "movement": {
+        "type": "new",
+        "value": null
+      },
+      "lastWeek": null,
+      "peak": 52,
+      "weeks": 2,
+      "points": 38.5,
+      "listeners": 3
+    },
+    {
+      "rank": 58,
+      "title": "MY EYES",
+      "artist": "Travis Scott",
+      "cover": "covers/travis_scott__my_eyes.jpg",
+      "movement": {
+        "type": "new",
+        "value": null
+      },
+      "lastWeek": null,
+      "peak": 58,
+      "weeks": 1,
+      "points": 38.0,
+      "listeners": 3
+    },
+    {
+      "rank": 59,
+      "title": "jeans",
+      "artist": "2hollis",
+      "cover": "covers/2hollis__jeans.png",
+      "movement": {
+        "type": "down",
+        "value": 4
+      },
+      "lastWeek": 55,
+      "peak": 15,
+      "weeks": 8,
+      "points": 37.5,
+      "listeners": 6
+    },
+    {
+      "rank": 60,
+      "title": "See You Again (feat. Kali Uchis)",
+      "artist": "Tyler, The Creator",
+      "cover": "covers/tyler_the_creator__see_you_again_feat_kali_uchis.png",
+      "movement": {
+        "type": "new",
+        "value": null
+      },
+      "lastWeek": null,
+      "peak": 60,
+      "weeks": 1,
+      "points": 37.5,
+      "listeners": 5
+    },
+    {
+      "rank": 61,
+      "title": "Change (In the House of Flies)",
+      "artist": "Deftones",
+      "cover": "covers/deftones__change_in_the_house_of_flies.png",
+      "movement": {
+        "type": "re",
+        "value": null
+      },
+      "lastWeek": null,
+      "peak": 45,
+      "weeks": 3,
+      "points": 37.5,
+      "listeners": 4
+    },
+    {
+      "rank": 62,
+      "title": "When the Sun Hits",
+      "artist": "Slowdive",
+      "cover": "covers/slowdive__when_the_sun_hits.png",
+      "movement": {
+        "type": "re",
+        "value": null
+      },
+      "lastWeek": null,
+      "peak": 48,
+      "weeks": 3,
+      "points": 37.0,
+      "listeners": 7
+    },
+    {
+      "rank": 63,
+      "title": "Gabriela",
+      "artist": "KATSEYE",
+      "cover": "covers/katseye__gabriela.jpg",
+      "movement": {
+        "type": "re",
+        "value": null
+      },
+      "lastWeek": null,
+      "peak": 1,
+      "weeks": 9,
+      "points": 37.0,
+      "listeners": 6
+    },
+    {
+      "rank": 64,
+      "title": "ROT FOR CLOUT",
+      "artist": "Jamie Paige",
+      "cover": "covers/jamie_paige__rot_for_clout.png",
+      "movement": {
+        "type": "down",
+        "value": 45
+      },
+      "lastWeek": 19,
+      "peak": 8,
+      "weeks": 7,
+      "points": 37.0,
+      "listeners": 4
+    },
+    {
+      "rank": 65,
+      "title": "SUGAR ON MY TONGUE",
+      "artist": "Tyler, The Creator",
+      "cover": "covers/tyler_the_creator__sugar_on_my_tongue.jpg",
+      "movement": {
+        "type": "down",
+        "value": 40
+      },
+      "lastWeek": 25,
+      "peak": 3,
+      "weeks": 9,
+      "points": 36.5,
+      "listeners": 8
+    },
+    {
+      "rank": 66,
+      "title": "Menlo Park",
+      "artist": "Ayesha Erotica",
+      "cover": "covers/ayesha_erotica__menlo_park.png",
+      "movement": {
+        "type": "down",
+        "value": 63
+      },
+      "lastWeek": 3,
+      "peak": 2,
+      "weeks": 7,
+      "points": 36.5,
+      "listeners": 3
+    },
+    {
+      "rank": 67,
+      "title": "Redbone",
+      "artist": "Childish Gambino",
+      "cover": "covers/childish_gambino__redbone.png",
+      "movement": {
+        "type": "re",
+        "value": null
+      },
+      "lastWeek": null,
+      "peak": 30,
+      "weeks": 3,
+      "points": 36.5,
+      "listeners": 3
+    },
+    {
+      "rank": 68,
+      "title": "All I Am",
+      "artist": "Ninajirachi",
+      "cover": "covers/ninajirachi__all_i_am.png",
+      "movement": {
+        "type": "new",
+        "value": null
+      },
+      "lastWeek": null,
+      "peak": 68,
+      "weeks": 1,
+      "points": 35.5,
+      "listeners": 3
+    },
+    {
+      "rank": 69,
+      "title": "360",
+      "artist": "Charli xcx",
+      "cover": "covers/charli_xcx__360.png",
+      "movement": {
+        "type": "up",
+        "value": 10
+      },
+      "lastWeek": 79,
+      "peak": 69,
+      "weeks": 2,
+      "points": 35.0,
+      "listeners": 7
+    },
+    {
+      "rank": 70,
+      "title": "weathergirl",
+      "artist": "Flavor Foley",
+      "cover": "covers/flavor_foley__weathergirl.png",
+      "movement": {
+        "type": "re",
+        "value": null
+      },
+      "lastWeek": null,
+      "peak": 12,
+      "weeks": 8,
+      "points": 34.5,
+      "listeners": 6
+    },
+    {
+      "rank": 71,
+      "title": "Angel",
+      "artist": "Massive Attack",
+      "cover": "covers/massive_attack__angel.png",
+      "movement": {
+        "type": "new",
+        "value": null
+      },
+      "lastWeek": null,
+      "peak": 71,
+      "weeks": 2,
+      "points": 34.0,
+      "listeners": 4
+    },
+    {
+      "rank": 72,
+      "title": "Doin' It Right (feat. Panda Bear)",
+      "artist": "Daft Punk",
+      "cover": "covers/daft_punk__doin_it_right_feat_panda_bear.png",
+      "movement": {
+        "type": "new",
+        "value": null
+      },
+      "lastWeek": null,
+      "peak": 72,
+      "weeks": 1,
+      "points": 34.0,
+      "listeners": 4
+    },
+    {
+      "rank": 73,
+      "title": "I Smoked Away My Brain (I'm God x Demons Mashup) (feat. Imogen Heap & Clams Casino)",
+      "artist": "A$AP Rocky",
+      "cover": "covers/aap_rocky__i_smoked_away_my_brain_im_god_x_demons_mashup_feat_imogen_heap_clams_casino.jpg",
+      "movement": {
+        "type": "new",
+        "value": null
+      },
+      "lastWeek": null,
+      "peak": 73,
+      "weeks": 1,
+      "points": 34.0,
+      "listeners": 4
+    },
+    {
+      "rank": 74,
+      "title": "Obsolete",
+      "artist": "Tame Impala",
+      "cover": "covers/tame_impala__obsolete.jpg",
+      "movement": {
+        "type": "new",
+        "value": null
+      },
+      "lastWeek": null,
+      "peak": 43,
+      "weeks": 2,
+      "points": 33.5,
+      "listeners": 3
+    },
+    {
+      "rank": 75,
+      "title": "Heartbeat, Heartbreak",
+      "artist": "Shihoko Hirata",
+      "cover": "covers/shihoko_hirata__heartbeat_heartbreak.jpg",
+      "movement": {
+        "type": "up",
+        "value": 5
+      },
+      "lastWeek": 80,
+      "peak": 75,
+      "weeks": 2,
+      "points": 33.5,
+      "listeners": 3
+    },
+    {
+      "rank": 76,
+      "title": ".44 Caliber Love Letter",
+      "artist": "Alexisonfire",
+      "cover": "covers/alexisonfire__44_caliber_love_letter.png",
+      "movement": {
+        "type": "new",
+        "value": null
+      },
+      "lastWeek": null,
+      "peak": 76,
+      "weeks": 1,
+      "points": 33.5,
+      "listeners": 3
+    },
+    {
+      "rank": 77,
+      "title": "SLOW DANCING IN THE DARK",
+      "artist": "Joji",
+      "cover": "covers/joji__slow_dancing_in_the_dark.jpg",
+      "movement": {
+        "type": "new",
+        "value": null
+      },
+      "lastWeek": null,
+      "peak": 77,
+      "weeks": 2,
+      "points": 33.0,
+      "listeners": 7
+    },
+    {
+      "rank": 78,
+      "title": "911 / Mr. Lonely (feat. Frank Ocean & Steve Lacy)",
+      "artist": "Tyler, The Creator",
+      "cover": "covers/tyler_the_creator__911_mr_lonely_feat_frank_ocean_steve_lacy.jpg",
+      "movement": {
+        "type": "new",
+        "value": null
+      },
+      "lastWeek": null,
+      "peak": 78,
+      "weeks": 1,
+      "points": 33.0,
+      "listeners": 4
+    },
+    {
+      "rank": 79,
+      "title": "Hot Lizard",
+      "artist": "Machine Girl",
+      "cover": "covers/machine_girl__hot_lizard.jpg",
+      "movement": {
+        "type": "new",
+        "value": null
+      },
+      "lastWeek": null,
+      "peak": 79,
+      "weeks": 1,
+      "points": 32.5,
+      "listeners": 5
+    },
+    {
+      "rank": 80,
+      "title": "the WORLD",
+      "artist": "Nightmare",
+      "cover": "covers/nightmare__the_world.jpg",
+      "movement": {
+        "type": "new",
+        "value": null
+      },
+      "lastWeek": null,
+      "peak": 80,
+      "weeks": 1,
+      "points": 32.5,
+      "listeners": 3
+    },
+    {
+      "rank": 81,
+      "title": "Hell Above",
+      "artist": "Pierce the Veil",
+      "cover": "covers/pierce_the_veil__hell_above.png",
+      "movement": {
+        "type": "new",
+        "value": null
+      },
+      "lastWeek": null,
+      "peak": 81,
+      "weeks": 1,
+      "points": 32.0,
+      "listeners": 5
+    },
+    {
+      "rank": 82,
+      "title": "My Old Ways",
+      "artist": "Tame Impala",
+      "cover": "covers/tame_impala__my_old_ways.jpg",
+      "movement": {
+        "type": "new",
+        "value": null
+      },
+      "lastWeek": null,
+      "peak": 7,
+      "weeks": 3,
+      "points": 32.0,
+      "listeners": 5
+    },
+    {
+      "rank": 83,
+      "title": "Worldstar Money (Interlude)",
+      "artist": "Joji",
+      "cover": "covers/joji__worldstar_money_interlude.jpg",
+      "movement": {
+        "type": "new",
+        "value": null
+      },
+      "lastWeek": null,
+      "peak": 83,
+      "weeks": 1,
+      "points": 32.0,
+      "listeners": 4
+    },
+    {
+      "rank": 84,
+      "title": "Taxes",
+      "artist": "Geese",
+      "cover": "covers/geese__taxes.jpg",
+      "movement": {
+        "type": "down",
+        "value": 74
+      },
+      "lastWeek": 10,
+      "peak": 10,
+      "weeks": 9,
+      "points": 31.5,
+      "listeners": 3
+    },
+    {
+      "rank": 85,
+      "title": "POP OUT",
+      "artist": "Playboi Carti",
+      "cover": "covers/playboi_carti__pop_out.jpg",
+      "movement": {
+        "type": "new",
+        "value": null
+      },
+      "lastWeek": null,
+      "peak": 85,
+      "weeks": 1,
+      "points": 30.5,
+      "listeners": 7
+    },
+    {
+      "rank": 86,
+      "title": "Chanel",
+      "artist": "Frank Ocean",
+      "cover": "covers/frank_ocean__chanel.png",
+      "movement": {
+        "type": "new",
+        "value": null
+      },
+      "lastWeek": null,
+      "peak": 86,
+      "weeks": 1,
+      "points": 30.5,
+      "listeners": 5
+    },
+    {
+      "rank": 87,
+      "title": "Grindhouse",
+      "artist": "Machine Girl",
+      "cover": "covers/machine_girl__grindhouse.png",
+      "movement": {
+        "type": "re",
+        "value": null
+      },
+      "lastWeek": null,
+      "peak": 11,
+      "weeks": 2,
+      "points": 30.5,
+      "listeners": 4
+    },
+    {
+      "rank": 88,
+      "title": "hot topic",
+      "artist": "bbno$",
+      "cover": "covers/bbno__hot_topic.jpg",
+      "movement": {
+        "type": "new",
+        "value": null
+      },
+      "lastWeek": null,
+      "peak": 88,
+      "weeks": 1,
+      "points": 30.5,
+      "listeners": 3
+    },
+    {
+      "rank": 89,
+      "title": "End of Summer",
+      "artist": "Tame Impala",
+      "cover": "covers/tame_impala__end_of_summer.png",
+      "movement": {
+        "type": "new",
+        "value": null
+      },
+      "lastWeek": null,
+      "peak": 89,
+      "weeks": 1,
+      "points": 30.5,
+      "listeners": 3
+    },
+    {
+      "rank": 90,
+      "title": "90210 (feat. Kacy Hill)",
+      "artist": "Travis Scott",
+      "cover": "covers/travis_scott__90210_feat_kacy_hill.jpg",
+      "movement": {
+        "type": "new",
+        "value": null
+      },
+      "lastWeek": null,
+      "peak": 90,
+      "weeks": 1,
+      "points": 30.5,
+      "listeners": 3
+    },
+    {
+      "rank": 91,
+      "title": "Me and Your Mama",
+      "artist": "Childish Gambino",
+      "cover": "covers/childish_gambino__me_and_your_mama.png",
+      "movement": {
+        "type": "re",
+        "value": null
+      },
+      "lastWeek": null,
+      "peak": 31,
+      "weeks": 4,
+      "points": 30.0,
+      "listeners": 5
+    },
+    {
+      "rank": 92,
+      "title": "Music and Me",
+      "artist": "fakemink",
+      "cover": "covers/fakemink__music_and_me.png",
+      "movement": {
+        "type": "down",
+        "value": 23
+      },
+      "lastWeek": 69,
+      "peak": 16,
+      "weeks": 6,
+      "points": 30.0,
+      "listeners": 5
+    },
+    {
+      "rank": 93,
+      "title": "Die for You",
+      "artist": "Joji",
+      "cover": "covers/joji__die_for_you.jpg",
+      "movement": {
+        "type": "new",
+        "value": null
+      },
+      "lastWeek": null,
+      "peak": 93,
+      "weeks": 1,
+      "points": 30.0,
+      "listeners": 5
+    },
+    {
+      "rank": 94,
+      "title": "Talk talk",
+      "artist": "Charli xcx",
+      "cover": "covers/charli_xcx__talk_talk.jpg",
+      "movement": {
+        "type": "new",
+        "value": null
+      },
+      "lastWeek": null,
+      "peak": 84,
+      "weeks": 2,
+      "points": 30.0,
+      "listeners": 5
+    },
+    {
+      "rank": 95,
+      "title": "The Place Where He Inserted The Blade",
+      "artist": "Black Country, New Road",
+      "cover": "covers/black_country_new_road__the_place_where_he_inserted_the_blade.jpg",
+      "movement": {
+        "type": "new",
+        "value": null
+      },
+      "lastWeek": null,
+      "peak": 30,
+      "weeks": 2,
+      "points": 30.0,
+      "listeners": 4
+    },
+    {
+      "rank": 96,
+      "title": "KATAMARI",
+      "artist": "femtanyl",
+      "cover": "covers/femtanyl__katamari.png",
+      "movement": {
+        "type": "re",
+        "value": null
+      },
+      "lastWeek": null,
+      "peak": 6,
+      "weeks": 4,
+      "points": 29.5,
+      "listeners": 8
+    },
+    {
+      "rank": 97,
+      "title": "Voyager",
+      "artist": "Daft Punk",
+      "cover": "covers/daft_punk__voyager.png",
+      "movement": {
+        "type": "new",
+        "value": null
+      },
+      "lastWeek": null,
+      "peak": 67,
+      "weeks": 2,
+      "points": 29.5,
+      "listeners": 7
+    },
+    {
+      "rank": 98,
+      "title": "worldwide",
+      "artist": "OsamaSon",
+      "cover": "covers/osamason__worldwide.png",
+      "movement": {
+        "type": "new",
+        "value": null
+      },
+      "lastWeek": null,
+      "peak": 25,
+      "weeks": 3,
+      "points": 29.5,
+      "listeners": 6
+    },
+    {
+      "rank": 99,
+      "title": "two",
+      "artist": "bbno$",
+      "cover": "covers/bbno__two.png",
+      "movement": {
+        "type": "new",
+        "value": null
+      },
+      "lastWeek": null,
+      "peak": 99,
+      "weeks": 1,
+      "points": 29.5,
+      "listeners": 5
+    },
+    {
+      "rank": 100,
+      "title": "Bleed",
+      "artist": "Dead Calm",
+      "cover": "covers/dead_calm__bleed.jpg",
+      "movement": {
+        "type": "new",
+        "value": null
+      },
+      "lastWeek": null,
+      "peak": 100,
+      "weeks": 1,
+      "points": 29.5,
+      "listeners": 4
+    }
+  ]
+}

@@ -9,12 +9,12 @@
       "artist": "Danny Brown",
       "cover": "covers/danny_brown__copycats.jpg",
       "movement": {
-        "type": "re",
+        "type": "same",
         "value": null
       },
-      "lastWeek": null,
+      "lastWeek": 1,
       "peak": 1,
-      "weeks": 6,
+      "weeks": 4,
       "points": 166.5,
       "listeners": 24
     },
@@ -24,12 +24,12 @@
       "artist": "Joji",
       "cover": "covers/joji__pixelated_kisses.png",
       "movement": {
-        "type": "re",
-        "value": null
+        "type": "up",
+        "value": 8
       },
-      "lastWeek": null,
+      "lastWeek": 10,
       "peak": 1,
-      "weeks": 7,
+      "weeks": 4,
       "points": 158.5,
       "listeners": 19
     },
@@ -43,8 +43,8 @@
         "value": null
       },
       "lastWeek": null,
-      "peak": 1,
-      "weeks": 7,
+      "peak": 3,
+      "weeks": 1,
       "points": 141.5,
       "listeners": 12
     },
@@ -74,7 +74,7 @@
       },
       "lastWeek": null,
       "peak": 5,
-      "weeks": 2,
+      "weeks": 1,
       "points": 122.5,
       "listeners": 20
     },
@@ -89,7 +89,7 @@
       },
       "lastWeek": null,
       "peak": 6,
-      "weeks": 2,
+      "weeks": 1,
       "points": 112.0,
       "listeners": 23
     },
@@ -119,7 +119,7 @@
       },
       "lastWeek": null,
       "peak": 8,
-      "weeks": 3,
+      "weeks": 1,
       "points": 104.0,
       "listeners": 18
     },
@@ -133,8 +133,8 @@
         "value": null
       },
       "lastWeek": null,
-      "peak": 2,
-      "weeks": 9,
+      "peak": 6,
+      "weeks": 3,
       "points": 96.0,
       "listeners": 13
     },
@@ -149,7 +149,7 @@
       },
       "lastWeek": null,
       "peak": 10,
-      "weeks": 2,
+      "weeks": 1,
       "points": 95.0,
       "listeners": 19
     },
@@ -164,7 +164,7 @@
       },
       "lastWeek": null,
       "peak": 11,
-      "weeks": 2,
+      "weeks": 1,
       "points": 93.5,
       "listeners": 20
     },
@@ -189,12 +189,12 @@
       "artist": "Devi McCallion",
       "cover": "covers/devi_mccallion__i_want_things_to_be_beautiful.jpg",
       "movement": {
-        "type": "re",
-        "value": null
+        "type": "down",
+        "value": 10
       },
-      "lastWeek": null,
+      "lastWeek": 3,
       "peak": 2,
-      "weeks": 14,
+      "weeks": 9,
       "points": 91.0,
       "listeners": 9
     },
@@ -204,12 +204,12 @@
       "artist": "Jane Remover",
       "cover": "covers/jane_remover__dreamflasher.png",
       "movement": {
-        "type": "re",
-        "value": null
+        "type": "down",
+        "value": 6
       },
-      "lastWeek": null,
+      "lastWeek": 8,
       "peak": 2,
-      "weeks": 12,
+      "weeks": 7,
       "points": 89.0,
       "listeners": 10
     },
@@ -238,8 +238,8 @@
         "value": 43
       },
       "lastWeek": 59,
-      "peak": 10,
-      "weeks": 10,
+      "peak": 16,
+      "weeks": 5,
       "points": 85.5,
       "listeners": 13
     },
@@ -254,7 +254,7 @@
       },
       "lastWeek": null,
       "peak": 17,
-      "weeks": 2,
+      "weeks": 1,
       "points": 82.5,
       "listeners": 18
     },
@@ -284,7 +284,7 @@
       },
       "lastWeek": null,
       "peak": 19,
-      "weeks": 2,
+      "weeks": 1,
       "points": 78.5,
       "listeners": 18
     },
@@ -294,12 +294,12 @@
       "artist": "Kenshi Yonezu",
       "cover": "covers/kenshi_yonezu__iris_out.png",
       "movement": {
-        "type": "re",
-        "value": null
+        "type": "down",
+        "value": 9
       },
-      "lastWeek": null,
+      "lastWeek": 11,
       "peak": 3,
-      "weeks": 15,
+      "weeks": 9,
       "points": 74.5,
       "listeners": 9
     },
@@ -314,7 +314,7 @@
       },
       "lastWeek": null,
       "peak": 21,
-      "weeks": 4,
+      "weeks": 1,
       "points": 74.0,
       "listeners": 20
     },
@@ -324,12 +324,12 @@
       "artist": "Lucy Bedroque",
       "cover": "covers/lucy_bedroque__how_to_pretend.png",
       "movement": {
-        "type": "re",
-        "value": null
+        "type": "down",
+        "value": 3
       },
-      "lastWeek": null,
-      "peak": 12,
-      "weeks": 8,
+      "lastWeek": 19,
+      "peak": 19,
+      "weeks": 3,
       "points": 65.5,
       "listeners": 11
     },
@@ -339,12 +339,12 @@
       "artist": "2hollis",
       "cover": "covers/2hollis__jeans.png",
       "movement": {
-        "type": "re",
-        "value": null
+        "type": "up",
+        "value": 4
       },
-      "lastWeek": null,
+      "lastWeek": 27,
       "peak": 15,
-      "weeks": 8,
+      "weeks": 6,
       "points": 65.5,
       "listeners": 11
     },
@@ -358,8 +358,8 @@
         "value": 73
       },
       "lastWeek": 97,
-      "peak": 13,
-      "weeks": 4,
+      "peak": 24,
+      "weeks": 2,
       "points": 64.0,
       "listeners": 9
     },
@@ -388,8 +388,8 @@
         "value": null
       },
       "lastWeek": null,
-      "peak": 17,
-      "weeks": 2,
+      "peak": 26,
+      "weeks": 1,
       "points": 62.0,
       "listeners": 4
     },
@@ -418,8 +418,8 @@
         "value": null
       },
       "lastWeek": null,
-      "peak": 27,
-      "weeks": 8,
+      "peak": 28,
+      "weeks": 3,
       "points": 59.5,
       "listeners": 9
     },
@@ -434,7 +434,7 @@
       },
       "lastWeek": null,
       "peak": 29,
-      "weeks": 2,
+      "weeks": 1,
       "points": 57.0,
       "listeners": 5
     },
@@ -444,18 +444,18 @@
       "artist": "PinkPantheress",
       "cover": "covers/pinkpantheress__stateside.jpg",
       "movement": {
-        "type": "re",
-        "value": null
+        "type": "down",
+        "value": 1
       },
-      "lastWeek": null,
+      "lastWeek": 29,
       "peak": 17,
-      "weeks": 5,
+      "weeks": 3,
       "points": 57.0,
       "listeners": 5
     },
     {
       "rank": 31,
-      "title": "Stupid (Can’t run from the urge)",
+      "title": "Stupid (Can't run from the urge)",
       "artist": "underscores",
       "cover": "covers/underscores__stupid_cant_run_from_the_urge.png",
       "movement": {
@@ -464,7 +464,7 @@
       },
       "lastWeek": 85,
       "peak": 31,
-      "weeks": 3,
+      "weeks": 2,
       "points": 55.0,
       "listeners": 5
     },
@@ -479,7 +479,7 @@
       },
       "lastWeek": null,
       "peak": 4,
-      "weeks": 10,
+      "weeks": 6,
       "points": 54.5,
       "listeners": 10
     },
@@ -494,7 +494,7 @@
       },
       "lastWeek": null,
       "peak": 33,
-      "weeks": 2,
+      "weeks": 1,
       "points": 54.5,
       "listeners": 6
     },
@@ -504,12 +504,12 @@
       "artist": "LE SSERAFIM",
       "cover": "covers/le_sserafim__spaghetti.png",
       "movement": {
-        "type": "new",
-        "value": null
+        "type": "down",
+        "value": 28
       },
-      "lastWeek": null,
+      "lastWeek": 6,
       "peak": 6,
-      "weeks": 5,
+      "weeks": 2,
       "points": 54.5,
       "listeners": 6
     },
@@ -519,12 +519,12 @@
       "artist": "EsDeeKid",
       "cover": "covers/esdeekid__4_raws.png",
       "movement": {
-        "type": "re",
-        "value": null
+        "type": "down",
+        "value": 4
       },
-      "lastWeek": null,
-      "peak": 2,
-      "weeks": 10,
+      "lastWeek": 31,
+      "peak": 21,
+      "weeks": 4,
       "points": 53.5,
       "listeners": 9
     },
@@ -538,8 +538,8 @@
         "value": null
       },
       "lastWeek": null,
-      "peak": 33,
-      "weeks": 5,
+      "peak": 34,
+      "weeks": 2,
       "points": 53.5,
       "listeners": 7
     },
@@ -568,8 +568,8 @@
         "value": 40
       },
       "lastWeek": 78,
-      "peak": 8,
-      "weeks": 10,
+      "peak": 22,
+      "weeks": 6,
       "points": 51.5,
       "listeners": 7
     },
@@ -583,8 +583,8 @@
         "value": null
       },
       "lastWeek": null,
-      "peak": 13,
-      "weeks": 7,
+      "peak": 39,
+      "weeks": 1,
       "points": 51.0,
       "listeners": 10
     },
@@ -614,7 +614,7 @@
       },
       "lastWeek": 98,
       "peak": 41,
-      "weeks": 3,
+      "weeks": 2,
       "points": 50.5,
       "listeners": 5
     },
@@ -644,7 +644,7 @@
       },
       "lastWeek": null,
       "peak": 43,
-      "weeks": 2,
+      "weeks": 1,
       "points": 50.0,
       "listeners": 3
     },
@@ -659,7 +659,7 @@
       },
       "lastWeek": null,
       "peak": 44,
-      "weeks": 3,
+      "weeks": 2,
       "points": 48.5,
       "listeners": 5
     },
@@ -673,8 +673,8 @@
         "value": 20
       },
       "lastWeek": 65,
-      "peak": 1,
-      "weeks": 6,
+      "peak": 17,
+      "weeks": 3,
       "points": 48.5,
       "listeners": 5
     },
@@ -688,8 +688,8 @@
         "value": 15
       },
       "lastWeek": 61,
-      "peak": 41,
-      "weeks": 5,
+      "peak": 46,
+      "weeks": 3,
       "points": 48.0,
       "listeners": 6
     },
@@ -699,12 +699,12 @@
       "artist": "Tame Impala",
       "cover": "covers/tame_impala__dracula.png",
       "movement": {
-        "type": "re",
-        "value": null
+        "type": "down",
+        "value": 42
       },
-      "lastWeek": null,
+      "lastWeek": 5,
       "peak": 1,
-      "weeks": 13,
+      "weeks": 7,
       "points": 48.0,
       "listeners": 6
     },
@@ -734,7 +734,7 @@
       },
       "lastWeek": null,
       "peak": 49,
-      "weeks": 2,
+      "weeks": 1,
       "points": 48.0,
       "listeners": 4
     },
@@ -748,8 +748,8 @@
         "value": null
       },
       "lastWeek": null,
-      "peak": 24,
-      "weeks": 2,
+      "peak": 50,
+      "weeks": 1,
       "points": 48.0,
       "listeners": 3
     },
@@ -789,12 +789,12 @@
       "artist": "Geese",
       "cover": "covers/geese__au_pays_du_cocaine.png",
       "movement": {
-        "type": "re",
-        "value": null
+        "type": "down",
+        "value": 51
       },
-      "lastWeek": null,
+      "lastWeek": 2,
       "peak": 1,
-      "weeks": 12,
+      "weeks": 7,
       "points": 47.0,
       "listeners": 7
     },
@@ -883,8 +883,8 @@
         "value": null
       },
       "lastWeek": null,
-      "peak": 8,
-      "weeks": 5,
+      "peak": 59,
+      "weeks": 1,
       "points": 44.0,
       "listeners": 7
     },
@@ -894,12 +894,12 @@
       "artist": "Machine Girl",
       "cover": "covers/machine_girl__ignore_the_vore.png",
       "movement": {
-        "type": "new",
-        "value": null
+        "type": "down",
+        "value": 46
       },
-      "lastWeek": null,
+      "lastWeek": 14,
       "peak": 5,
-      "weeks": 4,
+      "weeks": 3,
       "points": 44.0,
       "listeners": 4
     },
@@ -914,7 +914,7 @@
       },
       "lastWeek": null,
       "peak": 13,
-      "weeks": 4,
+      "weeks": 3,
       "points": 44.0,
       "listeners": 4
     },
@@ -928,8 +928,8 @@
         "value": null
       },
       "lastWeek": null,
-      "peak": 7,
-      "weeks": 9,
+      "peak": 26,
+      "weeks": 4,
       "points": 43.5,
       "listeners": 10
     },
@@ -973,8 +973,8 @@
         "value": null
       },
       "lastWeek": null,
-      "peak": 4,
-      "weeks": 7,
+      "peak": 65,
+      "weeks": 1,
       "points": 43.0,
       "listeners": 9
     },
@@ -988,8 +988,8 @@
         "value": null
       },
       "lastWeek": null,
-      "peak": 26,
-      "weeks": 5,
+      "peak": 35,
+      "weeks": 4,
       "points": 43.0,
       "listeners": 4
     },
@@ -1003,8 +1003,8 @@
         "value": null
       },
       "lastWeek": null,
-      "peak": 39,
-      "weeks": 2,
+      "peak": 67,
+      "weeks": 1,
       "points": 43.0,
       "listeners": 3
     },
@@ -1014,12 +1014,12 @@
       "artist": "Jane Remover",
       "cover": "covers/jane_remover__experimental_skin.png",
       "movement": {
-        "type": "re",
-        "value": null
+        "type": "down",
+        "value": 38
       },
-      "lastWeek": null,
-      "peak": 14,
-      "weeks": 6,
+      "lastWeek": 30,
+      "peak": 30,
+      "weeks": 3,
       "points": 42.5,
       "listeners": 7
     },
@@ -1048,8 +1048,8 @@
         "value": 21
       },
       "lastWeek": 91,
-      "peak": 35,
-      "weeks": 6,
+      "peak": 70,
+      "weeks": 2,
       "points": 42.0,
       "listeners": 8
     },
@@ -1059,12 +1059,12 @@
       "artist": "Geese",
       "cover": "covers/geese__taxes.jpg",
       "movement": {
-        "type": "re",
-        "value": null
+        "type": "down",
+        "value": 50
       },
-      "lastWeek": null,
+      "lastWeek": 21,
       "peak": 10,
-      "weeks": 9,
+      "weeks": 6,
       "points": 42.0,
       "listeners": 5
     },
@@ -1074,12 +1074,12 @@
       "artist": "Kensuke Ushio",
       "cover": "covers/kensuke_ushio__in_the_pool.png",
       "movement": {
-        "type": "new",
-        "value": null
+        "type": "down",
+        "value": 63
       },
-      "lastWeek": null,
-      "peak": 7,
-      "weeks": 5,
+      "lastWeek": 9,
+      "peak": 9,
+      "weeks": 2,
       "points": 42.0,
       "listeners": 4
     },
@@ -1123,8 +1123,8 @@
         "value": null
       },
       "lastWeek": null,
-      "peak": 21,
-      "weeks": 6,
+      "peak": 75,
+      "weeks": 1,
       "points": 40.5,
       "listeners": 3
     },
@@ -1183,8 +1183,8 @@
         "value": 17
       },
       "lastWeek": 96,
-      "peak": 63,
-      "weeks": 3,
+      "peak": 79,
+      "weeks": 2,
       "points": 40.0,
       "listeners": 4
     },
@@ -1194,12 +1194,12 @@
       "artist": "EsDeeKid",
       "cover": "covers/esdeekid__lv_sandals.png",
       "movement": {
-        "type": "new",
+        "type": "re",
         "value": null
       },
       "lastWeek": null,
-      "peak": 13,
-      "weeks": 7,
+      "peak": 39,
+      "weeks": 2,
       "points": 39.5,
       "listeners": 9
     },
@@ -1213,8 +1213,8 @@
         "value": null
       },
       "lastWeek": null,
-      "peak": 13,
-      "weeks": 3,
+      "peak": 81,
+      "weeks": 1,
       "points": 39.5,
       "listeners": 9
     },
@@ -1229,7 +1229,7 @@
       },
       "lastWeek": 56,
       "peak": 9,
-      "weeks": 12,
+      "weeks": 8,
       "points": 39.5,
       "listeners": 9
     },
@@ -1243,8 +1243,8 @@
         "value": null
       },
       "lastWeek": null,
-      "peak": 5,
-      "weeks": 6,
+      "peak": 83,
+      "weeks": 1,
       "points": 39.5,
       "listeners": 8
     },
@@ -1289,7 +1289,7 @@
       },
       "lastWeek": null,
       "peak": 53,
-      "weeks": 6,
+      "weeks": 3,
       "points": 39.5,
       "listeners": 5
     },
@@ -1303,8 +1303,8 @@
         "value": null
       },
       "lastWeek": null,
-      "peak": 76,
-      "weeks": 2,
+      "peak": 87,
+      "weeks": 1,
       "points": 39.5,
       "listeners": 3
     },
@@ -1363,8 +1363,8 @@
         "value": 19
       },
       "lastWeek": 72,
-      "peak": 2,
-      "weeks": 8,
+      "peak": 72,
+      "weeks": 2,
       "points": 39.0,
       "listeners": 6
     },
@@ -1378,8 +1378,8 @@
         "value": 1
       },
       "lastWeek": 93,
-      "peak": 40,
-      "weeks": 3,
+      "peak": 92,
+      "weeks": 2,
       "points": 38.5,
       "listeners": 4
     },
@@ -1499,7 +1499,7 @@
       },
       "lastWeek": null,
       "peak": 43,
-      "weeks": 5,
+      "weeks": 3,
       "points": 37.0,
       "listeners": 8
     }

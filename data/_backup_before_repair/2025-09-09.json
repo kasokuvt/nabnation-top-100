@@ -1,0 +1,607 @@
+{
+  "chartName": "Nabnation Top 100",
+  "week": "2025-09-09",
+  "generatedAt": "2025-12-22T04:50:14.520405Z",
+  "entries": [
+    {
+      "rank": 1,
+      "title": "Rabbit Season",
+      "artist": "Machine Girl",
+      "cover": "covers/machine_girl__rabbit_season.jpg",
+      "movement": {
+        "type": "new",
+        "value": null
+      },
+      "lastWeek": null,
+      "peak": 1,
+      "weeks": 8,
+      "points": null,
+      "listeners": null
+    },
+    {
+      "rank": 2,
+      "title": "Come On Baby, Scrape My Data",
+      "artist": "Machine Girl",
+      "cover": "covers/machine_girl__come_on_baby_scrape_my_data.png",
+      "movement": {
+        "type": "new",
+        "value": null
+      },
+      "lastWeek": null,
+      "peak": 2,
+      "weeks": 5,
+      "points": null,
+      "listeners": null
+    },
+    {
+      "rank": 3,
+      "title": "SUGAR ON MY TONGUE",
+      "artist": "Tyler, The Creator",
+      "cover": "covers/tyler_the_creator__sugar_on_my_tongue.jpg",
+      "movement": {
+        "type": "new",
+        "value": null
+      },
+      "lastWeek": null,
+      "peak": 3,
+      "weeks": 9,
+      "points": null,
+      "listeners": null
+    },
+    {
+      "rank": 4,
+      "title": "Spoken For",
+      "artist": "Flavor Foley",
+      "cover": "covers/flavor_foley__spoken_for.png",
+      "movement": {
+        "type": "new",
+        "value": null
+      },
+      "lastWeek": null,
+      "peak": 4,
+      "weeks": 11,
+      "points": null,
+      "listeners": null
+    },
+    {
+      "rank": 5,
+      "title": "I'll Take Care of You (feat. Yebba)",
+      "artist": "Tyler, The Creator",
+      "cover": "covers/tyler_the_creator__ill_take_care_of_you_feat_yebba.jpg",
+      "movement": {
+        "type": "new",
+        "value": null
+      },
+      "lastWeek": null,
+      "peak": 5,
+      "weeks": 5,
+      "points": null,
+      "listeners": null
+    },
+    {
+      "rank": 6,
+      "title": "BIRDBRAIN",
+      "artist": "Jamie Paige",
+      "cover": "covers/jamie_paige__birdbrain.jpg",
+      "movement": {
+        "type": "new",
+        "value": null
+      },
+      "lastWeek": null,
+      "peak": 1,
+      "weeks": 12,
+      "points": null,
+      "listeners": null
+    },
+    {
+      "rank": 7,
+      "title": "INSIDE",
+      "artist": "Teenage Disaster",
+      "cover": "covers/teenage_disaster__inside.jpg",
+      "movement": {
+        "type": "new",
+        "value": null
+      },
+      "lastWeek": null,
+      "peak": 7,
+      "weeks": 1,
+      "points": null,
+      "listeners": null
+    },
+    {
+      "rank": 8,
+      "title": "Ring Ring Ring",
+      "artist": "Tyler, The Creator",
+      "cover": "covers/tyler_the_creator__ring_ring_ring.jpg",
+      "movement": {
+        "type": "new",
+        "value": null
+      },
+      "lastWeek": null,
+      "peak": 8,
+      "weeks": 10,
+      "points": null,
+      "listeners": null
+    },
+    {
+      "rank": 9,
+      "title": "Machine Love",
+      "artist": "Jamie Paige",
+      "cover": "covers/jamie_paige__machine_love.png",
+      "movement": {
+        "type": "new",
+        "value": null
+      },
+      "lastWeek": null,
+      "peak": 9,
+      "weeks": 12,
+      "points": null,
+      "listeners": null
+    },
+    {
+      "rank": 10,
+      "title": "No Children",
+      "artist": "The Mountain Goats",
+      "cover": "covers/the_mountain_goats__no_children.jpg",
+      "movement": {
+        "type": "new",
+        "value": null
+      },
+      "lastWeek": null,
+      "peak": 10,
+      "weeks": 1,
+      "points": null,
+      "listeners": null
+    },
+    {
+      "rank": 11,
+      "title": "Grindhouse",
+      "artist": "Machine Girl",
+      "cover": "covers/machine_girl__grindhouse.png",
+      "movement": {
+        "type": "new",
+        "value": null
+      },
+      "lastWeek": null,
+      "peak": 11,
+      "weeks": 2,
+      "points": null,
+      "listeners": null
+    },
+    {
+      "rank": 12,
+      "title": "heart pt. 6",
+      "artist": "Kendrick Lamar",
+      "cover": "covers/kendrick_lamar__heart_pt_6.jpg",
+      "movement": {
+        "type": "new",
+        "value": null
+      },
+      "lastWeek": null,
+      "peak": 12,
+      "weeks": 1,
+      "points": null,
+      "listeners": null
+    },
+    {
+      "rank": 13,
+      "title": "Tears",
+      "artist": "Sabrina Carpenter",
+      "cover": "covers/sabrina_carpenter__tears.jpg",
+      "movement": {
+        "type": "new",
+        "value": null
+      },
+      "lastWeek": null,
+      "peak": 8,
+      "weeks": 4,
+      "points": null,
+      "listeners": null
+    },
+    {
+      "rank": 14,
+      "title": "Walkin",
+      "artist": "Denzel Curry",
+      "cover": "covers/denzel_curry__walkin.jpg",
+      "movement": {
+        "type": "new",
+        "value": null
+      },
+      "lastWeek": null,
+      "peak": 14,
+      "weeks": 1,
+      "points": null,
+      "listeners": null
+    },
+    {
+      "rank": 15,
+      "title": "Where Is My Mind?",
+      "artist": "Pixies",
+      "cover": "covers/pixies__where_is_my_mind.jpg",
+      "movement": {
+        "type": "new",
+        "value": null
+      },
+      "lastWeek": null,
+      "peak": 15,
+      "weeks": 1,
+      "points": null,
+      "listeners": null
+    },
+    {
+      "rank": 16,
+      "title": "I WANT THINGS TO BE BEAUTIFUL",
+      "artist": "Devi McCallion",
+      "cover": "covers/devi_mccallion__i_want_things_to_be_beautiful.jpg",
+      "movement": {
+        "type": "new",
+        "value": null
+      },
+      "lastWeek": null,
+      "peak": 2,
+      "weeks": 14,
+      "points": null,
+      "listeners": null
+    },
+    {
+      "rank": 17,
+      "title": "1539 N. Calvert",
+      "artist": "JPEGMAFIA",
+      "cover": "covers/jpegmafia__1539_n_calvert.png",
+      "movement": {
+        "type": "new",
+        "value": null
+      },
+      "lastWeek": null,
+      "peak": 17,
+      "weeks": 3,
+      "points": null,
+      "listeners": null
+    },
+    {
+      "rank": 18,
+      "title": "Bonfire",
+      "artist": "Childish Gambino",
+      "cover": "covers/childish_gambino__bonfire.jpg",
+      "movement": {
+        "type": "new",
+        "value": null
+      },
+      "lastWeek": null,
+      "peak": 18,
+      "weeks": 3,
+      "points": null,
+      "listeners": null
+    },
+    {
+      "rank": 19,
+      "title": "KOMM, SUSSER TOD",
+      "artist": "M-10 Director's Edit Version - Arianne",
+      "cover": "covers/m_10_directors_edit_version_arianne__komm_susser_tod.jpg",
+      "movement": {
+        "type": "new",
+        "value": null
+      },
+      "lastWeek": null,
+      "peak": 19,
+      "weeks": 1,
+      "points": null,
+      "listeners": null
+    },
+    {
+      "rank": 20,
+      "title": "Pitch the Baby",
+      "artist": "Cocteau Twins",
+      "cover": "covers/cocteau_twins__pitch_the_baby.jpg",
+      "movement": {
+        "type": "new",
+        "value": null
+      },
+      "lastWeek": null,
+      "peak": 20,
+      "weeks": 2,
+      "points": null,
+      "listeners": null
+    },
+    {
+      "rank": 21,
+      "title": "Cicadas",
+      "artist": "Machine Girl",
+      "cover": "covers/machine_girl__cicadas.png",
+      "movement": {
+        "type": "new",
+        "value": null
+      },
+      "lastWeek": null,
+      "peak": 21,
+      "weeks": 1,
+      "points": null,
+      "listeners": null
+    },
+    {
+      "rank": 22,
+      "title": "Black Knife",
+      "artist": "Toby Fox",
+      "cover": "covers/toby_fox__black_knife.jpg",
+      "movement": {
+        "type": "new",
+        "value": null
+      },
+      "lastWeek": null,
+      "peak": 22,
+      "weeks": 1,
+      "points": null,
+      "listeners": null
+    },
+    {
+      "rank": 23,
+      "title": "Ass2Mars",
+      "artist": "Machine Girl",
+      "cover": "covers/machine_girl__ass2mars.png",
+      "movement": {
+        "type": "new",
+        "value": null
+      },
+      "lastWeek": null,
+      "peak": 23,
+      "weeks": 1,
+      "points": null,
+      "listeners": null
+    },
+    {
+      "rank": 24,
+      "title": "Head Like a Hole",
+      "artist": "Nine Inch Nails",
+      "cover": "covers/nine_inch_nails__head_like_a_hole.jpg",
+      "movement": {
+        "type": "new",
+        "value": null
+      },
+      "lastWeek": null,
+      "peak": 24,
+      "weeks": 1,
+      "points": null,
+      "listeners": null
+    },
+    {
+      "rank": 25,
+      "title": "Sea, Swallow Me",
+      "artist": "2024 Remaster - Cocteau Twins",
+      "cover": "covers/2024_remaster_cocteau_twins__sea_swallow_me.jpg",
+      "movement": {
+        "type": "new",
+        "value": null
+      },
+      "lastWeek": null,
+      "peak": 25,
+      "weeks": 1,
+      "points": null,
+      "listeners": null
+    },
+    {
+      "rank": 26,
+      "title": "CSIRAC",
+      "artist": "Ninajirachi",
+      "cover": "covers/ninajirachi__csirac.jpg",
+      "movement": {
+        "type": "new",
+        "value": null
+      },
+      "lastWeek": null,
+      "peak": 26,
+      "weeks": 1,
+      "points": null,
+      "listeners": null
+    },
+    {
+      "rank": 27,
+      "title": "Answer",
+      "artist": "Tyler, the Creator",
+      "cover": "covers/tyler_the_creator__answer.jpg",
+      "movement": {
+        "type": "new",
+        "value": null
+      },
+      "lastWeek": null,
+      "peak": 27,
+      "weeks": 1,
+      "points": null,
+      "listeners": null
+    },
+    {
+      "rank": 28,
+      "title": "Psychic Attack",
+      "artist": "Machine Girl",
+      "cover": "covers/machine_girl__psychic_attack.jpg",
+      "movement": {
+        "type": "new",
+        "value": null
+      },
+      "lastWeek": null,
+      "peak": 28,
+      "weeks": 2,
+      "points": null,
+      "listeners": null
+    },
+    {
+      "rank": 29,
+      "title": "BALD!",
+      "artist": "JPEGMAFIA",
+      "cover": "covers/jpegmafia__bald.png",
+      "movement": {
+        "type": "new",
+        "value": null
+      },
+      "lastWeek": null,
+      "peak": 29,
+      "weeks": 1,
+      "points": null,
+      "listeners": null
+    },
+    {
+      "rank": 30,
+      "title": "from me to u (feat. Poppy)",
+      "artist": "BABYMETAL",
+      "cover": "covers/_placeholder.png",
+      "movement": {
+        "type": "new",
+        "value": null
+      },
+      "lastWeek": null,
+      "peak": 30,
+      "weeks": 1,
+      "points": null,
+      "listeners": null
+    },
+    {
+      "rank": 31,
+      "title": "BUTCHER VANITY",
+      "artist": "Vane Lily",
+      "cover": "covers/vane_lily__butcher_vanity.jpg",
+      "movement": {
+        "type": "new",
+        "value": null
+      },
+      "lastWeek": null,
+      "peak": 31,
+      "weeks": 2,
+      "points": null,
+      "listeners": null
+    },
+    {
+      "rank": 32,
+      "title": "Sleep Talking",
+      "artist": "Indigo De Souza",
+      "cover": "covers/indigo_de_souza__sleep_talking.jpg",
+      "movement": {
+        "type": "new",
+        "value": null
+      },
+      "lastWeek": null,
+      "peak": 32,
+      "weeks": 1,
+      "points": null,
+      "listeners": null
+    },
+    {
+      "rank": 33,
+      "title": "the perfect pair",
+      "artist": "beabadoobee",
+      "cover": "covers/beabadoobee__the_perfect_pair.jpg",
+      "movement": {
+        "type": "new",
+        "value": null
+      },
+      "lastWeek": null,
+      "peak": 33,
+      "weeks": 4,
+      "points": null,
+      "listeners": null
+    },
+    {
+      "rank": 34,
+      "title": "Gallery Piece",
+      "artist": "of Montreal",
+      "cover": "covers/of_montreal__gallery_piece.jpg",
+      "movement": {
+        "type": "new",
+        "value": null
+      },
+      "lastWeek": null,
+      "peak": 34,
+      "weeks": 3,
+      "points": null,
+      "listeners": null
+    },
+    {
+      "rank": 35,
+      "title": "Mommanem",
+      "artist": "Tyler, The Creator",
+      "cover": "covers/tyler_the_creator__mommanem.jpg",
+      "movement": {
+        "type": "new",
+        "value": null
+      },
+      "lastWeek": null,
+      "peak": 35,
+      "weeks": 3,
+      "points": null,
+      "listeners": null
+    },
+    {
+      "rank": 36,
+      "title": "Locked & Loaded (Official Fortnite Anthem)",
+      "artist": "d4vd",
+      "cover": "covers/d4vd__locked_loaded_official_fortnite_anthem.jpg",
+      "movement": {
+        "type": "new",
+        "value": null
+      },
+      "lastWeek": null,
+      "peak": 36,
+      "weeks": 1,
+      "points": null,
+      "listeners": null
+    },
+    {
+      "rank": 37,
+      "title": "Your Idol",
+      "artist": "SAJA BOYS",
+      "cover": "covers/saja_boys__your_idol.jpg",
+      "movement": {
+        "type": "new",
+        "value": null
+      },
+      "lastWeek": null,
+      "peak": 37,
+      "weeks": 1,
+      "points": null,
+      "listeners": null
+    },
+    {
+      "rank": 38,
+      "title": "Cancer",
+      "artist": "My Chemical Romance",
+      "cover": "covers/my_chemical_romance__cancer.jpg",
+      "movement": {
+        "type": "new",
+        "value": null
+      },
+      "lastWeek": null,
+      "peak": 38,
+      "weeks": 1,
+      "points": null,
+      "listeners": null
+    },
+    {
+      "rank": 39,
+      "title": "Feel Good Inc.",
+      "artist": "Gorillaz",
+      "cover": "covers/gorillaz__feel_good_inc.jpg",
+      "movement": {
+        "type": "new",
+        "value": null
+      },
+      "lastWeek": null,
+      "peak": 39,
+      "weeks": 2,
+      "points": null,
+      "listeners": null
+    },
+    {
+      "rank": 40,
+      "title": "Aoi, Koi, Daidaiiro no Hi",
+      "artist": "MASS OF THE FERMENTING DREGS",
+      "cover": "covers/mass_of_the_fermenting_dregs__aoi_koi_daidaiiro_no_hi.jpg",
+      "movement": {
+        "type": "new",
+        "value": null
+      },
+      "lastWeek": null,
+      "peak": 40,
+      "weeks": 1,
+      "points": null,
+      "listeners": null
+    }
+  ]
+}

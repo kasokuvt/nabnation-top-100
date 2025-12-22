@@ -14,7 +14,7 @@
       },
       "lastWeek": null,
       "peak": 1,
-      "weeks": 8,
+      "weeks": 1,
       "points": null,
       "listeners": null
     },
@@ -29,7 +29,7 @@
       },
       "lastWeek": null,
       "peak": 2,
-      "weeks": 5,
+      "weeks": 1,
       "points": null,
       "listeners": null
     },
@@ -44,7 +44,7 @@
       },
       "lastWeek": null,
       "peak": 3,
-      "weeks": 9,
+      "weeks": 1,
       "points": null,
       "listeners": null
     },
@@ -59,7 +59,7 @@
       },
       "lastWeek": null,
       "peak": 4,
-      "weeks": 11,
+      "weeks": 1,
       "points": null,
       "listeners": null
     },
@@ -74,7 +74,7 @@
       },
       "lastWeek": null,
       "peak": 5,
-      "weeks": 5,
+      "weeks": 1,
       "points": null,
       "listeners": null
     },
@@ -88,8 +88,8 @@
         "value": null
       },
       "lastWeek": null,
-      "peak": 1,
-      "weeks": 12,
+      "peak": 6,
+      "weeks": 1,
       "points": null,
       "listeners": null
     },
@@ -119,7 +119,7 @@
       },
       "lastWeek": null,
       "peak": 8,
-      "weeks": 10,
+      "weeks": 1,
       "points": null,
       "listeners": null
     },
@@ -134,7 +134,7 @@
       },
       "lastWeek": null,
       "peak": 9,
-      "weeks": 12,
+      "weeks": 1,
       "points": null,
       "listeners": null
     },
@@ -164,7 +164,7 @@
       },
       "lastWeek": null,
       "peak": 11,
-      "weeks": 2,
+      "weeks": 1,
       "points": null,
       "listeners": null
     },
@@ -193,8 +193,8 @@
         "value": null
       },
       "lastWeek": null,
-      "peak": 8,
-      "weeks": 4,
+      "peak": 13,
+      "weeks": 1,
       "points": null,
       "listeners": null
     },
@@ -238,8 +238,8 @@
         "value": null
       },
       "lastWeek": null,
-      "peak": 2,
-      "weeks": 14,
+      "peak": 16,
+      "weeks": 1,
       "points": null,
       "listeners": null
     },
@@ -254,7 +254,7 @@
       },
       "lastWeek": null,
       "peak": 17,
-      "weeks": 3,
+      "weeks": 1,
       "points": null,
       "listeners": null
     },
@@ -269,14 +269,14 @@
       },
       "lastWeek": null,
       "peak": 18,
-      "weeks": 3,
+      "weeks": 1,
       "points": null,
       "listeners": null
     },
     {
       "rank": 19,
       "title": "KOMM, SUSSER TOD",
-      "artist": "M-10 Director's Edit Version - Arianne",
+      "artist": "Arianne",
       "cover": "covers/m_10_directors_edit_version_arianne__komm_susser_tod.jpg",
       "movement": {
         "type": "new",
@@ -299,7 +299,7 @@
       },
       "lastWeek": null,
       "peak": 20,
-      "weeks": 2,
+      "weeks": 1,
       "points": null,
       "listeners": null
     },
@@ -366,7 +366,7 @@
     {
       "rank": 25,
       "title": "Sea, Swallow Me",
-      "artist": "2024 Remaster - Cocteau Twins",
+      "artist": "Cocteau Twins",
       "cover": "covers/2024_remaster_cocteau_twins__sea_swallow_me.jpg",
       "movement": {
         "type": "new",
@@ -419,7 +419,7 @@
       },
       "lastWeek": null,
       "peak": 28,
-      "weeks": 2,
+      "weeks": 1,
       "points": null,
       "listeners": null
     },
@@ -442,7 +442,7 @@
       "rank": 30,
       "title": "from me to u (feat. Poppy)",
       "artist": "BABYMETAL",
-      "cover": "covers/_placeholder.png",
+      "cover": "covers/placeholder.png",
       "movement": {
         "type": "new",
         "value": null
@@ -464,7 +464,7 @@
       },
       "lastWeek": null,
       "peak": 31,
-      "weeks": 2,
+      "weeks": 1,
       "points": null,
       "listeners": null
     },
@@ -494,7 +494,7 @@
       },
       "lastWeek": null,
       "peak": 33,
-      "weeks": 4,
+      "weeks": 1,
       "points": null,
       "listeners": null
     },
@@ -509,7 +509,7 @@
       },
       "lastWeek": null,
       "peak": 34,
-      "weeks": 3,
+      "weeks": 1,
       "points": null,
       "listeners": null
     },
@@ -524,7 +524,7 @@
       },
       "lastWeek": null,
       "peak": 35,
-      "weeks": 3,
+      "weeks": 1,
       "points": null,
       "listeners": null
     },
@@ -584,7 +584,7 @@
       },
       "lastWeek": null,
       "peak": 39,
-      "weeks": 2,
+      "weeks": 1,
       "points": null,
       "listeners": null
     },

@@ -429,8 +429,8 @@
       "artist": "Death Grips",
       "cover": "covers/death_grips__ive_seen_footage.png",
       "movement": {
-        "type": "stay",
-        "value": 0
+        "type": "same",
+        "value": null
       },
       "lastWeek": 29,
       "peak": 13,
@@ -621,7 +621,7 @@
     {
       "rank": 42,
       "title": "モニタリング",
-      "artist": "DECO*27",
+      "artist": "DECO27",
       "cover": "covers/deco27__モニタリング.jpg",
       "movement": {
         "type": "new",
@@ -1085,7 +1085,7 @@
     },
     {
       "rank": 73,
-      "title": "Ni**as in Paris",
+      "title": "Nias in Paris",
       "artist": "JAY-Z",
       "cover": "covers/jay_z__nias_in_paris.jpg",
       "movement": {

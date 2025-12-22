@@ -7,59 +7,59 @@
       "rank": 1,
       "title": "PIXELATED KISSES",
       "artist": "Joji",
-      "cover": "covers/joji_2120_pts__pixelated_kisses.jpg",
+      "cover": "covers/joji__pixelated_kisses.jpg",
       "movement": {
-        "type": "new",
+        "type": "same",
         "value": null
       },
-      "lastWeek": null,
+      "lastWeek": 1,
       "peak": 1,
-      "weeks": 7,
-      "points": null,
+      "weeks": 2,
+      "points": 212.0,
       "listeners": null
     },
     {
       "rank": 2,
       "title": "Au Pays du Cocaine",
       "artist": "Geese",
-      "cover": "covers/geese_1350_pts__au_pays_du_cocaine.png",
+      "cover": "covers/geese__au_pays_du_cocaine.png",
       "movement": {
-        "type": "new",
-        "value": null
+        "type": "up",
+        "value": 9
       },
-      "lastWeek": null,
+      "lastWeek": 11,
       "peak": 1,
-      "weeks": 12,
-      "points": null,
+      "weeks": 5,
+      "points": 135.0,
       "listeners": null
     },
     {
       "rank": 3,
       "title": "IRIS OUT",
       "artist": "Kenshi Yonezu",
-      "cover": "covers/kenshi_yonezu_1150_pts__iris_out.png",
+      "cover": "covers/kenshi_yonezu__iris_out.png",
       "movement": {
-        "type": "new",
-        "value": null
+        "type": "up",
+        "value": 17
       },
-      "lastWeek": null,
+      "lastWeek": 20,
       "peak": 3,
-      "weeks": 15,
-      "points": null,
+      "weeks": 7,
+      "points": 115.0,
       "listeners": null
     },
     {
       "rank": 4,
       "title": "Spoken For",
       "artist": "Flavor Foley",
-      "cover": "covers/_placeholder.png",
+      "cover": "covers/placeholder.png",
       "movement": {
-        "type": "new",
-        "value": null
+        "type": "up",
+        "value": 12
       },
-      "lastWeek": null,
+      "lastWeek": 16,
       "peak": 4,
-      "weeks": 11,
+      "weeks": 7,
       "points": null,
       "listeners": null
     },
@@ -67,74 +67,74 @@
       "rank": 5,
       "title": "Ignore the Vore",
       "artist": "Machine Girl",
-      "cover": "covers/machine_girl_1000_pts__ignore_the_vore.png",
+      "cover": "covers/machine_girl__ignore_the_vore.png",
       "movement": {
         "type": "new",
         "value": null
       },
       "lastWeek": null,
       "peak": 5,
-      "weeks": 4,
-      "points": null,
+      "weeks": 1,
+      "points": 100.0,
       "listeners": null
     },
     {
       "rank": 6,
       "title": "Creeping Up From The Pit",
       "artist": "Machine Girl",
-      "cover": "covers/machine_girl_920_pts__creeping_up_from_the_pit.png",
+      "cover": "covers/machine_girl__creeping_up_from_the_pit.png",
       "movement": {
         "type": "new",
         "value": null
       },
       "lastWeek": null,
       "peak": 6,
-      "weeks": 2,
-      "points": null,
+      "weeks": 1,
+      "points": 92.0,
       "listeners": null
     },
     {
       "rank": 7,
       "title": "ID Crisis Angel",
       "artist": "Machine Girl",
-      "cover": "covers/machine_girl_860_pts__id_crisis_angel.png",
+      "cover": "covers/machine_girl__id_crisis_angel.png",
       "movement": {
         "type": "new",
         "value": null
       },
       "lastWeek": null,
       "peak": 7,
-      "weeks": 3,
-      "points": null,
+      "weeks": 1,
+      "points": 86.0,
       "listeners": null
     },
     {
       "rank": 8,
       "title": "Psychowar",
       "artist": "Machine Girl",
-      "cover": "covers/_placeholder.png",
+      "cover": "covers/placeholder.png",
       "movement": {
         "type": "new",
         "value": null
       },
       "lastWeek": null,
       "peak": 8,
-      "weeks": 2,
+      "weeks": 1,
       "points": null,
       "listeners": null
     },
     {
       "rank": 9,
-      "title": "Despite Having No Money At All I’m Just Another Rat in the Mall",
+      "title": "Despite Having No Money At All I'm Just Another Rat in the Mall",
       "artist": "Machine Girl",
-      "cover": "covers/_placeholder.png",
+      "cover": "covers/placeholder.png",
       "movement": {
         "type": "new",
         "value": null
       },
       "lastWeek": null,
       "peak": 9,
-      "weeks": 2,
+      "weeks": 1,
       "points": null,
       "listeners": null
     },
@@ -142,89 +142,89 @@
       "rank": 10,
       "title": "Headfirst Slide Into Cooperstown on a Bad Bet",
       "artist": "Fall Out Boy",
-      "cover": "covers/fall_out_boy_830_pts__headfirst_slide_into_cooperstown_on_a_bad_bet.png",
+      "cover": "covers/fall_out_boy__headfirst_slide_into_cooperstown_on_a_bad_bet.png",
       "movement": {
-        "type": "new",
+        "type": "re",
         "value": null
       },
       "lastWeek": null,
       "peak": 9,
       "weeks": 3,
-      "points": null,
+      "points": 83.0,
       "listeners": null
     },
     {
       "rank": 11,
       "title": "Dracula",
       "artist": "Tame Impala",
-      "cover": "covers/tame_impala_810_pts__dracula.jpg",
+      "cover": "covers/tame_impala__dracula.jpg",
       "movement": {
-        "type": "new",
-        "value": null
+        "type": "down",
+        "value": 8
       },
-      "lastWeek": null,
+      "lastWeek": 3,
       "peak": 1,
-      "weeks": 13,
-      "points": null,
+      "weeks": 5,
+      "points": 81.0,
       "listeners": null
     },
     {
       "rank": 12,
       "title": "Phantom Doom",
       "artist": "Machine Girl",
-      "cover": "covers/machine_girl_765_pts__phantom_doom.png",
+      "cover": "covers/machine_girl__phantom_doom.png",
       "movement": {
         "type": "new",
         "value": null
       },
       "lastWeek": null,
       "peak": 12,
-      "weeks": 2,
-      "points": null,
+      "weeks": 1,
+      "points": 76.5,
       "listeners": null
     },
     {
       "rank": 13,
       "title": "2010 Justin Bieber",
       "artist": "Lucy Bedroque",
-      "cover": "covers/lucy_bedroque_750_pts__2010_justin_bieber.png",
+      "cover": "covers/lucy_bedroque__2010_justin_bieber.png",
       "movement": {
-        "type": "new",
-        "value": null
+        "type": "down",
+        "value": 5
       },
-      "lastWeek": null,
+      "lastWeek": 8,
       "peak": 8,
-      "weeks": 7,
-      "points": null,
+      "weeks": 2,
+      "points": 75.0,
       "listeners": null
     },
     {
       "rank": 14,
       "title": "I WANT THINGS TO BE BEAUTIFUL",
       "artist": "Devi McCallion",
-      "cover": "covers/devi_mccallion_705_pts__i_want_things_to_be_beautiful.png",
+      "cover": "covers/devi_mccallion__i_want_things_to_be_beautiful.png",
       "movement": {
-        "type": "new",
-        "value": null
+        "type": "down",
+        "value": 7
       },
-      "lastWeek": null,
+      "lastWeek": 7,
       "peak": 2,
-      "weeks": 14,
-      "points": null,
+      "weeks": 7,
+      "points": 70.5,
       "listeners": null
     },
     {
       "rank": 15,
       "title": "Cobra",
       "artist": "Geese",
-      "cover": "covers/_placeholder.png",
+      "cover": "covers/placeholder.png",
       "movement": {
-        "type": "new",
+        "type": "re",
         "value": null
       },
       "lastWeek": null,
       "peak": 15,
-      "weeks": 4,
+      "weeks": 3,
       "points": null,
       "listeners": null
     },
@@ -232,7 +232,7 @@
       "rank": 16,
       "title": "(RE)Dancing with your eyes closed",
       "artist": "Jane Remover",
-      "cover": "covers/jane_remover_700_pts__redancing_with_your_eyes_closed.png",
+      "cover": "covers/jane_remover__redancing_with_your_eyes_closed.png",
       "movement": {
         "type": "new",
         "value": null
@@ -240,51 +240,51 @@
       "lastWeek": null,
       "peak": 16,
       "weeks": 1,
-      "points": null,
+      "points": 70.0,
       "listeners": null
     },
     {
       "rank": 17,
       "title": "Down To The Essence",
       "artist": "Machine Girl",
-      "cover": "covers/machine_girl_700_pts__down_to_the_essence.png",
+      "cover": "covers/machine_girl__down_to_the_essence.png",
       "movement": {
         "type": "new",
         "value": null
       },
       "lastWeek": null,
       "peak": 17,
-      "weeks": 2,
-      "points": null,
+      "weeks": 1,
+      "points": 70.0,
       "listeners": null
     },
     {
       "rank": 18,
       "title": "Dual Wield",
       "artist": "Machine Girl",
-      "cover": "covers/machine_girl_700_pts__dual_wield.png",
+      "cover": "covers/machine_girl__dual_wield.png",
       "movement": {
         "type": "new",
         "value": null
       },
       "lastWeek": null,
-      "peak": 15,
-      "weeks": 2,
-      "points": null,
+      "peak": 18,
+      "weeks": 1,
+      "points": 70.0,
       "listeners": null
     },
     {
       "rank": 19,
       "title": "poster boy",
       "artist": "2hollis",
-      "cover": "covers/_placeholder.png",
+      "cover": "covers/placeholder.png",
       "movement": {
-        "type": "new",
-        "value": null
+        "type": "up",
+        "value": 12
       },
-      "lastWeek": null,
+      "lastWeek": 31,
       "peak": 4,
-      "weeks": 10,
+      "weeks": 5,
       "points": null,
       "listeners": null
     },
@@ -292,29 +292,29 @@
       "rank": 20,
       "title": "i-Void Destroyer",
       "artist": "Machine Girl",
-      "cover": "covers/machine_girl_685_pts__i_void_destroyer.png",
+      "cover": "covers/machine_girl__i_void_destroyer.png",
       "movement": {
         "type": "new",
         "value": null
       },
       "lastWeek": null,
       "peak": 20,
-      "weeks": 2,
-      "points": null,
+      "weeks": 1,
+      "points": 68.5,
       "listeners": null
     },
     {
       "rank": 21,
       "title": "4 Raws",
       "artist": "EsDeeKid",
-      "cover": "covers/_placeholder.png",
+      "cover": "covers/placeholder.png",
       "movement": {
-        "type": "new",
+        "type": "re",
         "value": null
       },
       "lastWeek": null,
-      "peak": 2,
-      "weeks": 10,
+      "peak": 21,
+      "weeks": 2,
       "points": null,
       "listeners": null
     },
@@ -322,28 +322,28 @@
       "rank": 22,
       "title": "Just Be Competent",
       "artist": "r u s s e l b u c k",
-      "cover": "covers/r_u_s_s_e_l_b_u_c_k_645_pts__just_be_competent.jpg",
+      "cover": "covers/r_u_s_s_e_l_b_u_c_k__just_be_competent.jpg",
       "movement": {
-        "type": "new",
-        "value": null
+        "type": "down",
+        "value": 10
       },
-      "lastWeek": null,
+      "lastWeek": 12,
       "peak": 10,
-      "weeks": 8,
-      "points": null,
+      "weeks": 5,
+      "points": 64.5,
       "listeners": null
     },
     {
       "rank": 23,
       "title": "Fidelio",
       "artist": "fakemink",
-      "cover": "covers/_placeholder.png",
+      "cover": "covers/placeholder.png",
       "movement": {
-        "type": "new",
-        "value": null
+        "type": "down",
+        "value": 4
       },
-      "lastWeek": null,
-      "peak": 23,
+      "lastWeek": 19,
+      "peak": 19,
       "weeks": 2,
       "points": null,
       "listeners": null
@@ -352,29 +352,29 @@
       "rank": 24,
       "title": "Come On Baby, Scrape My Data",
       "artist": "Machine Girl",
-      "cover": "covers/machine_girl_625_pts__come_on_baby_scrape_my_data.png",
+      "cover": "covers/machine_girl__come_on_baby_scrape_my_data.png",
       "movement": {
-        "type": "new",
+        "type": "re",
         "value": null
       },
       "lastWeek": null,
       "peak": 2,
-      "weeks": 5,
-      "points": null,
+      "weeks": 4,
+      "points": 62.5,
       "listeners": null
     },
     {
       "rank": 25,
       "title": "Taxes",
       "artist": "Geese",
-      "cover": "covers/_placeholder.png",
+      "cover": "covers/placeholder.png",
       "movement": {
-        "type": "new",
+        "type": "re",
         "value": null
       },
       "lastWeek": null,
       "peak": 10,
-      "weeks": 9,
+      "weeks": 4,
       "points": null,
       "listeners": null
     },
@@ -382,22 +382,22 @@
       "rank": 26,
       "title": "Be Nice 2 Me",
       "artist": "Bladee",
-      "cover": "covers/bladee_590_pts__be_nice_2_me.png",
+      "cover": "covers/bladee__be_nice_2_me.png",
       "movement": {
-        "type": "new",
+        "type": "re",
         "value": null
       },
       "lastWeek": null,
-      "peak": 7,
-      "weeks": 9,
-      "points": null,
+      "peak": 26,
+      "weeks": 3,
+      "points": 59.0,
       "listeners": null
     },
     {
       "rank": 27,
       "title": "I Like Ur Look",
       "artist": "Kim Petras",
-      "cover": "covers/kim_petras_580_pts__i_like_ur_look.png",
+      "cover": "covers/kim_petras__i_like_ur_look.png",
       "movement": {
         "type": "new",
         "value": null
@@ -405,36 +405,36 @@
       "lastWeek": null,
       "peak": 27,
       "weeks": 1,
-      "points": null,
+      "points": 58.0,
       "listeners": null
     },
     {
       "rank": 28,
       "title": "Rabbit Season",
       "artist": "Machine Girl",
-      "cover": "covers/machine_girl_575_pts__rabbit_season.png",
+      "cover": "covers/machine_girl__rabbit_season.png",
       "movement": {
-        "type": "new",
-        "value": null
+        "type": "up",
+        "value": 20
       },
-      "lastWeek": null,
+      "lastWeek": 48,
       "peak": 1,
-      "weeks": 8,
-      "points": null,
+      "weeks": 6,
+      "points": 57.5,
       "listeners": null
     },
     {
       "rank": 29,
       "title": "Copycats",
       "artist": "Danny Brown",
-      "cover": "covers/_placeholder.png",
+      "cover": "covers/placeholder.png",
       "movement": {
-        "type": "new",
-        "value": null
+        "type": "down",
+        "value": 27
       },
-      "lastWeek": null,
-      "peak": 1,
-      "weeks": 6,
+      "lastWeek": 2,
+      "peak": 2,
+      "weeks": 2,
       "points": null,
       "listeners": null
     },
@@ -442,22 +442,22 @@
       "rank": 30,
       "title": "The Place Where He Inserted The Blade",
       "artist": "Black Country, New Road",
-      "cover": "covers/black_country_new_road_550_pts__the_place_where_he_inserted_the_blade.png",
+      "cover": "covers/black_country_new_road__the_place_where_he_inserted_the_blade.png",
       "movement": {
-        "type": "new",
+        "type": "re",
         "value": null
       },
       "lastWeek": null,
       "peak": 30,
       "weeks": 2,
-      "points": null,
+      "points": 55.0,
       "listeners": null
     },
     {
       "rank": 31,
-      "title": "We Don’t Give a Fuck",
+      "title": "We Don't Give a Fuck",
       "artist": "Machine Girl",
-      "cover": "covers/machine_girl_540_pts__we_dont_give_a_fuck.jpg",
+      "cover": "covers/machine_girl__we_dont_give_a_fuck.jpg",
       "movement": {
         "type": "new",
         "value": null
@@ -465,44 +465,44 @@
       "lastWeek": null,
       "peak": 31,
       "weeks": 1,
-      "points": null,
+      "points": 54.0,
       "listeners": null
     },
     {
       "rank": 32,
       "title": "L.E.S.",
       "artist": "Childish Gambino",
-      "cover": "covers/childish_gambino_525_pts__les.jpg",
+      "cover": "covers/childish_gambino__les.jpg",
       "movement": {
-        "type": "new",
-        "value": null
+        "type": "up",
+        "value": 21
       },
-      "lastWeek": null,
-      "peak": 16,
-      "weeks": 7,
-      "points": null,
+      "lastWeek": 53,
+      "peak": 21,
+      "weeks": 4,
+      "points": 52.5,
       "listeners": null
     },
     {
       "rank": 33,
       "title": "FUKOUNA GIRL",
       "artist": "STOMACH BOOK",
-      "cover": "covers/stomach_book_515_pts__fukouna_girl.png",
+      "cover": "covers/stomach_book__fukouna_girl.png",
       "movement": {
         "type": "new",
         "value": null
       },
       "lastWeek": null,
       "peak": 33,
-      "weeks": 2,
-      "points": null,
+      "weeks": 1,
+      "points": 51.5,
       "listeners": null
     },
     {
       "rank": 34,
       "title": "Kingdom Hearts Key (ft. redveil)",
       "artist": "JPEGMAFIA",
-      "cover": "covers/jpegmafia_510_pts__kingdom_hearts_key_ft_redveil.png",
+      "cover": "covers/jpegmafia__kingdom_hearts_key_ft_redveil.png",
       "movement": {
         "type": "new",
         "value": null
@@ -510,14 +510,14 @@
       "lastWeek": null,
       "peak": 34,
       "weeks": 1,
-      "points": null,
+      "points": 51.0,
       "listeners": null
     },
     {
       "rank": 35,
       "title": "Innermission",
       "artist": "Machine Girl",
-      "cover": "covers/_placeholder.png",
+      "cover": "covers/placeholder.png",
       "movement": {
         "type": "new",
         "value": null
@@ -532,14 +532,14 @@
       "rank": 36,
       "title": "weathergirl",
       "artist": "Flavor Foley",
-      "cover": "covers/_placeholder.png",
+      "cover": "covers/placeholder.png",
       "movement": {
-        "type": "new",
-        "value": null
+        "type": "up",
+        "value": 14
       },
-      "lastWeek": null,
-      "peak": 12,
-      "weeks": 8,
+      "lastWeek": 50,
+      "peak": 32,
+      "weeks": 6,
       "points": null,
       "listeners": null
     },
@@ -547,22 +547,22 @@
       "rank": 37,
       "title": "SUGAR ON MY TONGUE",
       "artist": "Tyler, The Creator",
-      "cover": "covers/tyler_the_creator_495_pts__sugar_on_my_tongue.png",
+      "cover": "covers/tyler_the_creator__sugar_on_my_tongue.png",
       "movement": {
-        "type": "new",
+        "type": "re",
         "value": null
       },
       "lastWeek": null,
       "peak": 3,
-      "weeks": 9,
-      "points": null,
+      "weeks": 7,
+      "points": 49.5,
       "listeners": null
     },
     {
       "rank": 38,
       "title": "In the End",
       "artist": "Linkin Park",
-      "cover": "covers/linkin_park_485_pts__in_the_end.jpg",
+      "cover": "covers/linkin_park__in_the_end.jpg",
       "movement": {
         "type": "new",
         "value": null
@@ -570,21 +570,21 @@
       "lastWeek": null,
       "peak": 38,
       "weeks": 1,
-      "points": null,
+      "points": 48.5,
       "listeners": null
     },
     {
       "rank": 39,
       "title": "LV Sandals",
       "artist": "EsDeeKid",
-      "cover": "covers/_placeholder.png",
+      "cover": "covers/placeholder.png",
       "movement": {
         "type": "new",
         "value": null
       },
       "lastWeek": null,
-      "peak": 13,
-      "weeks": 7,
+      "peak": 39,
+      "weeks": 1,
       "points": null,
       "listeners": null
     },
@@ -592,15 +592,15 @@
       "rank": 40,
       "title": "Pitch the Baby",
       "artist": "Cocteau Twins",
-      "cover": "covers/cocteau_twins_475_pts__pitch_the_baby.png",
+      "cover": "covers/cocteau_twins__pitch_the_baby.png",
       "movement": {
-        "type": "new",
+        "type": "re",
         "value": null
       },
       "lastWeek": null,
       "peak": 20,
       "weeks": 2,
-      "points": null,
+      "points": 47.5,
       "listeners": null
     },
     {
@@ -613,8 +613,8 @@
         "value": null
       },
       "lastWeek": null,
-      "peak": 16,
-      "weeks": 2,
+      "peak": 41,
+      "weeks": 1,
       "points": 47.0,
       "listeners": 9
     },
@@ -629,7 +629,7 @@
       },
       "lastWeek": null,
       "peak": 42,
-      "weeks": 3,
+      "weeks": 2,
       "points": 47.0,
       "listeners": 4
     },
@@ -659,7 +659,7 @@
       },
       "lastWeek": null,
       "peak": 1,
-      "weeks": 9,
+      "weeks": 4,
       "points": 45.5,
       "listeners": 7
     },
@@ -674,7 +674,7 @@
       },
       "lastWeek": null,
       "peak": 9,
-      "weeks": 12,
+      "weeks": 6,
       "points": 45.5,
       "listeners": 5
     },
@@ -688,8 +688,8 @@
         "value": null
       },
       "lastWeek": null,
-      "peak": 27,
-      "weeks": 8,
+      "peak": 46,
+      "weeks": 2,
       "points": 44.5,
       "listeners": 9
     },
@@ -779,7 +779,7 @@
       },
       "lastWeek": null,
       "peak": 29,
-      "weeks": 3,
+      "weeks": 2,
       "points": 42.5,
       "listeners": 5
     },
@@ -809,7 +809,7 @@
       },
       "lastWeek": null,
       "peak": 54,
-      "weeks": 3,
+      "weeks": 2,
       "points": 42.5,
       "listeners": 3
     },
@@ -862,7 +862,7 @@
       "rank": 58,
       "title": "Psychoboost feat danny brown",
       "artist": "Jane Remover",
-      "cover": "covers/_placeholder.png",
+      "cover": "covers/placeholder.png",
       "movement": {
         "type": "down",
         "value": 35
@@ -883,8 +883,8 @@
         "value": null
       },
       "lastWeek": null,
-      "peak": 8,
-      "weeks": 10,
+      "peak": 22,
+      "weeks": 4,
       "points": 41.0,
       "listeners": 6
     },
@@ -914,7 +914,7 @@
       },
       "lastWeek": null,
       "peak": 61,
-      "weeks": 2,
+      "weeks": 1,
       "points": 41.0,
       "listeners": 4
     },
@@ -1004,7 +1004,7 @@
       },
       "lastWeek": 87,
       "peak": 12,
-      "weeks": 5,
+      "weeks": 4,
       "points": 40.0,
       "listeners": 6
     },
@@ -1014,7 +1014,7 @@
       "artist": "Childish Gambino",
       "cover": "covers/childish_gambino__heartbeat.jpg",
       "movement": {
-        "type": "new",
+        "type": "re",
         "value": null
       },
       "lastWeek": null,
@@ -1034,7 +1034,7 @@
       },
       "lastWeek": null,
       "peak": 23,
-      "weeks": 4,
+      "weeks": 3,
       "points": 40.0,
       "listeners": 6
     },
@@ -1063,8 +1063,8 @@
         "value": null
       },
       "lastWeek": null,
-      "peak": 44,
-      "weeks": 3,
+      "peak": 71,
+      "weeks": 1,
       "points": 40.0,
       "listeners": 4
     },
@@ -1094,7 +1094,7 @@
       },
       "lastWeek": 68,
       "peak": 8,
-      "weeks": 10,
+      "weeks": 7,
       "points": 39.5,
       "listeners": 10
     },
@@ -1109,7 +1109,7 @@
       },
       "lastWeek": 66,
       "peak": 2,
-      "weeks": 12,
+      "weeks": 5,
       "points": 39.5,
       "listeners": 9
     },
@@ -1154,7 +1154,7 @@
       },
       "lastWeek": null,
       "peak": 1,
-      "weeks": 12,
+      "weeks": 7,
       "points": 39.0,
       "listeners": 8
     },
@@ -1198,8 +1198,8 @@
         "value": null
       },
       "lastWeek": null,
-      "peak": 34,
-      "weeks": 3,
+      "peak": 39,
+      "weeks": 2,
       "points": 39.0,
       "listeners": 4
     },
@@ -1229,7 +1229,7 @@
       },
       "lastWeek": 40,
       "peak": 14,
-      "weeks": 6,
+      "weeks": 3,
       "points": 38.5,
       "listeners": 7
     },
@@ -1273,8 +1273,8 @@
         "value": null
       },
       "lastWeek": null,
-      "peak": 37,
-      "weeks": 2,
+      "peak": 85,
+      "weeks": 1,
       "points": 38.5,
       "listeners": 3
     },
@@ -1378,8 +1378,8 @@
         "value": null
       },
       "lastWeek": null,
-      "peak": 10,
-      "weeks": 6,
+      "peak": 92,
+      "weeks": 1,
       "points": 38.0,
       "listeners": 6
     },
@@ -1419,8 +1419,8 @@
       "artist": "Fall Out Boy",
       "cover": "covers/fall_out_boy__sugar_were_goin_down.png",
       "movement": {
-        "type": "stay",
-        "value": 0
+        "type": "same",
+        "value": null
       },
       "lastWeek": 95,
       "peak": 95,
@@ -1438,8 +1438,8 @@
         "value": null
       },
       "lastWeek": null,
-      "peak": 77,
-      "weeks": 2,
+      "peak": 96,
+      "weeks": 1,
       "points": 37.0,
       "listeners": 4
     },
@@ -1453,8 +1453,8 @@
         "value": 6
       },
       "lastWeek": 91,
-      "peak": 10,
-      "weeks": 10,
+      "peak": 70,
+      "weeks": 3,
       "points": 36.5,
       "listeners": 9
     },
@@ -1498,8 +1498,8 @@
         "value": null
       },
       "lastWeek": null,
-      "peak": 77,
-      "weeks": 2,
+      "peak": 100,
+      "weeks": 1,
       "points": 36.5,
       "listeners": 3
     }
