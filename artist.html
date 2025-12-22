@@ -1,0 +1,67 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+
+  <title>Nabnation Top 100 — Artist</title>
+
+  <!-- Favicon / App Icon -->
+  <link rel="icon" href="assets/icon.webp" type="image/webp" />
+  <link rel="apple-touch-icon" href="assets/icon.webp" />
+
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header class="topbar">
+    <a class="brand" href="/" aria-label="Home">
+      <img class="brandIcon" src="assets/icon.webp" alt="" />
+    </a>
+
+    <div class="headMain">
+      <div class="headLeft">
+        <h1 id="artistName">Artist</h1>
+        <div class="subrow">
+          <div id="artistMeta" class="week">—</div>
+        </div>
+      </div>
+
+      <div class="headRight">
+        <div class="searchWrap">
+          <input
+            id="artistSearch"
+            class="searchInput"
+            type="search"
+            placeholder="Search artist…"
+            autocomplete="off"
+          />
+          <div id="searchResults" class="searchResults hidden"></div>
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <main class="wrap">
+    <div class="artistControls">
+      <input id="songFilter" class="searchInput" type="search" placeholder="Filter songs…" autocomplete="off" />
+      <div class="mutedSmall" id="countLabel"></div>
+    </div>
+
+    <div class="artistTableHead">
+      <div>Song</div>
+      <div class="center">Debut Date</div>
+      <div class="center">Peak Pos.</div>
+      <div class="center">Peak Date</div>
+      <div class="center">Wks. on Chart</div>
+    </div>
+
+    <div id="artistTable" class="artistTable" aria-label="Artist songs"></div>
+
+    <footer class="foot">
+      <span>Tip: click a song row to expand/collapse its chart history.</span>
+    </footer>
+  </main>
+
+  <script src="artist.js"></script>
+</body>
+</html>

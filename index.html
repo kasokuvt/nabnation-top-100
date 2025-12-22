@@ -1,0 +1,102 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+
+  <title>Nabnation Top 100</title>
+
+  <!-- Favicon / App Icon -->
+  <link rel="icon" href="assets/icon.webp" type="image/webp" />
+  <link rel="apple-touch-icon" href="assets/icon.webp" />
+
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header class="topbar">
+    <!-- Brand icon -->
+    <a class="brand" href="/" aria-label="Home">
+      <img class="brandIcon" src="assets/icon.webp" alt="" />
+    </a>
+
+    <div class="headMain">
+      <div class="headLeft">
+        <h1 id="chartTitle">Nabnation Top 100</h1>
+        <div class="subrow">
+          <div id="weekLabel" class="week">Week of —</div>
+          <select id="weekSelect" class="weekSelect" title="Select week"></select>
+        </div>
+      </div>
+
+      <div class="headRight">
+        <div class="searchWrap">
+          <input
+            id="artistSearch"
+            class="searchInput"
+            type="search"
+            placeholder="Search artist…"
+            autocomplete="off"
+          />
+          <div id="searchResults" class="searchResults hidden"></div>
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <main class="wrap">
+    <div class="table-head">
+      <div>Rank</div>
+      <div>Song</div>
+      <div class="right">LW / Peak / Weeks</div>
+    </div>
+
+    <ol id="chart" class="chart" aria-label="Nabnation Top 100"></ol>
+
+    <!-- Submit Last.fm profile -->
+    <section class="submitBox" aria-label="Submit a Last.fm profile">
+      <h2>Submit your Last.fm profile</h2>
+      <p class="muted">
+        Want your scrobbles included? Submit your Last.fm profile link. Submissions are anonymous (no login required).
+      </p>
+
+      <form class="submitForm" action="https://formspree.io/f/xvzpbrgb" method="POST">
+        <label class="label" for="lfm">Last.fm profile link</label>
+        <input
+          id="lfm"
+          name="lastfm_profile"
+          class="searchInput"
+          type="url"
+          placeholder="https://www.last.fm/user/YourName"
+          required
+          pattern="https?://(www\.)?last\.fm/user/[^/]+/?"
+        />
+
+        <label class="label" for="note">Optional note</label>
+        <input
+          id="note"
+          name="note"
+          class="searchInput"
+          type="text"
+          placeholder="(optional) anything you want to add"
+          maxlength="160"
+        />
+
+        <!-- honeypot: helps reduce bot spam -->
+        <input type="text" name="_gotcha" style="display:none">
+
+        <button class="btnPrimary" type="submit">Send</button>
+
+        <p class="mutedSmall">
+          By submitting, you’re asking to be considered for next week’s chart. I manually review and add accounts.
+        </p>
+      </form>
+    </section>
+
+    <footer class="foot">
+      <span id="footInfo"></span>
+    </footer>
+  </main>
+
+  <script src="chart.js"></script>
+</body>
+</html>
