@@ -80,13 +80,22 @@ function statsAsOf(songObj, weekStr) {
   return { peak, weeks: upTo.length };
 }
 
-function lastWeekRankAsOf(songObj, weekStr) {
+/**
+ * ✅ LW should mean: rank on the IMMEDIATELY previous chart week only.
+ * If song wasn't on that exact previous week -> LW = null (shown as —).
+ */
+function lastWeekRankImmediate(songObj, prevWeekStr) {
+  if (!prevWeekStr) return null;
   if (!songObj || !Array.isArray(songObj.history)) return null;
-  const prev = songObj.history
-    .filter(h => String(h.week) < String(weekStr))
-    .sort((a, b) => String(a.week).localeCompare(String(b.week)))
-    .pop();
-  return prev ? Number(prev.rank) : null;
+  const hit = songObj.history.find(h => String(h.week) === String(prevWeekStr));
+  return hit ? Number(hit.rank) : null;
+}
+
+function getPrevWeek(weeksNewestFirst, currentWeek) {
+  const idx = weeksNewestFirst.indexOf(currentWeek);
+  // weeks list is newest -> oldest, so previous week is idx+1
+  if (idx === -1) return null;
+  return weeksNewestFirst[idx + 1] || null;
 }
 
 /* ===========================
@@ -119,18 +128,27 @@ function buildHistoryHtml(history, asOfWeek) {
   `;
 }
 
-function buildExpandHtml(entry, catalogSong, asOfWeek) {
+function buildExpandHtml(entry, catalogSong, asOfWeek, prevWeekStr) {
   let lw = entry.lastWeek;
   let peak = entry.peak;
   let weeks = entry.weeks;
   const history = catalogSong?.history ?? [];
 
+  // ✅ movement types that should show LW as —
+  const mtype = entry.movement?.type || null;
+  const forceDashLW = (mtype === "new" || mtype === "re");
+
   if (catalogSong && asOfWeek) {
     const asof = statsAsOf(catalogSong, asOfWeek);
-    const lwRank = lastWeekRankAsOf(catalogSong, asOfWeek);
     if (asof.peak !== null) peak = asof.peak;
     if (asof.weeks !== null) weeks = asof.weeks;
+
+    // ✅ correct LW: only from immediately previous week
+    const lwRank = forceDashLW ? null : lastWeekRankImmediate(catalogSong, prevWeekStr);
     lw = (lwRank === null || Number.isNaN(lwRank)) ? null : lwRank;
+  } else {
+    // if no catalogSong, still force dash for NEW/RE
+    if (forceDashLW) lw = null;
   }
 
   return `
@@ -249,14 +267,11 @@ function setupArtistSearch(catalog) {
    =========================== */
 
 function movementValue(entry) {
-  // Prefer exporter movement
   if (entry.movement && typeof entry.movement.type === "string") {
     const t = entry.movement.type;
     const v = Number(entry.movement.value || 0);
     return { type: t, value: v };
   }
-
-  // Fallback via lastWeek (rare)
   const lw = (entry.lastWeek === null || entry.lastWeek === undefined) ? null : Number(entry.lastWeek);
   const r = Number(entry.rank);
   if (lw === null || Number.isNaN(lw)) return { type: "unknown", value: 0 };
@@ -267,81 +282,57 @@ function movementValue(entry) {
 }
 
 function computeAwardsMap(entries, songLookup, asOfWeek) {
-  // returns Map<songKey, Array<{id,text,cls}>>
   const out = new Map();
-
-  function addAward(entry, id, text, cls) {
+  function addAward(entry, text, cls) {
     if (!entry) return;
     const k = songKey(entry.title, entry.artist);
     if (!out.has(k)) out.set(k, []);
-    out.get(k).push({ id, text, cls });
+    out.get(k).push({ text, cls });
   }
 
-  // Biggest Jump (max up value)
-  let biggestJump = null;
-  let bestUp = -1;
+  let biggestJump = null, bestUp = -1;
   for (const e of entries) {
     const m = movementValue(e);
-    if (m.type === "up" && m.value > bestUp) {
-      bestUp = m.value;
-      biggestJump = e;
-    } else if (m.type === "up" && m.value === bestUp && biggestJump && Number(e.rank) < Number(biggestJump.rank)) {
-      biggestJump = e;
-    }
+    if (m.type === "up" && m.value > bestUp) { bestUp = m.value; biggestJump = e; }
+    else if (m.type === "up" && m.value === bestUp && biggestJump && Number(e.rank) < Number(biggestJump.rank)) biggestJump = e;
   }
 
-  // Biggest Fall (max down value)
-  let biggestFall = null;
-  let bestDown = -1;
+  let biggestFall = null, bestDown = -1;
   for (const e of entries) {
     const m = movementValue(e);
-    if (m.type === "down" && m.value > bestDown) {
-      bestDown = m.value;
-      biggestFall = e;
-    } else if (m.type === "down" && m.value === bestDown && biggestFall && Number(e.rank) < Number(biggestFall.rank)) {
-      biggestFall = e;
-    }
+    if (m.type === "down" && m.value > bestDown) { bestDown = m.value; biggestFall = e; }
+    else if (m.type === "down" && m.value === bestDown && biggestFall && Number(e.rank) < Number(biggestFall.rank)) biggestFall = e;
   }
 
-  // Hot Shot Debut (best rank among NEW)
   const hotShotDebut = entries
     .filter(e => e.movement?.type === "new")
     .sort((a, b) => Number(a.rank) - Number(b.rank))[0] || null;
 
-  // Hot Shot Re-Entry (best rank among RE)
   const hotShotReentry = entries
     .filter(e => e.movement?.type === "re")
     .sort((a, b) => Number(a.rank) - Number(b.rank))[0] || null;
 
-  // Longest Chart Sitter (max weeks as-of week)
-  let longest = null;
-  let maxWeeks = -1;
+  let longest = null, maxWeeks = -1;
   for (const e of entries) {
     const k = songKey(e.title, e.artist);
     const songObj = songLookup.get(k) || null;
     const asof = songObj ? statsAsOf(songObj, asOfWeek) : { weeks: e.weeks ?? 0 };
     const w = Number(asof.weeks || 0);
-    if (w > maxWeeks) {
-      maxWeeks = w;
-      longest = e;
-    } else if (w === maxWeeks && longest && Number(e.rank) < Number(longest.rank)) {
-      longest = e;
-    }
+    if (w > maxWeeks) { maxWeeks = w; longest = e; }
+    else if (w === maxWeeks && longest && Number(e.rank) < Number(longest.rank)) longest = e;
   }
 
-  // Add award labels (colored text)
-  if (biggestJump) addAward(biggestJump, "jump", `Biggest Jump (+${bestUp})`, "awardJump");
-  if (biggestFall) addAward(biggestFall, "fall", `Biggest Fall (-${bestDown})`, "awardFall");
-  if (hotShotDebut) addAward(hotShotDebut, "debut", "Hot Shot Debut", "awardDebut");
-  if (hotShotReentry) addAward(hotShotReentry, "reentry", "Hot Shot Re-Entry", "awardReentry");
-  if (longest) addAward(longest, "sitter", `Longest Chart Sitter (${maxWeeks} wks)`, "awardSitter");
+  if (biggestJump) addAward(biggestJump, `Biggest Jump (+${bestUp})`, "awardJump");
+  if (biggestFall) addAward(biggestFall, `Biggest Fall (-${bestDown})`, "awardFall");
+  if (hotShotDebut) addAward(hotShotDebut, "Hot Shot Debut", "awardDebut");
+  if (hotShotReentry) addAward(hotShotReentry, "Hot Shot Re-Entry", "awardReentry");
+  if (longest) addAward(longest, `Longest Chart Sitter (${maxWeeks} wks)`, "awardSitter");
 
   return out;
 }
 
 function renderAwardsLine(awardsForSong) {
   if (!awardsForSong || awardsForSong.length === 0) return "";
-  // join multiple awards on same song
   return `
     <div class="awardLine">
       ${awardsForSong.map(a => `<span class="awardText ${a.cls}">${escapeHtml(a.text)}</span>`).join(" • ")}
@@ -355,7 +346,7 @@ function renderAwardsLine(awardsForSong) {
 
 async function main() {
   const manifest = await loadJSON("data/manifest.json");
-  const weeks = manifest.weeks || [];
+  const weeks = manifest.weeks || []; // newest -> oldest
 
   const requested = qs("week");
   const weekToLoad = (requested && weeks.includes(requested))
@@ -368,7 +359,7 @@ async function main() {
   if (weekToLoad) sel.value = weekToLoad;
   sel.addEventListener("change", () => setWeekParam(sel.value));
 
-  // Catalog for artist search + history stats
+  // Catalog
   const catalog = await loadJSON("data/catalog.json");
   setupArtistSearch(catalog);
 
@@ -381,7 +372,7 @@ async function main() {
     }
   }
 
-  // Load selected week
+  // Load selected week chart JSON
   const chart = weekToLoad
     ? await loadJSON(`data/${weekToLoad}.json`)
     : await loadJSON("data/latest.json");
@@ -394,7 +385,10 @@ async function main() {
   const list = document.getElementById("chart");
   const asOfWeek = chart.week;
 
-  // ✅ Compute awards for THIS week and map them to songs
+  // ✅ immediate previous week string for correct LW behavior
+  const prevWeekStr = getPrevWeek(weeks, asOfWeek);
+
+  // awards for this week
   const awardsMap = computeAwardsMap(chart.entries, songLookup, asOfWeek);
 
   // Render chart rows
@@ -406,17 +400,26 @@ async function main() {
 
     const catalogSong = songLookup.get(skey) || null;
 
-    let lwDisplay = e.lastWeek;
     let peakDisplay = e.peak;
     let weeksDisplay = e.weeks;
 
-    // ✅ as-of stats for the selected week
+    // ✅ as-of peak/weeks
     if (catalogSong) {
       const asof = statsAsOf(catalogSong, asOfWeek);
-      const lwRank = lastWeekRankAsOf(catalogSong, asOfWeek);
       if (asof.peak !== null) peakDisplay = asof.peak;
       if (asof.weeks !== null) weeksDisplay = asof.weeks;
+    }
+
+    // ✅ correct LW:
+    // - NEW/RE => —
+    // - otherwise: only rank from immediately previous week
+    const mtype = e.movement?.type || null;
+    let lwDisplay = null;
+    if (mtype !== "new" && mtype !== "re" && catalogSong) {
+      const lwRank = lastWeekRankImmediate(catalogSong, prevWeekStr);
       lwDisplay = (lwRank === null || Number.isNaN(lwRank)) ? null : lwRank;
+    } else {
+      lwDisplay = null;
     }
 
     const awardsLine = renderAwardsLine(awardsMap.get(skey));
@@ -493,7 +496,7 @@ async function main() {
     const catalogSong = songLookup.get(skey) || null;
     const entryWithWeek = { ...entry, _week: chart.week };
 
-    exp.innerHTML = buildExpandHtml(entryWithWeek, catalogSong, asOfWeek);
+    exp.innerHTML = buildExpandHtml(entryWithWeek, catalogSong, asOfWeek, prevWeekStr);
   }
 
   list.querySelectorAll(".row").forEach(row => {
