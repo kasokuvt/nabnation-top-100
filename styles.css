@@ -480,3 +480,54 @@ body{
     text-align:left;
   }
 }
+.artistTableScroll{
+  width: 100%;
+}
+
+/* Mobile/tablet: do NOT collapse artist rows into cards.
+   Instead, keep the same grid columns as desktop and allow horizontal scroll. */
+@media (max-width: 860px){
+  /* Make the whole artist table area horizontally scrollable */
+  .artistTableScroll{
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+    padding-bottom: 6px;
+  }
+
+  /* IMPORTANT: re-enable the header that your current CSS hides */
+  .artistTableHead{
+    display: grid !important;
+  }
+
+  /* Keep the desktop columns (don’t stack to 1 column) */
+  .aRowTop{
+    grid-template-columns: 1fr 140px 110px 140px 130px !important;
+    gap: 12px !important;
+    align-items: center;
+  }
+
+  /* Ensure the header grid matches rows */
+  .artistTableHead{
+    grid-template-columns: 1fr 140px 110px 140px 130px !important;
+    gap: 12px !important;
+  }
+
+  /* Prevent text wrapping that makes rows tall/ugly */
+  .artistTableHead > div,
+  .aCell,
+  .aSongTitle,
+  .aSongArtist{
+    white-space: nowrap;
+  }
+
+  /* Give the table a minimum width so it looks like desktop */
+  .artistTableHead,
+  .artistTable{
+    min-width: 860px;
+  }
+
+  /* Center cells should remain centered like desktop */
+  .aCell.center{
+    text-align: center !important;
+  }
+}

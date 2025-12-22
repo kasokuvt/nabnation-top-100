@@ -47,15 +47,18 @@
       <div class="mutedSmall" id="countLabel"></div>
     </div>
 
-    <div class="artistTableHead">
-      <div>Song</div>
-      <div class="center">Debut Date</div>
-      <div class="center">Peak Pos.</div>
-      <div class="center">Peak Date</div>
-      <div class="center">Wks. on Chart</div>
-    </div>
+    <!-- NEW: scroll wrapper so mobile keeps the desktop table layout -->
+    <div class="artistTableScroll" aria-label="Artist songs table">
+      <div class="artistTableHead">
+        <div>Song</div>
+        <div class="center">Debut Date</div>
+        <div class="center">Peak Pos.</div>
+        <div class="center">Peak Date</div>
+        <div class="center">Wks. on Chart</div>
+      </div>
 
-    <div id="artistTable" class="artistTable" aria-label="Artist songs"></div>
+      <div id="artistTable" class="artistTable" aria-label="Artist songs"></div>
+    </div>
 
     <footer class="foot">
       <span>Tip: click a song row to expand/collapse its chart history.</span>

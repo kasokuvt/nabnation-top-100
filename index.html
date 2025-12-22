@@ -2,19 +2,40 @@
 <html lang="en">
 <head>
   <meta charset="utf-8" />
-  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
 
   <title>Nabnation Top 100</title>
 
-  <!-- Favicon / App Icon -->
+  <!-- Basic SEO -->
+  <meta name="description" content="Nabnation Top 100 — a weekly Last.fm-based music chart with chart history and artist pages." />
+
+  <!-- Open Graph / Discord embeds -->
+  <meta property="og:site_name" content="Nabnation Top 100" />
+  <meta property="og:type" content="website" />
+  <meta property="og:title" content="Nabnation Top 100" />
+  <meta property="og:description" content="Weekly chart powered by Last.fm scrobbles. Click songs to see chart history and browse artist pages." />
+  <meta property="og:url" content="https://nabnation.netlify.app/" />
+  <meta property="og:image" content="https://nabnation.netlify.app/assets/icon.webp" />
+  <meta property="og:image:type" content="image/webp" />
+  <meta property="og:image:width" content="512" />
+  <meta property="og:image:height" content="512" />
+
+  <!-- Twitter / X -->
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:title" content="Nabnation Top 100" />
+  <meta name="twitter:description" content="Weekly chart powered by Last.fm scrobbles." />
+  <meta name="twitter:image" content="https://nabnation.netlify.app/assets/icon.webp" />
+
+  <!-- Favicon -->
   <link rel="icon" href="assets/icon.webp" type="image/webp" />
   <link rel="apple-touch-icon" href="assets/icon.webp" />
 
   <link rel="stylesheet" href="styles.css" />
 </head>
+
 <body>
+  <!-- HEADER -->
   <header class="topbar">
-    <!-- Brand icon -->
     <a class="brand" href="/" aria-label="Home">
       <img class="brandIcon" src="assets/icon.webp" alt="" />
     </a>
@@ -43,6 +64,7 @@
     </div>
   </header>
 
+  <!-- MAIN -->
   <main class="wrap">
     <div class="table-head">
       <div>Rank</div>
@@ -52,14 +74,19 @@
 
     <ol id="chart" class="chart" aria-label="Nabnation Top 100"></ol>
 
-    <!-- Submit Last.fm profile -->
+    <!-- LAST.FM SUBMISSION -->
     <section class="submitBox" aria-label="Submit a Last.fm profile">
       <h2>Submit your Last.fm profile</h2>
       <p class="muted">
-        Want your scrobbles included? Submit your Last.fm profile link. Submissions are anonymous (no login required).
+        Want your scrobbles included? Submit your Last.fm profile link.
+        Submissions are anonymous and manually reviewed.
       </p>
 
-      <form class="submitForm" action="https://formspree.io/f/xvzpbrgb" method="POST">
+      <form
+        class="submitForm"
+        action="https://formspree.io/f/xvzpbrgb"
+        method="POST"
+      >
         <label class="label" for="lfm">Last.fm profile link</label>
         <input
           id="lfm"
@@ -77,26 +104,28 @@
           name="note"
           class="searchInput"
           type="text"
-          placeholder="(optional) anything you want to add"
+          placeholder="Anything you want to add (optional)"
           maxlength="160"
         />
 
-        <!-- honeypot: helps reduce bot spam -->
-        <input type="text" name="_gotcha" style="display:none">
+        <!-- honeypot for bots -->
+        <input type="text" name="_gotcha" style="display:none" />
 
         <button class="btnPrimary" type="submit">Send</button>
 
         <p class="mutedSmall">
-          By submitting, you’re asking to be considered for next week’s chart. I manually review and add accounts.
+          By submitting, you’re asking to be considered for next week’s chart.
         </p>
       </form>
     </section>
 
+    <!-- FOOTER -->
     <footer class="foot">
       <span id="footInfo"></span>
     </footer>
   </main>
 
+  <!-- SCRIPT -->
   <script src="chart.js"></script>
 </body>
 </html>
