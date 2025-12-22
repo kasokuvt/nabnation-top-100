@@ -76,7 +76,7 @@ function songKey(title, artist) {
 
 function artistUrl(artistName) {
   const a = cleanArtistName(artistName);
-  return `artist.html?artist=${encodeURIComponent(a)}`;
+  return `artist.html?name=${encodeURIComponent(a)}`;
 }
 
 function weekUrl(weekStr) {
