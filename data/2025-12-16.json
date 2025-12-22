@@ -89,7 +89,7 @@
       },
       "lastWeek": 23,
       "peak": 2,
-      "weeks": 11,
+      "weeks": 14,
       "points": 96.5,
       "listeners": 12
     },
@@ -103,8 +103,8 @@
         "value": 1
       },
       "lastWeek": 8,
-      "peak": 4,
-      "weeks": 11,
+      "peak": 3,
+      "weeks": 15,
       "points": 93.0,
       "listeners": 12
     },
@@ -209,7 +209,7 @@
       },
       "lastWeek": null,
       "peak": 4,
-      "weeks": 9,
+      "weeks": 11,
       "points": 66.0,
       "listeners": 9
     },
@@ -284,7 +284,7 @@
       },
       "lastWeek": 11,
       "peak": 2,
-      "weeks": 8,
+      "weeks": 10,
       "points": 58.0,
       "listeners": 8
     },
@@ -314,7 +314,7 @@
       },
       "lastWeek": 17,
       "peak": 1,
-      "weeks": 11,
+      "weeks": 12,
       "points": 56.5,
       "listeners": 10
     },
@@ -344,7 +344,7 @@
       },
       "lastWeek": 69,
       "peak": 8,
-      "weeks": 6,
+      "weeks": 7,
       "points": 56.0,
       "listeners": 11
     },
@@ -389,7 +389,7 @@
       },
       "lastWeek": 32,
       "peak": 12,
-      "weeks": 7,
+      "weeks": 8,
       "points": 53.5,
       "listeners": 10
     },
@@ -479,7 +479,7 @@
       },
       "lastWeek": null,
       "peak": 7,
-      "weeks": 4,
+      "weeks": 5,
       "points": 49.5,
       "listeners": 5
     },
@@ -539,7 +539,7 @@
       },
       "lastWeek": null,
       "peak": 7,
-      "weeks": 8,
+      "weeks": 9,
       "points": 48.0,
       "listeners": 12
     },
@@ -554,7 +554,7 @@
       },
       "lastWeek": null,
       "peak": 13,
-      "weeks": 6,
+      "weeks": 7,
       "points": 48.0,
       "listeners": 9
     },
@@ -749,7 +749,7 @@
       },
       "lastWeek": null,
       "peak": 14,
-      "weeks": 5,
+      "weeks": 6,
       "points": 43.0,
       "listeners": 8
     },
@@ -824,7 +824,7 @@
       },
       "lastWeek": null,
       "peak": 1,
-      "weeks": 9,
+      "weeks": 12,
       "points": 42.5,
       "listeners": 5
     },
@@ -1064,7 +1064,7 @@
       },
       "lastWeek": 79,
       "peak": 1,
-      "weeks": 10,
+      "weeks": 13,
       "points": 38.5,
       "listeners": 5
     },
@@ -1363,8 +1363,8 @@
         "value": null
       },
       "lastWeek": null,
-      "peak": 88,
-      "weeks": 2,
+      "peak": 36,
+      "weeks": 3,
       "points": 35.5,
       "listeners": 7
     },

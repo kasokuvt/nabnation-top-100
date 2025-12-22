@@ -14,7 +14,7 @@
       },
       "lastWeek": 6,
       "peak": 1,
-      "weeks": 11,
+      "weeks": 12,
       "points": 72.0,
       "listeners": 10
     },
@@ -29,7 +29,7 @@
       },
       "lastWeek": null,
       "peak": 2,
-      "weeks": 11,
+      "weeks": 12,
       "points": 71.0,
       "listeners": 13
     },
@@ -44,7 +44,7 @@
       },
       "lastWeek": 16,
       "peak": 2,
-      "weeks": 11,
+      "weeks": 14,
       "points": 68.5,
       "listeners": 7
     },
@@ -59,14 +59,14 @@
       },
       "lastWeek": null,
       "peak": 1,
-      "weeks": 7,
+      "weeks": 9,
       "points": 66.5,
       "listeners": 9
     },
     {
       "rank": 5,
       "title": "Jet Black (feat. Hatsune Miku)",
-      "artist": "Yunosuke (51.0 pts) (3 listeners)*",
+      "artist": "Yunosuke",
       "cover": "covers/yunosuke_510_pts_3_listeners__jet_black_feat_hatsune_miku.jpg",
       "movement": {
         "type": "new",
@@ -119,7 +119,7 @@
       },
       "lastWeek": 1,
       "peak": 1,
-      "weeks": 6,
+      "weeks": 8,
       "points": 48.0,
       "listeners": 5
     },
@@ -134,7 +134,7 @@
       },
       "lastWeek": null,
       "peak": 9,
-      "weeks": 2,
+      "weeks": 3,
       "points": 48.0,
       "listeners": 3
     },
@@ -164,7 +164,7 @@
       },
       "lastWeek": 4,
       "peak": 4,
-      "weeks": 9,
+      "weeks": 11,
       "points": 45.5,
       "listeners": 9
     },
@@ -179,7 +179,7 @@
       },
       "lastWeek": 13,
       "peak": 8,
-      "weeks": 3,
+      "weeks": 4,
       "points": 45.0,
       "listeners": 4
     },
@@ -216,7 +216,7 @@
     {
       "rank": 15,
       "title": "Under Your Skin",
-      "artist": "fakemink (44.5 pts) (4 listeners)*",
+      "artist": "fakemink",
       "cover": "covers/_placeholder.png",
       "movement": {
         "type": "new",
@@ -261,15 +261,15 @@
     {
       "rank": 18,
       "title": "Music and Me",
-      "artist": "fakemink (42.5 pts) (6 listeners)*",
+      "artist": "fakemink",
       "cover": "covers/_placeholder.png",
       "movement": {
         "type": "new",
         "value": null
       },
       "lastWeek": null,
-      "peak": 18,
-      "weeks": 1,
+      "peak": 16,
+      "weeks": 6,
       "points": null,
       "listeners": null
     },
@@ -284,7 +284,7 @@
       },
       "lastWeek": null,
       "peak": 14,
-      "weeks": 5,
+      "weeks": 6,
       "points": 41.5,
       "listeners": 10
     },
@@ -388,8 +388,8 @@
         "value": null
       },
       "lastWeek": null,
-      "peak": 17,
-      "weeks": 8,
+      "peak": 11,
+      "weeks": 9,
       "points": 39.5,
       "listeners": 9
     },
@@ -411,15 +411,15 @@
     {
       "rank": 28,
       "title": "IRIS OUT",
-      "artist": "Kenshi Yonezu (38.5 pts) (3 listeners)*",
+      "artist": "Kenshi Yonezu",
       "cover": "covers/_placeholder.png",
       "movement": {
         "type": "new",
         "value": null
       },
       "lastWeek": null,
-      "peak": 28,
-      "weeks": 1,
+      "peak": 3,
+      "weeks": 15,
       "points": null,
       "listeners": null
     },
@@ -531,7 +531,7 @@
     {
       "rank": 36,
       "title": "Phantom",
-      "artist": "EsDeeKid (36.5 pts) (3 listeners)*",
+      "artist": "EsDeeKid",
       "cover": "covers/_placeholder.png",
       "movement": {
         "type": "new",
@@ -539,7 +539,7 @@
       },
       "lastWeek": null,
       "peak": 36,
-      "weeks": 1,
+      "weeks": 3,
       "points": null,
       "listeners": null
     },
@@ -576,7 +576,7 @@
     {
       "rank": 39,
       "title": "Cubibibibism",
-      "artist": "NEEDY GIRL OVERDOSE (35.5 pts) (5 listeners)*",
+      "artist": "NEEDY GIRL OVERDOSE",
       "cover": "covers/needy_girl_overdose_355_pts_5_listeners__cubibibibism.jpg",
       "movement": {
         "type": "new",
@@ -584,7 +584,7 @@
       },
       "lastWeek": null,
       "peak": 39,
-      "weeks": 1,
+      "weeks": 3,
       "points": null,
       "listeners": null
     },
@@ -764,7 +764,7 @@
       },
       "lastWeek": 2,
       "peak": 2,
-      "weeks": 4,
+      "weeks": 5,
       "points": 32.5,
       "listeners": 4
     },
@@ -824,7 +824,7 @@
       },
       "lastWeek": null,
       "peak": 14,
-      "weeks": 5,
+      "weeks": 6,
       "points": 31.5,
       "listeners": 5
     },
@@ -899,7 +899,7 @@
       },
       "lastWeek": null,
       "peak": 2,
-      "weeks": 6,
+      "weeks": 7,
       "points": 29.5,
       "listeners": 5
     },
@@ -988,8 +988,8 @@
         "value": null
       },
       "lastWeek": null,
-      "peak": 32,
-      "weeks": 6,
+      "peak": 12,
+      "weeks": 8,
       "points": 27.0,
       "listeners": 5
     },
@@ -1033,8 +1033,8 @@
         "value": null
       },
       "lastWeek": null,
-      "peak": 69,
-      "weeks": 1,
+      "peak": 27,
+      "weeks": 2,
       "points": 26.5,
       "listeners": 3
     },
@@ -1079,7 +1079,7 @@
       },
       "lastWeek": null,
       "peak": 4,
-      "weeks": 9,
+      "weeks": 10,
       "points": 25.5,
       "listeners": 8
     },
@@ -1439,7 +1439,7 @@
       },
       "lastWeek": 3,
       "peak": 3,
-      "weeks": 7,
+      "weeks": 9,
       "points": 21.5,
       "listeners": 13
     },
