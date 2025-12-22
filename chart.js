@@ -1,19 +1,21 @@
 /* =========================
    Nabnation Top 100 — chart.js
-   Works with your index.html IDs:
-   - chartTitle, weekLabel, weekSelect
-   - artistSearch, searchResults
-   - chart, footInfo
+   Fixes:
+   - song/artist to the RIGHT of cover (matches styles.css: .songRow/.song/.titleline/.artist)
+   - stats are "as-of" selected week (not today)
+   - re-entry LW shows — (not previous position)
+   - artist name junk removed (pts/listeners/*)
+   - placeholder cover fallback works on GitHub Pages
+   - awards inline under artist
+   - click row to expand/collapse (history)
 ========================= */
 
-/** Cover fallback chain (handles your "_placeholder.png" problem) */
 const COVER_FALLBACKS = [
   "./covers/_placeholder.png",
   "./covers/placeholder.png",
   "./assets/icon.webp",
 ];
 
-/** Data paths */
 const DATA = {
   manifest: "./data/manifest.json",
   latest: "./data/latest.json",
@@ -22,7 +24,7 @@ const DATA = {
 };
 
 /* -------------------------
-   Small utilities
+   Utilities
 ------------------------- */
 function qs(name) {
   return new URLSearchParams(location.search).get(name);
@@ -44,7 +46,6 @@ function escapeHtml(str = "") {
     .replaceAll("'", "&#039;");
 }
 
-/** Removes your “(xx pts) (yy listeners)*” junk from artist display + search */
 function cleanArtistName(name = "") {
   return String(name)
     .replace(/\([^)]*?\bpts\b[^)]*?\)/gi, "")
@@ -58,12 +59,10 @@ function cleanTitleName(name = "") {
   return String(name).replace(/\s{2,}/g, " ").trim();
 }
 
-/** Key must match your exporter convention */
 function songKey(title, artist) {
   return `${cleanArtistName(artist)} - ${cleanTitleName(title)}`.toLowerCase().trim();
 }
 
-/** Fetch JSON w/ no-store so GitHub Pages updates immediately */
 async function loadJSON(path) {
   const res = await fetch(path, { cache: "no-store" });
   if (!res.ok) throw new Error(`Failed to load ${path} (${res.status})`);
@@ -71,22 +70,18 @@ async function loadJSON(path) {
 }
 
 /* -------------------------
-   Cover fallback (global for onerror)
+   Cover fallback (global onerror)
 ------------------------- */
 window.__coverFallback = function (imgEl) {
   try {
     const list = (imgEl.dataset.fallbacks || "").split("|").filter(Boolean);
     const idx = Number(imgEl.dataset.fallbackIndex || "0");
-
-    // First failure: switch from original cover -> first fallback
-    // Subsequent failures: walk the fallback list
     const nextIdx = idx + 1;
     if (nextIdx >= list.length) return;
-
     imgEl.dataset.fallbackIndex = String(nextIdx);
     imgEl.src = list[nextIdx];
   } catch {
-    // do nothing
+    // ignore
   }
 };
 
@@ -107,8 +102,7 @@ function coverImgHtml(src) {
 }
 
 /* -------------------------
-   Movement badge
-   Uses your CSS classes: .move .up/.down/.new/.re
+   Movement badge (uses your CSS: .move.up/.down/.new/.re)
 ------------------------- */
 function moveLabel(m) {
   if (!m) return { text: "—", cls: "" };
@@ -120,13 +114,11 @@ function moveLabel(m) {
 }
 
 /* -------------------------
-   Catalog lookup + “as of week” stats
+   Catalog lookup + "as-of-week" stats
 ------------------------- */
 function buildSongLookup(catalog) {
-  // catalog.artists[Artist Name].songs[SongKeyLower] = { history: [{week,rank}], peak, weeks, ... }
   const lookup = new Map();
-
-  for (const [artistName, artistObj] of Object.entries(catalog.artists || {})) {
+  for (const [, artistObj] of Object.entries(catalog.artists || {})) {
     const songs = artistObj.songs || {};
     for (const [k, v] of Object.entries(songs)) {
       lookup.set(k.toLowerCase().trim(), v);
@@ -135,7 +127,6 @@ function buildSongLookup(catalog) {
   return lookup;
 }
 
-/** Stats (debut, peak, weeks) computed ONLY using weeks <= currentWeek */
 function statsAsOfWeek(songObj, currentWeek) {
   const hist = Array.isArray(songObj?.history) ? songObj.history : [];
   const filtered = hist
@@ -165,24 +156,18 @@ function lastWeekRankAsOf(songObj, currentWeek) {
 
 /* -------------------------
    Awards (inline under artist)
-   - biggest jump
-   - biggest fall
-   - hot shot debut
-   - hot shot reentry
-   - longest chart sitter
 ------------------------- */
 function computeAwards(entries, statsByKey) {
-  let biggestJump = null;     // { key, val }
-  let biggestFall = null;     // { key, val }
-  let hotShotDebut = null;    // { key, rank }
-  let hotShotRe = null;       // { key, rank }
-  let longest = null;         // { key, weeks }
+  let biggestJump = null;   // { key, val }
+  let biggestFall = null;   // { key, val }
+  let hotShotDebut = null;  // { key, rank }
+  let hotShotRe = null;     // { key, rank }
+  let longest = null;       // { key, weeks }
 
   for (const e of entries) {
     const key = e.__key;
     const m = e.movement || null;
 
-    // jump/fall
     if (m?.type === "up" && typeof m.value === "number") {
       if (!biggestJump || m.value > biggestJump.val) biggestJump = { key, val: m.value };
     }
@@ -190,7 +175,6 @@ function computeAwards(entries, statsByKey) {
       if (!biggestFall || m.value > biggestFall.val) biggestFall = { key, val: m.value };
     }
 
-    // hot shot debut/re
     if (m?.type === "new") {
       if (!hotShotDebut || e.rank < hotShotDebut.rank) hotShotDebut = { key, rank: e.rank };
     }
@@ -198,7 +182,6 @@ function computeAwards(entries, statsByKey) {
       if (!hotShotRe || e.rank < hotShotRe.rank) hotShotRe = { key, rank: e.rank };
     }
 
-    // longest sitter (as-of-week weeks)
     const s = statsByKey.get(key);
     const w = s?.weeks ?? e.weeks ?? 1;
     if (!longest || w > longest.weeks) longest = { key, weeks: w };
@@ -217,33 +200,27 @@ function awardHtmlForEntry(entry, awards) {
   const blue = "#7CC7FF";
   const purple = "#D7B7FF";
 
-  if (awards.biggestJump?.key === key) {
+  if (awards.biggestJump?.key === key)
     lines.push(`<span style="color:${green};font-weight:700;">Biggest Jump (+${awards.biggestJump.val})</span>`);
-  }
-  if (awards.biggestFall?.key === key) {
+  if (awards.biggestFall?.key === key)
     lines.push(`<span style="color:${red};font-weight:700;">Biggest Fall (-${awards.biggestFall.val})</span>`);
-  }
-  if (awards.hotShotDebut?.key === key) {
+  if (awards.hotShotDebut?.key === key)
     lines.push(`<span style="color:${blue};font-weight:700;">Hot Shot Debut</span>`);
-  }
-  if (awards.hotShotRe?.key === key) {
+  if (awards.hotShotRe?.key === key)
     lines.push(`<span style="color:${purple};font-weight:700;">Hot Shot Re-Entry</span>`);
-  }
-  if (awards.longest?.key === key) {
+  if (awards.longest?.key === key)
     lines.push(`<span style="color:${teal};font-weight:700;">Longest Chart Sitter</span>`);
-  }
 
   if (!lines.length) return "";
   return `<div class="awards" style="margin-top:6px;font-size:12px;line-height:1.15;">${lines.join("<br>")}</div>`;
 }
 
 /* -------------------------
-   Expand panel (song history)
+   Expand panel (styled by your CSS: .expandInner/.expandTitle/.expandSub/.pills/.expandLinks/.history/.historyRow)
 ------------------------- */
 function weekUrl(week) {
   return `/?week=${encodeURIComponent(week)}`;
 }
-
 function artistUrl(artistName) {
   return `/artist.html?artist=${encodeURIComponent(artistName)}`;
 }
@@ -255,7 +232,7 @@ function buildHistoryHtml(songObj) {
     .sort((a, b) => b.week.localeCompare(a.week))
     .map(h => `
       <div class="historyRow">
-        <span><a href="${weekUrl(h.week)}">${escapeHtml(h.week)}</a></span>
+        <span><a href="${weekUrl(h.week)}" onclick="event.stopPropagation()">${escapeHtml(h.week)}</a></span>
         <span>Rank <b>#${escapeHtml(h.rank)}</b></span>
       </div>
     `)
@@ -267,121 +244,36 @@ function buildHistoryHtml(songObj) {
 function buildExpandHtml(entry, displayArtist, week, stats, lwForDisplay, songObj) {
   const t = escapeHtml(entry.title);
   const a = escapeHtml(displayArtist);
-
   const peak = stats?.peak ?? entry.peak ?? entry.rank;
   const weeks = stats?.weeks ?? entry.weeks ?? 1;
 
   return `
     <div class="expand">
-      <div class="expandTop">
-        <div class="expandTitle">${t}</div>
-        <div class="expandArtist">
-          <a class="artistLink" href="${artistUrl(displayArtist)}" onclick="event.stopPropagation()">${a}</a>
-        </div>
+      <div class="expandInner">
+        <div class="expandTop">
+          <div>
+            <div class="expandTitle">${t}</div>
+            <div class="expandSub">
+              <a class="artistLink" href="${artistUrl(displayArtist)}" onclick="event.stopPropagation()">${a}</a>
+            </div>
+          </div>
 
-        <div class="expandStats">
-          LW <b>${lwForDisplay}</b> &nbsp; Peak <b>${peak}</b> &nbsp; Weeks <b>${weeks}</b>
+          <div class="pills">
+            <span>LW <b>${escapeHtml(lwForDisplay)}</b></span>
+            <span>Peak <b>${escapeHtml(peak)}</b></span>
+            <span>Weeks <b>${escapeHtml(weeks)}</b></span>
+          </div>
         </div>
 
         <div class="expandLinks">
           <a href="${artistUrl(displayArtist)}" onclick="event.stopPropagation()">Open artist page</a>
           <a href="${weekUrl(week)}" onclick="event.stopPropagation()">Open this week</a>
         </div>
-      </div>
 
-      <div class="divider"></div>
-      ${buildHistoryHtml(songObj)}
+        ${buildHistoryHtml(songObj)}
+      </div>
     </div>
   `;
-}
-
-/* -------------------------
-   Chart rendering
-------------------------- */
-function renderChart(entries, week, catalogSongLookup) {
-  const chartEl = document.getElementById("chart");
-  if (!chartEl) return;
-
-  // Precompute stats per entry key
-  const statsByKey = new Map();
-  for (const e of entries) {
-    const key = e.__key;
-    const sObj = catalogSongLookup.get(key);
-    const s = statsAsOfWeek(sObj, week);
-    statsByKey.set(key, s);
-  }
-
-  // Awards need the weeks-as-of-week (statsByKey)
-  const awards = computeAwards(entries, statsByKey);
-
-  chartEl.innerHTML = entries
-    .map((e) => {
-      const displayTitle = cleanTitleName(e.title);
-      const displayArtist = cleanArtistName(e.artist);
-
-      const key = e.__key;
-      const songObj = catalogSongLookup.get(key);
-
-      const stats = statsByKey.get(key);
-      const peak = stats?.peak ?? e.peak ?? e.rank;
-      const weeks = stats?.weeks ?? e.weeks ?? 1;
-
-      // LW rules:
-      // - NEW/RE should show "—"
-      // - otherwise show last week rank as-of-week if possible, else e.lastWeek, else "—"
-      let lw = "—";
-      if (e.movement?.type !== "new" && e.movement?.type !== "re") {
-        const computedLW = lastWeekRankAsOf(songObj, week);
-        lw = computedLW != null ? String(computedLW) : (e.lastWeek != null ? String(e.lastWeek) : "—");
-      }
-
-      const mv = moveLabel(e.movement);
-      const awardLine = awardHtmlForEntry(e, awards);
-
-      // build row
-      return `
-        <li class="row" data-key="${escapeHtml(key)}">
-          <div class="rowTop">
-            <div class="rankbox">
-              <div class="ranknum">${escapeHtml(e.rank)}</div>
-              <div class="move ${mv.cls}">${escapeHtml(mv.text)}</div>
-            </div>
-
-            <div class="songbox">
-              ${coverImgHtml(e.cover)}
-              <div class="songmeta">
-                <div class="songtitle">${escapeHtml(displayTitle)}</div>
-                <div class="songartist">${escapeHtml(displayArtist)}</div>
-                ${awardLine}
-              </div>
-            </div>
-
-            <div class="stats3">
-              <span>LW <b>${escapeHtml(lw)}</b></span>
-              <span>Peak <b>${escapeHtml(peak)}</b></span>
-              <span>Weeks <b>${escapeHtml(weeks)}</b></span>
-            </div>
-          </div>
-
-          ${buildExpandHtml(
-            { ...e, title: displayTitle },
-            displayArtist,
-            week,
-            stats,
-            lw,
-            songObj
-          )}
-        </li>
-      `;
-    })
-    .join("");
-
-  // click to expand/collapse
-  chartEl.querySelectorAll(".row").forEach((row) => {
-    row.addEventListener("click", () => {
-      row.classList.toggle("open");
-    });
-  });
 }
 
 /* -------------------------
@@ -392,9 +284,9 @@ function setupArtistSearch(catalog) {
   const box = document.getElementById("searchResults");
   if (!input || !box) return;
 
-  // Deduplicate by cleaned name so you don’t get “fakemink (60 pts…)” as separate entries
+  // Deduplicate by cleaned name so malformed artists don't split into duplicates
   const artists = Object.keys(catalog.artists || {});
-  const seen = new Map(); // cleaned -> canonical
+  const seen = new Map(); // cleanedLower -> canonical
   for (const a of artists) {
     const cleaned = cleanArtistName(a).toLowerCase();
     if (!seen.has(cleaned)) seen.set(cleaned, a);
@@ -459,6 +351,89 @@ function setupArtistSearch(catalog) {
 }
 
 /* -------------------------
+   Render chart (MATCHES styles.css CLASSES)
+------------------------- */
+function renderChart(entries, week, catalogSongLookup) {
+  const chartEl = document.getElementById("chart");
+  if (!chartEl) return;
+
+  // Precompute stats per entry key
+  const statsByKey = new Map();
+  for (const e of entries) {
+    const key = e.__key;
+    const sObj = catalogSongLookup.get(key);
+    statsByKey.set(key, statsAsOfWeek(sObj, week));
+  }
+
+  const awards = computeAwards(entries, statsByKey);
+
+  chartEl.innerHTML = entries.map((e) => {
+    const displayTitle = cleanTitleName(e.title);
+    const displayArtist = cleanArtistName(e.artist);
+
+    const key = e.__key;
+    const songObj = catalogSongLookup.get(key);
+
+    const stats = statsByKey.get(key);
+    const peak = stats?.peak ?? e.peak ?? e.rank;
+    const weeks = stats?.weeks ?? e.weeks ?? 1;
+
+    // LW rule: NEW/RE show —
+    let lw = "—";
+    if (e.movement?.type !== "new" && e.movement?.type !== "re") {
+      const computedLW = lastWeekRankAsOf(songObj, week);
+      lw = computedLW != null ? String(computedLW) : (e.lastWeek != null ? String(e.lastWeek) : "—");
+    }
+
+    const mv = moveLabel(e.movement);
+    const awardLine = awardHtmlForEntry(e, awards);
+
+    return `
+      <li class="row" data-key="${escapeHtml(key)}">
+        <div class="rowTop">
+          <div class="rankbox">
+            <div class="ranknum">${escapeHtml(e.rank)}</div>
+            <div class="move ${mv.cls}">${escapeHtml(mv.text)}</div>
+          </div>
+
+          <!-- IMPORTANT: this uses your CSS flex layout -->
+          <div class="songRow">
+            ${coverImgHtml(e.cover)}
+            <div class="song">
+              <div class="titleline">${escapeHtml(displayTitle)}</div>
+              <div class="artist">${escapeHtml(displayArtist)}</div>
+              ${awardLine}
+            </div>
+          </div>
+
+          <div class="stats3">
+            <span>LW <b>${escapeHtml(lw)}</b></span>
+            <span>Peak <b>${escapeHtml(peak)}</b></span>
+            <span>Weeks <b>${escapeHtml(weeks)}</b></span>
+          </div>
+        </div>
+
+        ${buildExpandHtml(
+          { ...e, title: displayTitle },
+          displayArtist,
+          week,
+          stats,
+          lw,
+          songObj
+        )}
+      </li>
+    `;
+  }).join("");
+
+  // click to expand/collapse
+  chartEl.querySelectorAll(".row").forEach((row) => {
+    row.addEventListener("click", () => {
+      row.classList.toggle("open");
+    });
+  });
+}
+
+/* -------------------------
    Boot
 ------------------------- */
 async function main() {
@@ -471,27 +446,22 @@ async function main() {
     if (footEl) footEl.textContent = msg;
   }
 
-  // 1) Load manifest + latest (whichever works)
+  // Load manifest + latest
   let manifest = null;
   let latest = null;
 
-  try { manifest = await loadJSON(DATA.manifest); } catch (e) { /* ignore */ }
-  try { latest = await loadJSON(DATA.latest); } catch (e) { /* ignore */ }
+  try { manifest = await loadJSON(DATA.manifest); } catch {}
+  try { latest = await loadJSON(DATA.latest); } catch {}
 
-  const weeks = (manifest?.weeks && Array.isArray(manifest.weeks)) ? manifest.weeks : [];
+  const weeks = Array.isArray(manifest?.weeks) ? manifest.weeks : [];
   const requested = qs("week");
 
-  // Pick a week:
-  // - if ?week= is valid, use it
-  // - else if latest.week exists, use it
-  // - else use first manifest week
   let weekToLoad = null;
-
   if (requested && weeks.includes(requested)) weekToLoad = requested;
   else if (latest?.week && (!weeks.length || weeks.includes(latest.week))) weekToLoad = latest.week;
   else if (weeks.length) weekToLoad = weeks[0];
 
-  // Populate dropdown
+  // Fill dropdown
   if (weekSelectEl) {
     weekSelectEl.innerHTML = weeks.map(w => `<option value="${w}">${w}</option>`).join("");
     if (weekToLoad) weekSelectEl.value = weekToLoad;
@@ -499,43 +469,37 @@ async function main() {
   }
 
   if (!weekToLoad) {
-    // Nothing to load (manifest missing or empty)
     if (weekLabelEl) weekLabelEl.textContent = "—";
     setFoot("Could not load week list (manifest.json missing or empty).");
     return;
   }
 
-  // Label/title
+  // Title + label
   if (weekLabelEl) weekLabelEl.textContent = weekToLoad;
   if (titleEl) titleEl.textContent = "Nabnation Top 100";
 
-  // 2) Load catalog (needed for search + as-of-week stats)
+  // Load catalog
   let catalog = null;
   try {
     catalog = await loadJSON(DATA.catalog);
-  } catch (e) {
-    // still allow chart render without catalog stats
+  } catch {
     catalog = { artists: {} };
     setFoot("Loaded chart, but catalog.json failed (artist search / stats may be limited).");
   }
 
   setupArtistSearch(catalog);
-
-  // Build song lookup from catalog
   const catalogSongLookup = buildSongLookup(catalog);
 
-  // 3) Load week chart data and render
+  // Load selected week
   let weekData = null;
   try {
     weekData = await loadJSON(DATA.weekFile(weekToLoad));
-  } catch (e) {
-    if (weekLabelEl) weekLabelEl.textContent = weekToLoad;
+  } catch {
     setFoot(`Failed to load data/${weekToLoad}.json`);
     return;
   }
 
   const entries = Array.isArray(weekData.entries) ? weekData.entries : [];
-  // Attach computed key per entry
   for (const e of entries) {
     e.title = cleanTitleName(e.title);
     e.artist = cleanArtistName(e.artist);
@@ -544,7 +508,6 @@ async function main() {
 
   renderChart(entries, weekToLoad, catalogSongLookup);
 
-  // Footer info
   const gen = weekData.generatedAt ? ` • Generated ${weekData.generatedAt}` : "";
   setFoot(`${entries.length} songs loaded${gen}`);
 }
