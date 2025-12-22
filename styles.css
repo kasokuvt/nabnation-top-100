@@ -4,11 +4,10 @@
   --muted:#9aa0aa;
   --text:#f4f6fb;
 
-  /* GLOBAL DIVIDER COLOR */
-  --divider:#6bd4b9;
-  --line:var(--divider);
+  /* ✅ All dividing lines color */
+  --line:#6bd4b9;
 
-  /* Divider thickness */
+  /* ✅ Different thickness for headers vs rows */
   --lineRow: 1px;
   --lineHead: 2px;
 
@@ -27,28 +26,28 @@ body{
 /* ================= HEADER ================= */
 
 .topbar{
-  position: sticky;
-  top:0;
-  z-index: 50;
+  position: sticky; top:0; z-index: 50;
   padding: 14px 18px;
   background: rgba(11,11,15,.88);
   backdrop-filter: blur(10px);
-
-  /* thicker header divider */
   border-bottom: var(--lineHead) solid var(--line);
 }
 
 .brand{
+  font-weight:800;
+  letter-spacing:.5px;
+  color: var(--text);
+  text-decoration:none;
   display:inline-block;
-  margin-right:12px;
+  margin-right: 12px;
 }
 
 .brandIcon{
-  width:28px;
-  height:28px;
-  border-radius:8px;
-  border:1px solid var(--line);
-  display:block;
+  width: 28px;
+  height: 28px;
+  border-radius: 8px;
+  display: block;
+  border: 1px solid var(--line);
 }
 
 .headMain{
@@ -61,7 +60,7 @@ body{
 
 .headLeft h1{
   margin:0;
-  font-size:28px;
+  font-size: 28px;
   line-height:1;
 }
 
@@ -70,40 +69,38 @@ body{
   display:flex;
   gap:12px;
   align-items:center;
-  flex-wrap:wrap;
+  flex-wrap: wrap;
 }
 
 .week{
   color:var(--muted);
-  font-size:14px;
+  font-size: 14px;
 }
 
 .weekSelect{
-  background:var(--card);
-  color:var(--text);
-  border:1px solid var(--line);
-  border-radius:10px;
-  padding:8px 10px;
+  background: var(--card);
+  color: var(--text);
+  border: 1px solid var(--line);
+  border-radius: 10px;
+  padding: 8px 10px;
 }
 
 /* ================= LAYOUT ================= */
 
 .wrap{
-  max-width:980px;
-  margin:0 auto;
-  padding:18px;
+  max-width: 980px;
+  margin: 0 auto;
+  padding: 18px;
 }
 
 .table-head{
   display:grid;
-  grid-template-columns:110px 1fr 220px;
-  color:var(--muted);
-  font-size:12px;
+  grid-template-columns: 110px 1fr 220px;
+  color: var(--muted);
+  font-size: 12px;
   letter-spacing:.08em;
-  text-transform:uppercase;
-  padding:10px 12px;
-
-  /* thicker table header divider */
+  text-transform: uppercase;
+  padding: 10px 12px;
   border-bottom: var(--lineHead) solid var(--line);
 }
 
@@ -117,19 +114,27 @@ body{
 
 /* ================= CHART ROWS ================= */
 
+/* Row card */
 .row{
   border-top: var(--lineRow) solid var(--line);
-  background:linear-gradient(180deg, rgba(18,18,26,.92), rgba(18,18,26,.62));
+  background: linear-gradient(180deg, rgba(18,18,26,.92), rgba(18,18,26,.62));
 }
 
+/* The clickable "collapsed" portion */
 .rowTop{
   display:grid;
-  grid-template-columns:110px 1fr 220px;
-  gap:12px;
-  padding:14px 12px;
+  grid-template-columns: 110px 1fr 220px;
+  gap: 12px;
+  padding: 14px 12px;
   cursor:pointer;
 }
 
+.rowTop:focus{
+  outline: 2px solid rgba(124,199,255,.35);
+  outline-offset: -2px;
+}
+
+/* Left: rank + movement */
 .rankbox{
   display:flex;
   gap:10px;
@@ -137,30 +142,29 @@ body{
 }
 
 .rank{
-  font-size:26px;
+  font-size: 26px;
   font-weight:800;
-  width:44px;
+  width: 44px;
   text-align:right;
 }
 
 .move{
-  font-size:12px;
+  font-size: 12px;
   font-weight:700;
-  padding:4px 8px;
-  border-radius:999px;
-  border:1px solid var(--line);
-  color:var(--muted);
-  min-width:46px;
+  padding: 4px 8px;
+  border-radius: 999px;
+  border: 1px solid var(--line);
+  color: var(--muted);
+  min-width: 46px;
   text-align:center;
 }
 
-.move.up{ color:#7CFFB2; border-color:#7CFFB2; }
-.move.down{ color:#FF7C7C; border-color:#FF7C7C; }
-.move.new{ color:#7CC7FF; border-color:#7CC7FF; }
-.move.re{ color:#D7B7FF; border-color:#D7B7FF; }
+.move.up{ color:#7CFFB2; border-color: rgba(124,255,178,.35); }
+.move.down{ color:#FF7C7C; border-color: rgba(255,124,124,.35); }
+.move.new{ color:#7CC7FF; border-color: rgba(124,199,255,.35); }
+.move.re{ color:#D7B7FF; border-color: rgba(215,183,255,.35); }
 
-/* ================= SONG CELL ================= */
-
+/* Middle: cover + title/artist */
 .songRow{
   display:flex;
   gap:12px;
@@ -169,46 +173,50 @@ body{
 }
 
 .cover{
-  width:48px;
-  height:48px;
-  border-radius:12px;
-  object-fit:cover;
-  border:1px solid var(--line);
-  background:var(--card);
-  flex:0 0 auto;
+  width: 48px;
+  height: 48px;
+  border-radius: 12px;
+  object-fit: cover;
+  border: 1px solid var(--line);
+  background: var(--card);
+  flex: 0 0 auto;
+}
+
+.song{
+  min-width:0;
 }
 
 .titleline{
   font-weight:800;
-  font-size:16px;
+  font-size: 16px;
   white-space:nowrap;
   overflow:hidden;
   text-overflow:ellipsis;
 }
 
 .artist{
-  margin-top:4px;
-  color:var(--muted);
+  margin-top: 4px;
+  color: var(--muted);
   white-space:nowrap;
   overflow:hidden;
   text-overflow:ellipsis;
 }
 
 .artist a{
-  color:var(--muted);
+  color: var(--muted);
   text-decoration:none;
+  border-bottom: 1px solid transparent;
 }
-
 .artist a:hover{
-  color:var(--text);
+  color: var(--text);
+  border-bottom-color: rgba(244,246,251,.35);
 }
 
-/* ================= STATS ================= */
-
+/* Right: LW/Peak/Weeks */
 .stats3{
   text-align:right;
-  color:var(--muted);
-  font-size:13px;
+  color: var(--muted);
+  font-size: 13px;
   display:flex;
   gap:14px;
   justify-content:flex-end;
@@ -217,74 +225,168 @@ body{
 }
 
 .stats3 b{
-  color:var(--text);
-  font-weight:800;
+  color: var(--text);
+  font-weight: 800;
 }
 
 /* ================= EXPAND (shared) ================= */
 
+/* Expand panel (UK-charts style) */
 .expand{
   display:none;
-  padding:0 12px 14px;
+  padding: 0 12px 14px 12px;
 }
 
-/* Main chart expand */
-.row.open .expand{ display:block; }
+.row.open .expand{
+  display:block;
+}
 
-/* ✅ Artist page expand (THIS IS THE FIX) */
+/* ✅ Artist page expand/collapse fix */
 .aRow.open .expand{ display:block; }
 
 .expandInner{
-  border:1px solid var(--line);
-  background:var(--soft);
-  border-radius:16px;
-  padding:14px;
+  border: 1px solid var(--line);
+  background: var(--soft);
+  border-radius: 16px;
+  padding: 14px;
+}
+
+.expandTop{
+  display:flex;
+  align-items:flex-start;
+  justify-content:space-between;
+  gap: 12px;
+  flex-wrap:wrap;
+}
+
+.expandTitle{
+  font-weight: 800;
+  font-size: 15px;
+}
+
+.expandSub{
+  color: var(--muted);
+  margin-top: 6px;
+  font-size: 13px;
+}
+
+.pills{
+  display:flex;
+  gap: 10px;
+  flex-wrap:wrap;
+  color: var(--muted);
+  font-size: 12px;
+  align-items:center;
+}
+
+.pills b{
+  color: var(--text);
+}
+
+.expandLinks{
+  margin-top: 10px;
+  display:flex;
+  gap: 12px;
+  flex-wrap:wrap;
+  font-size: 12px;
+}
+
+.expandLinks a{
+  color: var(--text);
+  text-decoration:none;
+  border-bottom: 1px solid rgba(244,246,251,.25);
+}
+.expandLinks a:hover{
+  border-bottom-color: rgba(244,246,251,.6);
 }
 
 .history{
-  margin-top:12px;
-
-  /* slightly thicker divider inside expanded panel */
+  margin-top: 12px;
   border-top: var(--lineHead) solid var(--line);
-  padding-top:10px;
+  padding-top: 10px;
 }
 
 .historyRow{
   display:grid;
-  grid-template-columns:160px 1fr;
-  gap:10px;
-  padding:8px 0;
+  grid-template-columns: 160px 1fr;
+  gap: 10px;
+  padding: 8px 0;
   border-bottom: var(--lineRow) solid rgba(107,212,185,.55);
-  color:var(--muted);
-  font-size:13px;
+  color: var(--muted);
+  font-size: 13px;
 }
 
-/* ================= SEARCH ================= */
+.historyRow b{ color: var(--text); }
+
+.historyRow a{
+  color: var(--text);
+  text-decoration:none;
+}
+
+/* ================= FOOTER ================= */
+
+.foot{
+  margin-top: 18px;
+  padding-top: 14px;
+  border-top: var(--lineRow) solid var(--line);
+  color: var(--muted);
+  font-size: 12px;
+}
+
+/* ================= SEARCH UI ================= */
 
 .searchWrap{
   position:relative;
-  width:min(360px,85vw);
+  width: min(360px, 85vw);
 }
 
 .searchInput{
   width:100%;
-  background:var(--card);
-  color:var(--text);
-  border:1px solid rgba(107,212,185,.45);
-  border-radius:12px;
-  padding:10px 12px;
+  background: var(--card);
+  color: var(--text);
+  border: 1px solid var(--line);
+  border-radius: 12px;
+  padding: 10px 12px;
+  outline:none;
 }
 
 .searchResults{
   position:absolute;
-  top:calc(100% + 8px);
+  top: calc(100% + 8px);
   left:0;
   right:0;
-  background:rgba(11,11,15,.96);
-  border:1px solid var(--line);
-  border-radius:14px;
+  background: rgba(11,11,15,.96);
+  border: 1px solid var(--line);
+  border-radius: 14px;
   overflow:hidden;
-  z-index:99;
+  z-index: 99;
+
+  /* ✅ Fix "squished" dropdown + match nicer spacing */
+  padding: 6px 0;
+}
+
+.searchResults.hidden{ display:none; }
+
+.searchItem{
+  padding: 10px 14px; /* ✅ a bit more than before */
+  cursor:pointer;
+  border-top: 1px solid rgba(107,212,185,.15); /* ✅ optional polish: subtle separators */
+}
+
+.searchItem:first-child{ border-top:none; }
+
+.searchItem:hover{
+  background: rgba(107, 212, 185, 0.08);
+}
+
+.searchItem .name{
+  font-weight: 750;
+}
+
+.searchItem .meta{
+  margin-top: 4px;
+  font-size: 12px;
+  color: var(--muted);
 }
 
 /* ================= ARTIST PAGE ================= */
@@ -292,20 +394,27 @@ body{
 .artistControls{
   display:flex;
   gap:12px;
+  align-items:center;
   justify-content:space-between;
   flex-wrap:wrap;
-  margin-bottom:10px;
+  margin-bottom: 10px;
 }
 
+.mutedSmall{
+  color: var(--muted);
+  font-size: 12px;
+}
+
+/* Header row for artist table */
 .artistTableHead{
   display:grid;
-  grid-template-columns:1fr 140px 110px 140px 130px;
-  gap:12px;
-  font-size:12px;
-  text-transform:uppercase;
-  padding:10px 12px;
-
-  /* thicker table header divider */
+  grid-template-columns: 1fr 140px 110px 140px 130px;
+  gap: 12px;
+  color: var(--muted);
+  font-size: 12px;
+  letter-spacing:.08em;
+  text-transform: uppercase;
+  padding: 10px 12px;
   border-bottom: var(--lineHead) solid var(--line);
 }
 
@@ -313,31 +422,91 @@ body{
   border-top: var(--lineRow) solid var(--line);
 }
 
-.aRow{
-  border-bottom: var(--lineRow) solid var(--line);
-  background:linear-gradient(180deg, rgba(18,18,26,.92), rgba(18,18,26,.62));
+.center{ text-align:center; }
+
+.strong{
+  color: var(--text);
+  font-weight: 900;
 }
 
+/* Each song row container */
+.aRow{
+  border-bottom: var(--lineRow) solid var(--line);
+  background: linear-gradient(180deg, rgba(18,18,26,.92), rgba(18,18,26,.62));
+}
+
+/* Clickable top portion */
 .aRowTop{
   display:grid;
-  grid-template-columns:1fr 140px 110px 140px 130px;
-  gap:12px;
-  padding:14px 12px;
+  grid-template-columns: 1fr 140px 110px 140px 130px;
+  gap: 12px;
+  padding: 14px 12px;
   cursor:pointer;
   align-items:center;
 }
 
-/* ================= MOBILE ================= */
-
-/* Your existing mobile behavior for the main chart */
-@media (max-width:860px){
-  .table-head{ display:none; }
-  .rowTop{ grid-template-columns:1fr; }
-  .stats3{ justify-content:flex-start; text-align:left; }
+.aRowTop:focus{
+  outline: 2px solid rgba(124,199,255,.35);
+  outline-offset: -2px;
 }
 
-/* ✅ Compact mobile (does NOT touch expand logic) */
-@media (max-width:520px){
+/* Song cell with cover on left */
+.aSongCell{
+  display:flex;
+  gap:12px;
+  align-items:center;
+  min-width:0;
+}
+
+.aSongText{ min-width:0; }
+
+.aSongTitle{
+  font-weight: 900;
+  font-size: 16px;
+  white-space:nowrap;
+  overflow:hidden;
+  text-overflow:ellipsis;
+}
+
+.aSongArtist{
+  margin-top: 4px;
+  color: var(--muted);
+  white-space:nowrap;
+  overflow:hidden;
+  text-overflow:ellipsis;
+}
+
+.aSongArtist a{
+  color: var(--muted);
+  text-decoration:none;
+  border-bottom: 1px solid transparent;
+}
+.aSongArtist a:hover{
+  color: var(--text);
+  border-bottom-color: rgba(244,246,251,.35);
+}
+
+.aCell{
+  color: var(--muted);
+  font-size: 13px;
+}
+
+.artistTableScroll{
+  width: 100%;
+}
+
+/* ================= RESPONSIVE ================= */
+
+/* Main chart responsiveness */
+@media (max-width: 760px){
+  .table-head{ display:none; }
+  .rowTop{ grid-template-columns: 1fr; }
+  .stats3{ justify-content:flex-start; text-align:left; }
+  .historyRow{ grid-template-columns: 1fr; }
+}
+
+/* ✅ Compact mobile tweaks (more compact, keeps desktop-like artist table via scroll) */
+@media (max-width: 520px){
   .wrap{ padding:12px; }
   .topbar{ padding:10px 12px; }
 
@@ -357,20 +526,50 @@ body{
   .stats3{ font-size:12px; gap:10px; }
 
   /* Expanded panel tighter */
-  .expand{ padding:0 10px 10px; }
+  .expand{ padding:0 10px 10px 10px; }
   .expandInner{ padding:10px; border-radius:14px; }
   .historyRow{ font-size:12px; padding:6px 0; grid-template-columns: 1fr; }
 
-  /* Artist row tighter */
+  /* Artist row slightly tighter (but still desktop-like columns) */
   .aRowTop{ padding:10px 10px; gap:10px; }
 }
 
-/* ================= FOOTER ================= */
+/* Artist page: keep desktop columns and allow horizontal scroll on mobile/tablet */
+@media (max-width: 860px){
+  .artistTableScroll{
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+    padding-bottom: 6px;
+  }
 
-.foot{
-  margin-top:18px;
-  padding-top:14px;
-  border-top: var(--lineRow) solid var(--line);
-  color:var(--muted);
-  font-size:12px;
+  /* Ensure header visible + matches row grid */
+  .artistTableHead{
+    display: grid !important;
+    grid-template-columns: 1fr 140px 110px 140px 130px !important;
+    gap: 12px !important;
+  }
+
+  .aRowTop{
+    grid-template-columns: 1fr 140px 110px 140px 130px !important;
+    gap: 12px !important;
+    align-items: center;
+  }
+
+  /* Prevent wrapping that makes rows tall */
+  .artistTableHead > div,
+  .aCell,
+  .aSongTitle,
+  .aSongArtist{
+    white-space: nowrap;
+  }
+
+  /* Give the table a minimum width so it looks like desktop */
+  .artistTableHead,
+  .artistTable{
+    min-width: 860px;
+  }
+
+  .aCell.center{
+    text-align: center !important;
+  }
 }
