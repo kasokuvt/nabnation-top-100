@@ -1,6 +1,6 @@
 {
   "chartName": "Nabnation Top 100",
-  "generatedAt": "2025-12-22T05:47:05.906223Z",
+  "generatedAt": "2025-12-22T19:40:38.522868Z",
   "artists": {
     "Machine Girl": {
       "songs": {
@@ -270,9 +270,9 @@
             }
           ]
         },
-        "machine girl - despite having no money at all i’m just another rat in the mall": {
-          "title": "Despite Having No Money At All I’m Just Another Rat in the Mall",
-          "cover": "covers/machine_girl__despite_having_no_money_at_all_im_just_another_rat_in_the_mall.jpg",
+        "machine girl - despite having no money at all i'm just another rat in the mall": {
+          "title": "Despite Having No Money At All I'm Just Another Rat in the Mall",
+          "cover": "covers/placeholder.png",
           "weeks": 2,
           "peak": 9,
           "debut": "2025-10-28",
@@ -360,9 +360,9 @@
             }
           ]
         },
-        "machine girl - we don’t give a fuck": {
-          "title": "We Don’t Give a Fuck",
-          "cover": "covers/machine_girl_540_pts__we_dont_give_a_fuck.jpg",
+        "machine girl - we don't give a fuck": {
+          "title": "We Don't Give a Fuck",
+          "cover": "covers/machine_girl__we_dont_give_a_fuck.jpg",
           "weeks": 1,
           "peak": 31,
           "debut": "2025-10-28",
@@ -1794,9 +1794,9 @@
         }
       }
     },
-    "M-10 Director's Edit Version - Arianne": {
+    "Arianne": {
       "songs": {
-        "m-10 director's edit version - arianne - komm, susser tod": {
+        "arianne - komm, susser tod": {
           "title": "KOMM, SUSSER TOD",
           "cover": "covers/m_10_directors_edit_version_arianne__komm_susser_tod.jpg",
           "weeks": 1,
@@ -1829,6 +1829,20 @@
             {
               "week": "2025-10-28",
               "rank": 40
+            }
+          ]
+        },
+        "cocteau twins - sea, swallow me": {
+          "title": "Sea, Swallow Me",
+          "cover": "covers/2024_remaster_cocteau_twins__sea_swallow_me.jpg",
+          "weeks": 1,
+          "peak": 25,
+          "debut": "2025-09-09",
+          "peakDate": "2025-09-09",
+          "history": [
+            {
+              "week": "2025-09-09",
+              "rank": 25
             }
           ]
         },
@@ -2066,24 +2080,6 @@
         }
       }
     },
-    "2024 Remaster - Cocteau Twins": {
-      "songs": {
-        "2024 remaster - cocteau twins - sea, swallow me": {
-          "title": "Sea, Swallow Me",
-          "cover": "covers/2024_remaster_cocteau_twins__sea_swallow_me.jpg",
-          "weeks": 1,
-          "peak": 25,
-          "debut": "2025-09-09",
-          "peakDate": "2025-09-09",
-          "history": [
-            {
-              "week": "2025-09-09",
-              "rank": 25
-            }
-          ]
-        }
-      }
-    },
     "Ninajirachi": {
       "songs": {
         "ninajirachi - csirac": {
@@ -2166,7 +2162,7 @@
       "songs": {
         "babymetal - from me to u (feat. poppy)": {
           "title": "from me to u (feat. Poppy)",
-          "cover": "covers/placeholder.png",
+          "cover": "covers/babymetal__from_me_to_u.jpg",
           "weeks": 1,
           "peak": 30,
           "debut": "2025-09-09",
@@ -2751,7 +2747,7 @@
         "jane remover - dancing with your eyes closed": {
           "title": "Dancing with your eyes closed",
           "cover": "covers/jane_remover__dancing_with_your_eyes_closed.png",
-          "weeks": 9,
+          "weeks": 10,
           "peak": 2,
           "debut": "2025-09-16",
           "peakDate": "2025-11-25",
@@ -2763,6 +2759,10 @@
             {
               "week": "2025-10-07",
               "rank": 58
+            },
+            {
+              "week": "2025-10-28",
+              "rank": 16
             },
             {
               "week": "2025-11-11",
@@ -2796,7 +2796,7 @@
         },
         "jane remover - audiostalker ft lucy bedroque": {
           "title": "Audiostalker ft Lucy Bedroque",
-          "cover": "covers/placeholder.png",
+          "cover": "covers/jane_remover__audiostalker.jpg",
           "weeks": 1,
           "peak": 10,
           "debut": "2025-09-16",
@@ -2995,20 +2995,6 @@
             {
               "week": "2025-12-21",
               "rank": 69
-            }
-          ]
-        },
-        "jane remover - (re)dancing with your eyes closed": {
-          "title": "(RE)Dancing with your eyes closed",
-          "cover": "covers/jane_remover__redancing_with_your_eyes_closed.png",
-          "weeks": 1,
-          "peak": 16,
-          "debut": "2025-10-28",
-          "peakDate": "2025-10-28",
-          "history": [
-            {
-              "week": "2025-10-28",
-              "rank": 16
             }
           ]
         },
@@ -4108,6 +4094,28 @@
             }
           ]
         },
+        "fakemink - fidelio": {
+          "title": "Fidelio",
+          "cover": "covers/placeholder.png",
+          "weeks": 3,
+          "peak": 19,
+          "debut": "2025-10-21",
+          "peakDate": "2025-10-21",
+          "history": [
+            {
+              "week": "2025-10-21",
+              "rank": 19
+            },
+            {
+              "week": "2025-10-28",
+              "rank": 23
+            },
+            {
+              "week": "2025-11-04",
+              "rank": 79
+            }
+          ]
+        },
         "fakemink - blow me": {
           "title": "Blow Me",
           "cover": "covers/placeholder.png",
@@ -4151,24 +4159,6 @@
             {
               "week": "2025-10-21",
               "rank": 63
-            }
-          ]
-        },
-        "fakemink - fidelio": {
-          "title": "Fidelio",
-          "cover": "covers/placeholder.png",
-          "weeks": 2,
-          "peak": 23,
-          "debut": "2025-10-28",
-          "peakDate": "2025-10-28",
-          "history": [
-            {
-              "week": "2025-10-28",
-              "rank": 23
-            },
-            {
-              "week": "2025-11-04",
-              "rank": 79
             }
           ]
         },
@@ -4288,8 +4278,8 @@
             }
           ]
         },
-        "huntr/x - how it’s done": {
-          "title": "How It’s Done",
+        "huntr/x - how it's done": {
+          "title": "How It's Done",
           "cover": "covers/huntrx__how_its_done.png",
           "weeks": 5,
           "peak": 9,
@@ -5070,7 +5060,7 @@
       "songs": {
         "kenshi yonezu - iris out": {
           "title": "IRIS OUT",
-          "cover": "covers/placeholder.png",
+          "cover": "covers/kenshi_yonezu__iris_out.png",
           "weeks": 15,
           "peak": 3,
           "debut": "2025-09-16",
@@ -7428,9 +7418,9 @@
         }
       }
     },
-    "Remastered 2009 - Beastie Boys": {
+    "Beastie Boys": {
       "songs": {
-        "remastered 2009 - beastie boys - intergalactic": {
+        "beastie boys - intergalactic": {
           "title": "Intergalactic",
           "cover": "covers/remastered_2009_beastie_boys__intergalactic.jpg",
           "weeks": 1,
@@ -7441,6 +7431,20 @@
             {
               "week": "2025-09-23",
               "rank": 62
+            }
+          ]
+        },
+        "beastie boys - brass monkey": {
+          "title": "Brass Monkey",
+          "cover": "covers/beastie_boys__brass_monkey.png",
+          "weeks": 1,
+          "peak": 72,
+          "debut": "2025-09-23",
+          "peakDate": "2025-09-23",
+          "history": [
+            {
+              "week": "2025-09-23",
+              "rank": 72
             }
           ]
         }
@@ -7477,24 +7481,6 @@
             {
               "week": "2025-09-23",
               "rank": 67
-            }
-          ]
-        }
-      }
-    },
-    "Beastie Boys": {
-      "songs": {
-        "beastie boys - brass monkey": {
-          "title": "Brass Monkey",
-          "cover": "covers/beastie_boys__brass_monkey.png",
-          "weeks": 1,
-          "peak": 72,
-          "debut": "2025-09-23",
-          "peakDate": "2025-09-23",
-          "history": [
-            {
-              "week": "2025-09-23",
-              "rank": 72
             }
           ]
         }
@@ -8458,6 +8444,20 @@
             }
           ]
         },
+        "ice spice - big guy": {
+          "title": "Big Guy",
+          "cover": "covers/from_the_spongebob_movie_search_for_squarepants_ice_spice__big_guy.jpg",
+          "weeks": 1,
+          "peak": 24,
+          "debut": "2025-12-02",
+          "peakDate": "2025-12-02",
+          "history": [
+            {
+              "week": "2025-12-02",
+              "rank": 24
+            }
+          ]
+        },
         "ice spice - thootie (feat. tokischa)": {
           "title": "Thootie (feat. Tokischa)",
           "cover": "covers/ice_spice__thootie_feat_tokischa.jpg",
@@ -8544,8 +8544,8 @@
     },
     "Will Wood": {
       "songs": {
-        "will wood - laplace’s angel (hurt people? hurt people!)": {
-          "title": "Laplace’s Angel (Hurt People? Hurt People!)",
+        "will wood - laplace's angel (hurt people? hurt people!)": {
+          "title": "Laplace's Angel (Hurt People? Hurt People!)",
           "cover": "covers/will_wood__laplaces_angel_hurt_people_hurt_people.jpg",
           "weeks": 1,
           "peak": 66,
@@ -9050,9 +9050,9 @@
         }
       }
     },
-    "Remastered 2012 - The Smashing Pumpkins": {
+    "The Smashing Pumpkins": {
       "songs": {
-        "remastered 2012 - the smashing pumpkins - tonight, tonight": {
+        "the smashing pumpkins - tonight, tonight": {
           "title": "Tonight, Tonight",
           "cover": "covers/remastered_2012_the_smashing_pumpkins__tonight_tonight.jpg",
           "weeks": 1,
@@ -10406,11 +10406,11 @@
         }
       }
     },
-    "Single Version - Breaking Benjamin": {
+    "Breaking Benjamin": {
       "songs": {
-        "single version - breaking benjamin - the diary of jane": {
+        "breaking benjamin - the diary of jane": {
           "title": "The Diary of Jane",
-          "cover": "covers/single_version_breaking_benjamin_450_pts__the_diary_of_jane.png",
+          "cover": "covers/single_version_breaking_benjamin__the_diary_of_jane.png",
           "weeks": 1,
           "peak": 25,
           "debut": "2025-10-14",
@@ -11242,6 +11242,20 @@
             }
           ]
         },
+        "black country, new road - basketball shoes": {
+          "title": "Basketball Shoes",
+          "cover": "covers/live_from_the_queen_elizabeth_hall_black_country_new_road__basketball_shoes.jpg",
+          "weeks": 1,
+          "peak": 45,
+          "debut": "2025-12-09",
+          "peakDate": "2025-12-09",
+          "history": [
+            {
+              "week": "2025-12-09",
+              "rank": 45
+            }
+          ]
+        },
         "black country, new road - haldern": {
           "title": "Haldern",
           "cover": "covers/black_country_new_road__haldern.png",
@@ -11271,24 +11285,6 @@
             {
               "week": "2025-10-14",
               "rank": 100
-            }
-          ]
-        }
-      }
-    },
-    "fakemink (60.0 pts) (6 listeners)* (new release)": {
-      "songs": {
-        "fakemink (60.0 pts) (6 listeners)* (new release) - fidelio": {
-          "title": "Fidelio",
-          "cover": "covers/_placeholder.png",
-          "weeks": 1,
-          "peak": 19,
-          "debut": "2025-10-21",
-          "peakDate": "2025-10-21",
-          "history": [
-            {
-              "week": "2025-10-21",
-              "rank": 19
             }
           ]
         }
@@ -11455,6 +11451,20 @@
               "rank": 53
             }
           ]
+        },
+        "panic! at the disco - nine in the afternoon": {
+          "title": "Nine in the Afternoon",
+          "cover": "covers/single_mix_panic_at_the_disco__nine_in_the_afternoon.jpg",
+          "weeks": 1,
+          "peak": 73,
+          "debut": "2025-10-21",
+          "peakDate": "2025-10-21",
+          "history": [
+            {
+              "week": "2025-10-21",
+              "rank": 73
+            }
+          ]
         }
       }
     },
@@ -11603,24 +11613,6 @@
             {
               "week": "2025-10-21",
               "rank": 72
-            }
-          ]
-        }
-      }
-    },
-    "Single Mix - Panic! at the Disco": {
-      "songs": {
-        "single mix - panic! at the disco - nine in the afternoon": {
-          "title": "Nine in the Afternoon",
-          "cover": "covers/single_mix_panic_at_the_disco__nine_in_the_afternoon.jpg",
-          "weeks": 1,
-          "peak": 73,
-          "debut": "2025-10-21",
-          "peakDate": "2025-10-21",
-          "history": [
-            {
-              "week": "2025-10-21",
-              "rank": 73
             }
           ]
         }
@@ -12542,8 +12534,8 @@
     },
     "underscores": {
       "songs": {
-        "underscores - stupid (can’t run from the urge)": {
-          "title": "Stupid (Can’t run from the urge)",
+        "underscores - stupid (can't run from the urge)": {
+          "title": "Stupid (Can't run from the urge)",
           "cover": "covers/underscores__stupid_cant_run_from_the_urge.png",
           "weeks": 3,
           "peak": 31,
@@ -13632,27 +13624,9 @@
         }
       }
     },
-    "from \"The SpongeBob Movie: Search for SquarePants” - Ice Spice": {
+    "NERD": {
       "songs": {
-        "from \"the spongebob movie: search for squarepants” - ice spice - big guy": {
-          "title": "Big Guy",
-          "cover": "covers/from_the_spongebob_movie_search_for_squarepants_ice_spice__big_guy.jpg",
-          "weeks": 1,
-          "peak": 24,
-          "debut": "2025-12-02",
-          "peakDate": "2025-12-02",
-          "history": [
-            {
-              "week": "2025-12-02",
-              "rank": 24
-            }
-          ]
-        }
-      }
-    },
-    "N*E*R*D": {
-      "songs": {
-        "n*e*r*d - bobby james": {
+        "nerd - bobby james": {
           "title": "Bobby James",
           "cover": "covers/nerd__bobby_james.jpg",
           "weeks": 1,
@@ -14017,24 +13991,6 @@
             {
               "week": "2025-12-09",
               "rank": 43
-            }
-          ]
-        }
-      }
-    },
-    "Live from the Queen Elizabeth Hall - Black Country, New Road": {
-      "songs": {
-        "live from the queen elizabeth hall - black country, new road - basketball shoes": {
-          "title": "Basketball Shoes",
-          "cover": "covers/live_from_the_queen_elizabeth_hall_black_country_new_road__basketball_shoes.jpg",
-          "weeks": 1,
-          "peak": 45,
-          "debut": "2025-12-09",
-          "peakDate": "2025-12-09",
-          "history": [
-            {
-              "week": "2025-12-09",
-              "rank": 45
             }
           ]
         }
@@ -14476,11 +14432,11 @@
         }
       }
     },
-    "Be My Enemy Mix - Caustic": {
+    "Caustic": {
       "songs": {
-        "be my enemy mix - caustic - 666 on the crucifix": {
+        "caustic - 666 on the crucifix": {
           "title": "666 on the Crucifix",
-          "cover": "covers/_placeholder.png",
+          "cover": "covers/placeholder.png",
           "weeks": 1,
           "peak": 73,
           "debut": "2025-12-16",
@@ -14684,9 +14640,9 @@
         }
       }
     },
-    "DECO*27": {
+    "DECO27": {
       "songs": {
-        "deco*27 - モニタリング": {
+        "deco27 - モニタリング": {
           "title": "モニタリング",
           "cover": "covers/deco27__モニタリング.jpg",
           "weeks": 1,
@@ -14794,8 +14750,8 @@
     },
     "JAY-Z": {
       "songs": {
-        "jay-z - ni**as in paris": {
-          "title": "Ni**as in Paris",
+        "jay-z - nias in paris": {
+          "title": "Nias in Paris",
           "cover": "covers/jay_z__nias_in_paris.jpg",
           "weeks": 1,
           "peak": 73,
