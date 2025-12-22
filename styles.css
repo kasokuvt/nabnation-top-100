@@ -346,3 +346,115 @@ body{
   color:var(--muted);
   font-size:12px;
 }
+/* Divider thickness system */
+:root{
+  --lineRow: 1px;
+  --lineHead: 2px; /* header + table headers */
+}
+
+/* Thicker "header" dividers */
+.topbar{
+  border-bottom-width: var(--lineHead) !important;
+}
+
+.table-head{
+  border-bottom: var(--lineHead) solid var(--line) !important;
+}
+
+.artistTableHead{
+  border-bottom: var(--lineHead) solid var(--line) !important;
+}
+
+/* Keep row separators thin */
+.row{
+  border-top: var(--lineRow) solid var(--line) !important;
+}
+
+.aRow{
+  border-bottom: var(--lineRow) solid var(--line) !important;
+}
+
+.history{
+  border-top: var(--lineHead) solid var(--line) !important; /* feels nicer when expanded */
+}
+
+.historyRow{
+  border-bottom: var(--lineRow) solid rgba(107, 212, 185, 0.55) !important; /* subtle row lines */
+}
+
+/* =========================================================
+   Compact mobile layout (phones)
+   ========================================================= */
+@media (max-width: 520px){
+
+  /* overall spacing */
+  .wrap{ padding: 12px !important; }
+  .topbar{ padding: 10px 12px !important; }
+
+  /* header typography */
+  .headLeft h1{ font-size: 22px !important; }
+  .week{ font-size: 12px !important; }
+  .subrow{ margin-top: 6px !important; gap: 10px !important; }
+  .weekSelect{ padding: 6px 8px !important; border-radius: 10px !important; }
+
+  /* inputs: less tall */
+  .searchInput{ padding: 9px 10px !important; border-radius: 12px !important; }
+  .searchWrap{ width: min(360px, 92vw) !important; }
+
+  /* chart rows: less tall */
+  .rowTop{
+    padding: 10px 10px !important;
+    gap: 10px !important;
+  }
+
+  .rank{ font-size: 22px !important; width: 40px !important; }
+  .move{ padding: 3px 7px !important; min-width: 44px !important; font-size: 11px !important; }
+
+  .cover{
+    width: 40px !important;
+    height: 40px !important;
+    border-radius: 10px !important;
+  }
+
+  .titleline{ font-size: 15px !important; }
+  .artist{ font-size: 12px !important; margin-top: 3px !important; }
+
+  .stats3{
+    font-size: 12px !important;
+    gap: 10px !important;
+  }
+
+  /* expanded panel: tighter */
+  .expand{ padding: 0 10px 10px !important; }
+  .expandInner{ padding: 10px !important; border-radius: 14px !important; }
+  .expandTitle{ font-size: 14px !important; }
+  .expandSub{ font-size: 12px !important; }
+  .pills{ font-size: 11px !important; gap: 8px !important; }
+  .expandLinks{ font-size: 11px !important; gap: 10px !important; }
+
+  .historyRow{
+    padding: 6px 0 !important;
+    gap: 8px !important;
+    font-size: 12px !important;
+  }
+
+  /* artist page: tighter rows + controls */
+  .artistControls{ gap: 10px !important; margin-bottom: 8px !important; }
+  .aRowTop{ padding: 10px 10px !important; gap: 10px !important; }
+  .aSongTitle{ font-size: 15px !important; }
+  .aSongArtist{ font-size: 12px !important; margin-top: 3px !important; }
+  .aCell{ font-size: 12px !important; }
+
+  /* keep the horizontal-scroll artist layout working */
+  .artistTableScroll{ padding-bottom: 4px !important; }
+  .artistTableHead,
+  .artistTable{ min-width: 820px !important; } /* slightly smaller than 860 for easier scrolling */
+}
+
+/* =========================================================
+   Compact tablet layout (optional) – keeps things tighter too
+   ========================================================= */
+@media (max-width: 760px){
+  .rowTop{ padding: 12px 10px !important; }
+  .wrap{ padding: 14px !important; }
+}
