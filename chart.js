@@ -36,7 +36,6 @@ function weekUrl(weekStr) {
 }
 
 function songKey(title, artist) {
-  // Must match exporter: "{artist} - {title}".lower()
   return `${artist} - ${title}`.toLowerCase().trim();
 }
 
@@ -65,50 +64,87 @@ function moveLabel(m) {
   return { text: "—", cls: "" };
 }
 
+function getPrevWeek(weeksNewestFirst, currentWeek) {
+  const idx = weeksNewestFirst.indexOf(currentWeek);
+  if (idx === -1) return null;
+  return weeksNewestFirst[idx + 1] || null; // newest->oldest
+}
+
 /* ===========================
-   AS-OF STATS (fix for old weeks)
+   Canonical matching fallback
+   (fix "some weeks look fine, other weeks don't")
+   =========================== */
+
+function canon(str) {
+  return (str || "")
+    .toLowerCase()
+    .normalize("NFKD")
+    .replace(/[\u0300-\u036f]/g, "")      // remove accents
+    .replace(/&/g, "and")
+    .replace(/[^a-z0-9]+/g, " ")          // remove punctuation
+    .trim()
+    .replace(/\s+/g, " ");
+}
+
+function canonKey(title, artist) {
+  return `${canon(artist)} - ${canon(title)}`;
+}
+
+/* ===========================
+   De-dupe history by week
+   Keeps best rank for that week
+   =========================== */
+
+function dedupHistory(history) {
+  // returns array of {week, rank} with unique weeks (best rank kept)
+  if (!Array.isArray(history)) return [];
+  const bestByWeek = new Map();
+  for (const h of history) {
+    const w = String(h.week);
+    const r = Number(h.rank);
+    if (!bestByWeek.has(w)) bestByWeek.set(w, r);
+    else bestByWeek.set(w, Math.min(bestByWeek.get(w), r));
+  }
+  return Array.from(bestByWeek.entries()).map(([week, rank]) => ({ week, rank }));
+}
+
+/* ===========================
+   AS-OF STATS (fixed + deduped)
    =========================== */
 
 function statsAsOf(songObj, weekStr) {
-  // returns { peak, weeks } computed up to and including weekStr
   if (!songObj || !Array.isArray(songObj.history)) {
     return { peak: null, weeks: null };
   }
-  const upTo = songObj.history.filter(h => String(h.week) <= String(weekStr));
+
+  const hist = dedupHistory(songObj.history);
+  const upTo = hist.filter(h => String(h.week) <= String(weekStr));
   if (!upTo.length) return { peak: null, weeks: 0 };
+
   const peak = Math.min(...upTo.map(h => Number(h.rank)));
   return { peak, weeks: upTo.length };
 }
 
-/**
- * ✅ LW should mean: rank on the IMMEDIATELY previous chart week only.
- * If song wasn't on that exact previous week -> LW = null (shown as —).
- */
 function lastWeekRankImmediate(songObj, prevWeekStr) {
   if (!prevWeekStr) return null;
   if (!songObj || !Array.isArray(songObj.history)) return null;
-  const hit = songObj.history.find(h => String(h.week) === String(prevWeekStr));
+
+  const hist = dedupHistory(songObj.history);
+  const hit = hist.find(h => String(h.week) === String(prevWeekStr));
   return hit ? Number(hit.rank) : null;
 }
 
-function getPrevWeek(weeksNewestFirst, currentWeek) {
-  const idx = weeksNewestFirst.indexOf(currentWeek);
-  // weeks list is newest -> oldest, so previous week is idx+1
-  if (idx === -1) return null;
-  return weeksNewestFirst[idx + 1] || null;
-}
-
 /* ===========================
-   Expand panel
+   Expand panel (history filtered + deduped)
    =========================== */
 
 function buildHistoryHtml(history, asOfWeek) {
-  if (!history || history.length === 0) {
+  const hist = dedupHistory(history || []);
+  const filtered = hist.filter(h => String(h.week) <= String(asOfWeek));
+
+  if (!filtered.length) {
     return `<div class="history"><div class="historyRow"><span>No history yet.</span></div></div>`;
   }
-
-  // Only show up to selected week (so Week 1 doesn't show future weeks)
-  const filtered = history.filter(h => String(h.week) <= String(asOfWeek));
 
   const rows = [...filtered].sort((a, b) =>
     String(b.week).localeCompare(String(a.week)) || (a.rank - b.rank)
@@ -118,9 +154,7 @@ function buildHistoryHtml(history, asOfWeek) {
     <div class="history">
       ${rows.map(h => `
         <div class="historyRow">
-          <span>
-            <a href="${weekUrl(h.week)}">${escapeHtml(h.week)}</a>
-          </span>
+          <span><a href="${weekUrl(h.week)}">${escapeHtml(h.week)}</a></span>
           <span>Rank <b>#${escapeHtml(h.rank)}</b></span>
         </div>
       `).join("")}
@@ -132,22 +166,20 @@ function buildExpandHtml(entry, catalogSong, asOfWeek, prevWeekStr) {
   let lw = entry.lastWeek;
   let peak = entry.peak;
   let weeks = entry.weeks;
-  const history = catalogSong?.history ?? [];
 
-  // ✅ movement types that should show LW as —
   const mtype = entry.movement?.type || null;
   const forceDashLW = (mtype === "new" || mtype === "re");
+
+  const history = catalogSong?.history ?? [];
 
   if (catalogSong && asOfWeek) {
     const asof = statsAsOf(catalogSong, asOfWeek);
     if (asof.peak !== null) peak = asof.peak;
     if (asof.weeks !== null) weeks = asof.weeks;
 
-    // ✅ correct LW: only from immediately previous week
     const lwRank = forceDashLW ? null : lastWeekRankImmediate(catalogSong, prevWeekStr);
     lw = (lwRank === null || Number.isNaN(lwRank)) ? null : lwRank;
   } else {
-    // if no catalogSong, still force dash for NEW/RE
     if (forceDashLW) lw = null;
   }
 
@@ -205,7 +237,8 @@ function setupArtistSearch(catalog) {
 
       let entries = 0;
       for (const k of Object.keys(songsObj)) {
-        entries += (songsObj[k]?.history?.length || 0);
+        const hist = dedupHistory(songsObj[k]?.history || []);
+        entries += hist.length;
       }
 
       return `
@@ -263,7 +296,7 @@ function setupArtistSearch(catalog) {
 }
 
 /* ===========================
-   Weekly Awards -> inline labels
+   Weekly Awards (inline labels)
    =========================== */
 
 function movementValue(entry) {
@@ -363,16 +396,39 @@ async function main() {
   const catalog = await loadJSON("data/catalog.json");
   setupArtistSearch(catalog);
 
-  // Build lookup of catalog song objects
-  const songLookup = new Map();
+  // Build lookups
+  const songLookup = new Map();      // exact key
+  const songLookupCanon = new Map(); // canonical fallback (only if unique)
+
   for (const [, artistObj] of Object.entries(catalog.artists || {})) {
     const songs = artistObj.songs || {};
     for (const [skey, songObj] of Object.entries(songs)) {
-      songLookup.set(skey.toLowerCase().trim(), songObj);
+      const exact = skey.toLowerCase().trim();
+      songLookup.set(exact, songObj);
+
+      // canonical map: only store if unique to avoid wrong matches
+      const parts = exact.split(" - ");
+      if (parts.length >= 2) {
+        const a = parts[0];
+        const t = parts.slice(1).join(" - ");
+        const ck = `${canon(a)} - ${canon(t)}`;
+        if (!songLookupCanon.has(ck)) songLookupCanon.set(ck, songObj);
+        else songLookupCanon.set(ck, null); // mark ambiguous
+      }
     }
   }
 
-  // Load selected week chart JSON
+  function findCatalogSong(entry) {
+    const k = songKey(entry.title, entry.artist);
+    const hit = songLookup.get(k);
+    if (hit) return hit;
+
+    const ck = canonKey(entry.title, entry.artist);
+    const hit2 = songLookupCanon.get(ck);
+    return hit2 || null; // null if ambiguous or missing
+  }
+
+  // Load week chart JSON
   const chart = weekToLoad
     ? await loadJSON(`data/${weekToLoad}.json`)
     : await loadJSON("data/latest.json");
@@ -384,35 +440,37 @@ async function main() {
 
   const list = document.getElementById("chart");
   const asOfWeek = chart.week;
-
-  // ✅ immediate previous week string for correct LW behavior
   const prevWeekStr = getPrevWeek(weeks, asOfWeek);
 
-  // awards for this week
+  // Awards map this week
+  // For awards we still key by exact songKey; that’s fine visually.
   const awardsMap = computeAwardsMap(chart.entries, songLookup, asOfWeek);
 
-  // Render chart rows
   list.innerHTML = chart.entries.map(e => {
     const mv = moveLabel(e.movement);
-    const cover = e.cover ? escapeHtml(e.cover) : PLACEHOLDER;
     const skey = songKey(e.title, e.artist);
     const ariaId = `exp_${e.rank}`;
 
-    const catalogSong = songLookup.get(skey) || null;
+    const catalogSong = findCatalogSong(e);
 
+    // Cover fallback: entry.cover -> catalogSong.cover -> placeholder
+    const cover =
+      (e.cover && String(e.cover).trim())
+        ? String(e.cover).trim()
+        : (catalogSong?.cover && String(catalogSong.cover).trim())
+          ? String(catalogSong.cover).trim()
+          : PLACEHOLDER;
+
+    // as-of peak/weeks
     let peakDisplay = e.peak;
     let weeksDisplay = e.weeks;
-
-    // ✅ as-of peak/weeks
     if (catalogSong) {
       const asof = statsAsOf(catalogSong, asOfWeek);
       if (asof.peak !== null) peakDisplay = asof.peak;
       if (asof.weeks !== null) weeksDisplay = asof.weeks;
     }
 
-    // ✅ correct LW:
-    // - NEW/RE => —
-    // - otherwise: only rank from immediately previous week
+    // LW: NEW/RE => —, else only immediately previous week
     const mtype = e.movement?.type || null;
     let lwDisplay = null;
     if (mtype !== "new" && mtype !== "re" && catalogSong) {
@@ -433,7 +491,7 @@ async function main() {
           </div>
 
           <div class="songRow">
-            <img class="cover" src="${cover}" alt="" loading="lazy" />
+            <img class="cover" src="${escapeHtml(cover)}" alt="" loading="lazy" />
             <div class="song">
               <div class="titleline">${escapeHtml(e.title)}</div>
               <div class="artist">
@@ -457,7 +515,6 @@ async function main() {
 
   attachImgFallback(list);
 
-  // Expand/collapse logic
   function toggleRow(row) {
     const top = row.querySelector(".rowTop");
     const exp = row.querySelector(".expand");
@@ -471,7 +528,6 @@ async function main() {
       return;
     }
 
-    // close others (accordion)
     document.querySelectorAll(".row.open").forEach(other => {
       if (other === row) return;
       const otherTop = other.querySelector(".rowTop");
@@ -484,18 +540,26 @@ async function main() {
     row.classList.add("open");
     top.setAttribute("aria-expanded", "true");
 
-    const skey = (row.getAttribute("data-songkey") || "").toLowerCase().trim();
     const rank = Number(row.getAttribute("data-rank") || "0");
-
     const entry = chart.entries.find(x => Number(x.rank) === rank);
     if (!entry) {
       exp.innerHTML = `<div class="expandInner">Could not find entry.</div>`;
       return;
     }
 
-    const catalogSong = songLookup.get(skey) || null;
-    const entryWithWeek = { ...entry, _week: chart.week };
+    const catalogSong = (function () {
+      // use the same matcher used for rows
+      // (recompute here to keep it simple)
+      // exact -> canonical -> null
+      const k = songKey(entry.title, entry.artist);
+      const hit = songLookup.get(k);
+      if (hit) return hit;
+      const ck = canonKey(entry.title, entry.artist);
+      const hit2 = songLookupCanon.get(ck);
+      return hit2 || null;
+    })();
 
+    const entryWithWeek = { ...entry, _week: chart.week };
     exp.innerHTML = buildExpandHtml(entryWithWeek, catalogSong, asOfWeek, prevWeekStr);
   }
 
