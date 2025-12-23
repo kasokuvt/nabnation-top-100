@@ -14,7 +14,7 @@
       },
       "lastWeek": 3,
       "peak": 1,
-      "weeks": 6,
+      "weeks": 7,
       "points": 112.0,
       "listeners": 12
     },
@@ -29,7 +29,7 @@
       },
       "lastWeek": 35,
       "peak": 2,
-      "weeks": 9,
+      "weeks": 10,
       "points": 102.5,
       "listeners": 12
     },
@@ -59,7 +59,7 @@
       },
       "lastWeek": 91,
       "peak": 2,
-      "weeks": 7,
+      "weeks": 8,
       "points": 91.0,
       "listeners": 7
     },
@@ -74,7 +74,7 @@
       },
       "lastWeek": 14,
       "peak": 2,
-      "weeks": 11,
+      "weeks": 12,
       "points": 90.0,
       "listeners": 13
     },
@@ -119,7 +119,7 @@
       },
       "lastWeek": 20,
       "peak": 3,
-      "weeks": 14,
+      "weeks": 15,
       "points": 82.5,
       "listeners": 10
     },
@@ -134,7 +134,7 @@
       },
       "lastWeek": 13,
       "peak": 2,
-      "weeks": 14,
+      "weeks": 15,
       "points": 78.5,
       "listeners": 10
     },
@@ -164,7 +164,7 @@
       },
       "lastWeek": 65,
       "peak": 4,
-      "weeks": 6,
+      "weeks": 7,
       "points": 72.0,
       "listeners": 7
     },
@@ -179,7 +179,7 @@
       },
       "lastWeek": 22,
       "peak": 12,
-      "weeks": 7,
+      "weeks": 8,
       "points": 71.5,
       "listeners": 11
     },
@@ -194,7 +194,7 @@
       },
       "lastWeek": 16,
       "peak": 10,
-      "weeks": 9,
+      "weeks": 10,
       "points": 71.5,
       "listeners": 9
     },
@@ -224,7 +224,7 @@
       },
       "lastWeek": 9,
       "peak": 2,
-      "weeks": 9,
+      "weeks": 10,
       "points": 69.0,
       "listeners": 10
     },
@@ -239,7 +239,7 @@
       },
       "lastWeek": null,
       "peak": 5,
-      "weeks": 3,
+      "weeks": 4,
       "points": 68.0,
       "listeners": 7
     },
@@ -299,7 +299,7 @@
       },
       "lastWeek": null,
       "peak": 20,
-      "weeks": 1,
+      "weeks": 2,
       "points": 59.0,
       "listeners": 4
     },
@@ -374,7 +374,7 @@
       },
       "lastWeek": null,
       "peak": 25,
-      "weeks": 3,
+      "weeks": 4,
       "points": 57.0,
       "listeners": 8
     },
@@ -389,7 +389,7 @@
       },
       "lastWeek": 62,
       "peak": 7,
-      "weeks": 8,
+      "weeks": 9,
       "points": 56.5,
       "listeners": 8
     },
@@ -434,7 +434,7 @@
       },
       "lastWeek": 32,
       "peak": 4,
-      "weeks": 10,
+      "weeks": 11,
       "points": 55.5,
       "listeners": 10
     },
@@ -464,7 +464,7 @@
       },
       "lastWeek": 83,
       "peak": 5,
-      "weeks": 5,
+      "weeks": 6,
       "points": 54.5,
       "listeners": 8
     },
@@ -479,7 +479,7 @@
       },
       "lastWeek": 23,
       "peak": 15,
-      "weeks": 8,
+      "weeks": 9,
       "points": 54.0,
       "listeners": 9
     },
@@ -644,7 +644,7 @@
       },
       "lastWeek": 47,
       "peak": 1,
-      "weeks": 12,
+      "weeks": 13,
       "points": 50.0,
       "listeners": 8
     },
@@ -674,7 +674,7 @@
       },
       "lastWeek": 53,
       "peak": 1,
-      "weeks": 11,
+      "weeks": 12,
       "points": 49.5,
       "listeners": 7
     },
@@ -1183,8 +1183,8 @@
         "value": null
       },
       "lastWeek": 80,
-      "peak": 23,
-      "weeks": 6,
+      "peak": 20,
+      "weeks": 7,
       "points": 42.0,
       "listeners": 10
     },
@@ -1199,7 +1199,7 @@
       },
       "lastWeek": 39,
       "peak": 13,
-      "weeks": 6,
+      "weeks": 7,
       "points": 42.0,
       "listeners": 9
     },
@@ -1214,7 +1214,7 @@
       },
       "lastWeek": null,
       "peak": 17,
-      "weeks": 3,
+      "weeks": 4,
       "points": 42.0,
       "listeners": 9
     },
@@ -1244,7 +1244,7 @@
       },
       "lastWeek": 82,
       "peak": 9,
-      "weeks": 11,
+      "weeks": 12,
       "points": 42.0,
       "listeners": 5
     },
@@ -1379,7 +1379,7 @@
       },
       "lastWeek": null,
       "peak": 6,
-      "weeks": 3,
+      "weeks": 4,
       "points": 40.5,
       "listeners": 5
     },
@@ -1439,7 +1439,7 @@
       },
       "lastWeek": null,
       "peak": 8,
-      "weeks": 6,
+      "weeks": 7,
       "points": 39.5,
       "listeners": 11
     },

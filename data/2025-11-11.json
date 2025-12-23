@@ -44,7 +44,7 @@
       },
       "lastWeek": null,
       "peak": 1,
-      "weeks": 6,
+      "weeks": 7,
       "points": 141.5,
       "listeners": 12
     },
@@ -134,7 +134,7 @@
       },
       "lastWeek": null,
       "peak": 2,
-      "weeks": 9,
+      "weeks": 10,
       "points": 96.0,
       "listeners": 13
     },
@@ -194,7 +194,7 @@
       },
       "lastWeek": 3,
       "peak": 2,
-      "weeks": 14,
+      "weeks": 15,
       "points": 91.0,
       "listeners": 9
     },
@@ -209,7 +209,7 @@
       },
       "lastWeek": 8,
       "peak": 2,
-      "weeks": 11,
+      "weeks": 12,
       "points": 89.0,
       "listeners": 10
     },
@@ -239,7 +239,7 @@
       },
       "lastWeek": 59,
       "peak": 10,
-      "weeks": 9,
+      "weeks": 10,
       "points": 85.5,
       "listeners": 13
     },
@@ -299,7 +299,7 @@
       },
       "lastWeek": 11,
       "peak": 3,
-      "weeks": 14,
+      "weeks": 15,
       "points": 74.5,
       "listeners": 9
     },
@@ -329,7 +329,7 @@
       },
       "lastWeek": 19,
       "peak": 12,
-      "weeks": 7,
+      "weeks": 8,
       "points": 65.5,
       "listeners": 11
     },
@@ -344,7 +344,7 @@
       },
       "lastWeek": 27,
       "peak": 15,
-      "weeks": 8,
+      "weeks": 9,
       "points": 65.5,
       "listeners": 11
     },
@@ -479,7 +479,7 @@
       },
       "lastWeek": null,
       "peak": 4,
-      "weeks": 10,
+      "weeks": 11,
       "points": 54.5,
       "listeners": 10
     },
@@ -509,7 +509,7 @@
       },
       "lastWeek": 6,
       "peak": 6,
-      "weeks": 4,
+      "weeks": 5,
       "points": 54.5,
       "listeners": 6
     },
@@ -524,7 +524,7 @@
       },
       "lastWeek": 31,
       "peak": 2,
-      "weeks": 9,
+      "weeks": 10,
       "points": 53.5,
       "listeners": 9
     },
@@ -569,7 +569,7 @@
       },
       "lastWeek": 78,
       "peak": 8,
-      "weeks": 9,
+      "weeks": 10,
       "points": 51.5,
       "listeners": 7
     },
@@ -584,7 +584,7 @@
       },
       "lastWeek": null,
       "peak": 13,
-      "weeks": 6,
+      "weeks": 7,
       "points": 51.0,
       "listeners": 10
     },
@@ -704,7 +704,7 @@
       },
       "lastWeek": 5,
       "peak": 1,
-      "weeks": 12,
+      "weeks": 13,
       "points": 48.0,
       "listeners": 6
     },
@@ -794,7 +794,7 @@
       },
       "lastWeek": 2,
       "peak": 1,
-      "weeks": 11,
+      "weeks": 12,
       "points": 47.0,
       "listeners": 7
     },
@@ -883,8 +883,8 @@
         "value": null
       },
       "lastWeek": null,
-      "peak": 27,
-      "weeks": 4,
+      "peak": 12,
+      "weeks": 5,
       "points": 44.0,
       "listeners": 7
     },
@@ -929,7 +929,7 @@
       },
       "lastWeek": null,
       "peak": 7,
-      "weeks": 8,
+      "weeks": 9,
       "points": 43.5,
       "listeners": 10
     },
@@ -974,7 +974,7 @@
       },
       "lastWeek": null,
       "peak": 4,
-      "weeks": 6,
+      "weeks": 7,
       "points": 43.0,
       "listeners": 9
     },
@@ -1198,8 +1198,8 @@
         "value": null
       },
       "lastWeek": null,
-      "peak": 23,
-      "weeks": 6,
+      "peak": 20,
+      "weeks": 7,
       "points": 39.5,
       "listeners": 9
     },
@@ -1229,7 +1229,7 @@
       },
       "lastWeek": 56,
       "peak": 9,
-      "weeks": 11,
+      "weeks": 12,
       "points": 39.5,
       "listeners": 9
     },
@@ -1244,7 +1244,7 @@
       },
       "lastWeek": null,
       "peak": 5,
-      "weeks": 5,
+      "weeks": 6,
       "points": 39.5,
       "listeners": 8
     },
@@ -1288,8 +1288,8 @@
         "value": null
       },
       "lastWeek": null,
-      "peak": 53,
-      "weeks": 5,
+      "peak": 15,
+      "weeks": 6,
       "points": 39.5,
       "listeners": 5
     },
@@ -1364,7 +1364,7 @@
       },
       "lastWeek": 72,
       "peak": 2,
-      "weeks": 7,
+      "weeks": 8,
       "points": 39.0,
       "listeners": 6
     },
