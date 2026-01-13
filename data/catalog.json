@@ -1563,6 +1563,18 @@
               "rank": 8,
               "points": 75.5,
               "listeners": 12
+            },
+            {
+              "week": "2026-01-13",
+              "rank": 62,
+              "points": 42.5,
+              "listeners": 10
+            },
+            {
+              "week": "2026-01-13",
+              "rank": 64,
+              "points": 42.5,
+              "listeners": 10
             }
           ]
         }
@@ -1621,6 +1633,12 @@
             {
               "week": "2025-10-28",
               "rank": 49
+            },
+            {
+              "week": "2026-01-13",
+              "rank": 70,
+              "points": 41.0,
+              "listeners": 4
             }
           ]
         },
@@ -2873,6 +2891,18 @@
               "rank": 47,
               "points": 46.0,
               "listeners": 13
+            },
+            {
+              "week": "2026-01-13",
+              "rank": 34,
+              "points": 52.5,
+              "listeners": 10
+            },
+            {
+              "week": "2026-01-13",
+              "rank": 35,
+              "points": 51.5,
+              "listeners": 10
             }
           ]
         },
@@ -2934,6 +2964,18 @@
               "week": "2026-01-06",
               "rank": 5,
               "points": 84.5,
+              "listeners": 14
+            },
+            {
+              "week": "2026-01-13",
+              "rank": 6,
+              "points": 77.0,
+              "listeners": 15
+            },
+            {
+              "week": "2026-01-13",
+              "rank": 9,
+              "points": 77.0,
               "listeners": 14
             }
           ]
@@ -3027,6 +3069,18 @@
               "rank": 90,
               "points": 36.0,
               "listeners": 8
+            },
+            {
+              "week": "2026-01-13",
+              "rank": 99,
+              "points": 37.0,
+              "listeners": 11
+            },
+            {
+              "week": "2026-01-13",
+              "rank": 100,
+              "points": 37.0,
+              "listeners": 11
             }
           ]
         },
@@ -3060,7 +3114,7 @@
           "title": "Professional Vengeance",
           "cover": "covers/jane_remover__professional_vengeance.png",
           "weeks": 10,
-          "peak": 10,
+          "peak": 7,
           "debut": "2025-09-16",
           "peakDate": "2025-12-09",
           "history": [
@@ -3115,6 +3169,18 @@
               "rank": 32,
               "points": 49.5,
               "listeners": 15
+            },
+            {
+              "week": "2026-01-13",
+              "rank": 7,
+              "points": 71.0,
+              "listeners": 13
+            },
+            {
+              "week": "2026-01-13",
+              "rank": 10,
+              "points": 70.0,
+              "listeners": 13
             }
           ]
         },
@@ -3219,6 +3285,18 @@
               "rank": 19,
               "points": 59.0,
               "listeners": 13
+            },
+            {
+              "week": "2026-01-13",
+              "rank": 16,
+              "points": 61.0,
+              "listeners": 12
+            },
+            {
+              "week": "2026-01-13",
+              "rank": 15,
+              "points": 61.0,
+              "listeners": 12
             }
           ]
         },
@@ -3321,6 +3399,18 @@
             {
               "week": "2025-11-18",
               "rank": 69
+            },
+            {
+              "week": "2026-01-13",
+              "rank": 95,
+              "points": 38.0,
+              "listeners": 4
+            },
+            {
+              "week": "2026-01-13",
+              "rank": 97,
+              "points": 38.0,
+              "listeners": 4
             }
           ]
         },
@@ -3370,6 +3460,18 @@
               "week": "2026-01-06",
               "rank": 10,
               "points": 71.5,
+              "listeners": 9
+            },
+            {
+              "week": "2026-01-13",
+              "rank": 12,
+              "points": 66.5,
+              "listeners": 9
+            },
+            {
+              "week": "2026-01-13",
+              "rank": 12,
+              "points": 66.5,
               "listeners": 9
             }
           ]
@@ -3439,13 +3541,25 @@
               "rank": 15,
               "points": 68.5,
               "listeners": 9
+            },
+            {
+              "week": "2026-01-13",
+              "rank": 23,
+              "points": 57.0,
+              "listeners": 11
+            },
+            {
+              "week": "2026-01-13",
+              "rank": 22,
+              "points": 57.0,
+              "listeners": 11
             }
           ]
         },
         "jane remover - dream sequence": {
           "title": "Dream Sequence",
           "cover": "covers/jane_remover__dream_sequence.png",
-          "weeks": 4,
+          "weeks": 6,
           "peak": 6,
           "debut": "2025-11-18",
           "peakDate": "2025-12-09",
@@ -3477,20 +3591,44 @@
               "rank": 18,
               "points": 63.0,
               "listeners": 9
+            },
+            {
+              "week": "2026-01-13",
+              "rank": 44,
+              "points": 48.5,
+              "listeners": 4
+            },
+            {
+              "week": "2026-01-13",
+              "rank": 37,
+              "points": 51.0,
+              "listeners": 5
             }
           ]
         },
         "jane remover - fadeoutz": {
           "title": "Fadeoutz",
           "cover": "covers/jane_remover__fadeoutz.png",
-          "weeks": 1,
-          "peak": 42,
+          "weeks": 2,
+          "peak": 15,
           "debut": "2025-11-25",
           "peakDate": "2025-11-25",
           "history": [
             {
               "week": "2025-11-25",
               "rank": 42
+            },
+            {
+              "week": "2026-01-13",
+              "rank": 15,
+              "points": 62.0,
+              "listeners": 8
+            },
+            {
+              "week": "2026-01-13",
+              "rank": 16,
+              "points": 60.5,
+              "listeners": 9
             }
           ]
         },
@@ -3521,7 +3659,7 @@
         "jane remover - music baby": {
           "title": "Music Baby",
           "cover": "covers/jane_remover__music_baby.png",
-          "weeks": 4,
+          "weeks": 6,
           "peak": 1,
           "debut": "2025-12-09",
           "peakDate": "2025-12-09",
@@ -3549,13 +3687,25 @@
               "rank": 2,
               "points": 91.5,
               "listeners": 8
+            },
+            {
+              "week": "2026-01-13",
+              "rank": 8,
+              "points": 70.5,
+              "listeners": 12
+            },
+            {
+              "week": "2026-01-13",
+              "rank": 14,
+              "points": 62.0,
+              "listeners": 12
             }
           ]
         },
         "jane remover - so what?": {
           "title": "So What?",
           "cover": "covers/jane_remover__so_what.png",
-          "weeks": 4,
+          "weeks": 6,
           "peak": 1,
           "debut": "2025-12-09",
           "peakDate": "2025-12-16",
@@ -3583,6 +3733,18 @@
               "rank": 4,
               "points": 84.5,
               "listeners": 14
+            },
+            {
+              "week": "2026-01-13",
+              "rank": 5,
+              "points": 82.0,
+              "listeners": 10
+            },
+            {
+              "week": "2026-01-13",
+              "rank": 8,
+              "points": 80.0,
+              "listeners": 10
             }
           ]
         },
@@ -3783,10 +3945,22 @@
               "rank": 1,
               "points": 115.0,
               "listeners": 11
+            },
+            {
+              "week": "2026-01-13",
+              "rank": 9,
+              "points": 70.0,
+              "listeners": 7
+            },
+            {
+              "week": "2026-01-13",
+              "rank": 5,
+              "points": 85.5,
+              "listeners": 7
             }
           ],
           "peak": 1,
-          "weeks": 1
+          "weeks": 3
         }
       }
     },
@@ -4109,6 +4283,18 @@
               "rank": 50,
               "points": 51.5,
               "listeners": 5
+            },
+            {
+              "week": "2026-01-13",
+              "rank": 37,
+              "points": 51.5,
+              "listeners": 7
+            },
+            {
+              "week": "2026-01-13",
+              "rank": 36,
+              "points": 51.5,
+              "listeners": 7
             }
           ]
         },
@@ -4469,7 +4655,7 @@
         "fakemink - blow me": {
           "title": "Blow Me",
           "cover": "covers/placeholder.png",
-          "weeks": 1,
+          "weeks": 2,
           "peak": 21,
           "debut": "2025-10-21",
           "peakDate": "2025-10-21",
@@ -4477,6 +4663,18 @@
             {
               "week": "2025-10-21",
               "rank": 21
+            },
+            {
+              "week": "2026-01-13",
+              "rank": 89,
+              "points": 38.5,
+              "listeners": 7
+            },
+            {
+              "week": "2026-01-13",
+              "rank": 85,
+              "points": 39.5,
+              "listeners": 7
             }
           ]
         },
@@ -4741,6 +4939,18 @@
               "rank": 12,
               "points": 69.5,
               "listeners": 8
+            },
+            {
+              "week": "2026-01-13",
+              "rank": 56,
+              "points": 43.5,
+              "listeners": 7
+            },
+            {
+              "week": "2026-01-13",
+              "rank": 44,
+              "points": 48.5,
+              "listeners": 9
             }
           ]
         },
@@ -4777,6 +4987,18 @@
               "rank": 29,
               "points": 61.0,
               "listeners": 7
+            },
+            {
+              "week": "2026-01-13",
+              "rank": 40,
+              "points": 50.5,
+              "listeners": 7
+            },
+            {
+              "week": "2026-01-13",
+              "rank": 30,
+              "points": 53.0,
+              "listeners": 8
             }
           ]
         },
@@ -4813,6 +5035,18 @@
               "rank": 13,
               "points": 73.5,
               "listeners": 13
+            },
+            {
+              "week": "2026-01-13",
+              "rank": 57,
+              "points": 43.0,
+              "listeners": 7
+            },
+            {
+              "week": "2026-01-13",
+              "rank": 65,
+              "points": 42.5,
+              "listeners": 8
             }
           ]
         },
@@ -4845,6 +5079,18 @@
               "rank": 57,
               "points": 47.0,
               "listeners": 8
+            },
+            {
+              "week": "2026-01-13",
+              "rank": 21,
+              "points": 58.0,
+              "listeners": 11
+            },
+            {
+              "week": "2026-01-13",
+              "rank": 19,
+              "points": 58.0,
+              "listeners": 11
             }
           ]
         },
@@ -4877,6 +5123,18 @@
               "rank": 32,
               "points": 60.5,
               "listeners": 5
+            },
+            {
+              "week": "2026-01-13",
+              "rank": 43,
+              "points": 48.5,
+              "listeners": 6
+            },
+            {
+              "week": "2026-01-13",
+              "rank": 46,
+              "points": 48.5,
+              "listeners": 6
             }
           ]
         },
@@ -4907,7 +5165,7 @@
         "femtanyl - dinner!": {
           "title": "DINNER!",
           "cover": "covers/femtanyl__dinner.png",
-          "weeks": 3,
+          "weeks": 5,
           "peak": 3,
           "debut": "2025-12-02",
           "peakDate": "2025-12-16",
@@ -4931,6 +5189,18 @@
               "rank": 35,
               "points": 48.5,
               "listeners": 5
+            },
+            {
+              "week": "2026-01-13",
+              "rank": 47,
+              "points": 46.5,
+              "listeners": 6
+            },
+            {
+              "week": "2026-01-13",
+              "rank": 50,
+              "points": 46.5,
+              "listeners": 6
             }
           ]
         },
@@ -5023,10 +5293,22 @@
               "rank": 40,
               "points": 57.0,
               "listeners": 4
+            },
+            {
+              "week": "2026-01-13",
+              "rank": 45,
+              "points": 47.5,
+              "listeners": 6
+            },
+            {
+              "week": "2026-01-13",
+              "rank": 48,
+              "points": 47.5,
+              "listeners": 6
             }
           ],
           "peak": 40,
-          "weeks": 1
+          "weeks": 3
         },
         "femtanyl - and i'm gone": {
           "title": "AND I'M GONE",
@@ -5245,6 +5527,18 @@
             {
               "week": "2025-10-21",
               "rank": 94
+            },
+            {
+              "week": "2026-01-13",
+              "rank": 59,
+              "points": 43.0,
+              "listeners": 6
+            },
+            {
+              "week": "2026-01-13",
+              "rank": 58,
+              "points": 43.5,
+              "listeners": 6
             }
           ]
         }
@@ -5386,6 +5680,18 @@
               "week": "2025-12-30",
               "rank": 27,
               "points": 63.0,
+              "listeners": 9
+            },
+            {
+              "week": "2026-01-13",
+              "rank": 35,
+              "points": 52.0,
+              "listeners": 9
+            },
+            {
+              "week": "2026-01-13",
+              "rank": 33,
+              "points": 52.0,
               "listeners": 9
             }
           ]
@@ -5643,6 +5949,18 @@
               "rank": 49,
               "points": 46.0,
               "listeners": 4
+            },
+            {
+              "week": "2026-01-13",
+              "rank": 13,
+              "points": 64.5,
+              "listeners": 10
+            },
+            {
+              "week": "2026-01-13",
+              "rank": 13,
+              "points": 62.5,
+              "listeners": 10
             }
           ]
         },
@@ -5969,6 +6287,18 @@
               "rank": 16,
               "points": 64.0,
               "listeners": 20
+            },
+            {
+              "week": "2026-01-13",
+              "rank": 63,
+              "points": 42.5,
+              "listeners": 8
+            },
+            {
+              "week": "2026-01-13",
+              "rank": 66,
+              "points": 42.5,
+              "listeners": 8
             }
           ]
         },
@@ -6068,7 +6398,7 @@
           "title": "Century",
           "cover": "covers/esdeekid__century.png",
           "weeks": 6,
-          "peak": 21,
+          "peak": 17,
           "debut": "2025-11-11",
           "peakDate": "2025-11-18",
           "history": [
@@ -6095,6 +6425,18 @@
             {
               "week": "2025-12-16",
               "rank": 62
+            },
+            {
+              "week": "2026-01-13",
+              "rank": 17,
+              "points": 60.5,
+              "listeners": 8
+            },
+            {
+              "week": "2026-01-13",
+              "rank": 17,
+              "points": 60.5,
+              "listeners": 8
             }
           ]
         },
@@ -6227,6 +6569,18 @@
             {
               "week": "2025-12-16",
               "rank": 68
+            },
+            {
+              "week": "2026-01-13",
+              "rank": 93,
+              "points": 38.0,
+              "listeners": 5
+            },
+            {
+              "week": "2026-01-13",
+              "rank": 95,
+              "points": 38.0,
+              "listeners": 5
             }
           ]
         }
@@ -6337,6 +6691,18 @@
             {
               "week": "2025-11-11",
               "rank": 27
+            },
+            {
+              "week": "2026-01-13",
+              "rank": 97,
+              "points": 37.5,
+              "listeners": 3
+            },
+            {
+              "week": "2026-01-13",
+              "rank": 99,
+              "points": 37.5,
+              "listeners": 3
             }
           ]
         },
@@ -6549,14 +6915,20 @@
             {
               "week": "2025-09-16",
               "rank": 50
+            },
+            {
+              "week": "2026-01-13",
+              "rank": 73,
+              "points": 41.0,
+              "listeners": 3
             }
           ]
         },
         "addison rae - fame is a gun": {
           "title": "Fame Is a Gun",
           "cover": "covers/addison_rae__fame_is_a_gun.png",
-          "weeks": 3,
-          "peak": 26,
+          "weeks": 5,
+          "peak": 14,
           "debut": "2025-12-02",
           "peakDate": "2025-12-02",
           "history": [
@@ -6578,6 +6950,18 @@
               "week": "2026-01-06",
               "rank": 40,
               "points": 47.0,
+              "listeners": 7
+            },
+            {
+              "week": "2026-01-13",
+              "rank": 14,
+              "points": 63.0,
+              "listeners": 7
+            },
+            {
+              "week": "2026-01-13",
+              "rank": 27,
+              "points": 54.0,
               "listeners": 7
             }
           ]
@@ -6681,6 +7065,12 @@
               "rank": 31,
               "points": 50.0,
               "listeners": 6
+            },
+            {
+              "week": "2026-01-13",
+              "rank": 96,
+              "points": 37.5,
+              "listeners": 5
             }
           ]
         },
@@ -6717,6 +7107,18 @@
               "rank": 85,
               "points": 36.5,
               "listeners": 9
+            },
+            {
+              "week": "2026-01-13",
+              "rank": 52,
+              "points": 45.5,
+              "listeners": 6
+            },
+            {
+              "week": "2026-01-13",
+              "rank": 53,
+              "points": 45.5,
+              "listeners": 6
             }
           ]
         }
@@ -7545,7 +7947,7 @@
         "pinkpantheress - stateside + zara larsson": {
           "title": "Stateside + Zara Larsson",
           "cover": "covers/pinkpantheress__stateside_zara_larsson.jpg",
-          "weeks": 4,
+          "weeks": 6,
           "peak": 16,
           "debut": "2025-12-16",
           "peakDate": "2025-12-23",
@@ -7569,6 +7971,18 @@
               "rank": 43,
               "points": 46.5,
               "listeners": 8
+            },
+            {
+              "week": "2026-01-13",
+              "rank": 19,
+              "points": 59.0,
+              "listeners": 10
+            },
+            {
+              "week": "2026-01-13",
+              "rank": 18,
+              "points": 59.0,
+              "listeners": 10
             }
           ]
         }
@@ -7869,6 +8283,26 @@
               "listeners": 4
             }
           ]
+        },
+        "mindless self indulgence - this hurts": {
+          "title": "This Hurts",
+          "cover": "covers/mindless_self_indulgence__this_hurts.png",
+          "history": [
+            {
+              "week": "2026-01-13",
+              "rank": 20,
+              "points": 59.0,
+              "listeners": 5
+            },
+            {
+              "week": "2026-01-13",
+              "rank": 21,
+              "points": 58.0,
+              "listeners": 5
+            }
+          ],
+          "peak": 20,
+          "weeks": 2
         }
       }
     },
@@ -9105,6 +9539,26 @@
               "rank": 86
             }
           ]
+        },
+        "daft punk - human after all": {
+          "title": "Human After All",
+          "cover": "covers/daft_punk__human_after_all.png",
+          "history": [
+            {
+              "week": "2026-01-13",
+              "rank": 84,
+              "points": 39.5,
+              "listeners": 3
+            },
+            {
+              "week": "2026-01-13",
+              "rank": 86,
+              "points": 39.5,
+              "listeners": 3
+            }
+          ],
+          "peak": 84,
+          "weeks": 2
         }
       }
     },
@@ -9423,6 +9877,18 @@
               "rank": 14,
               "points": 68.5,
               "listeners": 10
+            },
+            {
+              "week": "2026-01-13",
+              "rank": 22,
+              "points": 58.0,
+              "listeners": 8
+            },
+            {
+              "week": "2026-01-13",
+              "rank": 20,
+              "points": 58.0,
+              "listeners": 8
             }
           ]
         },
@@ -10295,14 +10761,26 @@
         "charli xcx - sympathy is a knife": {
           "title": "Sympathy is a knife",
           "cover": "covers/charli_xcx__sympathy_is_a_knife.png",
-          "weeks": 1,
-          "peak": 62,
+          "weeks": 2,
+          "peak": 42,
           "debut": "2025-10-07",
           "peakDate": "2025-10-07",
           "history": [
             {
               "week": "2025-10-07",
               "rank": 62
+            },
+            {
+              "week": "2026-01-13",
+              "rank": 42,
+              "points": 49.0,
+              "listeners": 6
+            },
+            {
+              "week": "2026-01-13",
+              "rank": 43,
+              "points": 49.0,
+              "listeners": 6
             }
           ]
         },
@@ -10453,8 +10931,40 @@
             {
               "week": "2025-12-23",
               "rank": 72
+            },
+            {
+              "week": "2026-01-13",
+              "rank": 92,
+              "points": 38.0,
+              "listeners": 9
+            },
+            {
+              "week": "2026-01-13",
+              "rank": 94,
+              "points": 38.0,
+              "listeners": 9
             }
           ]
+        },
+        "charli xcx - b2b": {
+          "title": "B2b",
+          "cover": "covers/charli_xcx__b2b.png",
+          "history": [
+            {
+              "week": "2026-01-13",
+              "rank": 74,
+              "points": 40.5,
+              "listeners": 7
+            },
+            {
+              "week": "2026-01-13",
+              "rank": 76,
+              "points": 40.5,
+              "listeners": 7
+            }
+          ],
+          "peak": 74,
+          "weeks": 2
         }
       }
     },
@@ -10643,6 +11153,18 @@
               "rank": 11,
               "points": 70.5,
               "listeners": 9
+            },
+            {
+              "week": "2026-01-13",
+              "rank": 88,
+              "points": 38.5,
+              "listeners": 8
+            },
+            {
+              "week": "2026-01-13",
+              "rank": 90,
+              "points": 38.5,
+              "listeners": 8
             }
           ]
         },
@@ -10687,14 +11209,26 @@
               "rank": 100,
               "points": 34.5,
               "listeners": 8
+            },
+            {
+              "week": "2026-01-13",
+              "rank": 33,
+              "points": 52.5,
+              "listeners": 12
+            },
+            {
+              "week": "2026-01-13",
+              "rank": 31,
+              "points": 52.5,
+              "listeners": 12
             }
           ]
         },
         "lucy bedroque - g6 anthem": {
           "title": "g6 anthem",
           "cover": "covers/lucy_bedroque__g6_anthem.png",
-          "weeks": 4,
-          "peak": 30,
+          "weeks": 6,
+          "peak": 27,
           "debut": "2025-10-21",
           "peakDate": "2025-10-21",
           "history": [
@@ -10725,6 +11259,18 @@
               "rank": 30,
               "points": 50.5,
               "listeners": 6
+            },
+            {
+              "week": "2026-01-13",
+              "rank": 27,
+              "points": 54.0,
+              "listeners": 10
+            },
+            {
+              "week": "2026-01-13",
+              "rank": 47,
+              "points": 47.5,
+              "listeners": 9
             }
           ]
         },
@@ -10909,6 +11455,46 @@
           ],
           "peak": 90,
           "weeks": 1
+        },
+        "lucy bedroque - fenty face": {
+          "title": "fenty face",
+          "cover": "covers/lucy_bedroque__fenty_face.png",
+          "history": [
+            {
+              "week": "2026-01-13",
+              "rank": 32,
+              "points": 53.0,
+              "listeners": 8
+            },
+            {
+              "week": "2026-01-13",
+              "rank": 26,
+              "points": 54.0,
+              "listeners": 8
+            }
+          ],
+          "peak": 26,
+          "weeks": 2
+        },
+        "lucy bedroque - yes, you may": {
+          "title": "yes, you may",
+          "cover": "covers/lucy_bedroque__yes_you_may.png",
+          "history": [
+            {
+              "week": "2026-01-13",
+              "rank": 66,
+              "points": 41.5,
+              "listeners": 7
+            },
+            {
+              "week": "2026-01-13",
+              "rank": 68,
+              "points": 41.5,
+              "listeners": 7
+            }
+          ],
+          "peak": 66,
+          "weeks": 2
         }
       }
     },
@@ -11355,10 +11941,22 @@
               "rank": 4,
               "points": 97.5,
               "listeners": 9
+            },
+            {
+              "week": "2026-01-13",
+              "rank": 82,
+              "points": 39.5,
+              "listeners": 8
+            },
+            {
+              "week": "2026-01-13",
+              "rank": 84,
+              "points": 39.5,
+              "listeners": 8
             }
           ],
           "peak": 4,
-          "weeks": 1
+          "weeks": 3
         },
         "che - dirty sprite": {
           "title": "DIRTY SPRITE",
@@ -11431,10 +12029,22 @@
               "rank": 95,
               "points": 35.0,
               "listeners": 7
+            },
+            {
+              "week": "2026-01-13",
+              "rank": 69,
+              "points": 41.0,
+              "listeners": 5
+            },
+            {
+              "week": "2026-01-13",
+              "rank": 73,
+              "points": 41.0,
+              "listeners": 5
             }
           ],
           "peak": 19,
-          "weeks": 2
+          "weeks": 4
         },
         "che - im sorry": {
           "title": "IM SORRY",
@@ -11785,10 +12395,22 @@
               "rank": 13,
               "points": 69.0,
               "listeners": 7
+            },
+            {
+              "week": "2026-01-13",
+              "rank": 2,
+              "points": 127.0,
+              "listeners": 14
+            },
+            {
+              "week": "2026-01-13",
+              "rank": 2,
+              "points": 127.0,
+              "listeners": 14
             }
           ],
-          "peak": 13,
-          "weeks": 1
+          "peak": 2,
+          "weeks": 3
         },
         "a$ap rocky - lvl": {
           "title": "LVL",
@@ -11817,6 +12439,46 @@
           ],
           "peak": 81,
           "weeks": 1
+        },
+        "a$ap rocky - helicopter": {
+          "title": "HELICOPTER",
+          "cover": "covers/_placeholder.png",
+          "history": [
+            {
+              "week": "2026-01-13",
+              "rank": 3,
+              "points": 96.0,
+              "listeners": 11
+            },
+            {
+              "week": "2026-01-13",
+              "rank": 3,
+              "points": 98.0,
+              "listeners": 11
+            }
+          ],
+          "peak": 3,
+          "weeks": 2
+        },
+        "a$ap rocky - fashion killa": {
+          "title": "Fashion Killa",
+          "cover": "covers/a_ap_rocky__fashion_killa.png",
+          "history": [
+            {
+              "week": "2026-01-13",
+              "rank": 65,
+              "points": 42.0,
+              "listeners": 6
+            },
+            {
+              "week": "2026-01-13",
+              "rank": 67,
+              "points": 42.0,
+              "listeners": 6
+            }
+          ],
+          "peak": 65,
+          "weeks": 2
         }
       }
     },
@@ -12003,10 +12665,22 @@
               "rank": 41,
               "points": 47.0,
               "listeners": 6
+            },
+            {
+              "week": "2026-01-13",
+              "rank": 18,
+              "points": 60.5,
+              "listeners": 7
+            },
+            {
+              "week": "2026-01-13",
+              "rank": 6,
+              "points": 83.5,
+              "listeners": 8
             }
           ],
-          "peak": 41,
-          "weeks": 1
+          "peak": 6,
+          "weeks": 3
         }
       }
     },
@@ -12179,14 +12853,26 @@
         "frank ocean - chanel": {
           "title": "Chanel",
           "cover": "covers/frank_ocean__chanel.png",
-          "weeks": 1,
-          "peak": 86,
+          "weeks": 2,
+          "peak": 71,
           "debut": "2025-10-14",
           "peakDate": "2025-10-14",
           "history": [
             {
               "week": "2025-10-14",
               "rank": 86
+            },
+            {
+              "week": "2026-01-13",
+              "rank": 71,
+              "points": 41.0,
+              "listeners": 4
+            },
+            {
+              "week": "2026-01-13",
+              "rank": 74,
+              "points": 41.0,
+              "listeners": 4
             }
           ]
         },
@@ -12219,6 +12905,18 @@
             {
               "week": "2025-12-16",
               "rank": 78
+            },
+            {
+              "week": "2026-01-13",
+              "rank": 75,
+              "points": 40.5,
+              "listeners": 5
+            },
+            {
+              "week": "2026-01-13",
+              "rank": 77,
+              "points": 40.5,
+              "listeners": 5
             }
           ]
         },
@@ -12235,6 +12933,26 @@
               "rank": 34
             }
           ]
+        },
+        "frank ocean - thinkin bout you": {
+          "title": "Thinkin Bout You",
+          "cover": "covers/frank_ocean__thinkin_bout_you.png",
+          "history": [
+            {
+              "week": "2026-01-13",
+              "rank": 80,
+              "points": 40.0,
+              "listeners": 6
+            },
+            {
+              "week": "2026-01-13",
+              "rank": 71,
+              "points": 41.0,
+              "listeners": 6
+            }
+          ],
+          "peak": 71,
+          "weeks": 2
         }
       }
     },
@@ -12549,6 +13267,18 @@
             {
               "week": "2025-12-16",
               "rank": 53
+            },
+            {
+              "week": "2026-01-13",
+              "rank": 94,
+              "points": 38.0,
+              "listeners": 5
+            },
+            {
+              "week": "2026-01-13",
+              "rank": 96,
+              "points": 38.0,
+              "listeners": 5
             }
           ]
         },
@@ -12573,7 +13303,7 @@
         "goreshit - toromi hearts 2": {
           "title": "toromi hearts 2",
           "cover": "covers/goreshit__toromi_hearts_2.png",
-          "weeks": 1,
+          "weeks": 2,
           "peak": 58,
           "debut": "2025-10-21",
           "peakDate": "2025-10-21",
@@ -12581,8 +13311,40 @@
             {
               "week": "2025-10-21",
               "rank": 58
+            },
+            {
+              "week": "2026-01-13",
+              "rank": 85,
+              "points": 39.5,
+              "listeners": 3
+            },
+            {
+              "week": "2026-01-13",
+              "rank": 87,
+              "points": 39.5,
+              "listeners": 3
             }
           ]
+        },
+        "goreshit - gabberzon!": {
+          "title": "gabberzon!",
+          "cover": "covers/goreshit__gabberzon.png",
+          "history": [
+            {
+              "week": "2026-01-13",
+              "rank": 58,
+              "points": 43.0,
+              "listeners": 7
+            },
+            {
+              "week": "2026-01-13",
+              "rank": 59,
+              "points": 43.0,
+              "listeners": 7
+            }
+          ],
+          "peak": 58,
+          "weeks": 2
         }
       }
     },
@@ -12609,7 +13371,7 @@
         "malcolm todd - earrings": {
           "title": "Earrings",
           "cover": "covers/malcolm_todd__earrings.jpg",
-          "weeks": 3,
+          "weeks": 5,
           "peak": 23,
           "debut": "2025-12-09",
           "peakDate": "2025-12-09",
@@ -12633,6 +13395,18 @@
               "rank": 23,
               "points": 54.0,
               "listeners": 11
+            },
+            {
+              "week": "2026-01-13",
+              "rank": 86,
+              "points": 39.0,
+              "listeners": 8
+            },
+            {
+              "week": "2026-01-13",
+              "rank": 88,
+              "points": 39.0,
+              "listeners": 8
             }
           ]
         }
@@ -12843,6 +13617,26 @@
               "rank": 90
             }
           ]
+        },
+        "2003 toyota corolla - 2010 toyota corolla (mippy remix)": {
+          "title": "2010 Toyota Corolla (mippy Remix)",
+          "cover": "covers/2003_toyota_corolla__2010_toyota_corolla_mippy_remix.png",
+          "history": [
+            {
+              "week": "2026-01-13",
+              "rank": 29,
+              "points": 54.0,
+              "listeners": 6
+            },
+            {
+              "week": "2026-01-13",
+              "rank": 42,
+              "points": 50.0,
+              "listeners": 6
+            }
+          ],
+          "peak": 29,
+          "weeks": 2
         }
       }
     },
@@ -12891,7 +13685,7 @@
         "arctic monkeys - 505": {
           "title": "505",
           "cover": "covers/arctic_monkeys__505.png",
-          "weeks": 3,
+          "weeks": 5,
           "peak": 16,
           "debut": "2025-10-28",
           "peakDate": "2025-12-23",
@@ -12908,6 +13702,18 @@
               "week": "2026-01-06",
               "rank": 84,
               "points": 37.0,
+              "listeners": 9
+            },
+            {
+              "week": "2026-01-13",
+              "rank": 68,
+              "points": 41.0,
+              "listeners": 9
+            },
+            {
+              "week": "2026-01-13",
+              "rank": 45,
+              "points": 48.5,
               "listeners": 9
             }
           ]
@@ -13279,22 +14085,34 @@
         "venturing - no sleep": {
           "title": "No sleep",
           "cover": "covers/venturing__no_sleep.jpg",
-          "weeks": 1,
-          "peak": 98,
+          "weeks": 2,
+          "peak": 48,
           "debut": "2025-10-28",
           "peakDate": "2025-10-28",
           "history": [
             {
               "week": "2025-10-28",
               "rank": 98
+            },
+            {
+              "week": "2026-01-13",
+              "rank": 48,
+              "points": 46.5,
+              "listeners": 4
+            },
+            {
+              "week": "2026-01-13",
+              "rank": 51,
+              "points": 46.5,
+              "listeners": 4
             }
           ]
         },
         "venturing - play my guitar": {
           "title": "Play my guitar",
           "cover": "covers/venturing__play_my_guitar.png",
-          "weeks": 2,
-          "peak": 74,
+          "weeks": 3,
+          "peak": 55,
           "debut": "2025-11-04",
           "peakDate": "2025-11-04",
           "history": [
@@ -13305,6 +14123,18 @@
             {
               "week": "2025-12-09",
               "rank": 87
+            },
+            {
+              "week": "2026-01-13",
+              "rank": 55,
+              "points": 44.0,
+              "listeners": 4
+            },
+            {
+              "week": "2026-01-13",
+              "rank": 60,
+              "points": 43.0,
+              "listeners": 4
             }
           ]
         },
@@ -13325,14 +14155,26 @@
         "venturing - believe": {
           "title": "Believe",
           "cover": "covers/venturing__believe.png",
-          "weeks": 1,
-          "peak": 93,
+          "weeks": 2,
+          "peak": 38,
           "debut": "2025-12-16",
           "peakDate": "2025-12-16",
           "history": [
             {
               "week": "2025-12-16",
               "rank": 93
+            },
+            {
+              "week": "2026-01-13",
+              "rank": 38,
+              "points": 51.0,
+              "listeners": 5
+            },
+            {
+              "week": "2026-01-13",
+              "rank": 38,
+              "points": 51.0,
+              "listeners": 5
             }
           ]
         }
@@ -13344,7 +14186,7 @@
           "title": "SPAGHETTI",
           "cover": "covers/placeholder.png",
           "weeks": 5,
-          "peak": 6,
+          "peak": 4,
           "debut": "2025-11-04",
           "peakDate": "2025-11-04",
           "history": [
@@ -13367,6 +14209,18 @@
             {
               "week": "2025-12-23",
               "rank": 34
+            },
+            {
+              "week": "2026-01-13",
+              "rank": 4,
+              "points": 83.5,
+              "listeners": 12
+            },
+            {
+              "week": "2026-01-13",
+              "rank": 7,
+              "points": 82.5,
+              "listeners": 12
             }
           ]
         },
@@ -13427,6 +14281,18 @@
             {
               "week": "2025-12-16",
               "rank": 32
+            },
+            {
+              "week": "2026-01-13",
+              "rank": 31,
+              "points": 53.5,
+              "listeners": 4
+            },
+            {
+              "week": "2026-01-13",
+              "rank": 32,
+              "points": 52.5,
+              "listeners": 4
             }
           ]
         },
@@ -13575,7 +14441,7 @@
         "hearts2hearts - focus": {
           "title": "Focus",
           "cover": "covers/hearts2hearts__focus.png",
-          "weeks": 2,
+          "weeks": 4,
           "peak": 9,
           "debut": "2025-11-04",
           "peakDate": "2025-11-04",
@@ -13595,6 +14461,18 @@
               "rank": 9,
               "points": 73.5,
               "listeners": 5
+            },
+            {
+              "week": "2026-01-13",
+              "rank": 39,
+              "points": 51.0,
+              "listeners": 3
+            },
+            {
+              "week": "2026-01-13",
+              "rank": 39,
+              "points": 51.0,
+              "listeners": 3
             }
           ]
         }
@@ -13845,8 +14723,40 @@
             {
               "week": "2025-12-23",
               "rank": 18
+            },
+            {
+              "week": "2026-01-13",
+              "rank": 26,
+              "points": 54.5,
+              "listeners": 10
+            },
+            {
+              "week": "2026-01-13",
+              "rank": 24,
+              "points": 56.5,
+              "listeners": 10
             }
           ]
+        },
+        "underscores - music": {
+          "title": "music",
+          "cover": "covers/underscores__music.png",
+          "history": [
+            {
+              "week": "2026-01-13",
+              "rank": 28,
+              "points": 54.0,
+              "listeners": 7
+            },
+            {
+              "week": "2026-01-13",
+              "rank": 28,
+              "points": 54.0,
+              "listeners": 7
+            }
+          ],
+          "peak": 28,
+          "weeks": 2
         }
       }
     },
@@ -13879,6 +14789,26 @@
           ],
           "peak": 59,
           "weeks": 1
+        },
+        "prettifun - last wish": {
+          "title": "Last Wish",
+          "cover": "covers/prettifun__last_wish.png",
+          "history": [
+            {
+              "week": "2026-01-13",
+              "rank": 78,
+              "points": 40.5,
+              "listeners": 3
+            },
+            {
+              "week": "2026-01-13",
+              "rank": 80,
+              "points": 40.5,
+              "listeners": 3
+            }
+          ],
+          "peak": 78,
+          "weeks": 2
         }
       }
     },
@@ -14079,6 +15009,18 @@
             {
               "week": "2025-11-18",
               "rank": 78
+            },
+            {
+              "week": "2026-01-13",
+              "rank": 98,
+              "points": 37.5,
+              "listeners": 3
+            },
+            {
+              "week": "2026-01-13",
+              "rank": 82,
+              "points": 40.0,
+              "listeners": 4
             }
           ]
         }
@@ -14405,6 +15347,26 @@
               "rank": 61
             }
           ]
+        },
+        "coldplay - don't panic": {
+          "title": "Don't Panic",
+          "cover": "covers/coldplay__don_t_panic.png",
+          "history": [
+            {
+              "week": "2026-01-13",
+              "rank": 64,
+              "points": 42.5,
+              "listeners": 3
+            },
+            {
+              "week": "2026-01-13",
+              "rank": 63,
+              "points": 43.0,
+              "listeners": 3
+            }
+          ],
+          "peak": 63,
+          "weeks": 2
         }
       }
     },
@@ -14737,6 +15699,26 @@
               "rank": 49
             }
           ]
+        },
+        "alex g - things to do": {
+          "title": "Things to Do",
+          "cover": "covers/alex_g__things_to_do.png",
+          "history": [
+            {
+              "week": "2026-01-13",
+              "rank": 83,
+              "points": 39.5,
+              "listeners": 5
+            },
+            {
+              "week": "2026-01-13",
+              "rank": 70,
+              "points": 41.0,
+              "listeners": 6
+            }
+          ],
+          "peak": 70,
+          "weeks": 2
         }
       }
     },
@@ -14963,7 +15945,7 @@
         "kmfdm - bait & switch": {
           "title": "Bait & Switch",
           "cover": "covers/kmfdm__bait_switch.png",
-          "weeks": 1,
+          "weeks": 2,
           "peak": 41,
           "debut": "2025-12-02",
           "peakDate": "2025-12-02",
@@ -14971,6 +15953,18 @@
             {
               "week": "2025-12-02",
               "rank": 41
+            },
+            {
+              "week": "2026-01-13",
+              "rank": 60,
+              "points": 43.0,
+              "listeners": 4
+            },
+            {
+              "week": "2026-01-13",
+              "rank": 61,
+              "points": 43.0,
+              "listeners": 4
             }
           ]
         }
@@ -14995,7 +15989,7 @@
         "illit - not cute anymore": {
           "title": "NOT CUTE ANYMORE",
           "cover": "covers/illit__not_cute_anymore.png",
-          "weeks": 4,
+          "weeks": 6,
           "peak": 3,
           "debut": "2025-12-02",
           "peakDate": "2025-12-23",
@@ -15027,6 +16021,18 @@
               "rank": 6,
               "points": 79.5,
               "listeners": 7
+            },
+            {
+              "week": "2026-01-13",
+              "rank": 36,
+              "points": 52.0,
+              "listeners": 5
+            },
+            {
+              "week": "2026-01-13",
+              "rank": 34,
+              "points": 52.0,
+              "listeners": 5
             }
           ]
         },
@@ -15207,14 +16213,26 @@
         "black box recorder - kidnapping an heiress": {
           "title": "Kidnapping an Heiress",
           "cover": "covers/black_box_recorder__kidnapping_an_heiress.jpg",
-          "weeks": 1,
-          "peak": 95,
+          "weeks": 2,
+          "peak": 79,
           "debut": "2025-12-02",
           "peakDate": "2025-12-02",
           "history": [
             {
               "week": "2025-12-02",
               "rank": 95
+            },
+            {
+              "week": "2026-01-13",
+              "rank": 79,
+              "points": 40.0,
+              "listeners": 6
+            },
+            {
+              "week": "2026-01-13",
+              "rank": 81,
+              "points": 40.0,
+              "listeners": 6
             }
           ]
         }
@@ -15425,6 +16443,20 @@
               "rank": 64
             }
           ]
+        },
+        "atlus sound team - when mother was there": {
+          "title": "When Mother Was There",
+          "cover": "covers/atlus_sound_team__when_mother_was_there.png",
+          "history": [
+            {
+              "week": "2026-01-13",
+              "rank": 89,
+              "points": 39.0,
+              "listeners": 3
+            }
+          ],
+          "peak": 89,
+          "weeks": 1
         }
       }
     },
@@ -15979,10 +17011,22 @@
               "rank": 52,
               "points": 45.5,
               "listeners": 3
+            },
+            {
+              "week": "2026-01-13",
+              "rank": 81,
+              "points": 40.0,
+              "listeners": 4
+            },
+            {
+              "week": "2026-01-13",
+              "rank": 83,
+              "points": 40.0,
+              "listeners": 4
             }
           ],
           "peak": 52,
-          "weeks": 1
+          "weeks": 3
         },
         "bleood - ozzy trisbourne": {
           "title": "ozzy trisbourne",
@@ -15997,6 +17041,26 @@
           ],
           "peak": 82,
           "weeks": 1
+        },
+        "bleood - depression doesnt explain how i feel": {
+          "title": "depression doesnt explain how i feel",
+          "cover": "covers/_placeholder.png",
+          "history": [
+            {
+              "week": "2026-01-13",
+              "rank": 61,
+              "points": 43.0,
+              "listeners": 4
+            },
+            {
+              "week": "2026-01-13",
+              "rank": 62,
+              "points": 43.0,
+              "listeners": 4
+            }
+          ],
+          "peak": 61,
+          "weeks": 2
         }
       }
     },
@@ -16095,7 +17159,7 @@
         "slayr - holding": {
           "title": "Holding",
           "cover": "covers/slayr__holding.png",
-          "weeks": 3,
+          "weeks": 5,
           "peak": 37,
           "debut": "2025-12-23",
           "peakDate": "2025-12-23",
@@ -16109,6 +17173,18 @@
               "rank": 37,
               "points": 48.5,
               "listeners": 5
+            },
+            {
+              "week": "2026-01-13",
+              "rank": 51,
+              "points": 46.0,
+              "listeners": 4
+            },
+            {
+              "week": "2026-01-13",
+              "rank": 52,
+              "points": 46.0,
+              "listeners": 4
             }
           ]
         },
@@ -16152,6 +17228,20 @@
             }
           ],
           "peak": 93,
+          "weeks": 1
+        },
+        "slayr - demigod": {
+          "title": "Demigod",
+          "cover": "covers/slayr__demigod.png",
+          "history": [
+            {
+              "week": "2026-01-13",
+              "rank": 98,
+              "points": 38.0,
+              "listeners": 4
+            }
+          ],
+          "peak": 98,
           "weeks": 1
         }
       }
@@ -16401,10 +17491,22 @@
               "rank": 3,
               "points": 89.5,
               "listeners": 5
+            },
+            {
+              "week": "2026-01-13",
+              "rank": 1,
+              "points": 153.0,
+              "listeners": 12
+            },
+            {
+              "week": "2026-01-13",
+              "rank": 1,
+              "points": 158.0,
+              "listeners": 12
             }
           ],
-          "peak": 3,
-          "weeks": 1
+          "peak": 1,
+          "weeks": 3
         }
       }
     },
@@ -16419,10 +17521,22 @@
               "rank": 33,
               "points": 48.5,
               "listeners": 9
+            },
+            {
+              "week": "2026-01-13",
+              "rank": 24,
+              "points": 55.5,
+              "listeners": 9
+            },
+            {
+              "week": "2026-01-13",
+              "rank": 25,
+              "points": 55.5,
+              "listeners": 9
             }
           ],
-          "peak": 33,
-          "weeks": 1
+          "peak": 24,
+          "weeks": 3
         }
       }
     },
@@ -16437,10 +17551,22 @@
               "rank": 44,
               "points": 46.5,
               "listeners": 5
+            },
+            {
+              "week": "2026-01-13",
+              "rank": 46,
+              "points": 47.5,
+              "listeners": 4
+            },
+            {
+              "week": "2026-01-13",
+              "rank": 41,
+              "points": 50.5,
+              "listeners": 4
             }
           ],
-          "peak": 44,
-          "weeks": 1
+          "peak": 41,
+          "weeks": 3
         }
       }
     },
@@ -16584,6 +17710,444 @@
             }
           ],
           "peak": 99,
+          "weeks": 1
+        }
+      }
+    },
+    "King Gnu": {
+      "songs": {
+        "king gnu - aizo": {
+          "title": "AIZO",
+          "cover": "covers/king_gnu__aizo.png",
+          "history": [
+            {
+              "week": "2026-01-13",
+              "rank": 10,
+              "points": 68.0,
+              "listeners": 6
+            },
+            {
+              "week": "2026-01-13",
+              "rank": 11,
+              "points": 68.0,
+              "listeners": 6
+            }
+          ],
+          "peak": 10,
+          "weeks": 2
+        }
+      }
+    },
+    "Bruno Mars": {
+      "songs": {
+        "bruno mars - i just might": {
+          "title": "I Just Might",
+          "cover": "covers/bruno_mars__i_just_might.png",
+          "history": [
+            {
+              "week": "2026-01-13",
+              "rank": 11,
+              "points": 67.5,
+              "listeners": 6
+            },
+            {
+              "week": "2026-01-13",
+              "rank": 4,
+              "points": 87.5,
+              "listeners": 7
+            }
+          ],
+          "peak": 4,
+          "weeks": 2
+        }
+      }
+    },
+    "lexycat": {
+      "songs": {
+        "lexycat - glitter ✩‧₊˚": {
+          "title": "glitter ✩‧₊˚",
+          "cover": "covers/lexycat__glitter.png",
+          "history": [
+            {
+              "week": "2026-01-13",
+              "rank": 25,
+              "points": 55.0,
+              "listeners": 5
+            },
+            {
+              "week": "2026-01-13",
+              "rank": 23,
+              "points": 57.0,
+              "listeners": 5
+            }
+          ],
+          "peak": 23,
+          "weeks": 2
+        }
+      }
+    },
+    "Luci4": {
+      "songs": {
+        "luci4 - hey": {
+          "title": "Hey",
+          "cover": "covers/luci4__hey.png",
+          "history": [
+            {
+              "week": "2026-01-13",
+              "rank": 30,
+              "points": 54.0,
+              "listeners": 5
+            },
+            {
+              "week": "2026-01-13",
+              "rank": 29,
+              "points": 54.0,
+              "listeners": 5
+            }
+          ],
+          "peak": 29,
+          "weeks": 2
+        }
+      }
+    },
+    "Hakushi Hasegawa": {
+      "songs": {
+        "hakushi hasegawa - doku": {
+          "title": "Doku",
+          "cover": "covers/hakushi_hasegawa__doku.png",
+          "history": [
+            {
+              "week": "2026-01-13",
+              "rank": 41,
+              "points": 50.5,
+              "listeners": 5
+            },
+            {
+              "week": "2026-01-13",
+              "rank": 40,
+              "points": 50.5,
+              "listeners": 5
+            }
+          ],
+          "peak": 40,
+          "weeks": 2
+        }
+      }
+    },
+    "Get Scared": {
+      "songs": {
+        "get scared - don't you dare forget the sun": {
+          "title": "Don't You Dare Forget The Sun",
+          "cover": "covers/get_scared__don_t_you_dare_forget_the_sun.png",
+          "history": [
+            {
+              "week": "2026-01-13",
+              "rank": 49,
+              "points": 46.0,
+              "listeners": 6
+            },
+            {
+              "week": "2026-01-13",
+              "rank": 55,
+              "points": 45.0,
+              "listeners": 6
+            }
+          ],
+          "peak": 49,
+          "weeks": 2
+        }
+      }
+    },
+    "Julia Wolf": {
+      "songs": {
+        "julia wolf - in my room": {
+          "title": "In My Room",
+          "cover": "covers/julia_wolf__in_my_room.png",
+          "history": [
+            {
+              "week": "2026-01-13",
+              "rank": 50,
+              "points": 46.0,
+              "listeners": 5
+            },
+            {
+              "week": "2026-01-13",
+              "rank": 49,
+              "points": 47.0,
+              "listeners": 5
+            }
+          ],
+          "peak": 49,
+          "weeks": 2
+        }
+      }
+    },
+    "The Long Faces": {
+      "songs": {
+        "the long faces - jane!": {
+          "title": "Jane!",
+          "cover": "covers/the_long_faces__jane.png",
+          "history": [
+            {
+              "week": "2026-01-13",
+              "rank": 53,
+              "points": 45.5,
+              "listeners": 3
+            },
+            {
+              "week": "2026-01-13",
+              "rank": 54,
+              "points": 45.5,
+              "listeners": 3
+            }
+          ],
+          "peak": 53,
+          "weeks": 2
+        }
+      }
+    },
+    "La Bouche": {
+      "songs": {
+        "la bouche - be my lover": {
+          "title": "Be My Lover",
+          "cover": "covers/la_bouche__be_my_lover.png",
+          "history": [
+            {
+              "week": "2026-01-13",
+              "rank": 54,
+              "points": 44.0,
+              "listeners": 5
+            },
+            {
+              "week": "2026-01-13",
+              "rank": 56,
+              "points": 44.0,
+              "listeners": 5
+            }
+          ],
+          "peak": 54,
+          "weeks": 2
+        }
+      }
+    },
+    "ESPRIT 空想": {
+      "songs": {
+        "esprit 空想 - warmpop": {
+          "title": "Warmpop",
+          "cover": "covers/esprit__warmpop.png",
+          "history": [
+            {
+              "week": "2026-01-13",
+              "rank": 67,
+              "points": 41.5,
+              "listeners": 4
+            },
+            {
+              "week": "2026-01-13",
+              "rank": 69,
+              "points": 41.5,
+              "listeners": 4
+            }
+          ],
+          "peak": 67,
+          "weeks": 2
+        }
+      }
+    },
+    "Rory in early 20s": {
+      "songs": {
+        "rory in early 20s - various types of ads": {
+          "title": "Various Types Of Ads",
+          "cover": "covers/rory_in_early_20s__various_types_of_ads.png",
+          "history": [
+            {
+              "week": "2026-01-13",
+              "rank": 72,
+              "points": 41.0,
+              "listeners": 4
+            },
+            {
+              "week": "2026-01-13",
+              "rank": 75,
+              "points": 41.0,
+              "listeners": 4
+            }
+          ],
+          "peak": 72,
+          "weeks": 2
+        }
+      }
+    },
+    "2017 Remaster - David Bowie": {
+      "songs": {
+        "2017 remaster - david bowie - \"heroes\"": {
+          "title": "\"Heroes\"",
+          "cover": "covers/_placeholder.png",
+          "history": [
+            {
+              "week": "2026-01-13",
+              "rank": 76,
+              "points": 40.5,
+              "listeners": 5
+            },
+            {
+              "week": "2026-01-13",
+              "rank": 78,
+              "points": 40.5,
+              "listeners": 5
+            }
+          ],
+          "peak": 76,
+          "weeks": 2
+        }
+      }
+    },
+    "Boldy James": {
+      "songs": {
+        "boldy james - great adventures": {
+          "title": "Great Adventures",
+          "cover": "covers/_placeholder.png",
+          "history": [
+            {
+              "week": "2026-01-13",
+              "rank": 77,
+              "points": 40.5,
+              "listeners": 3
+            },
+            {
+              "week": "2026-01-13",
+              "rank": 79,
+              "points": 40.5,
+              "listeners": 3
+            }
+          ],
+          "peak": 77,
+          "weeks": 2
+        }
+      }
+    },
+    "Miss Construction": {
+      "songs": {
+        "miss construction - miss construction theme": {
+          "title": "Miss Construction Theme",
+          "cover": "covers/miss_construction__miss_construction_theme.png",
+          "history": [
+            {
+              "week": "2026-01-13",
+              "rank": 87,
+              "points": 39.0,
+              "listeners": 4
+            },
+            {
+              "week": "2026-01-13",
+              "rank": 57,
+              "points": 44.0,
+              "listeners": 4
+            }
+          ],
+          "peak": 57,
+          "weeks": 2
+        }
+      }
+    },
+    "Crystal Castles": {
+      "songs": {
+        "crystal castles - vanished": {
+          "title": "Vanished",
+          "cover": "covers/crystal_castles__vanished.png",
+          "history": [
+            {
+              "week": "2026-01-13",
+              "rank": 90,
+              "points": 38.5,
+              "listeners": 5
+            },
+            {
+              "week": "2026-01-13",
+              "rank": 91,
+              "points": 38.5,
+              "listeners": 5
+            }
+          ],
+          "peak": 90,
+          "weeks": 2
+        }
+      }
+    },
+    "Nirvana": {
+      "songs": {
+        "nirvana - dumb": {
+          "title": "Dumb",
+          "cover": "covers/nirvana__dumb.png",
+          "history": [
+            {
+              "week": "2026-01-13",
+              "rank": 91,
+              "points": 38.5,
+              "listeners": 3
+            },
+            {
+              "week": "2026-01-13",
+              "rank": 92,
+              "points": 38.5,
+              "listeners": 3
+            }
+          ],
+          "peak": 91,
+          "weeks": 2
+        }
+      }
+    },
+    "Mitski": {
+      "songs": {
+        "mitski - washing machine heart": {
+          "title": "Washing Machine Heart",
+          "cover": "covers/mitski__washing_machine_heart.png",
+          "history": [
+            {
+              "week": "2026-01-13",
+              "rank": 100,
+              "points": 37.0,
+              "listeners": 7
+            }
+          ],
+          "peak": 100,
+          "weeks": 1
+        }
+      }
+    },
+    "DECO*27": {
+      "songs": {
+        "deco*27 - モニタリング (best friend remix)": {
+          "title": "モニタリング (Best Friend Remix)",
+          "cover": "covers/deco_27__best_friend_remix.png",
+          "history": [
+            {
+              "week": "2026-01-13",
+              "rank": 72,
+              "points": 41.0,
+              "listeners": 6
+            }
+          ],
+          "peak": 72,
+          "weeks": 1
+        }
+      }
+    },
+    "Will Wood and the Tapeworms": {
+      "songs": {
+        "will wood and the tapeworms - 6up 5oh cop-out (pro/con)": {
+          "title": "6up 5Oh Cop-Out (Pro/Con)",
+          "cover": "covers/will_wood_and_the_tapeworms__6up_5oh_cop_out_pro_con.png",
+          "history": [
+            {
+              "week": "2026-01-13",
+              "rank": 93,
+              "points": 38.5,
+              "listeners": 3
+            }
+          ],
+          "peak": 93,
           "weeks": 1
         }
       }
