@@ -1,0 +1,45 @@
+{
+  "track": {
+    "name": "Come On Baby, Scrape My Data",
+    "mbid": "54209416-2dcd-4779-b6b7-1271ecc2251a",
+    "url": "https://www.last.fm/music/Machine+Girl/_/Come+On+Baby,+Scrape+My+Data",
+    "duration": "182000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "56687",
+    "playcount": "392592",
+    "artist": {
+      "name": "Machine Girl",
+      "mbid": "c7df5ec5-380a-40f9-856f-28fb4a33d946",
+      "url": "https://www.last.fm/music/Machine+Girl"
+    },
+    "album": {
+      "artist": "Machine Girl",
+      "title": "Come On Baby, Scrape My Data",
+      "url": "https://www.last.fm/music/Machine+Girl/Come+On+Baby,+Scrape+My+Data",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/b3c4788bc0a71fcf83b56acc214e0328.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/b3c4788bc0a71fcf83b56acc214e0328.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/b3c4788bc0a71fcf83b56acc214e0328.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/b3c4788bc0a71fcf83b56acc214e0328.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

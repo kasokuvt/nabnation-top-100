@@ -1,0 +1,49 @@
+{
+  "track": {
+    "name": "It’s TV Time!",
+    "url": "https://www.last.fm/music/Toby+Fox/_/It%E2%80%99s+TV+Time%21",
+    "duration": "0",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "84509",
+    "playcount": "1439350",
+    "artist": {
+      "name": "Toby Fox",
+      "mbid": "1c26f82c-b35d-4c8e-a1f4-9c20747495c9",
+      "url": "https://www.last.fm/music/Toby+Fox"
+    },
+    "album": {
+      "artist": "Toby Fox",
+      "title": "DELTARUNE Chapters 3+4 (Original Game Soundtrack)",
+      "url": "https://www.last.fm/music/Toby+Fox/DELTARUNE+Chapters+3%252B4+(Original+Game+Soundtrack)",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/035c374b0e340b45dffa4342e806c395.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/035c374b0e340b45dffa4342e806c395.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/035c374b0e340b45dffa4342e806c395.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/035c374b0e340b45dffa4342e806c395.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    },
+    "wiki": {
+      "published": "13 Jun 2025, 17:51",
+      "summary": "The theme of Tenna's battle in Deltarune. It uses his leitmotif and the Doom Board theme. <a href=\"http://www.last.fm/music/Toby+Fox/_/It%E2%80%99s+TV+Time%21\">Read more on Last.fm</a>.",
+      "content": "The theme of Tenna's battle in Deltarune. It uses his leitmotif and the Doom Board theme. <a href=\"http://www.last.fm/music/Toby+Fox/_/It%E2%80%99s+TV+Time%21\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

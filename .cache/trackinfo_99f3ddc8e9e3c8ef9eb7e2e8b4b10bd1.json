@@ -1,0 +1,71 @@
+{
+  "track": {
+    "name": "Don't Tap That Glass / Tweakin'",
+    "mbid": "cc1452f5-5dc4-4970-96eb-2447823cd913",
+    "url": "https://www.last.fm/music/Tyler,+The+Creator/_/Don%27t+Tap+That+Glass+%2F+Tweakin%27",
+    "duration": "222000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "541684",
+    "playcount": "3293534",
+    "artist": {
+      "name": "Tyler, The Creator",
+      "mbid": "f6beac20-5dfe-4d1f-ae02-0b0a740aafd6",
+      "url": "https://www.last.fm/music/Tyler,+The+Creator"
+    },
+    "album": {
+      "artist": "Tyler, The Creator",
+      "title": "DON’T TAP THE GLASS",
+      "url": "https://www.last.fm/music/Tyler,+The+Creator/DON%E2%80%99T+TAP+THE+GLASS",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/78e70997eda194526a71b0ed3fa411f0.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/78e70997eda194526a71b0ed3fa411f0.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/78e70997eda194526a71b0ed3fa411f0.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/78e70997eda194526a71b0ed3fa411f0.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "Dirty South",
+          "url": "https://www.last.fm/tag/Dirty+South"
+        },
+        {
+          "name": "Crunk",
+          "url": "https://www.last.fm/tag/Crunk"
+        },
+        {
+          "name": "hardcore hip hop",
+          "url": "https://www.last.fm/tag/hardcore+hip+hop"
+        },
+        {
+          "name": "west coast hip hop",
+          "url": "https://www.last.fm/tag/west+coast+hip+hop"
+        },
+        {
+          "name": "hyphy",
+          "url": "https://www.last.fm/tag/hyphy"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "22 Jul 2025, 05:37",
+      "summary": "“Don't Tap That Glass / Tweakin'“ is the seventh track on DON'T TAP THE GLASS that resumes Tyler’s tradition of placing a lone two-parter towards the climax of his projects, which previously were always the 10th track, after breaking it for the first time in over a decade on his previous album, CHROMAKOPIA. <a href=\"http://www.last.fm/music/Tyler,+The+Creator/_/Don%27t+Tap+That+Glass+%2F+Tweakin%27\">Read more on Last.fm</a>.",
+      "content": "“Don't Tap That Glass / Tweakin'“ is the seventh track on DON'T TAP THE GLASS that resumes Tyler’s tradition of placing a lone two-parter towards the climax of his projects, which previously were always the 10th track, after breaking it for the first time in over a decade on his previous album, CHROMAKOPIA. <a href=\"http://www.last.fm/music/Tyler,+The+Creator/_/Don%27t+Tap+That+Glass+%2F+Tweakin%27\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

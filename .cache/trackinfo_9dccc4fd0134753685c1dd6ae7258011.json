@@ -1,0 +1,58 @@
+{
+  "track": {
+    "name": "CSIRAC",
+    "mbid": "c0c73a03-5d39-411d-9c93-7ce71009c2a1",
+    "url": "https://www.last.fm/music/Ninajirachi/_/CSIRAC",
+    "duration": "201000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "135764",
+    "playcount": "1037176",
+    "artist": {
+      "name": "Ninajirachi",
+      "mbid": "6897b46a-9236-4480-9ed7-300f6b85d62f",
+      "url": "https://www.last.fm/music/Ninajirachi"
+    },
+    "album": {
+      "artist": "Ninajirachi",
+      "title": "I Love My Computer",
+      "url": "https://www.last.fm/music/Ninajirachi/I+Love+My+Computer",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/d07be8636d6da9e572767ceb1c8422be.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/d07be8636d6da9e572767ceb1c8422be.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/d07be8636d6da9e572767ceb1c8422be.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/d07be8636d6da9e572767ceb1c8422be.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "techno",
+          "url": "https://www.last.fm/tag/techno"
+        },
+        {
+          "name": "wonky",
+          "url": "https://www.last.fm/tag/wonky"
+        },
+        {
+          "name": "glitch pop",
+          "url": "https://www.last.fm/tag/glitch+pop"
+        }
+      ]
+    }
+  }
+}

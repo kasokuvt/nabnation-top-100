@@ -1,0 +1,45 @@
+{
+  "track": {
+    "name": "ROT FOR CLOUT",
+    "mbid": "a2c73faa-daa7-490a-9038-3abe48ccc0e5",
+    "url": "https://www.last.fm/music/Jamie+Paige/_/ROT+FOR+CLOUT",
+    "duration": "227000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "62290",
+    "playcount": "1117224",
+    "artist": {
+      "name": "Jamie Paige",
+      "mbid": "de2c3324-30c6-45f7-9136-08a5bb66bc2c",
+      "url": "https://www.last.fm/music/Jamie+Paige"
+    },
+    "album": {
+      "artist": "Jamie Paige",
+      "title": "Constant Companions",
+      "url": "https://www.last.fm/music/Jamie+Paige/Constant+Companions",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/ee3f08309ee69254d1412dd2ee3e7a4c.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/ee3f08309ee69254d1412dd2ee3e7a4c.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/ee3f08309ee69254d1412dd2ee3e7a4c.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/ee3f08309ee69254d1412dd2ee3e7a4c.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "track": {
+    "name": "DARE (feat. Shaun Ryder & Roses Gabor)",
+    "mbid": "70099f48-cbc0-4a0b-9509-18949cdc4b76",
+    "url": "https://www.last.fm/music/Gorillaz/_/DARE+(feat.+Shaun+Ryder+&+Roses+Gabor)",
+    "duration": "244000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "846448",
+    "playcount": "5310922",
+    "artist": {
+      "name": "Gorillaz",
+      "mbid": "e21857d5-3256-4547-afb3-4b6ded592596",
+      "url": "https://www.last.fm/music/Gorillaz"
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "dance",
+          "url": "https://www.last.fm/tag/dance"
+        },
+        {
+          "name": "electronic",
+          "url": "https://www.last.fm/tag/electronic"
+        },
+        {
+          "name": "roses gabor",
+          "url": "https://www.last.fm/tag/roses+gabor"
+        },
+        {
+          "name": "shaun ryder",
+          "url": "https://www.last.fm/tag/shaun+ryder"
+        }
+      ]
+    }
+  }
+}

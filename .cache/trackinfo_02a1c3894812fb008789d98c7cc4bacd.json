@@ -1,0 +1,45 @@
+{
+  "track": {
+    "name": "Battle Against a True Hero",
+    "mbid": "095ebba5-39de-453f-825c-4e800144132c",
+    "url": "https://www.last.fm/music/Toby+Fox/_/Battle+Against+a+True+Hero",
+    "duration": "157000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "170972",
+    "playcount": "1614624",
+    "artist": {
+      "name": "Toby Fox",
+      "mbid": "1c26f82c-b35d-4c8e-a1f4-9c20747495c9",
+      "url": "https://www.last.fm/music/Toby+Fox"
+    },
+    "album": {
+      "artist": "Toby Fox",
+      "title": "UNDERTALE Soundtrack",
+      "url": "https://www.last.fm/music/Toby+Fox/UNDERTALE+Soundtrack",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/bef3b7367a786c6a4299894d930c7dfb.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/bef3b7367a786c6a4299894d930c7dfb.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/bef3b7367a786c6a4299894d930c7dfb.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/bef3b7367a786c6a4299894d930c7dfb.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

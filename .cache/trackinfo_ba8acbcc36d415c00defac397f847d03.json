@@ -1,0 +1,66 @@
+{
+  "track": {
+    "name": "London Song",
+    "mbid": "08d71655-3cb4-4db2-bfd0-806c266be64b",
+    "url": "https://www.last.fm/music/Ninajirachi/_/London+Song",
+    "duration": "195000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "147831",
+    "playcount": "997251",
+    "artist": {
+      "name": "Ninajirachi",
+      "mbid": "6897b46a-9236-4480-9ed7-300f6b85d62f",
+      "url": "https://www.last.fm/music/Ninajirachi"
+    },
+    "album": {
+      "artist": "Ninajirachi",
+      "title": "I Love My Computer",
+      "url": "https://www.last.fm/music/Ninajirachi/I+Love+My+Computer",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/d07be8636d6da9e572767ceb1c8422be.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/d07be8636d6da9e572767ceb1c8422be.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/d07be8636d6da9e572767ceb1c8422be.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/d07be8636d6da9e572767ceb1c8422be.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "electropop",
+          "url": "https://www.last.fm/tag/electropop"
+        },
+        {
+          "name": "House",
+          "url": "https://www.last.fm/tag/House"
+        },
+        {
+          "name": "Electroclash",
+          "url": "https://www.last.fm/tag/Electroclash"
+        },
+        {
+          "name": "electronic",
+          "url": "https://www.last.fm/tag/electronic"
+        },
+        {
+          "name": "french electro",
+          "url": "https://www.last.fm/tag/french+electro"
+        }
+      ]
+    }
+  }
+}

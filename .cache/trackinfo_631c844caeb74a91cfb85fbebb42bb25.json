@@ -1,0 +1,71 @@
+{
+  "track": {
+    "name": "1539 N. Calvert",
+    "mbid": "0a210948-832a-4c6b-a0be-70d46ba36ccb",
+    "url": "https://www.last.fm/music/JPEGMAFIA/_/1539+N.+Calvert",
+    "duration": "167000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "617139",
+    "playcount": "11064289",
+    "artist": {
+      "name": "JPEGMAFIA",
+      "mbid": "c42e60f4-4520-4954-b6e4-82bbdf532c11",
+      "url": "https://www.last.fm/music/JPEGMAFIA"
+    },
+    "album": {
+      "artist": "JPEGMAFIA",
+      "title": "Veteran",
+      "url": "https://www.last.fm/music/JPEGMAFIA/Veteran",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/109adfe3cc11201e3fb97a246afc733d.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/109adfe3cc11201e3fb97a246afc733d.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/109adfe3cc11201e3fb97a246afc733d.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/109adfe3cc11201e3fb97a246afc733d.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "glitch hop",
+          "url": "https://www.last.fm/tag/glitch+hop"
+        },
+        {
+          "name": "cloud rap",
+          "url": "https://www.last.fm/tag/cloud+rap"
+        },
+        {
+          "name": "hip hop",
+          "url": "https://www.last.fm/tag/hip+hop"
+        },
+        {
+          "name": "experimental",
+          "url": "https://www.last.fm/tag/experimental"
+        },
+        {
+          "name": "trap",
+          "url": "https://www.last.fm/tag/trap"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "20 Oct 2022, 17:55",
+      "summary": "Rapping aggressively over a quasi pop-trap beat, “1539 N. Calvert” serves as a perfect introduction to Peggy’s sophomore studio album “Veteran“. The track introduces many of the record’s themes, including physical violence, and a hatred for both conservative ideals and music bloggers.\n\nThe song’s title refers to the street address of the now-shuttered Bell Foundry, a former studio and recording space in Baltimore that also regularly hosted live music. <a href=\"http://www.last.fm/music/JPEGMAFIA/_/1539+N.+Calvert\">Read more on Last.fm</a>.",
+      "content": "Rapping aggressively over a quasi pop-trap beat, “1539 N. Calvert” serves as a perfect introduction to Peggy’s sophomore studio album “Veteran“. The track introduces many of the record’s themes, including physical violence, and a hatred for both conservative ideals and music bloggers.\n\nThe song’s title refers to the street address of the now-shuttered Bell Foundry, a former studio and recording space in Baltimore that also regularly hosted live music. Several notable figures from the Baltimore underground scene frequented the spot, including DRAM, Grimes & JPEG himself. <a href=\"http://www.last.fm/music/JPEGMAFIA/_/1539+N.+Calvert\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "track": {
+    "name": "Yeah Boy and Doll Face",
+    "mbid": "0046faae-0716-4534-bc70-6639a418bf63",
+    "url": "https://www.last.fm/music/Pierce+the+Veil/_/Yeah+Boy+and+Doll+Face",
+    "duration": "264000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "358447",
+    "playcount": "5304874",
+    "artist": {
+      "name": "Pierce the Veil",
+      "mbid": "8ed919fb-eaee-45a1-ba99-b3ede9ca5f1d",
+      "url": "https://www.last.fm/music/Pierce+the+Veil"
+    },
+    "album": {
+      "artist": "Pierce the Veil",
+      "title": "A Flair for the Dramatic",
+      "url": "https://www.last.fm/music/Pierce+the+Veil/A+Flair+for+the+Dramatic",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/eaaf2dbd3cbc69a9520f53fb164caaa0.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/eaaf2dbd3cbc69a9520f53fb164caaa0.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/eaaf2dbd3cbc69a9520f53fb164caaa0.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/eaaf2dbd3cbc69a9520f53fb164caaa0.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "post-hardcore",
+          "url": "https://www.last.fm/tag/post-hardcore"
+        },
+        {
+          "name": "emo",
+          "url": "https://www.last.fm/tag/emo"
+        },
+        {
+          "name": "pierce the veil",
+          "url": "https://www.last.fm/tag/pierce+the+veil"
+        },
+        {
+          "name": "screamo",
+          "url": "https://www.last.fm/tag/screamo"
+        },
+        {
+          "name": "Eargasm",
+          "url": "https://www.last.fm/tag/Eargasm"
+        }
+      ]
+    }
+  }
+}

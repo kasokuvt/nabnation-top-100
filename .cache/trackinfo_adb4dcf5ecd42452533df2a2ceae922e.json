@@ -1,0 +1,71 @@
+{
+  "track": {
+    "name": "Rah Tah Tah",
+    "mbid": "4403cc55-80bf-493b-ac0a-3515d7c0e23e",
+    "url": "https://www.last.fm/music/Tyler,+The+Creator/_/Rah+Tah+Tah",
+    "duration": "166000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "1068128",
+    "playcount": "11592176",
+    "artist": {
+      "name": "Tyler, The Creator",
+      "mbid": "f6beac20-5dfe-4d1f-ae02-0b0a740aafd6",
+      "url": "https://www.last.fm/music/Tyler,+The+Creator"
+    },
+    "album": {
+      "artist": "Tyler, The Creator",
+      "title": "Chromakopia",
+      "url": "https://www.last.fm/music/Tyler,+The+Creator/Chromakopia",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/8c0b389bb4cbf522bc5a2b58e15b6620.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/8c0b389bb4cbf522bc5a2b58e15b6620.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/8c0b389bb4cbf522bc5a2b58e15b6620.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/8c0b389bb4cbf522bc5a2b58e15b6620.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "hardcore hip hop",
+          "url": "https://www.last.fm/tag/hardcore+hip+hop"
+        },
+        {
+          "name": "hip hop",
+          "url": "https://www.last.fm/tag/hip+hop"
+        },
+        {
+          "name": "loud",
+          "url": "https://www.last.fm/tag/loud"
+        },
+        {
+          "name": "upbeat",
+          "url": "https://www.last.fm/tag/upbeat"
+        },
+        {
+          "name": "trap",
+          "url": "https://www.last.fm/tag/trap"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "28 Oct 2024, 22:21",
+      "summary": "“Rah Tah Tah” is one of the few songs teased in a CHROMAKOPIA promotional video, uploaded to Tyler’s channel on October 22, 2024, where a 12-second part of the song was featured in a medley of different CHROMAKOPIA snippets.\n\nThis track portrays the chaotic side of the album, featuring Tyler’s well-known aggressive rapping style, with the production following suit and sounding just as menacing.\n\n+28 <a href=\"http://www.last.fm/music/Tyler,+The+Creator/_/Rah+Tah+Tah\">Read more on Last.fm</a>.",
+      "content": "“Rah Tah Tah” is one of the few songs teased in a CHROMAKOPIA promotional video, uploaded to Tyler’s channel on October 22, 2024, where a 12-second part of the song was featured in a medley of different CHROMAKOPIA snippets.\n\nThis track portrays the chaotic side of the album, featuring Tyler’s well-known aggressive rapping style, with the production following suit and sounding just as menacing.\n\n+28 <a href=\"http://www.last.fm/music/Tyler,+The+Creator/_/Rah+Tah+Tah\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

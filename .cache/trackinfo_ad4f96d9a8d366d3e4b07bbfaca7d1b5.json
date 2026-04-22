@@ -1,0 +1,45 @@
+{
+  "track": {
+    "name": "Dyad",
+    "mbid": "6c7e91a6-9cba-4ddf-b262-b5bf7be72d44",
+    "url": "https://www.last.fm/music/Jamie+Paige/_/Dyad",
+    "duration": "282000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "18403",
+    "playcount": "249894",
+    "artist": {
+      "name": "Jamie Paige",
+      "mbid": "de2c3324-30c6-45f7-9136-08a5bb66bc2c",
+      "url": "https://www.last.fm/music/Jamie+Paige"
+    },
+    "album": {
+      "artist": "Jamie Paige",
+      "title": "Constant Companions [Explicit]",
+      "url": "https://www.last.fm/music/Jamie+Paige/Constant+Companions+%5BExplicit%5D",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/64afb1ef687e4fac7afcb72b77225bfe.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/64afb1ef687e4fac7afcb72b77225bfe.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/64afb1ef687e4fac7afcb72b77225bfe.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/64afb1ef687e4fac7afcb72b77225bfe.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "track": {
+    "name": "It's A Dream (feat. Lil Uzi Vert)",
+    "url": "https://www.last.fm/music/Snow+Strippers/_/It%27s+A+Dream+(feat.+Lil+Uzi+Vert)",
+    "duration": "0",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "258239",
+    "playcount": "3075660",
+    "artist": {
+      "name": "Snow Strippers",
+      "mbid": "33243fef-ce1a-4ba7-a81e-ec72e4c5029a",
+      "url": "https://www.last.fm/music/Snow+Strippers"
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "Electroclash",
+          "url": "https://www.last.fm/tag/Electroclash"
+        },
+        {
+          "name": "bitpop",
+          "url": "https://www.last.fm/tag/bitpop"
+        },
+        {
+          "name": "pop rap",
+          "url": "https://www.last.fm/tag/pop+rap"
+        },
+        {
+          "name": "vocal trance",
+          "url": "https://www.last.fm/tag/vocal+trance"
+        },
+        {
+          "name": "hands up",
+          "url": "https://www.last.fm/tag/hands+up"
+        }
+      ]
+    }
+  }
+}

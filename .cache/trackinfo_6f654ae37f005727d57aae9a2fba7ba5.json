@@ -1,0 +1,45 @@
+{
+  "track": {
+    "name": "F.I.C.O.",
+    "mbid": "049a7c49-adf5-4b93-a6de-fc0a1bcb687b",
+    "url": "https://www.last.fm/music/Clipse/_/F.I.C.O.",
+    "duration": "230000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "179927",
+    "playcount": "1353030",
+    "artist": {
+      "name": "Clipse",
+      "mbid": "e6424fa5-08d3-41c6-96f3-8549f733708c",
+      "url": "https://www.last.fm/music/Clipse"
+    },
+    "album": {
+      "artist": "Clipse",
+      "title": "Let Spotify Sort Em Out",
+      "url": "https://www.last.fm/music/Clipse/Let+Spotify+Sort+Em+Out",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/46bdadd764cffe160adb04c0ec080090.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/46bdadd764cffe160adb04c0ec080090.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/46bdadd764cffe160adb04c0ec080090.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/46bdadd764cffe160adb04c0ec080090.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "track": {
+    "name": "Stop Playing With Me",
+    "mbid": "6eda9049-2947-490b-9bad-364ef85a8546",
+    "url": "https://www.last.fm/music/Tyler,+The+Creator/_/Stop+Playing+With+Me",
+    "duration": "133000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "576064",
+    "playcount": "3591912",
+    "artist": {
+      "name": "Tyler, The Creator",
+      "mbid": "f6beac20-5dfe-4d1f-ae02-0b0a740aafd6",
+      "url": "https://www.last.fm/music/Tyler,+The+Creator"
+    },
+    "album": {
+      "artist": "Tyler, The Creator",
+      "title": "DON’T TAP THE GLASS",
+      "url": "https://www.last.fm/music/Tyler,+The+Creator/DON%E2%80%99T+TAP+THE+GLASS",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/78e70997eda194526a71b0ed3fa411f0.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/78e70997eda194526a71b0ed3fa411f0.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/78e70997eda194526a71b0ed3fa411f0.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/78e70997eda194526a71b0ed3fa411f0.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "electro",
+          "url": "https://www.last.fm/tag/electro"
+        },
+        {
+          "name": "hip hop",
+          "url": "https://www.last.fm/tag/hip+hop"
+        },
+        {
+          "name": "hardcore hip hop",
+          "url": "https://www.last.fm/tag/hardcore+hip+hop"
+        },
+        {
+          "name": "experimental hip hop",
+          "url": "https://www.last.fm/tag/experimental+hip+hop"
+        },
+        {
+          "name": "miami bass",
+          "url": "https://www.last.fm/tag/miami+bass"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "22 Jul 2025, 05:23",
+      "summary": "Tyler puffs out his chest on “STOP PLAYING WITH ME,” the fifth track from his high-octane ninth album, DON'T TAP THE GLASS. Out the gate, the eerie string sample looped throughout “Mommanem” is joined with punchy drums, driving Tyler’s declaration that he’s “THAT GUY.”\n\nTyler isn’t tolerating anybody downplaying his status—whether its the red F40 Ferrari or flying in private jets with Maverick Carter and LeBron James, the stunts are heavy. <a href=\"http://www.last.fm/music/Tyler,+The+Creator/_/Stop+Playing+With+Me\">Read more on Last.fm</a>.",
+      "content": "Tyler puffs out his chest on “STOP PLAYING WITH ME,” the fifth track from his high-octane ninth album, DON'T TAP THE GLASS. Out the gate, the eerie string sample looped throughout “Mommanem” is joined with punchy drums, driving Tyler’s declaration that he’s “THAT GUY.”\n\nTyler isn’t tolerating anybody downplaying his status—whether its the red F40 Ferrari or flying in private jets with Maverick Carter and LeBron James, the stunts are heavy. Even in the short nine-month window between his previous album, Tyler’s a long way, even upgrading from the LaFerrari he references in “Rah Tah Tah.” <a href=\"http://www.last.fm/music/Tyler,+The+Creator/_/Stop+Playing+With+Me\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

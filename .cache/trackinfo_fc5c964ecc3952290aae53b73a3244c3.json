@@ -1,0 +1,45 @@
+{
+  "track": {
+    "name": "BIG SHOT",
+    "mbid": "456100f4-ede0-4491-befc-6751d1e40663",
+    "url": "https://www.last.fm/music/Toby+Fox/_/BIG+SHOT",
+    "duration": "142000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "172910",
+    "playcount": "3059661",
+    "artist": {
+      "name": "Toby Fox",
+      "mbid": "1c26f82c-b35d-4c8e-a1f4-9c20747495c9",
+      "url": "https://www.last.fm/music/Toby+Fox"
+    },
+    "album": {
+      "artist": "Toby Fox",
+      "title": "Deltarune Chapter 2 (Original Game Soundtrack)",
+      "url": "https://www.last.fm/music/Toby+Fox/Deltarune+Chapter+2+(Original+Game+Soundtrack)",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/032f861fc3fe20f5d6146d361b95b107.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/032f861fc3fe20f5d6146d361b95b107.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/032f861fc3fe20f5d6146d361b95b107.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/032f861fc3fe20f5d6146d361b95b107.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

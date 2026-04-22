@@ -1,0 +1,66 @@
+{
+  "track": {
+    "name": "Aoi, Koi, Daidaiiro no Hi",
+    "mbid": "82434534-480c-4375-ba07-e7f68c46ef33",
+    "url": "https://www.last.fm/music/MASS+OF+THE+FERMENTING+DREGS/_/Aoi,+Koi,+Daidaiiro+no+Hi",
+    "duration": "282000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "302034",
+    "playcount": "4228133",
+    "artist": {
+      "name": "MASS OF THE FERMENTING DREGS",
+      "mbid": "1a19b0cd-fa9d-4363-b130-b3eb394cf373",
+      "url": "https://www.last.fm/music/MASS+OF+THE+FERMENTING+DREGS"
+    },
+    "album": {
+      "artist": "MASS OF THE FERMENTING DREGS",
+      "title": "World Is Yours - EP",
+      "url": "https://www.last.fm/music/MASS+OF+THE+FERMENTING+DREGS/World+Is+Yours+-+EP",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/4abc1ad5c11f8da24dfd856eddf44bbe.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/4abc1ad5c11f8da24dfd856eddf44bbe.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/4abc1ad5c11f8da24dfd856eddf44bbe.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/4abc1ad5c11f8da24dfd856eddf44bbe.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "J-rock",
+          "url": "https://www.last.fm/tag/J-rock"
+        },
+        {
+          "name": "indie rock",
+          "url": "https://www.last.fm/tag/indie+rock"
+        },
+        {
+          "name": "Post-punk revival",
+          "url": "https://www.last.fm/tag/Post-punk+revival"
+        },
+        {
+          "name": "post-punk",
+          "url": "https://www.last.fm/tag/post-punk"
+        },
+        {
+          "name": "post-hardcore",
+          "url": "https://www.last.fm/tag/post-hardcore"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "track": {
+    "name": "TWICE REMOVED",
+    "mbid": "3574cb49-4a95-40dc-8239-83243b2c0254",
+    "url": "https://www.last.fm/music/Jane+Remover/_/TWICE+REMOVED",
+    "duration": "239000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "146628",
+    "playcount": "1245015",
+    "artist": {
+      "name": "Jane Remover",
+      "mbid": "f4b6e451-5dce-4842-a555-f793892299b3",
+      "url": "https://www.last.fm/music/Jane+Remover"
+    },
+    "album": {
+      "artist": "Jane Remover",
+      "title": "Revengeseekerz",
+      "url": "https://www.last.fm/music/Jane+Remover/Revengeseekerz",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/7e63ec5a92240a2f3292aa15bd5af39a.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/7e63ec5a92240a2f3292aa15bd5af39a.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/7e63ec5a92240a2f3292aa15bd5af39a.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/7e63ec5a92240a2f3292aa15bd5af39a.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "rage",
+          "url": "https://www.last.fm/tag/rage"
+        },
+        {
+          "name": "digicore",
+          "url": "https://www.last.fm/tag/digicore"
+        },
+        {
+          "name": "hip hop",
+          "url": "https://www.last.fm/tag/hip+hop"
+        },
+        {
+          "name": "Hard Dance",
+          "url": "https://www.last.fm/tag/Hard+Dance"
+        },
+        {
+          "name": "simon-approved",
+          "url": "https://www.last.fm/tag/simon-approved"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "04 Apr 2025, 23:17",
+      "summary": "\"TWICE REMOVED\" is the opening track from Jane Remover's third album Revengeseekerz (2025). The track is explosive and abrasive which effectively sets the tone of the entire album. Interestingly, the track features a vocal riff previously displayed in Jane Removers track \"Backseat Girl\" from their second album, Census Designated (2023); harkening back to their prior discography and further emphasizing the evolution of their sound. <a href=\"http://www.last.fm/music/Jane+Remover/_/TWICE+REMOVED\">Read more on Last.fm</a>.",
+      "content": "\"TWICE REMOVED\" is the opening track from Jane Remover's third album Revengeseekerz (2025). The track is explosive and abrasive which effectively sets the tone of the entire album. Interestingly, the track features a vocal riff previously displayed in Jane Removers track \"Backseat Girl\" from their second album, Census Designated (2023); harkening back to their prior discography and further emphasizing the evolution of their sound. <a href=\"http://www.last.fm/music/Jane+Remover/_/TWICE+REMOVED\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

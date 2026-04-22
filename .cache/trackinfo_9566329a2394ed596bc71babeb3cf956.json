@@ -1,0 +1,71 @@
+{
+  "track": {
+    "name": "mimosa",
+    "mbid": "604ad752-0b22-4cab-ad41-06686d251898",
+    "url": "https://www.last.fm/music/Lucy+Bedroque/_/mimosa",
+    "duration": "166000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "90487",
+    "playcount": "970405",
+    "artist": {
+      "name": "Lucy Bedroque",
+      "mbid": "bb7959ac-84cc-45c4-8138-d80ee5f2bd9a",
+      "url": "https://www.last.fm/music/Lucy+Bedroque"
+    },
+    "album": {
+      "artist": "Lucy Bedroque",
+      "title": "Fête de la Vanille - EP",
+      "url": "https://www.last.fm/music/Lucy+Bedroque/F%C3%AAte+de+la+Vanille+-+EP",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/96decca17a3fc4409b13fb97ba752c43.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/96decca17a3fc4409b13fb97ba752c43.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/96decca17a3fc4409b13fb97ba752c43.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/96decca17a3fc4409b13fb97ba752c43.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "trap",
+          "url": "https://www.last.fm/tag/trap"
+        },
+        {
+          "name": "pop rap",
+          "url": "https://www.last.fm/tag/pop+rap"
+        },
+        {
+          "name": "Regalia",
+          "url": "https://www.last.fm/tag/Regalia"
+        },
+        {
+          "name": "digicore",
+          "url": "https://www.last.fm/tag/digicore"
+        },
+        {
+          "name": "cloud rap",
+          "url": "https://www.last.fm/tag/cloud+rap"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "03 Apr 2026, 16:43",
+      "summary": "“Mimosa” is the third track on Fête de la Vanille\nfirst teased as far as a year in advance of the track’s official release in a now-deleted Instagram post featuring a 17-second clip that revealed the track’s official name. Later, an 18-second Twitter voice recording was shared, which was deleted soon after. The track instantly received love from fans, who began questioning when it would be released. <a href=\"http://www.last.fm/music/Lucy+Bedroque/_/mimosa\">Read more on Last.fm</a>.",
+      "content": "“Mimosa” is the third track on Fête de la Vanille\nfirst teased as far as a year in advance of the track’s official release in a now-deleted Instagram post featuring a 17-second clip that revealed the track’s official name. Later, an 18-second Twitter voice recording was shared, which was deleted soon after. The track instantly received love from fans, who began questioning when it would be released. <a href=\"http://www.last.fm/music/Lucy+Bedroque/_/mimosa\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

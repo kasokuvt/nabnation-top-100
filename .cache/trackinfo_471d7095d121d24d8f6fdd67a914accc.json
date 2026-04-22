@@ -1,0 +1,71 @@
+{
+  "track": {
+    "name": "LIKE WEEZY",
+    "mbid": "9c2599dd-27ff-4380-8066-a4feaa0ce6d6",
+    "url": "https://www.last.fm/music/Playboi+Carti/_/LIKE+WEEZY",
+    "duration": "116000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "373284",
+    "playcount": "9530650",
+    "artist": {
+      "name": "Playboi Carti",
+      "mbid": "2baf3276-ed6a-4349-8d2e-f4601e7b2167",
+      "url": "https://www.last.fm/music/Playboi+Carti"
+    },
+    "album": {
+      "artist": "Playboi Carti",
+      "title": "Mollyworld",
+      "url": "https://www.last.fm/music/Playboi+Carti/Mollyworld",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/f2bd30934043834988881bcd99632342.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/f2bd30934043834988881bcd99632342.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/f2bd30934043834988881bcd99632342.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/f2bd30934043834988881bcd99632342.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "bop",
+          "url": "https://www.last.fm/tag/bop"
+        },
+        {
+          "name": "pop rap",
+          "url": "https://www.last.fm/tag/pop+rap"
+        },
+        {
+          "name": "Futuristic swag",
+          "url": "https://www.last.fm/tag/Futuristic+swag"
+        },
+        {
+          "name": "cloud rap",
+          "url": "https://www.last.fm/tag/cloud+rap"
+        },
+        {
+          "name": "trap",
+          "url": "https://www.last.fm/tag/trap"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "15 Mar 2025, 14:56",
+      "summary": "“LIKE WEEZY” is Playboi Carti’s 25th track off his fourth studio album “Music” released March, 14th, 2025. The song features vocals from Carti and adlibs from DJ Swamp Izzo.\n\nThe song samples [song] Bend Over [/song] by the RICH KIDZ.\n\nThe production was handled by Ojivolta and fellow AWGE affiliate, Kelvin Krash. <a href=\"http://www.last.fm/music/Playboi+Carti/_/LIKE+WEEZY\">Read more on Last.fm</a>.",
+      "content": "“LIKE WEEZY” is Playboi Carti’s 25th track off his fourth studio album “Music” released March, 14th, 2025. The song features vocals from Carti and adlibs from DJ Swamp Izzo.\n\nThe song samples [song] Bend Over [/song] by the RICH KIDZ.\n\nThe production was handled by Ojivolta and fellow AWGE affiliate, Kelvin Krash. <a href=\"http://www.last.fm/music/Playboi+Carti/_/LIKE+WEEZY\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

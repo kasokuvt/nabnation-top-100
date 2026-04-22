@@ -1,0 +1,44 @@
+{
+  "track": {
+    "name": "stressed",
+    "mbid": "c49cabc5-d038-4b50-91ac-b1dc870f9445",
+    "url": "https://www.last.fm/music/nettspend/_/stressed",
+    "duration": "105000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "76735",
+    "playcount": "1160849",
+    "artist": {
+      "name": "nettspend",
+      "url": "https://www.last.fm/music/nettspend"
+    },
+    "album": {
+      "artist": "nettspend",
+      "title": "gone too soon",
+      "url": "https://www.last.fm/music/nettspend/gone+too+soon",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/db7a086e1c8e9b29bf27cc94859d302f.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/db7a086e1c8e9b29bf27cc94859d302f.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/db7a086e1c8e9b29bf27cc94859d302f.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/db7a086e1c8e9b29bf27cc94859d302f.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

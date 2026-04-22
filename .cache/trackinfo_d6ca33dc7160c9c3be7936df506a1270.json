@@ -1,0 +1,43 @@
+{
+  "track": {
+    "name": "Kwik Trip",
+    "url": "https://www.last.fm/music/Lightris/_/Kwik+Trip",
+    "duration": "0",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "69710",
+    "playcount": "812408",
+    "artist": {
+      "name": "Lightris",
+      "url": "https://www.last.fm/music/Lightris"
+    },
+    "album": {
+      "artist": "Lightris",
+      "title": "Kwik Trip",
+      "url": "https://www.last.fm/music/Lightris/Kwik+Trip",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/5cdbc6b7f764540907ec7e972c18f7ce.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/5cdbc6b7f764540907ec7e972c18f7ce.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/5cdbc6b7f764540907ec7e972c18f7ce.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/5cdbc6b7f764540907ec7e972c18f7ce.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

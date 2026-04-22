@@ -1,0 +1,71 @@
+{
+  "track": {
+    "name": "OLYMPIAN",
+    "mbid": "53ccf670-075c-4638-87b5-6e7f2fdddb5a",
+    "url": "https://www.last.fm/music/Playboi+Carti/_/OLYMPIAN",
+    "duration": "175000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "436361",
+    "playcount": "6490998",
+    "artist": {
+      "name": "Playboi Carti",
+      "mbid": "2baf3276-ed6a-4349-8d2e-f4601e7b2167",
+      "url": "https://www.last.fm/music/Playboi+Carti"
+    },
+    "album": {
+      "artist": "Playboi Carti",
+      "title": "Mollyworld",
+      "url": "https://www.last.fm/music/Playboi+Carti/Mollyworld",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/f2bd30934043834988881bcd99632342.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/f2bd30934043834988881bcd99632342.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/f2bd30934043834988881bcd99632342.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/f2bd30934043834988881bcd99632342.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "rage",
+          "url": "https://www.last.fm/tag/rage"
+        },
+        {
+          "name": "digicore",
+          "url": "https://www.last.fm/tag/digicore"
+        },
+        {
+          "name": "cloud rap",
+          "url": "https://www.last.fm/tag/cloud+rap"
+        },
+        {
+          "name": "Love",
+          "url": "https://www.last.fm/tag/Love"
+        },
+        {
+          "name": "hip hop",
+          "url": "https://www.last.fm/tag/hip+hop"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "17 Mar 2025, 03:41",
+      "summary": "“OLYMPIAN” is the 22nd track on Carti’s third studio album, MUSIC. The song represents Carti’s lavish and extreme lifestyle, ranging from popping pills to dyeing his dreads. Carti compares his many chains to an olympian’s gold medals and even shouts out his song “FIELD TRIP” and singer-songwriter Michael Jackson. <a href=\"http://www.last.fm/music/Playboi+Carti/_/OLYMPIAN\">Read more on Last.fm</a>.",
+      "content": "“OLYMPIAN” is the 22nd track on Carti’s third studio album, MUSIC. The song represents Carti’s lavish and extreme lifestyle, ranging from popping pills to dyeing his dreads. Carti compares his many chains to an olympian’s gold medals and even shouts out his song “FIELD TRIP” and singer-songwriter Michael Jackson. <a href=\"http://www.last.fm/music/Playboi+Carti/_/OLYMPIAN\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

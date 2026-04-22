@@ -1,0 +1,66 @@
+{
+  "track": {
+    "name": "The Zombie Song",
+    "mbid": "e01ad7e4-4b58-3d64-8364-bf3eb5de8cd8",
+    "url": "https://www.last.fm/music/Stephanie+Mabey/_/The+Zombie+Song",
+    "duration": "172000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "241293",
+    "playcount": "2176157",
+    "artist": {
+      "name": "Stephanie Mabey",
+      "mbid": "0a74d45c-6b3e-4349-b4f8-a61ba8f4cd4b",
+      "url": "https://www.last.fm/music/Stephanie+Mabey"
+    },
+    "album": {
+      "artist": "Stephanie Mabey",
+      "title": "Wake Up Dreaming",
+      "url": "https://www.last.fm/music/Stephanie+Mabey/Wake+Up+Dreaming",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/e168b4ffe4794591975a9df52a30b903.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/e168b4ffe4794591975a9df52a30b903.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/e168b4ffe4794591975a9df52a30b903.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/e168b4ffe4794591975a9df52a30b903.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "indie",
+          "url": "https://www.last.fm/tag/indie"
+        },
+        {
+          "name": "female vocalists",
+          "url": "https://www.last.fm/tag/female+vocalists"
+        },
+        {
+          "name": "pop",
+          "url": "https://www.last.fm/tag/pop"
+        },
+        {
+          "name": "rock",
+          "url": "https://www.last.fm/tag/rock"
+        },
+        {
+          "name": "singer-songwriter",
+          "url": "https://www.last.fm/tag/singer-songwriter"
+        }
+      ]
+    }
+  }
+}

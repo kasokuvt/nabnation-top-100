@@ -1,0 +1,71 @@
+{
+  "track": {
+    "name": "MANNEQUIN",
+    "mbid": "a7440f0c-3040-4c1a-82b4-0e813a89756f",
+    "url": "https://www.last.fm/music/Che/_/MANNEQUIN",
+    "duration": "123000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "137469",
+    "playcount": "2337072",
+    "artist": {
+      "name": "Che",
+      "mbid": "e10ddbc5-dcae-4bbb-8a32-4c9a7228bfab",
+      "url": "https://www.last.fm/music/Che"
+    },
+    "album": {
+      "artist": "Che",
+      "title": "REST IN BASS",
+      "url": "https://www.last.fm/music/Che/REST+IN+BASS",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/8dd2a654f51d813610ce8afca3ae78ea.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/8dd2a654f51d813610ce8afca3ae78ea.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/8dd2a654f51d813610ce8afca3ae78ea.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/8dd2a654f51d813610ce8afca3ae78ea.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "hardcore hip hop",
+          "url": "https://www.last.fm/tag/hardcore+hip+hop"
+        },
+        {
+          "name": "Southern Hip Hop",
+          "url": "https://www.last.fm/tag/Southern+Hip+Hop"
+        },
+        {
+          "name": "trap",
+          "url": "https://www.last.fm/tag/trap"
+        },
+        {
+          "name": "rage",
+          "url": "https://www.last.fm/tag/rage"
+        },
+        {
+          "name": "cloud rap",
+          "url": "https://www.last.fm/tag/cloud+rap"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "03 Mar 2026, 15:09",
+      "summary": "“MANNEQUIN” (also dubbed as “TECHDECK” by fans) showcases Che rap-screaming over a Jerk instrumental, while xaviersobased takes over the middle portion of the track. The Jerk beat, which was produced by frequent collaborator, CXO, consists of a high-pitched synths, strings, and sliding leads, which are supported by a hard-hitting kick drum and fast-paced percussion, very reminiscent of the EDM sound. Che would perform the track in full at the Clout Festival in Poland, revealing xaviersobased’s feature. <a href=\"http://www.last.fm/music/Che/_/MANNEQUIN\">Read more on Last.fm</a>.",
+      "content": "“MANNEQUIN” (also dubbed as “TECHDECK” by fans) showcases Che rap-screaming over a Jerk instrumental, while xaviersobased takes over the middle portion of the track. The Jerk beat, which was produced by frequent collaborator, CXO, consists of a high-pitched synths, strings, and sliding leads, which are supported by a hard-hitting kick drum and fast-paced percussion, very reminiscent of the EDM sound. Che would perform the track in full at the Clout Festival in Poland, revealing xaviersobased’s feature. “MANNEQUIN” would release on Che’s sophomore album, REST IN BASS, on July 18, 2025, as the 11th track <a href=\"http://www.last.fm/music/Che/_/MANNEQUIN\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

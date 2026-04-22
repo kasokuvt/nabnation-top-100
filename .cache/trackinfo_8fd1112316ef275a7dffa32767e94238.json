@@ -1,0 +1,45 @@
+{
+  "track": {
+    "name": "Ruder Buster",
+    "mbid": "a61f56af-cf98-4bb1-82b6-588e2a96286e",
+    "url": "https://www.last.fm/music/Toby+Fox/_/Ruder+Buster",
+    "duration": "106000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "86221",
+    "playcount": "1300669",
+    "artist": {
+      "name": "Toby Fox",
+      "mbid": "1c26f82c-b35d-4c8e-a1f4-9c20747495c9",
+      "url": "https://www.last.fm/music/Toby+Fox"
+    },
+    "album": {
+      "artist": "Toby Fox",
+      "title": "DELTARUNE Soundtrack",
+      "url": "https://www.last.fm/music/Toby+Fox/DELTARUNE+Soundtrack",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/25a9b786934e3aea4a33d8b87dd8b84a.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/25a9b786934e3aea4a33d8b87dd8b84a.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/25a9b786934e3aea4a33d8b87dd8b84a.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/25a9b786934e3aea4a33d8b87dd8b84a.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "track": {
+    "name": "ROBBERY (feat. Doechii)",
+    "mbid": "ec20bd89-78a1-4dbf-88cd-c4394ba96d39",
+    "url": "https://www.last.fm/music/A$AP+Rocky/_/ROBBERY+(feat.+Doechii)",
+    "duration": "235000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "139254",
+    "playcount": "555558",
+    "artist": {
+      "name": "A$AP Rocky",
+      "mbid": "25b7b584-d952-4662-a8b9-dd8cdfbfeb64",
+      "url": "https://www.last.fm/music/A$AP+Rocky"
+    },
+    "album": {
+      "artist": "A$AP Rocky",
+      "title": "Don't Be Dumb (with features)",
+      "url": "https://www.last.fm/music/A$AP+Rocky/Don%27t+Be+Dumb+(with+features)",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/c9e8ab6893912955c767bd39b62caa7c.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/c9e8ab6893912955c767bd39b62caa7c.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/c9e8ab6893912955c767bd39b62caa7c.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/c9e8ab6893912955c767bd39b62caa7c.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "jazz rap",
+          "url": "https://www.last.fm/tag/jazz+rap"
+        },
+        {
+          "name": "DOECHII",
+          "url": "https://www.last.fm/tag/DOECHII"
+        },
+        {
+          "name": "cabaret",
+          "url": "https://www.last.fm/tag/cabaret"
+        },
+        {
+          "name": "cool jazz",
+          "url": "https://www.last.fm/tag/cool+jazz"
+        },
+        {
+          "name": "east coast hip hop",
+          "url": "https://www.last.fm/tag/east+coast+hip+hop"
+        }
+      ]
+    }
+  }
+}

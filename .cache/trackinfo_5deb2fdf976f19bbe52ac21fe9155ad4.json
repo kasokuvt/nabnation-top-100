@@ -1,0 +1,66 @@
+{
+  "track": {
+    "name": "I Choose You",
+    "mbid": "50ecae24-cb81-46ef-a056-fbec5e7efa47",
+    "url": "https://www.last.fm/music/f5ve/_/I+Choose+You",
+    "duration": "129000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "64569",
+    "playcount": "915613",
+    "artist": {
+      "name": "f5ve",
+      "mbid": "9bdce94a-7c47-4b9a-8e10-f65f5fc63d32",
+      "url": "https://www.last.fm/music/f5ve"
+    },
+    "album": {
+      "artist": "f5ve",
+      "title": "SEQUENCE 01.5 (dreaming of the 2nd 1st impact - consequences of fate redux)",
+      "url": "https://www.last.fm/music/f5ve/SEQUENCE+01.5+(dreaming+of+the+2nd+1st+impact+-+consequences+of+fate+redux)",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/879b6803d7f694c27dc00108b9a6cabe.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/879b6803d7f694c27dc00108b9a6cabe.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/879b6803d7f694c27dc00108b9a6cabe.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/879b6803d7f694c27dc00108b9a6cabe.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "japanese",
+          "url": "https://www.last.fm/tag/japanese"
+        },
+        {
+          "name": "english",
+          "url": "https://www.last.fm/tag/english"
+        },
+        {
+          "name": "2-step",
+          "url": "https://www.last.fm/tag/2-step"
+        },
+        {
+          "name": "UK Garage",
+          "url": "https://www.last.fm/tag/UK+Garage"
+        },
+        {
+          "name": "gr4zon own this song",
+          "url": "https://www.last.fm/tag/gr4zon+own+this+song"
+        }
+      ]
+    }
+  }
+}

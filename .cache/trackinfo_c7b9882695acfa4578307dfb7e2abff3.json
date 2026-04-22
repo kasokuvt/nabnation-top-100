@@ -1,0 +1,45 @@
+{
+  "track": {
+    "name": "Me And Mr. Wolf",
+    "mbid": "97225a0c-1d9a-4238-b98b-52e4e1bb12f9",
+    "url": "https://www.last.fm/music/The+Real+Tuesday+Weld/_/Me+And+Mr.+Wolf",
+    "duration": "264000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "1921",
+    "playcount": "13519",
+    "artist": {
+      "name": "The Real Tuesday Weld",
+      "mbid": "df33b7ec-1293-473b-b582-29d2c2514cc6",
+      "url": "https://www.last.fm/music/The+Real+Tuesday+Weld"
+    },
+    "album": {
+      "artist": "The Real Tuesday Weld",
+      "title": "The Last Werewolf",
+      "url": "https://www.last.fm/music/The+Real+Tuesday+Weld/The+Last+Werewolf",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/f428683b97e74d16bea40c12d1c20d2f.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/f428683b97e74d16bea40c12d1c20d2f.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/f428683b97e74d16bea40c12d1c20d2f.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/f428683b97e74d16bea40c12d1c20d2f.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "track": {
+    "name": "MEXE",
+    "mbid": "5eeb5dca-31ff-44d1-b4ee-f25353473cf4",
+    "url": "https://www.last.fm/music/Pabllo+Vittar/_/MEXE",
+    "duration": "146000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "116288",
+    "playcount": "1313204",
+    "artist": {
+      "name": "Pabllo Vittar",
+      "mbid": "d9550ac2-7bcf-4655-a3fe-24922e254a74",
+      "url": "https://www.last.fm/music/Pabllo+Vittar"
+    },
+    "album": {
+      "artist": "Pabllo Vittar & NMIXX",
+      "title": "MEXE - Instrumental",
+      "url": "https://www.last.fm/music/Pabllo+Vittar+&+NMIXX/MEXE+-+Instrumental",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/5a104588563573052a399c3b631af600.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/5a104588563573052a399c3b631af600.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/5a104588563573052a399c3b631af600.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/5a104588563573052a399c3b631af600.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    },
+    "wiki": {
+      "published": "24 Aug 2025, 21:07",
+      "summary": "\"MEXE\" is a collaboration between the Brazilian drag queen Pabllo Vittar and the South Korean group NMIXX, released on August 21, 2025. The song mixes elements of Brazilian funk and K-POP, was made official as the second single from Vittar's new international album, scheduled for 2025. <a href=\"http://www.last.fm/music/Pabllo+Vittar/_/MEXE\">Read more on Last.fm</a>.",
+      "content": "\"MEXE\" is a collaboration between the Brazilian drag queen Pabllo Vittar and the South Korean group NMIXX, released on August 21, 2025. The song mixes elements of Brazilian funk and K-POP, was made official as the second single from Vittar's new international album, scheduled for 2025. <a href=\"http://www.last.fm/music/Pabllo+Vittar/_/MEXE\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

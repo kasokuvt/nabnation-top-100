@@ -1,0 +1,66 @@
+{
+  "track": {
+    "name": "angels in camo",
+    "mbid": "2b0222e3-b0c4-4225-9a17-ebe4c48ae64a",
+    "url": "https://www.last.fm/music/Jane+Remover/_/angels+in+camo",
+    "duration": "221000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "146480",
+    "playcount": "1708007",
+    "artist": {
+      "name": "Jane Remover",
+      "mbid": "f4b6e451-5dce-4842-a555-f793892299b3",
+      "url": "https://www.last.fm/music/Jane+Remover"
+    },
+    "album": {
+      "artist": "Jane Remover",
+      "title": "Revengeseekerz",
+      "url": "https://www.last.fm/music/Jane+Remover/Revengeseekerz",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/7e63ec5a92240a2f3292aa15bd5af39a.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/7e63ec5a92240a2f3292aa15bd5af39a.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/7e63ec5a92240a2f3292aa15bd5af39a.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/7e63ec5a92240a2f3292aa15bd5af39a.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "rage",
+          "url": "https://www.last.fm/tag/rage"
+        },
+        {
+          "name": "digicore",
+          "url": "https://www.last.fm/tag/digicore"
+        },
+        {
+          "name": "Electroclash",
+          "url": "https://www.last.fm/tag/Electroclash"
+        },
+        {
+          "name": "Hard Dance",
+          "url": "https://www.last.fm/tag/Hard+Dance"
+        },
+        {
+          "name": "simon-approved",
+          "url": "https://www.last.fm/tag/simon-approved"
+        }
+      ]
+    }
+  }
+}

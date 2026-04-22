@@ -1,0 +1,58 @@
+{
+  "track": {
+    "name": "Stop Snitching (feat. Bossman Dlow & Sauce Walka)",
+    "mbid": "e7ec910f-0cff-4fe6-bbbf-2c2133ac506d",
+    "url": "https://www.last.fm/music/A$AP+Rocky/_/Stop+Snitching+(feat.+Bossman+Dlow+&+Sauce+Walka)",
+    "duration": "200000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "148771",
+    "playcount": "615549",
+    "artist": {
+      "name": "A$AP Rocky",
+      "mbid": "25b7b584-d952-4662-a8b9-dd8cdfbfeb64",
+      "url": "https://www.last.fm/music/A$AP+Rocky"
+    },
+    "album": {
+      "artist": "A$AP Rocky",
+      "title": "Don't Be Dumb (with features)",
+      "url": "https://www.last.fm/music/A$AP+Rocky/Don%27t+Be+Dumb+(with+features)",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/c9e8ab6893912955c767bd39b62caa7c.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/c9e8ab6893912955c767bd39b62caa7c.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/c9e8ab6893912955c767bd39b62caa7c.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/c9e8ab6893912955c767bd39b62caa7c.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "sauce walka",
+          "url": "https://www.last.fm/tag/sauce+walka"
+        },
+        {
+          "name": "ASAP Rocky",
+          "url": "https://www.last.fm/tag/ASAP+Rocky"
+        },
+        {
+          "name": "Bossman Dlow",
+          "url": "https://www.last.fm/tag/Bossman+Dlow"
+        }
+      ]
+    }
+  }
+}

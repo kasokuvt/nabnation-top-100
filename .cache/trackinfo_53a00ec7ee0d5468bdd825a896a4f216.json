@@ -1,0 +1,71 @@
+{
+  "track": {
+    "name": "Don't You Worry Baby (feat. Madison McFerrin)",
+    "mbid": "93619c3c-2087-4b8c-beac-42e8b91bf38e",
+    "url": "https://www.last.fm/music/Tyler,+The+Creator/_/Don%27t+You+Worry+Baby+(feat.+Madison+McFerrin)",
+    "duration": "178000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "479967",
+    "playcount": "3772502",
+    "artist": {
+      "name": "Tyler, The Creator",
+      "mbid": "f6beac20-5dfe-4d1f-ae02-0b0a740aafd6",
+      "url": "https://www.last.fm/music/Tyler,+The+Creator"
+    },
+    "album": {
+      "artist": "Tyler, The Creator",
+      "title": "DON'T TAP THE GLASS (Explicit)",
+      "url": "https://www.last.fm/music/Tyler,+The+Creator/DON%27T+TAP+THE+GLASS+(Explicit)",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/586e1851787ad422b82d0e7daf16124e.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/586e1851787ad422b82d0e7daf16124e.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/586e1851787ad422b82d0e7daf16124e.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/586e1851787ad422b82d0e7daf16124e.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "electro",
+          "url": "https://www.last.fm/tag/electro"
+        },
+        {
+          "name": "west coast hip hop",
+          "url": "https://www.last.fm/tag/west+coast+hip+hop"
+        },
+        {
+          "name": "rnb",
+          "url": "https://www.last.fm/tag/rnb"
+        },
+        {
+          "name": "Neo-Soul",
+          "url": "https://www.last.fm/tag/Neo-Soul"
+        },
+        {
+          "name": "synth funk",
+          "url": "https://www.last.fm/tag/synth+funk"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "25 Jul 2025, 01:25",
+      "summary": "“Don’t You Worry Baby” is the eighth track on Tyler, The Creator’s ninth album, DON'T TAP THE GLASS, featuring Brooklyn-based soul artist, Madison McFerrin. This is the first collaboration between the two artists. <a href=\"http://www.last.fm/music/Tyler,+The+Creator/_/Don%27t+You+Worry+Baby+(feat.+Madison+McFerrin)\">Read more on Last.fm</a>.",
+      "content": "“Don’t You Worry Baby” is the eighth track on Tyler, The Creator’s ninth album, DON'T TAP THE GLASS, featuring Brooklyn-based soul artist, Madison McFerrin. This is the first collaboration between the two artists. <a href=\"http://www.last.fm/music/Tyler,+The+Creator/_/Don%27t+You+Worry+Baby+(feat.+Madison+McFerrin)\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

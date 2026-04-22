@@ -1,0 +1,71 @@
+{
+  "track": {
+    "name": "Do It (Yves Remix)",
+    "mbid": "b5a5e3ed-34d8-4b4a-9881-a8b953499ab2",
+    "url": "https://www.last.fm/music/underscores/_/Do+It+(Yves+Remix)",
+    "duration": "197000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "73623",
+    "playcount": "560943",
+    "artist": {
+      "name": "underscores",
+      "mbid": "ab1a3f85-e0ea-470a-af5c-175447ae774c",
+      "url": "https://www.last.fm/music/underscores"
+    },
+    "album": {
+      "artist": "underscores",
+      "title": "Do It (Yves Remix)",
+      "url": "https://www.last.fm/music/underscores/Do+It+(Yves+Remix)",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/fb5a9db0f286b4ca638783d91437b78d.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/fb5a9db0f286b4ca638783d91437b78d.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/fb5a9db0f286b4ca638783d91437b78d.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/fb5a9db0f286b4ca638783d91437b78d.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "k-pop",
+          "url": "https://www.last.fm/tag/k-pop"
+        },
+        {
+          "name": "hyperpop",
+          "url": "https://www.last.fm/tag/hyperpop"
+        },
+        {
+          "name": "Loona",
+          "url": "https://www.last.fm/tag/Loona"
+        },
+        {
+          "name": "electropop",
+          "url": "https://www.last.fm/tag/electropop"
+        },
+        {
+          "name": "Korean",
+          "url": "https://www.last.fm/tag/Korean"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "26 Feb 2026, 18:02",
+      "summary": "\"Do It (Yves Remix)\" is a song by American musician underscores featuring South Korean singer-songwriter Yves, released on January 23, 2026, through Mom+Pop Music. It is a remix of an original track by underscores, showcasing a collaboration between the experimental pop artist and the former LOONA member. <a href=\"http://www.last.fm/music/underscores/_/Do+It+(Yves+Remix)\">Read more on Last.fm</a>.",
+      "content": "\"Do It (Yves Remix)\" is a song by American musician underscores featuring South Korean singer-songwriter Yves, released on January 23, 2026, through Mom+Pop Music. It is a remix of an original track by underscores, showcasing a collaboration between the experimental pop artist and the former LOONA member. <a href=\"http://www.last.fm/music/underscores/_/Do+It+(Yves+Remix)\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}
