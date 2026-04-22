@@ -1,0 +1,71 @@
+{
+  "track": {
+    "name": "Girl Like Me",
+    "mbid": "1533570e-e0bf-4239-ad3d-10fdbccf2e65",
+    "url": "https://www.last.fm/music/PinkPantheress/_/Girl+Like+Me",
+    "duration": "145000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "597958",
+    "playcount": "7727929",
+    "artist": {
+      "name": "PinkPantheress",
+      "mbid": "7441014f-f8f5-494f-81db-ff166fbc078d",
+      "url": "https://www.last.fm/music/PinkPantheress"
+    },
+    "album": {
+      "artist": "PinkPantheress",
+      "title": "Fancy That",
+      "url": "https://www.last.fm/music/PinkPantheress/Fancy+That",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/5edfc17276a2c1f445f41faf2c9da1be.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/5edfc17276a2c1f445f41faf2c9da1be.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/5edfc17276a2c1f445f41faf2c9da1be.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/5edfc17276a2c1f445f41faf2c9da1be.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "electro house",
+          "url": "https://www.last.fm/tag/electro+house"
+        },
+        {
+          "name": "electropop",
+          "url": "https://www.last.fm/tag/electropop"
+        },
+        {
+          "name": "dance-pop",
+          "url": "https://www.last.fm/tag/dance-pop"
+        },
+        {
+          "name": "speed garage",
+          "url": "https://www.last.fm/tag/speed+garage"
+        },
+        {
+          "name": "WSUM 91.7 FM Madison",
+          "url": "https://www.last.fm/tag/WSUM+91.7+FM+Madison"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "17 May 2025, 16:17",
+      "summary": "“Girl Like Me” is a song that was first shared via PinkPantheress' TikTok account on July 12th, 2024. The song was later played on The Lot Radio on March 28, 2025.\n\nThe song samples “Romeo” by English artist Basement Jaxx featuring Kele Le Roc. According to an interview with Mixmag, “Romeo” is her favorite sample. <a href=\"http://www.last.fm/music/PinkPantheress/_/Girl+Like+Me\">Read more on Last.fm</a>.",
+      "content": "“Girl Like Me” is a song that was first shared via PinkPantheress' TikTok account on July 12th, 2024. The song was later played on The Lot Radio on March 28, 2025.\n\nThe song samples “Romeo” by English artist Basement Jaxx featuring Kele Le Roc. According to an interview with Mixmag, “Romeo” is her favorite sample. <a href=\"http://www.last.fm/music/PinkPantheress/_/Girl+Like+Me\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

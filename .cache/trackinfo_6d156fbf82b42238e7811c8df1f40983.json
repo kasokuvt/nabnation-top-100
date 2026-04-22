@@ -1,0 +1,42 @@
+{
+  "track": {
+    "name": "NASTYWERKKKK!",
+    "url": "https://www.last.fm/music/femtanyl/_/NASTYWERKKKK%21",
+    "duration": "139000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "84867",
+    "playcount": "1378972",
+    "artist": {
+      "name": "femtanyl",
+      "mbid": "eb3c021d-e056-42d6-8fad-064205a90527",
+      "url": "https://www.last.fm/music/femtanyl"
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "hardcore",
+          "url": "https://www.last.fm/tag/hardcore"
+        },
+        {
+          "name": "rap",
+          "url": "https://www.last.fm/tag/rap"
+        },
+        {
+          "name": "digital hardcore",
+          "url": "https://www.last.fm/tag/digital+hardcore"
+        },
+        {
+          "name": "hip hop",
+          "url": "https://www.last.fm/tag/hip+hop"
+        },
+        {
+          "name": "webcore",
+          "url": "https://www.last.fm/tag/webcore"
+        }
+      ]
+    }
+  }
+}

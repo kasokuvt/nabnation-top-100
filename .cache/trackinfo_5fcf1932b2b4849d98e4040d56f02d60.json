@@ -1,0 +1,45 @@
+{
+  "track": {
+    "name": "6up 5Oh Cop-Out (Pro/Con)",
+    "mbid": "ad1c6b83-9deb-4ddb-912b-d00180293af6",
+    "url": "https://www.last.fm/music/Will+Wood+and+the+Tapeworms/_/6up+5Oh+Cop-Out+(Pro%2FCon)",
+    "duration": "221000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "346",
+    "playcount": "4434",
+    "artist": {
+      "name": "Will Wood and the Tapeworms",
+      "mbid": "2f035e83-050f-4bce-acb0-ca0db9515577",
+      "url": "https://www.last.fm/music/Will+Wood+and+the+Tapeworms"
+    },
+    "album": {
+      "artist": "Will Wood and the Tapeworms",
+      "title": "Everything Is a Lot",
+      "url": "https://www.last.fm/music/Will+Wood+and+the+Tapeworms/Everything+Is+a+Lot",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/27cd30daca8b472bb429d5b18041c5c7.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/27cd30daca8b472bb429d5b18041c5c7.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/27cd30daca8b472bb429d5b18041c5c7.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/27cd30daca8b472bb429d5b18041c5c7.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

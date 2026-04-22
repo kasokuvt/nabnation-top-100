@@ -1,0 +1,45 @@
+{
+  "track": {
+    "name": "Weightless!",
+    "mbid": "abba575c-db01-45a3-8835-c556907a2979",
+    "url": "https://www.last.fm/music/femtanyl/_/Weightless%21",
+    "duration": "144000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "78280",
+    "playcount": "982435",
+    "artist": {
+      "name": "femtanyl",
+      "mbid": "eb3c021d-e056-42d6-8fad-064205a90527",
+      "url": "https://www.last.fm/music/femtanyl"
+    },
+    "album": {
+      "artist": "femtanyl",
+      "title": "Weightless!",
+      "url": "https://www.last.fm/music/femtanyl/Weightless%21",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/dde38c6942ce4c270d318eaba610ba57.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/dde38c6942ce4c270d318eaba610ba57.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/dde38c6942ce4c270d318eaba610ba57.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/dde38c6942ce4c270d318eaba610ba57.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

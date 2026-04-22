@@ -1,0 +1,54 @@
+{
+  "track": {
+    "name": "In My Room",
+    "mbid": "7084e345-2184-4f8f-88dc-90fe0eae4398",
+    "url": "https://www.last.fm/music/Julia+Wolf/_/In+My+Room",
+    "duration": "163000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "380274",
+    "playcount": "5888015",
+    "artist": {
+      "name": "Julia Wolf",
+      "mbid": "b89456e0-cf8d-4a29-baed-4b2d1fe3ef6a",
+      "url": "https://www.last.fm/music/Julia+Wolf"
+    },
+    "album": {
+      "artist": "Julia Wolf",
+      "title": "In My Room",
+      "url": "https://www.last.fm/music/Julia+Wolf/In+My+Room",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/066810fc65d7ec46d09f510775eac498.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/066810fc65d7ec46d09f510775eac498.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/066810fc65d7ec46d09f510775eac498.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/066810fc65d7ec46d09f510775eac498.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "BARBARA PARIS LOVES IT",
+          "url": "https://www.last.fm/tag/BARBARA+PARIS+LOVES+IT"
+        },
+        {
+          "name": "volcrynz",
+          "url": "https://www.last.fm/tag/volcrynz"
+        }
+      ]
+    }
+  }
+}

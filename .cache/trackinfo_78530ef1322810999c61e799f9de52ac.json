@@ -1,0 +1,71 @@
+{
+  "track": {
+    "name": "Fashion Killa",
+    "mbid": "5b61879d-aeb0-4846-ab6a-b8e16e37ccce",
+    "url": "https://www.last.fm/music/A$AP+Rocky/_/Fashion+Killa",
+    "duration": "236000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "1069123",
+    "playcount": "16133249",
+    "artist": {
+      "name": "A$AP Rocky",
+      "mbid": "25b7b584-d952-4662-a8b9-dd8cdfbfeb64",
+      "url": "https://www.last.fm/music/A$AP+Rocky"
+    },
+    "album": {
+      "artist": "A$AP Rocky",
+      "title": "LONG.LIVE.A$AP (Deluxe Version)",
+      "url": "https://www.last.fm/music/A$AP+Rocky/LONG.LIVE.A$AP+(Deluxe+Version)",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/0df72153bd60cdacd73263dd65de2041.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/0df72153bd60cdacd73263dd65de2041.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/0df72153bd60cdacd73263dd65de2041.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/0df72153bd60cdacd73263dd65de2041.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "rap",
+          "url": "https://www.last.fm/tag/rap"
+        },
+        {
+          "name": "Hip-Hop",
+          "url": "https://www.last.fm/tag/Hip-Hop"
+        },
+        {
+          "name": "cloud rap",
+          "url": "https://www.last.fm/tag/cloud+rap"
+        },
+        {
+          "name": "east coast hip-hop",
+          "url": "https://www.last.fm/tag/east+coast+hip-hop"
+        },
+        {
+          "name": "trap",
+          "url": "https://www.last.fm/tag/trap"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "13 May 2023, 04:11",
+      "summary": "With countless references to style and fashion, this track illustrates that Rocky’s not only on top of the fashion game, but also paints a picture of how he wants his perfect girl to dress – and more importantly, in what brands.\n\nThroughout both verses in Fashion Killa, Rocky names twenty-seven high fashion brands.\n\n“Fashion Killa,” was certified gold by the RIAA on October 29th, 2018. <a href=\"http://www.last.fm/music/A$AP+Rocky/_/Fashion+Killa\">Read more on Last.fm</a>.",
+      "content": "With countless references to style and fashion, this track illustrates that Rocky’s not only on top of the fashion game, but also paints a picture of how he wants his perfect girl to dress – and more importantly, in what brands.\n\nThroughout both verses in Fashion Killa, Rocky names twenty-seven high fashion brands.\n\n“Fashion Killa,” was certified gold by the RIAA on October 29th, 2018. <a href=\"http://www.last.fm/music/A$AP+Rocky/_/Fashion+Killa\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

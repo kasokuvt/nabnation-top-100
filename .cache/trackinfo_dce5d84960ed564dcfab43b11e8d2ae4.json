@@ -1,0 +1,71 @@
+{
+  "track": {
+    "name": "Hollywood Forever",
+    "mbid": "41f73c9d-3436-494b-95d4-9d56e4e7dfae",
+    "url": "https://www.last.fm/music/underscores/_/Hollywood+Forever",
+    "duration": "294000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "105629",
+    "playcount": "654139",
+    "artist": {
+      "name": "underscores",
+      "mbid": "ab1a3f85-e0ea-470a-af5c-175447ae774c",
+      "url": "https://www.last.fm/music/underscores"
+    },
+    "album": {
+      "artist": "underscores",
+      "title": "U",
+      "url": "https://www.last.fm/music/underscores/U",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/82573426631c6de14959f4753eafe666.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/82573426631c6de14959f4753eafe666.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/82573426631c6de14959f4753eafe666.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/82573426631c6de14959f4753eafe666.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "euro trance",
+          "url": "https://www.last.fm/tag/euro+trance"
+        },
+        {
+          "name": "electropop",
+          "url": "https://www.last.fm/tag/electropop"
+        },
+        {
+          "name": "dance-pop",
+          "url": "https://www.last.fm/tag/dance-pop"
+        },
+        {
+          "name": "Progressive House",
+          "url": "https://www.last.fm/tag/Progressive+House"
+        },
+        {
+          "name": "bubblegum bass",
+          "url": "https://www.last.fm/tag/bubblegum+bass"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "05 Apr 2026, 21:21",
+      "summary": "Hollywood Forever is the name of a notable cemetery in Los Angeles. Along being a large graveyard they host movie nights and concerts during certain parts of the year. <a href=\"http://www.last.fm/music/underscores/_/Hollywood+Forever\">Read more on Last.fm</a>.",
+      "content": "Hollywood Forever is the name of a notable cemetery in Los Angeles. Along being a large graveyard they host movie nights and concerts during certain parts of the year. <a href=\"http://www.last.fm/music/underscores/_/Hollywood+Forever\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

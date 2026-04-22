@@ -1,0 +1,45 @@
+{
+  "track": {
+    "name": "lesbian vampire killers",
+    "mbid": "57925fe3-ad74-4bf1-a0e8-14df00339acd",
+    "url": "https://www.last.fm/music/bleood/_/lesbian+vampire+killers",
+    "duration": "113000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "20137",
+    "playcount": "190087",
+    "artist": {
+      "name": "bleood",
+      "mbid": "ce6a32ee-197d-4a59-9dad-37eb21b45c30",
+      "url": "https://www.last.fm/music/bleood"
+    },
+    "album": {
+      "artist": "bleood",
+      "title": "rascal 51 [Clean]",
+      "url": "https://www.last.fm/music/bleood/rascal+51+%5BClean%5D",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/dcdb1b0cb1f63877502a0367703711c8.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/dcdb1b0cb1f63877502a0367703711c8.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/dcdb1b0cb1f63877502a0367703711c8.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/dcdb1b0cb1f63877502a0367703711c8.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "track": {
+    "name": "Bubbles Buried in This Jungle",
+    "mbid": "1f2b821b-b36e-478e-bcd6-093262432755",
+    "url": "https://www.last.fm/music/Death+Grips/_/Bubbles+Buried+in+This+Jungle",
+    "duration": "159000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "178016",
+    "playcount": "1632422",
+    "artist": {
+      "name": "Death Grips",
+      "mbid": "f9133036-ab3d-4e97-bd11-7a2c98ad148a",
+      "url": "https://www.last.fm/music/Death+Grips"
+    },
+    "album": {
+      "artist": "Death Grips",
+      "title": "Bottomless Pit",
+      "url": "https://www.last.fm/music/Death+Grips/Bottomless+Pit",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/b52817f5a1bbab6bef03f9845892d362.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/b52817f5a1bbab6bef03f9845892d362.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/b52817f5a1bbab6bef03f9845892d362.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/b52817f5a1bbab6bef03f9845892d362.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    },
+    "wiki": {
+      "published": "02 May 2016, 23:56",
+      "summary": "As the sixth track off of \"Bottomless Pit\", \"Bubbles Buried in this Jungle\" is a violent headbanging synth ridden rap song, and details Ride's lavish experience with Death Grips. <a href=\"http://www.last.fm/music/Death+Grips/_/Bubbles+Buried+in+This+Jungle\">Read more on Last.fm</a>.",
+      "content": "As the sixth track off of \"Bottomless Pit\", \"Bubbles Buried in this Jungle\" is a violent headbanging synth ridden rap song, and details Ride's lavish experience with Death Grips. <a href=\"http://www.last.fm/music/Death+Grips/_/Bubbles+Buried+in+This+Jungle\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

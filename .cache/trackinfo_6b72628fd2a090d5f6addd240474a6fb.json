@@ -1,0 +1,71 @@
+{
+  "track": {
+    "name": "Fadeoutz",
+    "mbid": "8984fd87-c6d2-414e-bc7d-a95f9fcdfbf3",
+    "url": "https://www.last.fm/music/Jane+Remover/_/Fadeoutz",
+    "duration": "200000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "101408",
+    "playcount": "946570",
+    "artist": {
+      "name": "Jane Remover",
+      "mbid": "f4b6e451-5dce-4842-a555-f793892299b3",
+      "url": "https://www.last.fm/music/Jane+Remover"
+    },
+    "album": {
+      "artist": "Jane Remover",
+      "title": "Revengeseekerz",
+      "url": "https://www.last.fm/music/Jane+Remover/Revengeseekerz",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/7e63ec5a92240a2f3292aa15bd5af39a.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/7e63ec5a92240a2f3292aa15bd5af39a.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/7e63ec5a92240a2f3292aa15bd5af39a.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/7e63ec5a92240a2f3292aa15bd5af39a.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "glitch pop",
+          "url": "https://www.last.fm/tag/glitch+pop"
+        },
+        {
+          "name": "experimental hip hop",
+          "url": "https://www.last.fm/tag/experimental+hip+hop"
+        },
+        {
+          "name": "alternative rnb",
+          "url": "https://www.last.fm/tag/alternative+rnb"
+        },
+        {
+          "name": "digicore",
+          "url": "https://www.last.fm/tag/digicore"
+        },
+        {
+          "name": "simon-approved",
+          "url": "https://www.last.fm/tag/simon-approved"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "05 Apr 2025, 19:36",
+      "summary": "FORTNITE! <a href=\"http://www.last.fm/music/Jane+Remover/_/Fadeoutz\">Read more on Last.fm</a>.",
+      "content": "FORTNITE! <a href=\"http://www.last.fm/music/Jane+Remover/_/Fadeoutz\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

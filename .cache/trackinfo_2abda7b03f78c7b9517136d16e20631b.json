@@ -1,0 +1,45 @@
+{
+  "track": {
+    "name": "KING OF ROCK",
+    "mbid": "67c0ba6a-1df3-4214-b9eb-aab6614e0383",
+    "url": "https://www.last.fm/music/Che/_/KING+OF+ROCK",
+    "duration": "121000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "27001",
+    "playcount": "89387",
+    "artist": {
+      "name": "Che",
+      "mbid": "e10ddbc5-dcae-4bbb-8a32-4c9a7228bfab",
+      "url": "https://www.last.fm/music/Che"
+    },
+    "album": {
+      "artist": "Che",
+      "title": "REST IN BASS: ENCORE",
+      "url": "https://www.last.fm/music/Che/REST+IN+BASS:+ENCORE",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/222751db2f0493aa04ae4d3244fec5e5.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/222751db2f0493aa04ae4d3244fec5e5.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/222751db2f0493aa04ae4d3244fec5e5.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/222751db2f0493aa04ae4d3244fec5e5.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "track": {
+    "name": "Ring Ring Ring",
+    "mbid": "1726498a-93a4-4625-92b8-ffbba651d62e",
+    "url": "https://www.last.fm/music/Tyler,+The+Creator/_/Ring+Ring+Ring",
+    "duration": "201000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "825089",
+    "playcount": "7755218",
+    "artist": {
+      "name": "Tyler, The Creator",
+      "mbid": "f6beac20-5dfe-4d1f-ae02-0b0a740aafd6",
+      "url": "https://www.last.fm/music/Tyler,+The+Creator"
+    },
+    "album": {
+      "artist": "Tyler, The Creator",
+      "title": "DON’T TAP THE GLASS",
+      "url": "https://www.last.fm/music/Tyler,+The+Creator/DON%E2%80%99T+TAP+THE+GLASS",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/78e70997eda194526a71b0ed3fa411f0.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/78e70997eda194526a71b0ed3fa411f0.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/78e70997eda194526a71b0ed3fa411f0.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/78e70997eda194526a71b0ed3fa411f0.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "rnb",
+          "url": "https://www.last.fm/tag/rnb"
+        },
+        {
+          "name": "minneapolis sound",
+          "url": "https://www.last.fm/tag/minneapolis+sound"
+        },
+        {
+          "name": "freestyle",
+          "url": "https://www.last.fm/tag/freestyle"
+        },
+        {
+          "name": "synthpop",
+          "url": "https://www.last.fm/tag/synthpop"
+        },
+        {
+          "name": "pop rap",
+          "url": "https://www.last.fm/tag/pop+rap"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "22 Jul 2025, 03:21",
+      "summary": "“Ring Ring Ring,” the sixth track from Tyler, The Creator’s studio album, DON'T TAP THE GLASS, is a sorrowful anthem in which Tyler sings and raps about longing for the girl whom he had just broken up with. <a href=\"http://www.last.fm/music/Tyler,+The+Creator/_/Ring+Ring+Ring\">Read more on Last.fm</a>.",
+      "content": "“Ring Ring Ring,” the sixth track from Tyler, The Creator’s studio album, DON'T TAP THE GLASS, is a sorrowful anthem in which Tyler sings and raps about longing for the girl whom he had just broken up with. <a href=\"http://www.last.fm/music/Tyler,+The+Creator/_/Ring+Ring+Ring\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

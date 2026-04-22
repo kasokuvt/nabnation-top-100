@@ -1,0 +1,71 @@
+{
+  "track": {
+    "name": "Taxes",
+    "mbid": "38d1fb45-1421-4da8-8f7d-32a50fa254f4",
+    "url": "https://www.last.fm/music/Geese/_/Taxes",
+    "duration": "434000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "204641",
+    "playcount": "2050173",
+    "artist": {
+      "name": "Geese",
+      "mbid": "d9c886a0-5364-40d3-a07c-e860d2735926",
+      "url": "https://www.last.fm/music/Geese"
+    },
+    "album": {
+      "artist": "Geese",
+      "title": "Getting Killed",
+      "url": "https://www.last.fm/music/Geese/Getting+Killed",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/75695cd196406316f055a757728c6ee7.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/75695cd196406316f055a757728c6ee7.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/75695cd196406316f055a757728c6ee7.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/75695cd196406316f055a757728c6ee7.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "indie rock",
+          "url": "https://www.last.fm/tag/indie+rock"
+        },
+        {
+          "name": "Neo-Psychedelia",
+          "url": "https://www.last.fm/tag/Neo-Psychedelia"
+        },
+        {
+          "name": "art rock",
+          "url": "https://www.last.fm/tag/art+rock"
+        },
+        {
+          "name": "jangle pop",
+          "url": "https://www.last.fm/tag/jangle+pop"
+        },
+        {
+          "name": "heartland rock",
+          "url": "https://www.last.fm/tag/heartland+rock"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "06 Dec 2025, 13:21",
+      "summary": "“Taxes” is the lead single from Geese’s 3rd official studio album Getting Killed.\n\nThe single features a character plagued with guilt, perhaps from a failed relationship, who decides to turn inward and reject the world around them while they either (depending on your reading of the lyrics) wallow in their pity or work towards improving themselves. <a href=\"http://www.last.fm/music/Geese/_/Taxes\">Read more on Last.fm</a>.",
+      "content": "“Taxes” is the lead single from Geese’s 3rd official studio album Getting Killed.\n\nThe single features a character plagued with guilt, perhaps from a failed relationship, who decides to turn inward and reject the world around them while they either (depending on your reading of the lyrics) wallow in their pity or work towards improving themselves. <a href=\"http://www.last.fm/music/Geese/_/Taxes\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "track": {
+    "name": "Love In A Bottle",
+    "url": "https://www.last.fm/music/HAZBIN+HOTEL/_/Love+In+A+Bottle",
+    "duration": "125000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "75662",
+    "playcount": "1668569",
+    "artist": {
+      "name": "HAZBIN HOTEL",
+      "url": "https://www.last.fm/music/HAZBIN+HOTEL"
+    },
+    "album": {
+      "artist": "HAZBIN HOTEL",
+      "title": "Hazbin Hotel: Season Two (Original Soundtrack)",
+      "url": "https://www.last.fm/music/HAZBIN+HOTEL/Hazbin+Hotel:+Season+Two+(Original+Soundtrack)",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/6dd3b6d9810e5e444245140f31a4d8c8.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/6dd3b6d9810e5e444245140f31a4d8c8.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/6dd3b6d9810e5e444245140f31a4d8c8.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/6dd3b6d9810e5e444245140f31a4d8c8.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "alcoholism",
+          "url": "https://www.last.fm/tag/alcoholism"
+        }
+      ]
+    }
+  }
+}

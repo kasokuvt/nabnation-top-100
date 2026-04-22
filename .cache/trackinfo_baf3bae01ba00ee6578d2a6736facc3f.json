@@ -1,0 +1,45 @@
+{
+  "track": {
+    "name": "WHIPPIN",
+    "mbid": "9eea9166-2fee-4439-a6ee-02e407041e45",
+    "url": "https://www.last.fm/music/Che/_/WHIPPIN",
+    "duration": "116000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "20792",
+    "playcount": "79940",
+    "artist": {
+      "name": "Che",
+      "mbid": "e10ddbc5-dcae-4bbb-8a32-4c9a7228bfab",
+      "url": "https://www.last.fm/music/Che"
+    },
+    "album": {
+      "artist": "Che",
+      "title": "ENCORE",
+      "url": "https://www.last.fm/music/Che/ENCORE",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/26973f7bb0989f8a869101bb106eda69.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/26973f7bb0989f8a869101bb106eda69.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/26973f7bb0989f8a869101bb106eda69.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/26973f7bb0989f8a869101bb106eda69.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

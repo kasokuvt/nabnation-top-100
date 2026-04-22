@@ -1,0 +1,71 @@
+{
+  "track": {
+    "name": "Duvet",
+    "mbid": "3f320603-c50a-4d6f-9b64-55f04528046a",
+    "url": "https://www.last.fm/music/b%C3%B4a/_/Duvet",
+    "duration": "203000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "1825080",
+    "playcount": "37448660",
+    "artist": {
+      "name": "bôa",
+      "mbid": "ca1dcba2-792c-4550-abf2-7b45396e81ca",
+      "url": "https://www.last.fm/music/b%C3%B4a"
+    },
+    "album": {
+      "artist": "bôa",
+      "title": "Twilight",
+      "url": "https://www.last.fm/music/b%C3%B4a/Twilight",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/40564dd1a58f969fc3ee3c49bddffd23.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/40564dd1a58f969fc3ee3c49bddffd23.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/40564dd1a58f969fc3ee3c49bddffd23.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/40564dd1a58f969fc3ee3c49bddffd23.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "anime",
+          "url": "https://www.last.fm/tag/anime"
+        },
+        {
+          "name": "serial experiments lain",
+          "url": "https://www.last.fm/tag/serial+experiments+lain"
+        },
+        {
+          "name": "Soundtrack",
+          "url": "https://www.last.fm/tag/Soundtrack"
+        },
+        {
+          "name": "alternative rock",
+          "url": "https://www.last.fm/tag/alternative+rock"
+        },
+        {
+          "name": "female vocalists",
+          "url": "https://www.last.fm/tag/female+vocalists"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "09 Feb 2022, 20:31",
+      "summary": "The opening theme of the 1998 anime series \"Serial Experiments Lain\", released as the third track to Bôa (UK)’s 1998 album \"The Race of a Thousand Camels\" and later the first track on the US release \"Twilight\". Written by vocalist Jasmine Rodgers, “Duvet’s” meaning is different depending on whether it’s taken within the context of the anime or not. In context with the anime, it reflects the main character Lain Iwakura’s struggles with understanding the world around her and her wish for a helping hand. <a href=\"http://www.last.fm/music/b%C3%B4a/_/Duvet\">Read more on Last.fm</a>.",
+      "content": "The opening theme of the 1998 anime series \"Serial Experiments Lain\", released as the third track to Bôa (UK)’s 1998 album \"The Race of a Thousand Camels\" and later the first track on the US release \"Twilight\". Written by vocalist Jasmine Rodgers, “Duvet’s” meaning is different depending on whether it’s taken within the context of the anime or not. In context with the anime, it reflects the main character Lain Iwakura’s struggles with understanding the world around her and her wish for a helping hand. Out of context, it depicts a relationship between her and another guy who turns out to be very different from what he seemed to be at first.\n\nIt’s the band’s most popular song, and subsequently one of the most beloved opening themes among longtime anime fans. <a href=\"http://www.last.fm/music/b%C3%B4a/_/Duvet\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

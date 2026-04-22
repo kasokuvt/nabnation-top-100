@@ -1,0 +1,71 @@
+{
+  "track": {
+    "name": "Au Pays du Cocaine",
+    "mbid": "de3cc966-527a-4a52-b48d-d70e7d719594",
+    "url": "https://www.last.fm/music/Geese/_/Au+Pays+du+Cocaine",
+    "duration": "210000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "196753",
+    "playcount": "1945718",
+    "artist": {
+      "name": "Geese",
+      "mbid": "d9c886a0-5364-40d3-a07c-e860d2735926",
+      "url": "https://www.last.fm/music/Geese"
+    },
+    "album": {
+      "artist": "Geese",
+      "title": "Getting Killed",
+      "url": "https://www.last.fm/music/Geese/Getting+Killed",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/75695cd196406316f055a757728c6ee7.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/75695cd196406316f055a757728c6ee7.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/75695cd196406316f055a757728c6ee7.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/75695cd196406316f055a757728c6ee7.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "country soul",
+          "url": "https://www.last.fm/tag/country+soul"
+        },
+        {
+          "name": "soft rock",
+          "url": "https://www.last.fm/tag/soft+rock"
+        },
+        {
+          "name": "chamber folk",
+          "url": "https://www.last.fm/tag/chamber+folk"
+        },
+        {
+          "name": "Alt-country",
+          "url": "https://www.last.fm/tag/Alt-country"
+        },
+        {
+          "name": "chamber pop",
+          "url": "https://www.last.fm/tag/chamber+pop"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "31 Oct 2025, 06:08",
+      "summary": "Au Pays du Cocaine (poorly) translates the standard English title of Bruegel’s “Het Luilekkerland\"—\"The Land of Cockaigne\"—to French and puns on it. The figure at the back of the tree in Bruegel’s painting wears what might be a ‘big green coat’ (this character is generally taken as a soldier, but his lance looks more than a little like an oar…) while he lounges in the afterlife, the decadent ‘land of plenty’ that is Cockaigne. Of course, there’s no coming back from this, but then, ‘it’s fine.’ <a href=\"http://www.last.fm/music/Geese/_/Au+Pays+du+Cocaine\">Read more on Last.fm</a>.",
+      "content": "Au Pays du Cocaine (poorly) translates the standard English title of Bruegel’s “Het Luilekkerland\"—\"The Land of Cockaigne\"—to French and puns on it. The figure at the back of the tree in Bruegel’s painting wears what might be a ‘big green coat’ (this character is generally taken as a soldier, but his lance looks more than a little like an oar…) while he lounges in the afterlife, the decadent ‘land of plenty’ that is Cockaigne. Of course, there’s no coming back from this, but then, ‘it’s fine.’\n\nThe correct translation for “In The Land of Cocaine” would be “Au Pays de la Cocaine”. <a href=\"http://www.last.fm/music/Geese/_/Au+Pays+du+Cocaine\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

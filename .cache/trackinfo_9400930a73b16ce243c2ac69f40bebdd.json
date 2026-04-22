@@ -1,0 +1,45 @@
+{
+  "track": {
+    "name": "AIZO",
+    "mbid": "4c819955-e6b3-491a-b951-f9a766db02ac",
+    "url": "https://www.last.fm/music/King+Gnu/_/AIZO",
+    "duration": "215000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "13399",
+    "playcount": "160571",
+    "artist": {
+      "name": "King Gnu",
+      "mbid": "338f5d97-3133-4bf8-a58e-068ff9b5405d",
+      "url": "https://www.last.fm/music/King+Gnu"
+    },
+    "album": {
+      "artist": "King Gnu",
+      "title": "Aizo",
+      "url": "https://www.last.fm/music/King+Gnu/Aizo",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/5c02078b634fe2d17c800ff1830cedf2.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/5c02078b634fe2d17c800ff1830cedf2.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/5c02078b634fe2d17c800ff1830cedf2.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/5c02078b634fe2d17c800ff1830cedf2.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

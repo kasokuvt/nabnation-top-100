@@ -1,0 +1,71 @@
+{
+  "track": {
+    "name": "GALA",
+    "mbid": "12f256b9-2b0e-4b31-b70c-41cc8708870d",
+    "url": "https://www.last.fm/music/XG/_/GALA",
+    "duration": "227000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "129083",
+    "playcount": "1490190",
+    "artist": {
+      "name": "XG",
+      "mbid": "8dfe067c-ae90-472e-80f2-fcee9be4e158",
+      "url": "https://www.last.fm/music/XG"
+    },
+    "album": {
+      "artist": "XG",
+      "title": "GALA",
+      "url": "https://www.last.fm/music/XG/GALA",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/11c32f9c6c55240b2794e117c100d7c2.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/11c32f9c6c55240b2794e117c100d7c2.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/11c32f9c6c55240b2794e117c100d7c2.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/11c32f9c6c55240b2794e117c100d7c2.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "hip house",
+          "url": "https://www.last.fm/tag/hip+house"
+        },
+        {
+          "name": "dance-pop",
+          "url": "https://www.last.fm/tag/dance-pop"
+        },
+        {
+          "name": "diva house",
+          "url": "https://www.last.fm/tag/diva+house"
+        },
+        {
+          "name": "pop rap",
+          "url": "https://www.last.fm/tag/pop+rap"
+        },
+        {
+          "name": "House",
+          "url": "https://www.last.fm/tag/House"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "17 Dec 2025, 12:55",
+      "summary": "\"GALA\" is the 10th digital single by XG. It was released on September 19, 2025. It was later featured on XG's new album \"THE CORE - 核\". <a href=\"http://www.last.fm/music/XG/_/GALA\">Read more on Last.fm</a>.",
+      "content": "\"GALA\" is the 10th digital single by XG. It was released on September 19, 2025. It was later featured on XG's new album \"THE CORE - 核\". <a href=\"http://www.last.fm/music/XG/_/GALA\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "track": {
+    "name": "Love Takes Miles",
+    "mbid": "87a961aa-6e95-4fe8-aed2-e40eaac88e8e",
+    "url": "https://www.last.fm/music/Cameron+Winter/_/Love+Takes+Miles",
+    "duration": "213000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "214313",
+    "playcount": "2793460",
+    "artist": {
+      "name": "Cameron Winter",
+      "mbid": "79c6b6f4-cb92-4f03-a1ef-82e7aa4eddbb",
+      "url": "https://www.last.fm/music/Cameron+Winter"
+    },
+    "album": {
+      "artist": "Cameron Winter",
+      "title": "Heavy Metal [Explicit]",
+      "url": "https://www.last.fm/music/Cameron+Winter/Heavy+Metal+%5BExplicit%5D",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/b3e0aa1c17cdd674a441b5c521fd8158.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/b3e0aa1c17cdd674a441b5c521fd8158.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/b3e0aa1c17cdd674a441b5c521fd8158.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/b3e0aa1c17cdd674a441b5c521fd8158.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "soft rock",
+          "url": "https://www.last.fm/tag/soft+rock"
+        },
+        {
+          "name": "piano rock",
+          "url": "https://www.last.fm/tag/piano+rock"
+        },
+        {
+          "name": "pop soul",
+          "url": "https://www.last.fm/tag/pop+soul"
+        },
+        {
+          "name": "Reelin In The Years",
+          "url": "https://www.last.fm/tag/Reelin+In+The+Years"
+        },
+        {
+          "name": "WSUM 91.7 FM Madison",
+          "url": "https://www.last.fm/tag/WSUM+91.7+FM+Madison"
+        }
+      ]
+    }
+  }
+}

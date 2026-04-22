@@ -1,0 +1,45 @@
+{
+  "track": {
+    "name": "Interrogation (Skit)",
+    "mbid": "157a4e5f-b68f-4e93-b120-20ca3ba6560e",
+    "url": "https://www.last.fm/music/A$AP+Rocky/_/Interrogation+(Skit)",
+    "duration": "49000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "259248",
+    "playcount": "718854",
+    "artist": {
+      "name": "A$AP Rocky",
+      "mbid": "25b7b584-d952-4662-a8b9-dd8cdfbfeb64",
+      "url": "https://www.last.fm/music/A$AP+Rocky"
+    },
+    "album": {
+      "artist": "A$AP Rocky",
+      "title": "Don't Be Dumb [Clean]",
+      "url": "https://www.last.fm/music/A$AP+Rocky/Don%27t+Be+Dumb+%5BClean%5D",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/bff9dfc2d7a0e7d7d407f13ff454dd9d.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/bff9dfc2d7a0e7d7d407f13ff454dd9d.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/bff9dfc2d7a0e7d7d407f13ff454dd9d.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/bff9dfc2d7a0e7d7d407f13ff454dd9d.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

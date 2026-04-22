@@ -1,0 +1,43 @@
+{
+  "track": {
+    "name": "BAILE INoLVIDABLE",
+    "mbid": "224177fe-504b-4495-bc62-a091f1022bda",
+    "url": "https://www.last.fm/music/Bad+Bunny/_/BAILE+INoLVIDABLE",
+    "duration": "367000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "571766",
+    "playcount": "7947545",
+    "artist": {
+      "name": "Bad Bunny",
+      "mbid": "89aa5ecb-59ad-46f5-b3eb-2d424e941f19",
+      "url": "https://www.last.fm/music/Bad+Bunny"
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "salsa",
+          "url": "https://www.last.fm/tag/salsa"
+        },
+        {
+          "name": "instrumental",
+          "url": "https://www.last.fm/tag/instrumental"
+        },
+        {
+          "name": "loud",
+          "url": "https://www.last.fm/tag/loud"
+        },
+        {
+          "name": "Reggaeton",
+          "url": "https://www.last.fm/tag/Reggaeton"
+        },
+        {
+          "name": "spoken",
+          "url": "https://www.last.fm/tag/spoken"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "track": {
+    "name": "Meridian",
+    "url": "https://www.last.fm/music/The+Hellp/_/Meridian",
+    "duration": "273000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "18651",
+    "playcount": "75907",
+    "artist": {
+      "name": "The Hellp",
+      "mbid": "ca204bac-2768-4d6f-a5e4-8e8f9080817b",
+      "url": "https://www.last.fm/music/The+Hellp"
+    },
+    "album": {
+      "artist": "The Hellp",
+      "title": "Riviera",
+      "url": "https://www.last.fm/music/The+Hellp/Riviera",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2b4aecbdfa43abeae596f63c576cde70.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2b4aecbdfa43abeae596f63c576cde70.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2b4aecbdfa43abeae596f63c576cde70.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2b4aecbdfa43abeae596f63c576cde70.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

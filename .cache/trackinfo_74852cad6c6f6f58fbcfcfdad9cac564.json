@@ -1,0 +1,45 @@
+{
+  "track": {
+    "name": "Internet Girl",
+    "mbid": "0fad141b-3f03-46cf-a490-6f7fe39570bc",
+    "url": "https://www.last.fm/music/KATSEYE/_/Internet+Girl",
+    "duration": "164000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "124790",
+    "playcount": "643534",
+    "artist": {
+      "name": "KATSEYE",
+      "mbid": "abbf7d85-9a7f-4a6c-80bd-bf71f2c7d520",
+      "url": "https://www.last.fm/music/KATSEYE"
+    },
+    "album": {
+      "artist": "KATSEYE",
+      "title": "Internet Girl",
+      "url": "https://www.last.fm/music/KATSEYE/Internet+Girl",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/26606c496bf5c84df1a0f2f47cac0a03.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/26606c496bf5c84df1a0f2f47cac0a03.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/26606c496bf5c84df1a0f2f47cac0a03.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/26606c496bf5c84df1a0f2f47cac0a03.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

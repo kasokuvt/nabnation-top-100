@@ -1,0 +1,44 @@
+{
+  "track": {
+    "name": "weathergirl",
+    "mbid": "d59b8460-300f-4d5e-b21a-5266f2b0e0f9",
+    "url": "https://www.last.fm/music/Flavor+Foley/_/weathergirl",
+    "duration": "258000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "27035",
+    "playcount": "567216",
+    "artist": {
+      "name": "Flavor Foley",
+      "url": "https://www.last.fm/music/Flavor+Foley"
+    },
+    "album": {
+      "artist": "Flavor Foley",
+      "title": "weathergirl - Single",
+      "url": "https://www.last.fm/music/Flavor+Foley/weathergirl+-+Single",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/52f857205455aa8e7abb45333566f603.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/52f857205455aa8e7abb45333566f603.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/52f857205455aa8e7abb45333566f603.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/52f857205455aa8e7abb45333566f603.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

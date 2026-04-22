@@ -1,0 +1,66 @@
+{
+  "track": {
+    "name": "モニタリング",
+    "mbid": "fb364193-b965-4eac-ab2b-4884d2b5417e",
+    "url": "https://www.last.fm/music/DECO%2A27/_/%E3%83%A2%E3%83%8B%E3%82%BF%E3%83%AA%E3%83%B3%E3%82%B0",
+    "duration": "176000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "98825",
+    "playcount": "2220796",
+    "artist": {
+      "name": "DECO*27",
+      "mbid": "bd247ab3-c22d-4b5d-a6fd-437771cacbbe",
+      "url": "https://www.last.fm/music/DECO%2A27"
+    },
+    "album": {
+      "artist": "DECO*27",
+      "title": "モニタリング",
+      "url": "https://www.last.fm/music/DECO%2A27/%E3%83%A2%E3%83%8B%E3%82%BF%E3%83%AA%E3%83%B3%E3%82%B0",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/8dc9e7b7ca751028ca0a6b7ffb9282cd.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/8dc9e7b7ca751028ca0a6b7ffb9282cd.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/8dc9e7b7ca751028ca0a6b7ffb9282cd.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/8dc9e7b7ca751028ca0a6b7ffb9282cd.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "japanese",
+          "url": "https://www.last.fm/tag/japanese"
+        },
+        {
+          "name": "j-pop",
+          "url": "https://www.last.fm/tag/j-pop"
+        },
+        {
+          "name": "JPop",
+          "url": "https://www.last.fm/tag/JPop"
+        },
+        {
+          "name": "vocaloid",
+          "url": "https://www.last.fm/tag/vocaloid"
+        },
+        {
+          "name": "HATSUNE Miku",
+          "url": "https://www.last.fm/tag/HATSUNE+Miku"
+        }
+      ]
+    }
+  }
+}

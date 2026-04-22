@@ -1,0 +1,71 @@
+{
+  "track": {
+    "name": "505",
+    "mbid": "1025dd60-a781-4f30-8b12-2ab8bdef509c",
+    "url": "https://www.last.fm/music/Arctic+Monkeys/_/505",
+    "duration": "305000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "2859158",
+    "playcount": "53771832",
+    "artist": {
+      "name": "Arctic Monkeys",
+      "mbid": "ada7a83c-e3e1-40f1-93f9-3e73dbc9298a",
+      "url": "https://www.last.fm/music/Arctic+Monkeys"
+    },
+    "album": {
+      "artist": "Arctic Monkeys",
+      "title": "Favourite Worst Nightmare",
+      "url": "https://www.last.fm/music/Arctic+Monkeys/Favourite+Worst+Nightmare",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/4debfeb504dc47779f0ff3df43fd9529.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/4debfeb504dc47779f0ff3df43fd9529.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/4debfeb504dc47779f0ff3df43fd9529.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/4debfeb504dc47779f0ff3df43fd9529.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "indie rock",
+          "url": "https://www.last.fm/tag/indie+rock"
+        },
+        {
+          "name": "indie",
+          "url": "https://www.last.fm/tag/indie"
+        },
+        {
+          "name": "british",
+          "url": "https://www.last.fm/tag/british"
+        },
+        {
+          "name": "rock",
+          "url": "https://www.last.fm/tag/rock"
+        },
+        {
+          "name": "alternative",
+          "url": "https://www.last.fm/tag/alternative"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "22 Jan 2017, 13:21",
+      "summary": "“505” is one of the songs that marks a turning point in Alex Turner’s songwriting, as he discovers new emotional depths.\n\nThe organ sample is taken directly from Ennio Morricone’s soundtrack for the iconic Western, The Good, the Bad and the Ugly, where Angel Eyes enters before the final standoff.\n\nThe title could be an allusion to “Flight 505” by The Rolling Stones, with both songs sharing the theme of going somewhere to recapture a feeling or moment… or a person. <a href=\"http://www.last.fm/music/Arctic+Monkeys/_/505\">Read more on Last.fm</a>.",
+      "content": "“505” is one of the songs that marks a turning point in Alex Turner’s songwriting, as he discovers new emotional depths.\n\nThe organ sample is taken directly from Ennio Morricone’s soundtrack for the iconic Western, The Good, the Bad and the Ugly, where Angel Eyes enters before the final standoff.\n\nThe title could be an allusion to “Flight 505” by The Rolling Stones, with both songs sharing the theme of going somewhere to recapture a feeling or moment… or a person.\n\n\"505\" is a term for something that is killing you and keeping you alive at the same time (often used for a loved person that might be bad for you). <a href=\"http://www.last.fm/music/Arctic+Monkeys/_/505\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

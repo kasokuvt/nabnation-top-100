@@ -1,0 +1,66 @@
+{
+  "track": {
+    "name": "Loving Machine",
+    "mbid": "8b70971f-b09b-4f2d-abca-204079c549d8",
+    "url": "https://www.last.fm/music/TV+Girl/_/Loving+Machine",
+    "duration": "227000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "858241",
+    "playcount": "10359311",
+    "artist": {
+      "name": "TV Girl",
+      "mbid": "38f0c7ac-46eb-49ca-b3ab-c785ccd05a60",
+      "url": "https://www.last.fm/music/TV+Girl"
+    },
+    "album": {
+      "artist": "TV Girl",
+      "title": "Who Really Cares",
+      "url": "https://www.last.fm/music/TV+Girl/Who+Really+Cares",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/7f606674cfa1fdc4603695021d3fbc95.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/7f606674cfa1fdc4603695021d3fbc95.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/7f606674cfa1fdc4603695021d3fbc95.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/7f606674cfa1fdc4603695021d3fbc95.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "pop",
+          "url": "https://www.last.fm/tag/pop"
+        },
+        {
+          "name": "Mellow",
+          "url": "https://www.last.fm/tag/Mellow"
+        },
+        {
+          "name": "indie pop",
+          "url": "https://www.last.fm/tag/indie+pop"
+        },
+        {
+          "name": "alternative",
+          "url": "https://www.last.fm/tag/alternative"
+        },
+        {
+          "name": "Bittersweet",
+          "url": "https://www.last.fm/tag/Bittersweet"
+        }
+      ]
+    }
+  }
+}

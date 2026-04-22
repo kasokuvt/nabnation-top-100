@@ -1,0 +1,58 @@
+{
+  "track": {
+    "name": "This Hurts",
+    "mbid": "7b95dd36-d18f-4ced-916e-5b0bc5c1e8d0",
+    "url": "https://www.last.fm/music/Mindless+Self+Indulgence/_/This+Hurts",
+    "duration": "141000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "173949",
+    "playcount": "2780063",
+    "artist": {
+      "name": "Mindless Self Indulgence",
+      "mbid": "44f42386-a733-4b51-8298-fe5c807d03aa",
+      "url": "https://www.last.fm/music/Mindless+Self+Indulgence"
+    },
+    "album": {
+      "artist": "Mindless Self Indulgence",
+      "title": "Pink",
+      "url": "https://www.last.fm/music/Mindless+Self+Indulgence/Pink",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/ff70588f25cc28064b7b4f4cc84c7300.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/ff70588f25cc28064b7b4f4cc84c7300.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/ff70588f25cc28064b7b4f4cc84c7300.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/ff70588f25cc28064b7b4f4cc84c7300.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "electronic",
+          "url": "https://www.last.fm/tag/electronic"
+        },
+        {
+          "name": "industrial rock",
+          "url": "https://www.last.fm/tag/industrial+rock"
+        },
+        {
+          "name": "electro-industrial",
+          "url": "https://www.last.fm/tag/electro-industrial"
+        }
+      ]
+    }
+  }
+}

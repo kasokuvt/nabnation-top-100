@@ -1,0 +1,71 @@
+{
+  "track": {
+    "name": "money machine",
+    "mbid": "b5c055ac-0b2e-4344-9c8a-bbaeeb88589f",
+    "url": "https://www.last.fm/music/100+gecs/_/money+machine",
+    "duration": "116000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "626318",
+    "playcount": "8470748",
+    "artist": {
+      "name": "100 gecs",
+      "mbid": "d6d45dda-2377-4faa-947b-e071efa085c0",
+      "url": "https://www.last.fm/music/100+gecs"
+    },
+    "album": {
+      "artist": "100 gecs",
+      "title": "1000 gecs",
+      "url": "https://www.last.fm/music/100+gecs/1000+gecs",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/a6e7b4bdb9f7674e3364404be2f5f683.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/a6e7b4bdb9f7674e3364404be2f5f683.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/a6e7b4bdb9f7674e3364404be2f5f683.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/a6e7b4bdb9f7674e3364404be2f5f683.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "hyperpop",
+          "url": "https://www.last.fm/tag/hyperpop"
+        },
+        {
+          "name": "bubblegum bass",
+          "url": "https://www.last.fm/tag/bubblegum+bass"
+        },
+        {
+          "name": "pop rap",
+          "url": "https://www.last.fm/tag/pop+rap"
+        },
+        {
+          "name": "pop",
+          "url": "https://www.last.fm/tag/pop"
+        },
+        {
+          "name": "Mile a Minute",
+          "url": "https://www.last.fm/tag/Mile+a+Minute"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "07 May 2021, 18:35",
+      "summary": "“Money Machine” is the breakout single by electronic-pop duo 100 gecs. The song originally found success through a big impact on the modern emo/alternative subculture, and was used within internet memes & TikTok trends. The unusual production, high-energy trap beat, and joking lyrics quickly drew a large audience for 100 gecs. <a href=\"http://www.last.fm/music/100+gecs/_/money+machine\">Read more on Last.fm</a>.",
+      "content": "“Money Machine” is the breakout single by electronic-pop duo 100 gecs. The song originally found success through a big impact on the modern emo/alternative subculture, and was used within internet memes & TikTok trends. The unusual production, high-energy trap beat, and joking lyrics quickly drew a large audience for 100 gecs. <a href=\"http://www.last.fm/music/100+gecs/_/money+machine\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

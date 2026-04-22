@@ -1,0 +1,50 @@
+{
+  "track": {
+    "name": "toromi hearts 2",
+    "mbid": "9a4aea93-8e4c-4b51-8a82-8725fc07dd8f",
+    "url": "https://www.last.fm/music/goreshit/_/toromi+hearts+2",
+    "duration": "211000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "90153",
+    "playcount": "985104",
+    "artist": {
+      "name": "goreshit",
+      "mbid": "eb0cf932-29f0-4e42-a866-2440b18dc182",
+      "url": "https://www.last.fm/music/goreshit"
+    },
+    "album": {
+      "artist": "goreshit",
+      "title": "my love feels all wrong.",
+      "url": "https://www.last.fm/music/goreshit/my+love+feels+all+wrong.",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/dbe9f3ec93d24dd9a76c501ecf49e24d.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/dbe9f3ec93d24dd9a76c501ecf49e24d.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/dbe9f3ec93d24dd9a76c501ecf49e24d.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/dbe9f3ec93d24dd9a76c501ecf49e24d.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    },
+    "wiki": {
+      "published": "19 Aug 2023, 23:48",
+      "summary": "This song samples “ Modoru No Kioku” (2008) by Toromi. <a href=\"http://www.last.fm/music/goreshit/_/toromi+hearts+2\">Read more on Last.fm</a>.",
+      "content": "This song samples “ Modoru No Kioku” (2008) by Toromi. <a href=\"http://www.last.fm/music/goreshit/_/toromi+hearts+2\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

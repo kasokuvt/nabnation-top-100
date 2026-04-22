@@ -1,0 +1,66 @@
+{
+  "track": {
+    "name": "Nausicaä (Love Will Be Revealed)",
+    "mbid": "037fa341-ec24-4e01-8178-41474505c821",
+    "url": "https://www.last.fm/music/Cameron+Winter/_/Nausica%C3%A4+(Love+Will+Be+Revealed)",
+    "duration": "251000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "168750",
+    "playcount": "1593888",
+    "artist": {
+      "name": "Cameron Winter",
+      "mbid": "79c6b6f4-cb92-4f03-a1ef-82e7aa4eddbb",
+      "url": "https://www.last.fm/music/Cameron+Winter"
+    },
+    "album": {
+      "artist": "Cameron Winter",
+      "title": "Heavy Metal [Explicit]",
+      "url": "https://www.last.fm/music/Cameron+Winter/Heavy+Metal+%5BExplicit%5D",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/b3e0aa1c17cdd674a441b5c521fd8158.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/b3e0aa1c17cdd674a441b5c521fd8158.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/b3e0aa1c17cdd674a441b5c521fd8158.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/b3e0aa1c17cdd674a441b5c521fd8158.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "The Blind Pig Show with Jack Anderson",
+          "url": "https://www.last.fm/tag/The+Blind+Pig+Show+with+Jack+Anderson"
+        },
+        {
+          "name": "WSUM 91.7 FM Madison",
+          "url": "https://www.last.fm/tag/WSUM+91.7+FM+Madison"
+        },
+        {
+          "name": "soft rock",
+          "url": "https://www.last.fm/tag/soft+rock"
+        },
+        {
+          "name": "soul",
+          "url": "https://www.last.fm/tag/soul"
+        },
+        {
+          "name": "singer-songwriter",
+          "url": "https://www.last.fm/tag/singer-songwriter"
+        }
+      ]
+    }
+  }
+}

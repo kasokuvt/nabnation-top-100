@@ -1,0 +1,45 @@
+{
+  "track": {
+    "name": "Blow Me",
+    "mbid": "3ae61d5a-8319-4877-af26-ff4e85363b24",
+    "url": "https://www.last.fm/music/fakemink/_/Blow+Me",
+    "duration": "130000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "165753",
+    "playcount": "2272243",
+    "artist": {
+      "name": "fakemink",
+      "mbid": "968847c6-2150-419d-b14b-68c672dcde99",
+      "url": "https://www.last.fm/music/fakemink"
+    },
+    "album": {
+      "artist": "fakemink",
+      "title": "Wild One",
+      "url": "https://www.last.fm/music/fakemink/Wild+One",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2d4452045205d82b359941f75f718eec.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2d4452045205d82b359941f75f718eec.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2d4452045205d82b359941f75f718eec.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2d4452045205d82b359941f75f718eec.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

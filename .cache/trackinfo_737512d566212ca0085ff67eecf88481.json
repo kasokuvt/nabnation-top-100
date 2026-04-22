@@ -1,0 +1,45 @@
+{
+  "track": {
+    "name": "And I Told Them I Invented Times New Roman",
+    "mbid": "13f9aee9-2e05-404b-94c7-8b82478d9cb8",
+    "url": "https://www.last.fm/music/Dance+Gavin+Dance/_/And+I+Told+Them+I+Invented+Times+New+Roman",
+    "duration": "288000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "198616",
+    "playcount": "2094400",
+    "artist": {
+      "name": "Dance Gavin Dance",
+      "mbid": "16456fed-c9f2-4adf-b6ea-97b648c474d2",
+      "url": "https://www.last.fm/music/Dance+Gavin+Dance"
+    },
+    "album": {
+      "artist": "Dance Gavin Dance",
+      "title": "Downtown Battle Mountain",
+      "url": "https://www.last.fm/music/Dance+Gavin+Dance/Downtown+Battle+Mountain",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/8790c35bd5678c461d85bbaae9cdcdcf.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/8790c35bd5678c461d85bbaae9cdcdcf.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/8790c35bd5678c461d85bbaae9cdcdcf.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/8790c35bd5678c461d85bbaae9cdcdcf.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "track": {
+    "name": "One Beer",
+    "mbid": "087ad995-8477-4f49-9f06-bedcc956e346",
+    "url": "https://www.last.fm/music/MF+DOOM/_/One+Beer",
+    "duration": "207000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "1016938",
+    "playcount": "11720961",
+    "artist": {
+      "name": "MF DOOM",
+      "mbid": "188711ed-c99b-439c-844a-ca831f63a727",
+      "url": "https://www.last.fm/music/MF+DOOM"
+    },
+    "album": {
+      "artist": "MF DOOM",
+      "title": "MM..FOOD",
+      "url": "https://www.last.fm/music/MF+DOOM/MM..FOOD",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/7d1a24c15c32327454fb83f6177c0b76.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/7d1a24c15c32327454fb83f6177c0b76.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/7d1a24c15c32327454fb83f6177c0b76.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/7d1a24c15c32327454fb83f6177c0b76.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "Hip-Hop",
+          "url": "https://www.last.fm/tag/Hip-Hop"
+        },
+        {
+          "name": "hip hop",
+          "url": "https://www.last.fm/tag/hip+hop"
+        },
+        {
+          "name": "underground hip-hop",
+          "url": "https://www.last.fm/tag/underground+hip-hop"
+        },
+        {
+          "name": "rap",
+          "url": "https://www.last.fm/tag/rap"
+        },
+        {
+          "name": "mf doom",
+          "url": "https://www.last.fm/tag/mf+doom"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "09 May 2021, 20:03",
+      "summary": "“One Beer“ is the fourth song from MF DOOM’s second studio album MM...FOOD, which is an anagram of his stage name.\n\nThis Madlib produced song samples Cortex’s “Huit Octobre 1971” as well as DOOM’s interpolation of Cole Porter’s “I Get a Kick Out of You.”\n\nAccording to Stones Throw Records, the track was originally set to be part of the Madvillainy album under one of DOOM’s alias'; Madvillain as the originally titled “One Beer (Drunk Version)”. <a href=\"http://www.last.fm/music/MF+DOOM/_/One+Beer\">Read more on Last.fm</a>.",
+      "content": "“One Beer“ is the fourth song from MF DOOM’s second studio album MM...FOOD, which is an anagram of his stage name.\n\nThis Madlib produced song samples Cortex’s “Huit Octobre 1971” as well as DOOM’s interpolation of Cole Porter’s “I Get a Kick Out of You.”\n\nAccording to Stones Throw Records, the track was originally set to be part of the Madvillainy album under one of DOOM’s alias'; Madvillain as the originally titled “One Beer (Drunk Version)”. However, though it was never included on the original Madvillany album, it was formally released as part of MM...FOOD. <a href=\"http://www.last.fm/music/MF+DOOM/_/One+Beer\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "track": {
+    "name": "How To Teleport",
+    "url": "https://www.last.fm/music/Jane+Remover/_/How+To+Teleport",
+    "duration": "273000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "74586",
+    "playcount": "802435",
+    "artist": {
+      "name": "Jane Remover",
+      "mbid": "f4b6e451-5dce-4842-a555-f793892299b3",
+      "url": "https://www.last.fm/music/Jane+Remover"
+    },
+    "album": {
+      "artist": "Jane Remover",
+      "title": "Magic I Want U - Single",
+      "url": "https://www.last.fm/music/Jane+Remover/Magic+I+Want+U+-+Single",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/cc9bef1b7e68544c39e4c994bb1225c1.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/cc9bef1b7e68544c39e4c994bb1225c1.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/cc9bef1b7e68544c39e4c994bb1225c1.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/cc9bef1b7e68544c39e4c994bb1225c1.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "glitch pop",
+          "url": "https://www.last.fm/tag/glitch+pop"
+        },
+        {
+          "name": "Digital Cumbia",
+          "url": "https://www.last.fm/tag/Digital+Cumbia"
+        },
+        {
+          "name": "electronic",
+          "url": "https://www.last.fm/tag/electronic"
+        },
+        {
+          "name": "dance",
+          "url": "https://www.last.fm/tag/dance"
+        },
+        {
+          "name": "midwest emo",
+          "url": "https://www.last.fm/tag/midwest+emo"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "12 Apr 2025, 01:14",
+      "summary": "\"How To Teleport\" is a song by the American musician Jane Remover. It was released by DeadAir Records on September 4, 2024, along with its A-side \"Magic I Want U\". It was written, performed, and mixed by Remover. \"How to Teleport\" is a glitch pop song with drum programming that is reminiscent of Chicago footwork, and is about feeling lost and hopeless. <a href=\"http://www.last.fm/music/Jane+Remover/_/How+To+Teleport\">Read more on Last.fm</a>.",
+      "content": "\"How To Teleport\" is a song by the American musician Jane Remover. It was released by DeadAir Records on September 4, 2024, along with its A-side \"Magic I Want U\". It was written, performed, and mixed by Remover. \"How to Teleport\" is a glitch pop song with drum programming that is reminiscent of Chicago footwork, and is about feeling lost and hopeless. <a href=\"http://www.last.fm/music/Jane+Remover/_/How+To+Teleport\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

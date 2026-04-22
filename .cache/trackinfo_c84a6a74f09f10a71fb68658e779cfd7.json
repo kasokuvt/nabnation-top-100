@@ -1,0 +1,71 @@
+{
+  "track": {
+    "name": "20 Min",
+    "mbid": "2569d057-fb11-4743-89b4-1857a84f350b",
+    "url": "https://www.last.fm/music/Lil+Uzi+Vert/_/20+Min",
+    "duration": "220000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "1232565",
+    "playcount": "22323164",
+    "artist": {
+      "name": "Lil Uzi Vert",
+      "mbid": "8837b875-3689-4646-b3fd-d8b53815c7a8",
+      "url": "https://www.last.fm/music/Lil+Uzi+Vert"
+    },
+    "album": {
+      "artist": "Lil Uzi Vert",
+      "title": "Luv Is Rage 2 (Deluxe)",
+      "url": "https://www.last.fm/music/Lil+Uzi+Vert/Luv+Is+Rage+2+(Deluxe)",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/b9f1ddd6e31e23e8eac1aabe03066660.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/b9f1ddd6e31e23e8eac1aabe03066660.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/b9f1ddd6e31e23e8eac1aabe03066660.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/b9f1ddd6e31e23e8eac1aabe03066660.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "trap",
+          "url": "https://www.last.fm/tag/trap"
+        },
+        {
+          "name": "rap",
+          "url": "https://www.last.fm/tag/rap"
+        },
+        {
+          "name": "why on earth is this just a bonus track",
+          "url": "https://www.last.fm/tag/why+on+earth+is+this+just+a+bonus+track"
+        },
+        {
+          "name": "Hip-Hop",
+          "url": "https://www.last.fm/tag/Hip-Hop"
+        },
+        {
+          "name": "pop rap",
+          "url": "https://www.last.fm/tag/pop+rap"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "26 Mar 2021, 14:59",
+      "summary": "“20 Min” is the last track of Luv Is Rage 2 (Deluxe). Here Uzi describes the first time they met their ex-girlfriend, Brittany Byrd. This song also talks about other women that have approached Uzi in his music career.\n\n“20 Min” was a much awaited song by fans once Lil Uzi previewed a 30 second snippet of it. Fans could hear the last line of the pre-chorus all the way to the line “But I treat it like my city show.” <a href=\"http://www.last.fm/music/Lil+Uzi+Vert/_/20+Min\">Read more on Last.fm</a>.",
+      "content": "“20 Min” is the last track of Luv Is Rage 2 (Deluxe). Here Uzi describes the first time they met their ex-girlfriend, Brittany Byrd. This song also talks about other women that have approached Uzi in his music career.\n\n“20 Min” was a much awaited song by fans once Lil Uzi previewed a 30 second snippet of it. Fans could hear the last line of the pre-chorus all the way to the line “But I treat it like my city show.” <a href=\"http://www.last.fm/music/Lil+Uzi+Vert/_/20+Min\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

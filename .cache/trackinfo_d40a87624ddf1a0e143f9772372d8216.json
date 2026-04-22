@@ -1,0 +1,44 @@
+{
+  "track": {
+    "name": "Power 4",
+    "mbid": "4fbdfe31-fe82-4c17-b368-862363a74450",
+    "url": "https://www.last.fm/music/Slayr/_/Power+4",
+    "duration": "0",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "17565",
+    "playcount": "116704",
+    "artist": {
+      "name": "Slayr",
+      "url": "https://www.last.fm/music/Slayr"
+    },
+    "album": {
+      "artist": "Slayr",
+      "title": "Half Blood [explicit] [explicit]",
+      "url": "https://www.last.fm/music/Slayr/Half+Blood+%5Bexplicit%5D+%5Bexplicit%5D",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/be51220e3208beb8dc4873f00fe590cc.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/be51220e3208beb8dc4873f00fe590cc.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/be51220e3208beb8dc4873f00fe590cc.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/be51220e3208beb8dc4873f00fe590cc.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

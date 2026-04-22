@@ -1,0 +1,71 @@
+{
+  "track": {
+    "name": "Get Got",
+    "mbid": "2c6afd59-957e-4f43-b05b-ee4bf1f9ad2f",
+    "url": "https://www.last.fm/music/Death+Grips/_/Get+Got",
+    "duration": "172000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "705106",
+    "playcount": "8624718",
+    "artist": {
+      "name": "Death Grips",
+      "mbid": "f9133036-ab3d-4e97-bd11-7a2c98ad148a",
+      "url": "https://www.last.fm/music/Death+Grips"
+    },
+    "album": {
+      "artist": "Death Grips",
+      "title": "The Money Store",
+      "url": "https://www.last.fm/music/Death+Grips/The+Money+Store",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/30ef0d3d35720910529fe026a2d2fe7c.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/30ef0d3d35720910529fe026a2d2fe7c.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/30ef0d3d35720910529fe026a2d2fe7c.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/30ef0d3d35720910529fe026a2d2fe7c.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "Hip-Hop",
+          "url": "https://www.last.fm/tag/Hip-Hop"
+        },
+        {
+          "name": "experimental hip-hop",
+          "url": "https://www.last.fm/tag/experimental+hip-hop"
+        },
+        {
+          "name": "experimental",
+          "url": "https://www.last.fm/tag/experimental"
+        },
+        {
+          "name": "rap",
+          "url": "https://www.last.fm/tag/rap"
+        },
+        {
+          "name": "hip hop",
+          "url": "https://www.last.fm/tag/hip+hop"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "27 Feb 2012, 18:16",
+      "summary": "In a fragmented getaway from the police (which may not even be there), Ride delves into a load of topics, including chaos, violence, drug abuse, aggression, mental illness, and crime. A through line of dissociative identity disorder permeates the track, metaphorically highlighting existential uncertainty.\n\nThe song’s events are detailed in reverse, starting with MC Ride’s getaway from police and eventual death in verse 1, him binge drinking and robbing a place in verse 2, and him waking up in rage ready to “get busy” in verse 3. <a href=\"http://www.last.fm/music/Death+Grips/_/Get+Got\">Read more on Last.fm</a>.",
+      "content": "In a fragmented getaway from the police (which may not even be there), Ride delves into a load of topics, including chaos, violence, drug abuse, aggression, mental illness, and crime. A through line of dissociative identity disorder permeates the track, metaphorically highlighting existential uncertainty.\n\nThe song’s events are detailed in reverse, starting with MC Ride’s getaway from police and eventual death in verse 1, him binge drinking and robbing a place in verse 2, and him waking up in rage ready to “get busy” in verse 3. <a href=\"http://www.last.fm/music/Death+Grips/_/Get+Got\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

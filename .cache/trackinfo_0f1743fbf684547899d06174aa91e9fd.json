@@ -1,0 +1,45 @@
+{
+  "track": {
+    "name": "gabberzon!",
+    "mbid": "9a2c9f0b-977b-42fb-a454-01fab2961b3b",
+    "url": "https://www.last.fm/music/goreshit/_/gabberzon%21",
+    "duration": "168000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "26927",
+    "playcount": "266251",
+    "artist": {
+      "name": "goreshit",
+      "mbid": "eb0cf932-29f0-4e42-a866-2440b18dc182",
+      "url": "https://www.last.fm/music/goreshit"
+    },
+    "album": {
+      "artist": "goreshit",
+      "title": "goretrance x",
+      "url": "https://www.last.fm/music/goreshit/goretrance+x",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/f3a55e7006f3d81e8c2125c8f59455b8.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/f3a55e7006f3d81e8c2125c8f59455b8.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/f3a55e7006f3d81e8c2125c8f59455b8.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/f3a55e7006f3d81e8c2125c8f59455b8.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

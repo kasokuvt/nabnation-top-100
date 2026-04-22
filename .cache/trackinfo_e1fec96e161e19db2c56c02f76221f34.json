@@ -1,0 +1,71 @@
+{
+  "track": {
+    "name": "Dumbest Girl Alive",
+    "mbid": "8c66ea25-e23e-47bd-b91a-8fd50eb9a812",
+    "url": "https://www.last.fm/music/100+gecs/_/Dumbest+Girl+Alive",
+    "duration": "113000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "332619",
+    "playcount": "4124034",
+    "artist": {
+      "name": "100 gecs",
+      "mbid": "d6d45dda-2377-4faa-947b-e071efa085c0",
+      "url": "https://www.last.fm/music/100+gecs"
+    },
+    "album": {
+      "artist": "100 gecs",
+      "title": "10,000 gecs",
+      "url": "https://www.last.fm/music/100+gecs/10,000+gecs",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/cb9f1b72089584f998c5f8260517951b.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/cb9f1b72089584f998c5f8260517951b.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/cb9f1b72089584f998c5f8260517951b.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/cb9f1b72089584f998c5f8260517951b.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "hyperpop",
+          "url": "https://www.last.fm/tag/hyperpop"
+        },
+        {
+          "name": "alternative rock",
+          "url": "https://www.last.fm/tag/alternative+rock"
+        },
+        {
+          "name": "electronic",
+          "url": "https://www.last.fm/tag/electronic"
+        },
+        {
+          "name": "pop",
+          "url": "https://www.last.fm/tag/pop"
+        },
+        {
+          "name": "emo rap",
+          "url": "https://www.last.fm/tag/emo+rap"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "03 Apr 2023, 19:10",
+      "summary": "Dumbest Girl Alive describes the feelings that come along with going through gender transition surgeries and HRT treatments. The vocals are performed by Laura Les, who is a trans woman.\nThis song samples Sicko Mode by Travis Scott. <a href=\"http://www.last.fm/music/100+gecs/_/Dumbest+Girl+Alive\">Read more on Last.fm</a>.",
+      "content": "Dumbest Girl Alive describes the feelings that come along with going through gender transition surgeries and HRT treatments. The vocals are performed by Laura Les, who is a trans woman.\nThis song samples Sicko Mode by Travis Scott. <a href=\"http://www.last.fm/music/100+gecs/_/Dumbest+Girl+Alive\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

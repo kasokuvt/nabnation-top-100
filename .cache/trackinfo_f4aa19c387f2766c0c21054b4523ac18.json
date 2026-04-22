@@ -1,0 +1,33 @@
+{
+  "track": {
+    "name": "Earrings",
+    "url": "https://www.last.fm/music/Malcolm+Todd/_/Earrings",
+    "duration": "0",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "283710",
+    "playcount": "2813634",
+    "artist": {
+      "name": "Malcolm Todd",
+      "url": "https://www.last.fm/music/Malcolm+Todd"
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "pop",
+          "url": "https://www.last.fm/tag/pop"
+        },
+        {
+          "name": "indie",
+          "url": "https://www.last.fm/tag/indie"
+        },
+        {
+          "name": "alternative",
+          "url": "https://www.last.fm/tag/alternative"
+        }
+      ]
+    }
+  }
+}

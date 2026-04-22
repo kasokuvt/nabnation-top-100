@@ -1,0 +1,56 @@
+{
+  "track": {
+    "name": "Outlaws Get No Entry",
+    "url": "https://www.last.fm/music/Taku+Iwasaki/_/Outlaws+Get+No+Entry",
+    "duration": "0",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "89149",
+    "playcount": "1167982",
+    "artist": {
+      "name": "Taku Iwasaki",
+      "url": "https://www.last.fm/music/Taku+Iwasaki"
+    },
+    "album": {
+      "artist": "Taku Iwasaki",
+      "title": "Gachiakuta (Original Series Soundtrack)",
+      "url": "https://www.last.fm/music/Taku+Iwasaki/Gachiakuta+(Original+Series+Soundtrack)",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/8cd44e294fc3a609307d3a23cdd2cb1b.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/8cd44e294fc3a609307d3a23cdd2cb1b.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/8cd44e294fc3a609307d3a23cdd2cb1b.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/8cd44e294fc3a609307d3a23cdd2cb1b.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "only da lili",
+          "url": "https://www.last.fm/tag/only+da+lili"
+        },
+        {
+          "name": "nanaetoiles",
+          "url": "https://www.last.fm/tag/nanaetoiles"
+        },
+        {
+          "name": "lili ama gachiakuta",
+          "url": "https://www.last.fm/tag/lili+ama+gachiakuta"
+        }
+      ]
+    }
+  }
+}

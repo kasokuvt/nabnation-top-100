@@ -1,0 +1,45 @@
+{
+  "track": {
+    "name": "MAKE OUT WITH MY CHOPPA",
+    "mbid": "e64359d6-2ead-41ca-bb10-cd92d6e858c3",
+    "url": "https://www.last.fm/music/Che/_/MAKE+OUT+WITH+MY+CHOPPA",
+    "duration": "120000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "25260",
+    "playcount": "98051",
+    "artist": {
+      "name": "Che",
+      "mbid": "e10ddbc5-dcae-4bbb-8a32-4c9a7228bfab",
+      "url": "https://www.last.fm/music/Che"
+    },
+    "album": {
+      "artist": "Che",
+      "title": "REST IN BASS: ENCORE",
+      "url": "https://www.last.fm/music/Che/REST+IN+BASS:+ENCORE",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/222751db2f0493aa04ae4d3244fec5e5.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/222751db2f0493aa04ae4d3244fec5e5.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/222751db2f0493aa04ae4d3244fec5e5.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/222751db2f0493aa04ae4d3244fec5e5.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

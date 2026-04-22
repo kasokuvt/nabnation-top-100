@@ -1,0 +1,50 @@
+{
+  "track": {
+    "name": "Hustle Bones",
+    "mbid": "7372a8ad-7e24-487e-af94-5d27d4258b50",
+    "url": "https://www.last.fm/music/Death+Grips/_/Hustle+Bones",
+    "duration": "192000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "420544",
+    "playcount": "4215529",
+    "artist": {
+      "name": "Death Grips",
+      "mbid": "f9133036-ab3d-4e97-bd11-7a2c98ad148a",
+      "url": "https://www.last.fm/music/Death+Grips"
+    },
+    "album": {
+      "artist": "Death Grips",
+      "title": "The Money Store",
+      "url": "https://www.last.fm/music/Death+Grips/The+Money+Store",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/30ef0d3d35720910529fe026a2d2fe7c.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/30ef0d3d35720910529fe026a2d2fe7c.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/30ef0d3d35720910529fe026a2d2fe7c.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/30ef0d3d35720910529fe026a2d2fe7c.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    },
+    "wiki": {
+      "published": "02 Feb 2022, 14:38",
+      "summary": "Hustling = making money, no matter the consequences. Bones = $$$. <a href=\"http://www.last.fm/music/Death+Grips/_/Hustle+Bones\">Read more on Last.fm</a>.",
+      "content": "Hustling = making money, no matter the consequences. Bones = $$$. <a href=\"http://www.last.fm/music/Death+Grips/_/Hustle+Bones\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

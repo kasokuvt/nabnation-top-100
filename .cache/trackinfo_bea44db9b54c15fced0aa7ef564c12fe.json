@@ -1,0 +1,71 @@
+{
+  "track": {
+    "name": "DANCE...",
+    "mbid": "5e5cc08e-b4a5-43e4-a5f7-a8befec7ca25",
+    "url": "https://www.last.fm/music/Slayyyter/_/DANCE...",
+    "duration": "287000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "204209",
+    "playcount": "2459120",
+    "artist": {
+      "name": "Slayyyter",
+      "mbid": "9058d01e-8afc-47a4-8664-621fb5f159c0",
+      "url": "https://www.last.fm/music/Slayyyter"
+    },
+    "album": {
+      "artist": "Slayyyter",
+      "title": "WOR$T GIRL IN AMERICA",
+      "url": "https://www.last.fm/music/Slayyyter/WOR$T+GIRL+IN+AMERICA",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/d60a52a2d3e8eec7d9df29dc18d16ec2.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/d60a52a2d3e8eec7d9df29dc18d16ec2.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/d60a52a2d3e8eec7d9df29dc18d16ec2.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/d60a52a2d3e8eec7d9df29dc18d16ec2.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "french electro",
+          "url": "https://www.last.fm/tag/french+electro"
+        },
+        {
+          "name": "acid house",
+          "url": "https://www.last.fm/tag/acid+house"
+        },
+        {
+          "name": "electropop",
+          "url": "https://www.last.fm/tag/electropop"
+        },
+        {
+          "name": "Electroclash",
+          "url": "https://www.last.fm/tag/Electroclash"
+        },
+        {
+          "name": "midtempo bass",
+          "url": "https://www.last.fm/tag/midtempo+bass"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "28 Feb 2026, 06:27",
+      "summary": "“DANCE…” is the fourth single of Slayyyter’s third album, \"WOR$T GIRL IN AMERICA\". It was released on January 16th, 2026. It follows the third single, “CRANK.” <a href=\"http://www.last.fm/music/Slayyyter/_/DANCE...\">Read more on Last.fm</a>.",
+      "content": "“DANCE…” is the fourth single of Slayyyter’s third album, \"WOR$T GIRL IN AMERICA\". It was released on January 16th, 2026. It follows the third single, “CRANK.” <a href=\"http://www.last.fm/music/Slayyyter/_/DANCE...\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

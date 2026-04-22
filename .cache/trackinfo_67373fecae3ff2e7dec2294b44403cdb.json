@@ -1,0 +1,62 @@
+{
+  "track": {
+    "name": "Warmpop",
+    "mbid": "855b37b7-d5ed-4ed0-848e-8541be098a47",
+    "url": "https://www.last.fm/music/ESPRIT+%E7%A9%BA%E6%83%B3/_/Warmpop",
+    "duration": "172000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "293321",
+    "playcount": "2119066",
+    "artist": {
+      "name": "ESPRIT 空想",
+      "mbid": "4163b62b-c043-4eb0-8af2-0e7e1362afa6",
+      "url": "https://www.last.fm/music/ESPRIT+%E7%A9%BA%E6%83%B3"
+    },
+    "album": {
+      "artist": "ESPRIT 空想",
+      "title": "200% Electronica",
+      "url": "https://www.last.fm/music/ESPRIT+%E7%A9%BA%E6%83%B3/200%25+Electronica",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/a44f9eef72359890bfa26c0cf3122316.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/a44f9eef72359890bfa26c0cf3122316.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/a44f9eef72359890bfa26c0cf3122316.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/a44f9eef72359890bfa26c0cf3122316.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "vaporwave",
+          "url": "https://www.last.fm/tag/vaporwave"
+        },
+        {
+          "name": "chillwave",
+          "url": "https://www.last.fm/tag/chillwave"
+        },
+        {
+          "name": "electronic",
+          "url": "https://www.last.fm/tag/electronic"
+        },
+        {
+          "name": "2017",
+          "url": "https://www.last.fm/tag/2017"
+        }
+      ]
+    }
+  }
+}

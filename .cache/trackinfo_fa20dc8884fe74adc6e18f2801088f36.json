@@ -1,0 +1,44 @@
+{
+  "track": {
+    "name": "24/7",
+    "mbid": "31e0e384-33e9-454b-8c03-c72a05f51cf5",
+    "url": "https://www.last.fm/music/Slayr/_/24%2F7",
+    "duration": "0",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "21440",
+    "playcount": "127949",
+    "artist": {
+      "name": "Slayr",
+      "url": "https://www.last.fm/music/Slayr"
+    },
+    "album": {
+      "artist": "Slayr",
+      "title": "Half Blood [explicit] [explicit]",
+      "url": "https://www.last.fm/music/Slayr/Half+Blood+%5Bexplicit%5D+%5Bexplicit%5D",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/be51220e3208beb8dc4873f00fe590cc.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/be51220e3208beb8dc4873f00fe590cc.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/be51220e3208beb8dc4873f00fe590cc.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/be51220e3208beb8dc4873f00fe590cc.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "track": {
+    "name": "MachineGirl",
+    "mbid": "cdb44c83-2ebf-4967-a671-ff4b11a499d5",
+    "url": "https://www.last.fm/music/AD%C3%89LA/_/MachineGirl",
+    "duration": "156000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "86355",
+    "playcount": "668271",
+    "artist": {
+      "name": "ADÉLA",
+      "mbid": "f40856e6-079f-4a0a-916e-9e6a5e04f646",
+      "url": "https://www.last.fm/music/AD%C3%89LA"
+    },
+    "album": {
+      "artist": "ADÉLA",
+      "title": "The Provocateur [Explicit]",
+      "url": "https://www.last.fm/music/AD%C3%89LA/The+Provocateur+%5BExplicit%5D",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/27a3499aab873629796f493b75f701fb.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/27a3499aab873629796f493b75f701fb.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/27a3499aab873629796f493b75f701fb.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/27a3499aab873629796f493b75f701fb.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "bbass",
+          "url": "https://www.last.fm/tag/bbass"
+        },
+        {
+          "name": "pop",
+          "url": "https://www.last.fm/tag/pop"
+        }
+      ]
+    }
+  }
+}

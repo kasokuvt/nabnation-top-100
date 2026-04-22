@@ -1,0 +1,71 @@
+{
+  "track": {
+    "name": "LVL",
+    "mbid": "65a23443-e846-4a24-9fad-09fe7ccf0c24",
+    "url": "https://www.last.fm/music/A$AP+Rocky/_/LVL",
+    "duration": "220000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "933150",
+    "playcount": "13018827",
+    "artist": {
+      "name": "A$AP Rocky",
+      "mbid": "25b7b584-d952-4662-a8b9-dd8cdfbfeb64",
+      "url": "https://www.last.fm/music/A$AP+Rocky"
+    },
+    "album": {
+      "artist": "A$AP Rocky",
+      "title": "LONG.LIVE.A$AP (Deluxe Version)",
+      "url": "https://www.last.fm/music/A$AP+Rocky/LONG.LIVE.A$AP+(Deluxe+Version)",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/c0203b6fcecc7514ce88b34a99554694.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/c0203b6fcecc7514ce88b34a99554694.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/c0203b6fcecc7514ce88b34a99554694.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/c0203b6fcecc7514ce88b34a99554694.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "cloud rap",
+          "url": "https://www.last.fm/tag/cloud+rap"
+        },
+        {
+          "name": "rap",
+          "url": "https://www.last.fm/tag/rap"
+        },
+        {
+          "name": "Hip-Hop",
+          "url": "https://www.last.fm/tag/Hip-Hop"
+        },
+        {
+          "name": "east coast hip-hop",
+          "url": "https://www.last.fm/tag/east+coast+hip-hop"
+        },
+        {
+          "name": "east coast hip hop",
+          "url": "https://www.last.fm/tag/east+coast+hip+hop"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "03 Aug 2022, 20:33",
+      "summary": "A$AP Rocky’s fourth track off his debut studio album, Long.Live.A$AP, produced by Clams Casino and known for its atmospheric, cloud-rap sound featuring hazy synths and deep bass. The track explores Rocky’s reflections on fame, personal growth, and the mental “levels” he navigates while rising in the music industry. Though not released as a single, it became a fan-favorite for its production and mellow flow, and has appeared in select live performances during Rocky’s early tours. <a href=\"http://www.last.fm/music/A$AP+Rocky/_/LVL\">Read more on Last.fm</a>.",
+      "content": "A$AP Rocky’s fourth track off his debut studio album, Long.Live.A$AP, produced by Clams Casino and known for its atmospheric, cloud-rap sound featuring hazy synths and deep bass. The track explores Rocky’s reflections on fame, personal growth, and the mental “levels” he navigates while rising in the music industry. Though not released as a single, it became a fan-favorite for its production and mellow flow, and has appeared in select live performances during Rocky’s early tours. <a href=\"http://www.last.fm/music/A$AP+Rocky/_/LVL\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

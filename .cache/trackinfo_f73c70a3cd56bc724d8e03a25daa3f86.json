@@ -1,0 +1,43 @@
+{
+  "track": {
+    "name": "Radio",
+    "url": "https://www.last.fm/music/Bershy/_/Radio",
+    "duration": "201000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "66900",
+    "playcount": "1021835",
+    "artist": {
+      "name": "Bershy",
+      "url": "https://www.last.fm/music/Bershy"
+    },
+    "album": {
+      "artist": "Bershy",
+      "title": "Radio - Single",
+      "url": "https://www.last.fm/music/Bershy/Radio+-+Single",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/0276c8706c888ee7d79b41d852c29fea.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/0276c8706c888ee7d79b41d852c29fea.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/0276c8706c888ee7d79b41d852c29fea.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/0276c8706c888ee7d79b41d852c29fea.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

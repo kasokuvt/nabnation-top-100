@@ -1,0 +1,45 @@
+{
+  "track": {
+    "name": "Census Designated",
+    "mbid": "2dd3c0b7-f7f7-4713-9c20-953a563cccc6",
+    "url": "https://www.last.fm/music/Jane+Remover/_/Census+Designated",
+    "duration": "360000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "66641",
+    "playcount": "877102",
+    "artist": {
+      "name": "Jane Remover",
+      "mbid": "f4b6e451-5dce-4842-a555-f793892299b3",
+      "url": "https://www.last.fm/music/Jane+Remover"
+    },
+    "album": {
+      "artist": "Jane Remover",
+      "title": "Census Designated",
+      "url": "https://www.last.fm/music/Jane+Remover/Census+Designated",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/5079c1c4f8728cac5bc0c9528720ee7d.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/5079c1c4f8728cac5bc0c9528720ee7d.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/5079c1c4f8728cac5bc0c9528720ee7d.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/5079c1c4f8728cac5bc0c9528720ee7d.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

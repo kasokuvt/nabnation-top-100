@@ -1,0 +1,66 @@
+{
+  "track": {
+    "name": "haBITS",
+    "mbid": "0ea6912e-27e4-42ea-8620-700a829e5ac8",
+    "url": "https://www.last.fm/music/OsamaSon/_/haBITS",
+    "duration": "199000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "95147",
+    "playcount": "939377",
+    "artist": {
+      "name": "OsamaSon",
+      "mbid": "35214d53-009b-45d9-8a00-6664325b9e2a",
+      "url": "https://www.last.fm/music/OsamaSon"
+    },
+    "album": {
+      "artist": "OsamaSon",
+      "title": "Psykotic",
+      "url": "https://www.last.fm/music/OsamaSon/Psykotic",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/274d65366011addc7d4049ca168b246b.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/274d65366011addc7d4049ca168b246b.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/274d65366011addc7d4049ca168b246b.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/274d65366011addc7d4049ca168b246b.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "Southern Hip Hop",
+          "url": "https://www.last.fm/tag/Southern+Hip+Hop"
+        },
+        {
+          "name": "hardcore hip hop",
+          "url": "https://www.last.fm/tag/hardcore+hip+hop"
+        },
+        {
+          "name": "rage",
+          "url": "https://www.last.fm/tag/rage"
+        },
+        {
+          "name": "power noise",
+          "url": "https://www.last.fm/tag/power+noise"
+        },
+        {
+          "name": "lowend",
+          "url": "https://www.last.fm/tag/lowend"
+        }
+      ]
+    }
+  }
+}

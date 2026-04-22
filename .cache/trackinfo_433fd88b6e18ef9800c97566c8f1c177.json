@@ -1,0 +1,50 @@
+{
+  "track": {
+    "name": "worldwide",
+    "mbid": "fb350eaa-38e0-436a-aaf1-53e01be6d598",
+    "url": "https://www.last.fm/music/OsamaSon/_/worldwide",
+    "duration": "216000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "66935",
+    "playcount": "561293",
+    "artist": {
+      "name": "OsamaSon",
+      "mbid": "35214d53-009b-45d9-8a00-6664325b9e2a",
+      "url": "https://www.last.fm/music/OsamaSon"
+    },
+    "album": {
+      "artist": "OsamaSon",
+      "title": "Psykotic",
+      "url": "https://www.last.fm/music/OsamaSon/Psykotic",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/274d65366011addc7d4049ca168b246b.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/274d65366011addc7d4049ca168b246b.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/274d65366011addc7d4049ca168b246b.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/274d65366011addc7d4049ca168b246b.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    },
+    "wiki": {
+      "published": "24 Oct 2025, 00:54",
+      "summary": " <a href=\"http://www.last.fm/music/OsamaSon/_/worldwide\">Read more on Last.fm</a>.",
+      "content": " <a href=\"http://www.last.fm/music/OsamaSon/_/worldwide\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

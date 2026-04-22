@@ -1,0 +1,71 @@
+{
+  "track": {
+    "name": "B2b",
+    "mbid": "316274e2-6043-41c3-97dd-0f570822b319",
+    "url": "https://www.last.fm/music/Charli+xcx/_/B2b",
+    "duration": "152000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "1021701",
+    "playcount": "17449325",
+    "artist": {
+      "name": "Charli xcx",
+      "mbid": "260b6184-8828-48eb-945c-bc4cb6fc34ca",
+      "url": "https://www.last.fm/music/Charli+xcx"
+    },
+    "album": {
+      "artist": "Charli xcx",
+      "title": "Club classics / B2b",
+      "url": "https://www.last.fm/music/Charli+xcx/Club+classics+%2F+B2b",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/022ba78db9872ee277f2540337a78b94.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/022ba78db9872ee277f2540337a78b94.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/022ba78db9872ee277f2540337a78b94.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/022ba78db9872ee277f2540337a78b94.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "acid house",
+          "url": "https://www.last.fm/tag/acid+house"
+        },
+        {
+          "name": "electropop",
+          "url": "https://www.last.fm/tag/electropop"
+        },
+        {
+          "name": "futurepop",
+          "url": "https://www.last.fm/tag/futurepop"
+        },
+        {
+          "name": "new beat",
+          "url": "https://www.last.fm/tag/new+beat"
+        },
+        {
+          "name": "electronic",
+          "url": "https://www.last.fm/tag/electronic"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "03 Apr 2024, 19:48",
+      "summary": "“B2b“ is a promotional single released alongside “Club classics” for Charli XCX's sixth studio album, BRAT. The tracks were released on April 3, 2024, following the release of the lead single “Von dutch” on February 29, 2024. These songs were all debuted at her 2024 Boiler Room set. <a href=\"http://www.last.fm/music/Charli+xcx/_/B2b\">Read more on Last.fm</a>.",
+      "content": "“B2b“ is a promotional single released alongside “Club classics” for Charli XCX's sixth studio album, BRAT. The tracks were released on April 3, 2024, following the release of the lead single “Von dutch” on February 29, 2024. These songs were all debuted at her 2024 Boiler Room set. <a href=\"http://www.last.fm/music/Charli+xcx/_/B2b\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

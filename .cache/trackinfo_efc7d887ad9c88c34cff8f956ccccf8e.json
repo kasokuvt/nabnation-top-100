@@ -1,0 +1,66 @@
+{
+  "track": {
+    "name": "Music and Me",
+    "mbid": "aab1d3fd-1aa4-4c91-932c-fc2b86d29cc2",
+    "url": "https://www.last.fm/music/fakemink/_/Music+and+Me",
+    "duration": "126000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "194570",
+    "playcount": "3490914",
+    "artist": {
+      "name": "fakemink",
+      "mbid": "968847c6-2150-419d-b14b-68c672dcde99",
+      "url": "https://www.last.fm/music/fakemink"
+    },
+    "album": {
+      "artist": "fakemink",
+      "title": "Music and Me - Single",
+      "url": "https://www.last.fm/music/fakemink/Music+and+Me+-+Single",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/217cec18d762573df47e56622bc38297.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/217cec18d762573df47e56622bc38297.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/217cec18d762573df47e56622bc38297.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/217cec18d762573df47e56622bc38297.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "UK hip hop",
+          "url": "https://www.last.fm/tag/UK+hip+hop"
+        },
+        {
+          "name": "trap",
+          "url": "https://www.last.fm/tag/trap"
+        },
+        {
+          "name": "plugg",
+          "url": "https://www.last.fm/tag/plugg"
+        },
+        {
+          "name": "Conscious Hip Hop",
+          "url": "https://www.last.fm/tag/Conscious+Hip+Hop"
+        },
+        {
+          "name": "cloud rap",
+          "url": "https://www.last.fm/tag/cloud+rap"
+        }
+      ]
+    }
+  }
+}

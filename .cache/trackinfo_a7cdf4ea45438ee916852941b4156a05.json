@@ -1,0 +1,44 @@
+{
+  "track": {
+    "name": "Dance Lover",
+    "mbid": "2580954e-34c5-4cdf-affe-ecdba5eedbc1",
+    "url": "https://www.last.fm/music/AleX+Tune/_/Dance+Lover",
+    "duration": "263000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "4164",
+    "playcount": "32703",
+    "artist": {
+      "name": "AleX Tune",
+      "url": "https://www.last.fm/music/AleX+Tune"
+    },
+    "album": {
+      "artist": "AleX Tune",
+      "title": "Rave Like Tune Spirit",
+      "url": "https://www.last.fm/music/AleX+Tune/Rave+Like+Tune+Spirit",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/9656c0335e9501e53fb36e6ab4fc1a70.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/9656c0335e9501e53fb36e6ab4fc1a70.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/9656c0335e9501e53fb36e6ab4fc1a70.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/9656c0335e9501e53fb36e6ab4fc1a70.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

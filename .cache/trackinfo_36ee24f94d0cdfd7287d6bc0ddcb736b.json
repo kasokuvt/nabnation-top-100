@@ -1,0 +1,66 @@
+{
+  "track": {
+    "name": "Bait & Switch",
+    "mbid": "1295b745-40e5-3c12-b50a-a9091dcdf17a",
+    "url": "https://www.last.fm/music/KMFDM/_/Bait+&+Switch",
+    "duration": "356000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "74857",
+    "playcount": "640678",
+    "artist": {
+      "name": "KMFDM",
+      "mbid": "45074d7c-5307-44a8-854f-ae072e1622ae",
+      "url": "https://www.last.fm/music/KMFDM"
+    },
+    "album": {
+      "artist": "KMFDM",
+      "title": "Blitz",
+      "url": "https://www.last.fm/music/KMFDM/Blitz",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/bbad514e36f34397acc323896faa251a.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/bbad514e36f34397acc323896faa251a.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/bbad514e36f34397acc323896faa251a.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/bbad514e36f34397acc323896faa251a.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "industrial",
+          "url": "https://www.last.fm/tag/industrial"
+        },
+        {
+          "name": "electronic",
+          "url": "https://www.last.fm/tag/electronic"
+        },
+        {
+          "name": "industrial rock",
+          "url": "https://www.last.fm/tag/industrial+rock"
+        },
+        {
+          "name": "ebm",
+          "url": "https://www.last.fm/tag/ebm"
+        },
+        {
+          "name": "goa",
+          "url": "https://www.last.fm/tag/goa"
+        }
+      ]
+    }
+  }
+}

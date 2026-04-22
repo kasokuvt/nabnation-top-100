@@ -1,0 +1,45 @@
+{
+  "track": {
+    "name": "Flowers",
+    "mbid": "15e7dbe8-25c3-4e3e-aa53-648c32ba71e4",
+    "url": "https://www.last.fm/music/Danny+Brown/_/Flowers",
+    "duration": "152000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "61827",
+    "playcount": "231786",
+    "artist": {
+      "name": "Danny Brown",
+      "mbid": "485aafec-d2b9-4eae-9ebe-97e90928a59a",
+      "url": "https://www.last.fm/music/Danny+Brown"
+    },
+    "album": {
+      "artist": "Danny Brown",
+      "title": "Stardust (2025)",
+      "url": "https://www.last.fm/music/Danny+Brown/Stardust+(2025)",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/fdfd2866e7a5d700594310cd9a9548cb.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/fdfd2866e7a5d700594310cd9a9548cb.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/fdfd2866e7a5d700594310cd9a9548cb.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/fdfd2866e7a5d700594310cd9a9548cb.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

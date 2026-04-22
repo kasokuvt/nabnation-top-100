@@ -1,0 +1,45 @@
+{
+  "track": {
+    "name": "AND I'M GONE",
+    "mbid": "3d11e1f6-10c2-4b49-a3a8-55395ad3e504",
+    "url": "https://www.last.fm/music/femtanyl/_/AND+I%27M+GONE",
+    "duration": "166000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "70556",
+    "playcount": "976808",
+    "artist": {
+      "name": "femtanyl",
+      "mbid": "eb3c021d-e056-42d6-8fad-064205a90527",
+      "url": "https://www.last.fm/music/femtanyl"
+    },
+    "album": {
+      "artist": "femtanyl",
+      "title": "And I'm Gone - Single",
+      "url": "https://www.last.fm/music/femtanyl/And+I%27m+Gone+-+Single",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/7b28b0b32a05123e4ab7bfaf750d672f.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/7b28b0b32a05123e4ab7bfaf750d672f.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/7b28b0b32a05123e4ab7bfaf750d672f.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/7b28b0b32a05123e4ab7bfaf750d672f.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

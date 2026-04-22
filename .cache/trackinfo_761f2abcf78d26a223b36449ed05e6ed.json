@@ -1,0 +1,71 @@
+{
+  "track": {
+    "name": "Be Nice 2 Me",
+    "mbid": "9433d98d-c7c8-46b6-ad7e-82037f275ce1",
+    "url": "https://www.last.fm/music/Bladee/_/Be+Nice+2+Me",
+    "duration": "128000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "503070",
+    "playcount": "14092201",
+    "artist": {
+      "name": "Bladee",
+      "mbid": "cd689e77-dfdd-4f81-b50c-5e5a3f5e38a4",
+      "url": "https://www.last.fm/music/Bladee"
+    },
+    "album": {
+      "artist": "Wyatt Raymond White",
+      "title": "November Has Come",
+      "url": "https://www.last.fm/music/Wyatt+Raymond+White/November+Has+Come",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/31065e6af21f4aa888d4d2406073d9fd.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/31065e6af21f4aa888d4d2406073d9fd.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/31065e6af21f4aa888d4d2406073d9fd.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/31065e6af21f4aa888d4d2406073d9fd.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "cloud rap",
+          "url": "https://www.last.fm/tag/cloud+rap"
+        },
+        {
+          "name": "hip hop",
+          "url": "https://www.last.fm/tag/hip+hop"
+        },
+        {
+          "name": "pop rap",
+          "url": "https://www.last.fm/tag/pop+rap"
+        },
+        {
+          "name": "chopped and screwed",
+          "url": "https://www.last.fm/tag/chopped+and+screwed"
+        },
+        {
+          "name": "weezer",
+          "url": "https://www.last.fm/tag/weezer"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "02 Aug 2020, 23:09",
+      "summary": "\"Be Nice 2 Me\" is the fourth track off Bladee's third mixtape, 'Icedancer'. The song was produced by Rip of production collective Ripsquad and its official video was directed by Joe Ward.\n\nAs of 2024, the track is Bladee's most popular song, amounting to over 50 million streams on Spotify. <a href=\"http://www.last.fm/music/Bladee/_/Be+Nice+2+Me\">Read more on Last.fm</a>.",
+      "content": "\"Be Nice 2 Me\" is the fourth track off Bladee's third mixtape, 'Icedancer'. The song was produced by Rip of production collective Ripsquad and its official video was directed by Joe Ward.\n\nAs of 2024, the track is Bladee's most popular song, amounting to over 50 million streams on Spotify. <a href=\"http://www.last.fm/music/Bladee/_/Be+Nice+2+Me\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

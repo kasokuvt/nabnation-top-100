@@ -1,0 +1,50 @@
+{
+  "track": {
+    "name": "Ouija",
+    "mbid": "94cff3db-78c3-45f9-b953-073609f96a22",
+    "url": "https://www.last.fm/music/Lucy+Bedroque/_/Ouija",
+    "duration": "128000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "75037",
+    "playcount": "735326",
+    "artist": {
+      "name": "Lucy Bedroque",
+      "mbid": "bb7959ac-84cc-45c4-8138-d80ee5f2bd9a",
+      "url": "https://www.last.fm/music/Lucy+Bedroque"
+    },
+    "album": {
+      "artist": "Lucy Bedroque",
+      "title": "unmusique",
+      "url": "https://www.last.fm/music/Lucy+Bedroque/unmusique",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/a4d4343e730ea2902a90058284ffe0da.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/a4d4343e730ea2902a90058284ffe0da.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/a4d4343e730ea2902a90058284ffe0da.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/a4d4343e730ea2902a90058284ffe0da.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    },
+    "wiki": {
+      "published": "21 Jun 2025, 23:59",
+      "summary": "*BEST* song on unmusique, prod. skai (AKA THE GUY WHO PRODUCES FOR OSA \"LIL O\" MASON AND BEN \"XMAN\" BARSON AS WELL AS OTHER NOTABLE ARTISTS SUCH AS CHEROMANI+ AND 1AM) <a href=\"http://www.last.fm/music/Lucy+Bedroque/_/Ouija\">Read more on Last.fm</a>.",
+      "content": "*BEST* song on unmusique, prod. skai (AKA THE GUY WHO PRODUCES FOR OSA \"LIL O\" MASON AND BEN \"XMAN\" BARSON AS WELL AS OTHER NOTABLE ARTISTS SUCH AS CHEROMANI+ AND 1AM) <a href=\"http://www.last.fm/music/Lucy+Bedroque/_/Ouija\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

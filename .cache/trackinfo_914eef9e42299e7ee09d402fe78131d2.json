@@ -1,0 +1,71 @@
+{
+  "track": {
+    "name": "Copycats",
+    "mbid": "754c6733-c6c3-4e94-bf01-a75661f8d67c",
+    "url": "https://www.last.fm/music/Danny+Brown/_/Copycats",
+    "duration": "171000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "89839",
+    "playcount": "652244",
+    "artist": {
+      "name": "Danny Brown",
+      "mbid": "5386edcb-2038-4ed2-ae39-8d8c2a6af175",
+      "url": "https://www.last.fm/music/Danny+Brown"
+    },
+    "album": {
+      "artist": "Danny Brown",
+      "title": "Stardust (2025)",
+      "url": "https://www.last.fm/music/Danny+Brown/Stardust+(2025)",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/fdfd2866e7a5d700594310cd9a9548cb.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/fdfd2866e7a5d700594310cd9a9548cb.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/fdfd2866e7a5d700594310cd9a9548cb.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/fdfd2866e7a5d700594310cd9a9548cb.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "electropop",
+          "url": "https://www.last.fm/tag/electropop"
+        },
+        {
+          "name": "Grime",
+          "url": "https://www.last.fm/tag/Grime"
+        },
+        {
+          "name": "pop rap",
+          "url": "https://www.last.fm/tag/pop+rap"
+        },
+        {
+          "name": "electro house",
+          "url": "https://www.last.fm/tag/electro+house"
+        },
+        {
+          "name": "electro hop",
+          "url": "https://www.last.fm/tag/electro+hop"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "28 Oct 2025, 10:57",
+      "summary": "Featuring underscores. <a href=\"http://www.last.fm/music/Danny+Brown/_/Copycats\">Read more on Last.fm</a>.",
+      "content": "Featuring underscores. <a href=\"http://www.last.fm/music/Danny+Brown/_/Copycats\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

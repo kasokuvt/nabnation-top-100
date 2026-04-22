@@ -1,0 +1,66 @@
+{
+  "track": {
+    "name": "Things to Do",
+    "mbid": "cccb9b27-071f-4b95-bd02-8809529e9650",
+    "url": "https://www.last.fm/music/Alex+G/_/Things+to+Do",
+    "duration": "157000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "478749",
+    "playcount": "6940167",
+    "artist": {
+      "name": "Alex G",
+      "mbid": "7df4c4de-3181-4a69-bd36-9d663970cebb",
+      "url": "https://www.last.fm/music/Alex+G"
+    },
+    "album": {
+      "artist": "Alex G",
+      "title": "RACE",
+      "url": "https://www.last.fm/music/Alex+G/RACE",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/03337c9410154aa74af1e6b23bafa085.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/03337c9410154aa74af1e6b23bafa085.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/03337c9410154aa74af1e6b23bafa085.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/03337c9410154aa74af1e6b23bafa085.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "indie folk",
+          "url": "https://www.last.fm/tag/indie+folk"
+        },
+        {
+          "name": "Lo-Fi",
+          "url": "https://www.last.fm/tag/Lo-Fi"
+        },
+        {
+          "name": "folk",
+          "url": "https://www.last.fm/tag/folk"
+        },
+        {
+          "name": "sad",
+          "url": "https://www.last.fm/tag/sad"
+        },
+        {
+          "name": "indie-folk",
+          "url": "https://www.last.fm/tag/indie-folk"
+        }
+      ]
+    }
+  }
+}

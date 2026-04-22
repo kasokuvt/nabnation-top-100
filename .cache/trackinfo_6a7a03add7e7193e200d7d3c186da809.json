@@ -1,0 +1,71 @@
+{
+  "track": {
+    "name": "Stateside",
+    "mbid": "9b83f32a-c1c7-47cc-be8a-c4d439c6cde7",
+    "url": "https://www.last.fm/music/PinkPantheress/_/Stateside",
+    "duration": "168000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "526352",
+    "playcount": "7831614",
+    "artist": {
+      "name": "PinkPantheress",
+      "mbid": "7441014f-f8f5-494f-81db-ff166fbc078d",
+      "url": "https://www.last.fm/music/PinkPantheress"
+    },
+    "album": {
+      "artist": "PinkPantheress",
+      "title": "Fancy That",
+      "url": "https://www.last.fm/music/PinkPantheress/Fancy+That",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/1b93da0254fdeec7307cb3f1d1e16cee.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/1b93da0254fdeec7307cb3f1d1e16cee.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/1b93da0254fdeec7307cb3f1d1e16cee.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/1b93da0254fdeec7307cb3f1d1e16cee.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "breakbeat",
+          "url": "https://www.last.fm/tag/breakbeat"
+        },
+        {
+          "name": "dance-pop",
+          "url": "https://www.last.fm/tag/dance-pop"
+        },
+        {
+          "name": "nu skool breaks",
+          "url": "https://www.last.fm/tag/nu+skool+breaks"
+        },
+        {
+          "name": "UK Street Soul",
+          "url": "https://www.last.fm/tag/UK+Street+Soul"
+        },
+        {
+          "name": "dance pop",
+          "url": "https://www.last.fm/tag/dance+pop"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "25 Apr 2025, 14:33",
+      "summary": "\"Stateside\" is the second single from PinkPantheress' third project titled \"Fancy That\" and was released April 25, 2025. She wrote the song, as well as coproducing it with The Dare. The mixtape released on May 9, 2025. <a href=\"http://www.last.fm/music/PinkPantheress/_/Stateside\">Read more on Last.fm</a>.",
+      "content": "\"Stateside\" is the second single from PinkPantheress' third project titled \"Fancy That\" and was released April 25, 2025. She wrote the song, as well as coproducing it with The Dare. The mixtape released on May 9, 2025. <a href=\"http://www.last.fm/music/PinkPantheress/_/Stateside\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

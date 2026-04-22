@@ -1,0 +1,66 @@
+{
+  "track": {
+    "name": "Fuck My Computer",
+    "mbid": "372554be-ed17-414e-9b93-e5e51ff90e1a",
+    "url": "https://www.last.fm/music/Ninajirachi/_/Fuck+My+Computer",
+    "duration": "190000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "187659",
+    "playcount": "1883826",
+    "artist": {
+      "name": "Ninajirachi",
+      "mbid": "6897b46a-9236-4480-9ed7-300f6b85d62f",
+      "url": "https://www.last.fm/music/Ninajirachi"
+    },
+    "album": {
+      "artist": "Ninajirachi",
+      "title": "I Love My Computer",
+      "url": "https://www.last.fm/music/Ninajirachi/I+Love+My+Computer",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/d07be8636d6da9e572767ceb1c8422be.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/d07be8636d6da9e572767ceb1c8422be.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/d07be8636d6da9e572767ceb1c8422be.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/d07be8636d6da9e572767ceb1c8422be.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "bass house",
+          "url": "https://www.last.fm/tag/bass+house"
+        },
+        {
+          "name": "electro house",
+          "url": "https://www.last.fm/tag/electro+house"
+        },
+        {
+          "name": "Electroclash",
+          "url": "https://www.last.fm/tag/Electroclash"
+        },
+        {
+          "name": "STDcore",
+          "url": "https://www.last.fm/tag/STDcore"
+        },
+        {
+          "name": "complextro",
+          "url": "https://www.last.fm/tag/complextro"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "track": {
+    "name": "Hey",
+    "url": "https://www.last.fm/music/Luci4/_/Hey",
+    "duration": "73000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "103923",
+    "playcount": "1922191",
+    "artist": {
+      "name": "Luci4",
+      "mbid": "21a37ae6-6eda-4baa-9f73-fc709b61b256",
+      "url": "https://www.last.fm/music/Luci4"
+    },
+    "album": {
+      "artist": "Luci4",
+      "title": "Hey",
+      "url": "https://www.last.fm/music/Luci4/Hey",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/1ddbb48ce29082143a2b912b7cd11197.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/1ddbb48ce29082143a2b912b7cd11197.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/1ddbb48ce29082143a2b912b7cd11197.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/1ddbb48ce29082143a2b912b7cd11197.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

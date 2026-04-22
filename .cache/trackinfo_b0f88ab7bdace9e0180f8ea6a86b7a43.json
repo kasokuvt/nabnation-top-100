@@ -1,0 +1,55 @@
+{
+  "track": {
+    "name": "P3T",
+    "mbid": "84d7974e-5557-4359-9f76-02db1a584554",
+    "url": "https://www.last.fm/music/femtanyl/_/P3T",
+    "duration": "102000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "113541",
+    "playcount": "2063075",
+    "artist": {
+      "name": "femtanyl",
+      "mbid": "eb3c021d-e056-42d6-8fad-064205a90527",
+      "url": "https://www.last.fm/music/femtanyl"
+    },
+    "album": {
+      "artist": "femtanyl",
+      "title": "P3T",
+      "url": "https://www.last.fm/music/femtanyl/P3T",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/80c1960fcd4082dc1e0b7f9258fb4d0f.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/80c1960fcd4082dc1e0b7f9258fb4d0f.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/80c1960fcd4082dc1e0b7f9258fb4d0f.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/80c1960fcd4082dc1e0b7f9258fb4d0f.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "pop",
+          "url": "https://www.last.fm/tag/pop"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "24 Nov 2024, 01:47",
+      "summary": "“P3T”, as much as it has a tune that you can vibe to, this song is about the dark and unsettling events of addiction, isolation and degradation. The lyrics paint a depressing picture of a trapped individual in a cycle of self-destruction and abuse. <a href=\"http://www.last.fm/music/femtanyl/_/P3T\">Read more on Last.fm</a>.",
+      "content": "“P3T”, as much as it has a tune that you can vibe to, this song is about the dark and unsettling events of addiction, isolation and degradation. The lyrics paint a depressing picture of a trapped individual in a cycle of self-destruction and abuse. <a href=\"http://www.last.fm/music/femtanyl/_/P3T\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

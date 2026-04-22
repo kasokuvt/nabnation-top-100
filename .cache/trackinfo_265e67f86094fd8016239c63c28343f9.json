@@ -1,0 +1,66 @@
+{
+  "track": {
+    "name": "FUKOUNA GIRL",
+    "mbid": "1d3bdd2d-a402-46bc-bdf9-3322bb2fb1df",
+    "url": "https://www.last.fm/music/STOMACH+BOOK/_/FUKOUNA+GIRL",
+    "duration": "233000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "107429",
+    "playcount": "2374919",
+    "artist": {
+      "name": "STOMACH BOOK",
+      "mbid": "08d73f28-a795-43f2-a9c9-d9e69d99ce51",
+      "url": "https://www.last.fm/music/STOMACH+BOOK"
+    },
+    "album": {
+      "artist": "STOMACH BOOK",
+      "title": "FUKOUNA GIRL",
+      "url": "https://www.last.fm/music/STOMACH+BOOK/FUKOUNA+GIRL",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/3105ea1164ac522e91af92308b802e69.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/3105ea1164ac522e91af92308b802e69.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/3105ea1164ac522e91af92308b802e69.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/3105ea1164ac522e91af92308b802e69.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "indietronica",
+          "url": "https://www.last.fm/tag/indietronica"
+        },
+        {
+          "name": "Experimental Rock",
+          "url": "https://www.last.fm/tag/Experimental+Rock"
+        },
+        {
+          "name": "synth punk",
+          "url": "https://www.last.fm/tag/synth+punk"
+        },
+        {
+          "name": "cabaret",
+          "url": "https://www.last.fm/tag/cabaret"
+        },
+        {
+          "name": "emo",
+          "url": "https://www.last.fm/tag/emo"
+        }
+      ]
+    }
+  }
+}

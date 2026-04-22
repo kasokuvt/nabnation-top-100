@@ -1,0 +1,70 @@
+{
+  "track": {
+    "name": "Champion",
+    "mbid": "0f83f4c4-ae89-3d41-8d0f-ebc7a9b97117",
+    "url": "https://www.last.fm/music/Kanye+West/_/Champion",
+    "duration": "167000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "1360907",
+    "playcount": "14747185",
+    "artist": {
+      "name": "Kanye West",
+      "url": "https://www.last.fm/music/Kanye+West"
+    },
+    "album": {
+      "artist": "Kanye West",
+      "title": "Graduation",
+      "url": "https://www.last.fm/music/Kanye+West/Graduation",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/8ddd1959a2bef460a5149b3e0cf5e18a.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/8ddd1959a2bef460a5149b3e0cf5e18a.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/8ddd1959a2bef460a5149b3e0cf5e18a.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/8ddd1959a2bef460a5149b3e0cf5e18a.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "Hip-Hop",
+          "url": "https://www.last.fm/tag/Hip-Hop"
+        },
+        {
+          "name": "rap",
+          "url": "https://www.last.fm/tag/rap"
+        },
+        {
+          "name": "Kanye West",
+          "url": "https://www.last.fm/tag/Kanye+West"
+        },
+        {
+          "name": "hip hop",
+          "url": "https://www.last.fm/tag/hip+hop"
+        },
+        {
+          "name": "pop rap",
+          "url": "https://www.last.fm/tag/pop+rap"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "06 May 2021, 20:45",
+      "summary": "An upbeat anthem from Kanye West’s third studio album Graduation containing synthpop and stadium rock influences, the song features bright synthesizers and a hooks based upon a chopped vocal sample of  Steely Dan's 1976 jazz rock song “Kid Charlemagne”. Lyrically, the song continues to explore the themes of motivation and determination against adversity found throughout Graduation.\n\n“Champion” was certified platinum by the RIAA on September 23rd, 2020. <a href=\"http://www.last.fm/music/Kanye+West/_/Champion\">Read more on Last.fm</a>.",
+      "content": "An upbeat anthem from Kanye West’s third studio album Graduation containing synthpop and stadium rock influences, the song features bright synthesizers and a hooks based upon a chopped vocal sample of  Steely Dan's 1976 jazz rock song “Kid Charlemagne”. Lyrically, the song continues to explore the themes of motivation and determination against adversity found throughout Graduation.\n\n“Champion” was certified platinum by the RIAA on September 23rd, 2020. <a href=\"http://www.last.fm/music/Kanye+West/_/Champion\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

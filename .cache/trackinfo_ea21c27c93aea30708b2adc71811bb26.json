@@ -1,0 +1,44 @@
+{
+  "track": {
+    "name": "When Mother Was There",
+    "mbid": "4df80090-1d85-44e8-b6f7-6f8bd732d096",
+    "url": "https://www.last.fm/music/Atlus+Sound+Team/_/When+Mother+Was+There",
+    "duration": "239000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "33622",
+    "playcount": "291496",
+    "artist": {
+      "name": "Atlus Sound Team",
+      "url": "https://www.last.fm/music/Atlus+Sound+Team"
+    },
+    "album": {
+      "artist": "Atlus Sound Team",
+      "title": "Persona 5 Vinyl Soundtrack",
+      "url": "https://www.last.fm/music/Atlus+Sound+Team/Persona+5+Vinyl+Soundtrack",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/125fbb5e75b03bc4356b0b7214406fe4.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/125fbb5e75b03bc4356b0b7214406fe4.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/125fbb5e75b03bc4356b0b7214406fe4.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/125fbb5e75b03bc4356b0b7214406fe4.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

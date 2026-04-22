@@ -1,0 +1,50 @@
+{
+  "track": {
+    "name": "Guillotine",
+    "mbid": "738515f1-51f4-41b0-9cc1-6cc3115be068",
+    "url": "https://www.last.fm/music/Death+Grips/_/Guillotine",
+    "duration": "223000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "394384",
+    "playcount": "3166852",
+    "artist": {
+      "name": "Death Grips",
+      "mbid": "f9133036-ab3d-4e97-bd11-7a2c98ad148a",
+      "url": "https://www.last.fm/music/Death+Grips"
+    },
+    "album": {
+      "artist": "Death Grips",
+      "title": "Exmilitary",
+      "url": "https://www.last.fm/music/Death+Grips/Exmilitary",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/831e96df3afd4777c7ac562537bdb356.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/831e96df3afd4777c7ac562537bdb356.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/831e96df3afd4777c7ac562537bdb356.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/831e96df3afd4777c7ac562537bdb356.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    },
+    "wiki": {
+      "published": "02 Feb 2022, 16:30",
+      "summary": "\"Guillotine\" is a single released by the experimental hip-hop group Death Grips on April 27, 2011 to promote the \"Exmilitary\" mixtape they released that year. The track was produced by Andy Morin & Zach Hill.\n\nThey released a music video for the track and it ended up becoming the channel's most popular video. <a href=\"http://www.last.fm/music/Death+Grips/_/Guillotine\">Read more on Last.fm</a>.",
+      "content": "\"Guillotine\" is a single released by the experimental hip-hop group Death Grips on April 27, 2011 to promote the \"Exmilitary\" mixtape they released that year. The track was produced by Andy Morin & Zach Hill.\n\nThey released a music video for the track and it ended up becoming the channel's most popular video. <a href=\"http://www.last.fm/music/Death+Grips/_/Guillotine\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

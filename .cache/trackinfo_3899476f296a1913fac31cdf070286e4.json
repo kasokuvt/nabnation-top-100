@@ -1,0 +1,65 @@
+{
+  "track": {
+    "name": "I WANT THINGS TO BE BEAUTIFUL",
+    "mbid": "0257f6e7-b521-4ad4-b00a-c9f63dd430b5",
+    "url": "https://www.last.fm/music/Devi+McCallion/_/I+WANT+THINGS+TO+BE+BEAUTIFUL",
+    "duration": "106000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "113651",
+    "playcount": "2161824",
+    "artist": {
+      "name": "Devi McCallion",
+      "url": "https://www.last.fm/music/Devi+McCallion"
+    },
+    "album": {
+      "artist": "Devi McCallion",
+      "title": "I Want Things to Be Beautiful - Single",
+      "url": "https://www.last.fm/music/Devi+McCallion/I+Want+Things+to+Be+Beautiful+-+Single",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/1fcaf08ed6e174de17263170c8db926f.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/1fcaf08ed6e174de17263170c8db926f.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/1fcaf08ed6e174de17263170c8db926f.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/1fcaf08ed6e174de17263170c8db926f.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "metal",
+          "url": "https://www.last.fm/tag/metal"
+        },
+        {
+          "name": "rock",
+          "url": "https://www.last.fm/tag/rock"
+        },
+        {
+          "name": "indietronica",
+          "url": "https://www.last.fm/tag/indietronica"
+        },
+        {
+          "name": "electronic",
+          "url": "https://www.last.fm/tag/electronic"
+        },
+        {
+          "name": "futurepop",
+          "url": "https://www.last.fm/tag/futurepop"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "track": {
+    "name": "in the pool",
+    "url": "https://www.last.fm/music/Kensuke+Ushio/_/in+the+pool",
+    "duration": "245000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "79849",
+    "playcount": "1423809",
+    "artist": {
+      "name": "Kensuke Ushio",
+      "url": "https://www.last.fm/music/Kensuke+Ushio"
+    },
+    "album": {
+      "artist": "Kensuke Ushio",
+      "title": "Chainsaw Man - The Movie: Reze Arc",
+      "url": "https://www.last.fm/music/Kensuke+Ushio/Chainsaw+Man+-+The+Movie:+Reze+Arc",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/197bed4c4ac2908153ec7a7747e9806e.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/197bed4c4ac2908153ec7a7747e9806e.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/197bed4c4ac2908153ec7a7747e9806e.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/197bed4c4ac2908153ec7a7747e9806e.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "track": {
+    "name": "IT'S TIME",
+    "mbid": "3462fc27-8a17-4371-9148-c5aaef4155c0",
+    "url": "https://www.last.fm/music/femtanyl/_/IT%27S+TIME",
+    "duration": "127000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "62439",
+    "playcount": "661725",
+    "artist": {
+      "name": "femtanyl",
+      "mbid": "eb3c021d-e056-42d6-8fad-064205a90527",
+      "url": "https://www.last.fm/music/femtanyl"
+    },
+    "album": {
+      "artist": "femtanyl",
+      "title": "REACTOR",
+      "url": "https://www.last.fm/music/femtanyl/REACTOR",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/5b32d60388df05d9a69a424218689d4e.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/5b32d60388df05d9a69a424218689d4e.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/5b32d60388df05d9a69a424218689d4e.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/5b32d60388df05d9a69a424218689d4e.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

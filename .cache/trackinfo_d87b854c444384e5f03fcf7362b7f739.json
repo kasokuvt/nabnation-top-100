@@ -1,0 +1,45 @@
+{
+  "track": {
+    "name": "Spontanverkehr",
+    "mbid": "01bf8574-ce7f-3647-a189-baf60ab49660",
+    "url": "https://www.last.fm/music/And+One/_/Spontanverkehr",
+    "duration": "286000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "41216",
+    "playcount": "359331",
+    "artist": {
+      "name": "And One",
+      "mbid": "f04cc80e-0f59-45b8-aaf4-ac81035644e9",
+      "url": "https://www.last.fm/music/And+One"
+    },
+    "album": {
+      "artist": "And One",
+      "title": "Spot",
+      "url": "https://www.last.fm/music/And+One/Spot",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/83f14e26a9a74f719529f20fba6de88a.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/83f14e26a9a74f719529f20fba6de88a.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/83f14e26a9a74f719529f20fba6de88a.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/83f14e26a9a74f719529f20fba6de88a.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

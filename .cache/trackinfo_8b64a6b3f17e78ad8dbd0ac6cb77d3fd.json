@@ -1,0 +1,71 @@
+{
+  "track": {
+    "name": "the perfect pair",
+    "mbid": "d7902c5f-6668-451b-ae7f-07067696b23f",
+    "url": "https://www.last.fm/music/beabadoobee/_/the+perfect+pair",
+    "duration": "177000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "1380973",
+    "playcount": "27639125",
+    "artist": {
+      "name": "beabadoobee",
+      "mbid": "88d17133-abbc-42db-9526-4e2c1db60336",
+      "url": "https://www.last.fm/music/beabadoobee"
+    },
+    "album": {
+      "artist": "beabadoobee",
+      "title": "Beatopia",
+      "url": "https://www.last.fm/music/beabadoobee/Beatopia",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/d47d0db3893fa94639514a2aa47372b8.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/d47d0db3893fa94639514a2aa47372b8.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/d47d0db3893fa94639514a2aa47372b8.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/d47d0db3893fa94639514a2aa47372b8.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "Bossa Nova",
+          "url": "https://www.last.fm/tag/Bossa+Nova"
+        },
+        {
+          "name": "bedroom pop",
+          "url": "https://www.last.fm/tag/bedroom+pop"
+        },
+        {
+          "name": "Love",
+          "url": "https://www.last.fm/tag/Love"
+        },
+        {
+          "name": "chillout",
+          "url": "https://www.last.fm/tag/chillout"
+        },
+        {
+          "name": "dream pop",
+          "url": "https://www.last.fm/tag/dream+pop"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "05 Jun 2023, 09:30",
+      "summary": "An experimental bossa-nova song, “the perfect pair” describes communication issues between a couple. Many of the lyrics detail the silence, or stonewalling, from Bea’s partner, something she comes to realize she does herself.\n\n\"The lyrics were quite difficult, because it was quite specific. It’s about realising that the thing you hate about a person is the thing that reminds you of yourself, which is why it’s called “The Perfect Pair”. <a href=\"http://www.last.fm/music/beabadoobee/_/the+perfect+pair\">Read more on Last.fm</a>.",
+      "content": "An experimental bossa-nova song, “the perfect pair” describes communication issues between a couple. Many of the lyrics detail the silence, or stonewalling, from Bea’s partner, something she comes to realize she does herself.\n\n\"The lyrics were quite difficult, because it was quite specific. It’s about realising that the thing you hate about a person is the thing that reminds you of yourself, which is why it’s called “The Perfect Pair”. It was a song I’d never made before—I just really wanted to make something with a bossa-nova-like beat. It was the first time I also really explored what my voice could do, too.\"\n\n—via Apple Music <a href=\"http://www.last.fm/music/beabadoobee/_/the+perfect+pair\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

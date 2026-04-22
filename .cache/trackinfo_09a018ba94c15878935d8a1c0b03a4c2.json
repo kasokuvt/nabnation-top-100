@@ -1,0 +1,71 @@
+{
+  "track": {
+    "name": "Twilight",
+    "mbid": "2511673f-07ba-317a-b3a8-273c26da7f03",
+    "url": "https://www.last.fm/music/b%C3%B4a/_/Twilight",
+    "duration": "227000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "908729",
+    "playcount": "12530182",
+    "artist": {
+      "name": "bôa",
+      "mbid": "ca1dcba2-792c-4550-abf2-7b45396e81ca",
+      "url": "https://www.last.fm/music/b%C3%B4a"
+    },
+    "album": {
+      "artist": "bôa",
+      "title": "Twilight",
+      "url": "https://www.last.fm/music/b%C3%B4a/Twilight",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/40564dd1a58f969fc3ee3c49bddffd23.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/40564dd1a58f969fc3ee3c49bddffd23.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/40564dd1a58f969fc3ee3c49bddffd23.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/40564dd1a58f969fc3ee3c49bddffd23.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "alternative rock",
+          "url": "https://www.last.fm/tag/alternative+rock"
+        },
+        {
+          "name": "rock",
+          "url": "https://www.last.fm/tag/rock"
+        },
+        {
+          "name": "alternative",
+          "url": "https://www.last.fm/tag/alternative"
+        },
+        {
+          "name": "female vocalist",
+          "url": "https://www.last.fm/tag/female+vocalist"
+        },
+        {
+          "name": "british",
+          "url": "https://www.last.fm/tag/british"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "02 Aug 2025, 16:37",
+      "summary": "The period of twilight is known as a transitory state or a ‘liminal space’, as it is not quite night or day, and therefore is often representative of an individual feeling ‘stuck’. The fact that the persona in the song appears to be in a love triangle connects to this, as they are trapped between the feelings of their lover and their lover’s lover. <a href=\"http://www.last.fm/music/b%C3%B4a/_/Twilight\">Read more on Last.fm</a>.",
+      "content": "The period of twilight is known as a transitory state or a ‘liminal space’, as it is not quite night or day, and therefore is often representative of an individual feeling ‘stuck’. The fact that the persona in the song appears to be in a love triangle connects to this, as they are trapped between the feelings of their lover and their lover’s lover. <a href=\"http://www.last.fm/music/b%C3%B4a/_/Twilight\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

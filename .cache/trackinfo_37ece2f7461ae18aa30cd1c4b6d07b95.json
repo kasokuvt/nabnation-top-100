@@ -1,0 +1,44 @@
+{
+  "track": {
+    "name": "Feel Like Uzi",
+    "mbid": "4d78576b-4579-4c0f-8543-5e8a09c6382e",
+    "url": "https://www.last.fm/music/prettifun/_/Feel+Like+Uzi",
+    "duration": "163000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "49781",
+    "playcount": "761106",
+    "artist": {
+      "name": "prettifun",
+      "url": "https://www.last.fm/music/prettifun"
+    },
+    "album": {
+      "artist": "prettifun",
+      "title": "FunHouse",
+      "url": "https://www.last.fm/music/prettifun/FunHouse",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/9593aa7098c5f86b185d19aaa6459ad6.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/9593aa7098c5f86b185d19aaa6459ad6.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/9593aa7098c5f86b185d19aaa6459ad6.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/9593aa7098c5f86b185d19aaa6459ad6.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

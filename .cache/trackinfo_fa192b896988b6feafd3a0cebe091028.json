@@ -1,0 +1,66 @@
+{
+  "track": {
+    "name": "Forever",
+    "mbid": "0c840a61-293b-470c-948e-c13ce3ef076d",
+    "url": "https://www.last.fm/music/Alex+G/_/Forever",
+    "duration": "134000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "598125",
+    "playcount": "7575573",
+    "artist": {
+      "name": "Alex G",
+      "mbid": "7df4c4de-3181-4a69-bd36-9d663970cebb",
+      "url": "https://www.last.fm/music/Alex+G"
+    },
+    "album": {
+      "artist": "Alex G",
+      "title": "TRICK",
+      "url": "https://www.last.fm/music/Alex+G/TRICK",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/0b8520054cfd8af493b44a8bed0a2361.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/0b8520054cfd8af493b44a8bed0a2361.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/0b8520054cfd8af493b44a8bed0a2361.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/0b8520054cfd8af493b44a8bed0a2361.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "indie folk",
+          "url": "https://www.last.fm/tag/indie+folk"
+        },
+        {
+          "name": "americana",
+          "url": "https://www.last.fm/tag/americana"
+        },
+        {
+          "name": "singer-songwriter",
+          "url": "https://www.last.fm/tag/singer-songwriter"
+        },
+        {
+          "name": "slacker rock",
+          "url": "https://www.last.fm/tag/slacker+rock"
+        },
+        {
+          "name": "bedroom pop",
+          "url": "https://www.last.fm/tag/bedroom+pop"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "track": {
+    "name": "Reality Surf",
+    "mbid": "48c1e570-bae6-4244-8cbc-bfb2c16a62e0",
+    "url": "https://www.last.fm/music/Bladee/_/Reality+Surf",
+    "duration": "123000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "355941",
+    "playcount": "7581641",
+    "artist": {
+      "name": "Bladee",
+      "mbid": "cd689e77-dfdd-4f81-b50c-5e5a3f5e38a4",
+      "url": "https://www.last.fm/music/Bladee"
+    },
+    "album": {
+      "artist": "Bladee",
+      "title": "333",
+      "url": "https://www.last.fm/music/Bladee/333",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/8e84b293125bdc88cdf308bc744fc6fd.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/8e84b293125bdc88cdf308bc744fc6fd.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/8e84b293125bdc88cdf308bc744fc6fd.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/8e84b293125bdc88cdf308bc744fc6fd.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "cloud rap",
+          "url": "https://www.last.fm/tag/cloud+rap"
+        },
+        {
+          "name": "digicore",
+          "url": "https://www.last.fm/tag/digicore"
+        },
+        {
+          "name": "drain gang",
+          "url": "https://www.last.fm/tag/drain+gang"
+        },
+        {
+          "name": "hip hop",
+          "url": "https://www.last.fm/tag/hip+hop"
+        },
+        {
+          "name": "pop rap",
+          "url": "https://www.last.fm/tag/pop+rap"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "16 Apr 2023, 19:16",
+      "summary": "In reality surf, Bladee talks about the differing mental attitudes him and and someone he cherishes posess. Bladee worries they think too negatively and wants them to think more like he does and be positive. <a href=\"http://www.last.fm/music/Bladee/_/Reality+Surf\">Read more on Last.fm</a>.",
+      "content": "In reality surf, Bladee talks about the differing mental attitudes him and and someone he cherishes posess. Bladee worries they think too negatively and wants them to think more like he does and be positive. <a href=\"http://www.last.fm/music/Bladee/_/Reality+Surf\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

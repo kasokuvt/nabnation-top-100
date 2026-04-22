@@ -1,0 +1,50 @@
+{
+  "track": {
+    "name": "Drinking Age",
+    "mbid": "1aac9785-b436-4717-bed5-8a3dd727665c",
+    "url": "https://www.last.fm/music/Cameron+Winter/_/Drinking+Age",
+    "duration": "275000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "125556",
+    "playcount": "1312382",
+    "artist": {
+      "name": "Cameron Winter",
+      "mbid": "79c6b6f4-cb92-4f03-a1ef-82e7aa4eddbb",
+      "url": "https://www.last.fm/music/Cameron+Winter"
+    },
+    "album": {
+      "artist": "Cameron Winter",
+      "title": "Heavy Metal",
+      "url": "https://www.last.fm/music/Cameron+Winter/Heavy+Metal",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/ab895f0cb006d2741e7be50a5960f1f7.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/ab895f0cb006d2741e7be50a5960f1f7.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/ab895f0cb006d2741e7be50a5960f1f7.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/ab895f0cb006d2741e7be50a5960f1f7.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "piano",
+          "url": "https://www.last.fm/tag/piano"
+        }
+      ]
+    }
+  }
+}

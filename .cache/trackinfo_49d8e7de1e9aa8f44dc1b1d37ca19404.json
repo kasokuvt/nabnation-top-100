@@ -1,0 +1,66 @@
+{
+  "track": {
+    "name": "Machine Love",
+    "mbid": "f6e742c6-ae5a-457d-af70-3020e885afdd",
+    "url": "https://www.last.fm/music/Jamie+Paige/_/Machine+Love",
+    "duration": "216000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "102444",
+    "playcount": "2230631",
+    "artist": {
+      "name": "Jamie Paige",
+      "mbid": "de2c3324-30c6-45f7-9136-08a5bb66bc2c",
+      "url": "https://www.last.fm/music/Jamie+Paige"
+    },
+    "album": {
+      "artist": "Various Artists",
+      "title": "DAEMON/DOLL",
+      "url": "https://www.last.fm/music/Various+Artists/DAEMON%2FDOLL",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/54c1cc56224aed605d3cc3314837b32a.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/54c1cc56224aed605d3cc3314837b32a.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/54c1cc56224aed605d3cc3314837b32a.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/54c1cc56224aed605d3cc3314837b32a.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "synthv",
+          "url": "https://www.last.fm/tag/synthv"
+        },
+        {
+          "name": "synthpop",
+          "url": "https://www.last.fm/tag/synthpop"
+        },
+        {
+          "name": "kasane teto",
+          "url": "https://www.last.fm/tag/kasane+teto"
+        },
+        {
+          "name": "synth",
+          "url": "https://www.last.fm/tag/synth"
+        },
+        {
+          "name": "vocaloid",
+          "url": "https://www.last.fm/tag/vocaloid"
+        }
+      ]
+    }
+  }
+}

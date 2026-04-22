@@ -1,0 +1,44 @@
+{
+  "track": {
+    "name": "Dawn of f@ilur3",
+    "url": "https://www.last.fm/music/$i%23dzy/_/Dawn+of+f@ilur3",
+    "duration": "158000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "65326",
+    "playcount": "499609",
+    "artist": {
+      "name": "$i#dzy",
+      "mbid": "836bdbe4-2c0b-4fe8-8d86-7b400b1cbc24",
+      "url": "https://www.last.fm/music/$i%23dzy"
+    },
+    "album": {
+      "artist": "$i#dzy",
+      "title": "Dawn of f@ilur3",
+      "url": "https://www.last.fm/music/$i%23dzy/Dawn+of+f@ilur3",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/cafa4e515c075fa250e3f5e8ec2a56c3.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/cafa4e515c075fa250e3f5e8ec2a56c3.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/cafa4e515c075fa250e3f5e8ec2a56c3.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/cafa4e515c075fa250e3f5e8ec2a56c3.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "track": {
+    "name": "Pro : Lov : Ad",
+    "mbid": "357c09c2-4e2c-4459-a120-d40a7fe6579b",
+    "url": "https://www.last.fm/music/Sweet+Trip/_/Pro+:+Lov+:+Ad",
+    "duration": "346000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "22658",
+    "playcount": "123748",
+    "artist": {
+      "name": "Sweet Trip",
+      "mbid": "52fbc948-398c-45f6-833b-dd75164b896a",
+      "url": "https://www.last.fm/music/Sweet+Trip"
+    },
+    "album": {
+      "artist": "Sweet Trip",
+      "title": "Velocity : Design : Comfort",
+      "url": "https://www.last.fm/music/Sweet+Trip/Velocity+:+Design+:+Comfort",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a959509c1380250afca7d0f8a5edc44.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a959509c1380250afca7d0f8a5edc44.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a959509c1380250afca7d0f8a5edc44.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a959509c1380250afca7d0f8a5edc44.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

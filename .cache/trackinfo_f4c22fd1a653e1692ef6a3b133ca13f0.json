@@ -1,0 +1,71 @@
+{
+  "track": {
+    "name": "VYZEE",
+    "mbid": "04cf5f04-7216-4abb-839b-3c053881f392",
+    "url": "https://www.last.fm/music/Sophie/_/VYZEE",
+    "duration": "202000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "291027",
+    "playcount": "2642278",
+    "artist": {
+      "name": "Sophie",
+      "mbid": "8b4a0e08-3e96-4123-afaf-34163355b527",
+      "url": "https://www.last.fm/music/Sophie"
+    },
+    "album": {
+      "artist": "Sophie",
+      "title": "Vyzee",
+      "url": "https://www.last.fm/music/Sophie/Vyzee",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/232c6c7871e58d843492aa1efee4afff.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/232c6c7871e58d843492aa1efee4afff.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/232c6c7871e58d843492aa1efee4afff.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/232c6c7871e58d843492aa1efee4afff.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "bubblegum bass",
+          "url": "https://www.last.fm/tag/bubblegum+bass"
+        },
+        {
+          "name": "electropop",
+          "url": "https://www.last.fm/tag/electropop"
+        },
+        {
+          "name": "dance-pop",
+          "url": "https://www.last.fm/tag/dance-pop"
+        },
+        {
+          "name": "farts",
+          "url": "https://www.last.fm/tag/farts"
+        },
+        {
+          "name": "dutch house",
+          "url": "https://www.last.fm/tag/dutch+house"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "27 Nov 2016, 19:15",
+      "summary": "This is track 6 off SOPHIE’s debut album, “Product.” It was debuted during SOPHIE's Ray-Ban x Boiler Room set in 2014. <a href=\"http://www.last.fm/music/Sophie/_/VYZEE\">Read more on Last.fm</a>.",
+      "content": "This is track 6 off SOPHIE’s debut album, “Product.” It was debuted during SOPHIE's Ray-Ban x Boiler Room set in 2014. <a href=\"http://www.last.fm/music/Sophie/_/VYZEE\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

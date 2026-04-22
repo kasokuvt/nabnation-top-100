@@ -1,0 +1,71 @@
+{
+  "track": {
+    "name": "POP OUT",
+    "mbid": "ae684ee0-9a9f-404a-8548-e16e2bbbc506",
+    "url": "https://www.last.fm/music/Playboi+Carti/_/POP+OUT",
+    "duration": "162000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "491848",
+    "playcount": "5067086",
+    "artist": {
+      "name": "Playboi Carti",
+      "mbid": "2baf3276-ed6a-4349-8d2e-f4601e7b2167",
+      "url": "https://www.last.fm/music/Playboi+Carti"
+    },
+    "album": {
+      "artist": "Playboi Carti",
+      "title": "Antagonist",
+      "url": "https://www.last.fm/music/Playboi+Carti/Antagonist",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/9210782e2a65e7538b3bc470a97b47bf.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/9210782e2a65e7538b3bc470a97b47bf.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/9210782e2a65e7538b3bc470a97b47bf.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/9210782e2a65e7538b3bc470a97b47bf.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "rage",
+          "url": "https://www.last.fm/tag/rage"
+        },
+        {
+          "name": "industrial hip hop",
+          "url": "https://www.last.fm/tag/industrial+hip+hop"
+        },
+        {
+          "name": "Trap Metal",
+          "url": "https://www.last.fm/tag/Trap+Metal"
+        },
+        {
+          "name": "Southern Hip Hop",
+          "url": "https://www.last.fm/tag/Southern+Hip+Hop"
+        },
+        {
+          "name": "trap",
+          "url": "https://www.last.fm/tag/trap"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "15 Mar 2025, 03:38",
+      "summary": "“POP OUT” is the first track on Playboi Carti’s long-awaited third studio album, MUSIC. The song was first previewed during Carti’s set at Wireless Festival 2023. It serves as a jarring kickstart to the album with jagged-sounding, industrial rage production and Carti using a raspy-voice. The moshpits to this song boutta go crazy. <a href=\"http://www.last.fm/music/Playboi+Carti/_/POP+OUT\">Read more on Last.fm</a>.",
+      "content": "“POP OUT” is the first track on Playboi Carti’s long-awaited third studio album, MUSIC. The song was first previewed during Carti’s set at Wireless Festival 2023. It serves as a jarring kickstart to the album with jagged-sounding, industrial rage production and Carti using a raspy-voice. The moshpits to this song boutta go crazy. <a href=\"http://www.last.fm/music/Playboi+Carti/_/POP+OUT\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

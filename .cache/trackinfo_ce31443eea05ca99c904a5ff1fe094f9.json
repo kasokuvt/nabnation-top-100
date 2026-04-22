@@ -1,0 +1,44 @@
+{
+  "track": {
+    "name": "Last Wish",
+    "mbid": "d424e07c-0031-45cb-87a1-bc90073b86b2",
+    "url": "https://www.last.fm/music/prettifun/_/Last+Wish",
+    "duration": "119000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "31124",
+    "playcount": "301178",
+    "artist": {
+      "name": "prettifun",
+      "url": "https://www.last.fm/music/prettifun"
+    },
+    "album": {
+      "artist": "prettifun",
+      "title": "FunHouse Deluxe",
+      "url": "https://www.last.fm/music/prettifun/FunHouse+Deluxe",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/3714482f093eb6fc96a359b81f9a842e.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/3714482f093eb6fc96a359b81f9a842e.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/3714482f093eb6fc96a359b81f9a842e.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/3714482f093eb6fc96a359b81f9a842e.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

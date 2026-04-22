@@ -1,0 +1,70 @@
+{
+  "track": {
+    "name": "SPAGHETTI",
+    "url": "https://www.last.fm/music/LE+SSERAFIM/_/SPAGHETTI",
+    "duration": "172000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "325159",
+    "playcount": "29280941",
+    "artist": {
+      "name": "LE SSERAFIM",
+      "mbid": "1ee37742-1e3d-4e61-84d2-bc85f4c1459a",
+      "url": "https://www.last.fm/music/LE+SSERAFIM"
+    },
+    "album": {
+      "artist": "LE SSERAFIM",
+      "title": "Spaghetti (Noodles Version)",
+      "url": "https://www.last.fm/music/LE+SSERAFIM/Spaghetti+(Noodles+Version)",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/e0a5d5e1330ae4b29bbd0af289576727.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/e0a5d5e1330ae4b29bbd0af289576727.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/e0a5d5e1330ae4b29bbd0af289576727.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/e0a5d5e1330ae4b29bbd0af289576727.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "experimental",
+          "url": "https://www.last.fm/tag/experimental"
+        },
+        {
+          "name": "electropop",
+          "url": "https://www.last.fm/tag/electropop"
+        },
+        {
+          "name": "glitch hop",
+          "url": "https://www.last.fm/tag/glitch+hop"
+        },
+        {
+          "name": "quirky",
+          "url": "https://www.last.fm/tag/quirky"
+        },
+        {
+          "name": "Korean",
+          "url": "https://www.last.fm/tag/Korean"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "26 Oct 2025, 17:45",
+      "summary": "\"SPAGHETTI (feat. j-hope of BTS)\" is the first and the title track on the \"SPAGHETTI\" single. It was released on October 24, 2025. <a href=\"http://www.last.fm/music/LE+SSERAFIM/_/SPAGHETTI\">Read more on Last.fm</a>.",
+      "content": "\"SPAGHETTI (feat. j-hope of BTS)\" is the first and the title track on the \"SPAGHETTI\" single. It was released on October 24, 2025. <a href=\"http://www.last.fm/music/LE+SSERAFIM/_/SPAGHETTI\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

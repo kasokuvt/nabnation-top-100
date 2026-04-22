@@ -1,0 +1,50 @@
+{
+  "track": {
+    "name": "Benzi Box",
+    "mbid": "c7e9b096-5a3a-3820-a083-e8a6fb3cb1ac",
+    "url": "https://www.last.fm/music/DANGERDOOM/_/Benzi+Box",
+    "duration": "143000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "454412",
+    "playcount": "2920745",
+    "artist": {
+      "name": "DANGERDOOM",
+      "mbid": "be0cb2f2-71c3-4e95-a584-c19248951ff4",
+      "url": "https://www.last.fm/music/DANGERDOOM"
+    },
+    "album": {
+      "artist": "DANGERDOOM",
+      "title": "The Mouse & The Mask",
+      "url": "https://www.last.fm/music/DANGERDOOM/The+Mouse+&+The+Mask",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/27e265856e254bc1cbeacc9b470eaa0b.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/27e265856e254bc1cbeacc9b470eaa0b.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/27e265856e254bc1cbeacc9b470eaa0b.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/27e265856e254bc1cbeacc9b470eaa0b.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    },
+    "wiki": {
+      "published": "23 Aug 2022, 14:44",
+      "summary": "\"Benzi Box\", sometimes spelled as \"Benzie Box\", is the fifth track from MF DOOM and Danger Mouse's collaborative album \"THE MOUSE & THE MASK.\" The hook on this track is sung by Cee-Lo Green who also collaborated with producer Danger Mouse as the duo Gnarls Barkley. <a href=\"http://www.last.fm/music/DANGERDOOM/_/Benzi+Box\">Read more on Last.fm</a>.",
+      "content": "\"Benzi Box\", sometimes spelled as \"Benzie Box\", is the fifth track from MF DOOM and Danger Mouse's collaborative album \"THE MOUSE & THE MASK.\" The hook on this track is sung by Cee-Lo Green who also collaborated with producer Danger Mouse as the duo Gnarls Barkley. <a href=\"http://www.last.fm/music/DANGERDOOM/_/Benzi+Box\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

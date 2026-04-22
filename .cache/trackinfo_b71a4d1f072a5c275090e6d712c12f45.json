@@ -1,0 +1,71 @@
+{
+  "track": {
+    "name": "DINNER!",
+    "mbid": "048a2d2a-d442-4a16-ac5d-9de6418bb26b",
+    "url": "https://www.last.fm/music/femtanyl/_/DINNER%21",
+    "duration": "136000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "122734",
+    "playcount": "1691840",
+    "artist": {
+      "name": "femtanyl",
+      "mbid": "eb3c021d-e056-42d6-8fad-064205a90527",
+      "url": "https://www.last.fm/music/femtanyl"
+    },
+    "album": {
+      "artist": "femtanyl",
+      "title": "DINNER!",
+      "url": "https://www.last.fm/music/femtanyl/DINNER%21",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/5cf7227c2cfaac9d78859099ad25a664.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/5cf7227c2cfaac9d78859099ad25a664.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/5cf7227c2cfaac9d78859099ad25a664.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/5cf7227c2cfaac9d78859099ad25a664.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "hardcore",
+          "url": "https://www.last.fm/tag/hardcore"
+        },
+        {
+          "name": "electronic",
+          "url": "https://www.last.fm/tag/electronic"
+        },
+        {
+          "name": "breakcore",
+          "url": "https://www.last.fm/tag/breakcore"
+        },
+        {
+          "name": "digital hardcore",
+          "url": "https://www.last.fm/tag/digital+hardcore"
+        },
+        {
+          "name": "transfem",
+          "url": "https://www.last.fm/tag/transfem"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "24 Oct 2024, 13:07",
+      "summary": "I wonder what's for dinner <a href=\"http://www.last.fm/music/femtanyl/_/DINNER%21\">Read more on Last.fm</a>.",
+      "content": "I wonder what's for dinner <a href=\"http://www.last.fm/music/femtanyl/_/DINNER%21\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "track": {
+    "name": "ACT RIGHT",
+    "mbid": "3be21971-70e9-48da-9b30-50156c88f8b6",
+    "url": "https://www.last.fm/music/femtanyl/_/ACT+RIGHT",
+    "duration": "144000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "87945",
+    "playcount": "1437917",
+    "artist": {
+      "name": "femtanyl",
+      "mbid": "eb3c021d-e056-42d6-8fad-064205a90527",
+      "url": "https://www.last.fm/music/femtanyl"
+    },
+    "album": {
+      "artist": "femtanyl",
+      "title": "ACT RIGHT",
+      "url": "https://www.last.fm/music/femtanyl/ACT+RIGHT",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/27ef895634fd7051a12d12b48f0d6734.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/27ef895634fd7051a12d12b48f0d6734.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/27ef895634fd7051a12d12b48f0d6734.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/27ef895634fd7051a12d12b48f0d6734.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    },
+    "wiki": {
+      "published": "24 Nov 2024, 01:44",
+      "summary": "This song is from the perspective of a famous or otherwise rich person. They think very highly of themselves, but they are getting bored of their lifestyle and instead of forming actual connections become greedier in hope that getting more money will make them happier. <a href=\"http://www.last.fm/music/femtanyl/_/ACT+RIGHT\">Read more on Last.fm</a>.",
+      "content": "This song is from the perspective of a famous or otherwise rich person. They think very highly of themselves, but they are getting bored of their lifestyle and instead of forming actual connections become greedier in hope that getting more money will make them happier. <a href=\"http://www.last.fm/music/femtanyl/_/ACT+RIGHT\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

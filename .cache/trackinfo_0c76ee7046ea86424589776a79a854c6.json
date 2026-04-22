@@ -1,0 +1,55 @@
+{
+  "track": {
+    "name": "Order of Protection",
+    "mbid": "1f076010-243e-4df6-8806-904df61dad49",
+    "url": "https://www.last.fm/music/A$AP+Rocky/_/Order+of+Protection",
+    "duration": "171000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "331805",
+    "playcount": "1155037",
+    "artist": {
+      "name": "A$AP Rocky",
+      "mbid": "25b7b584-d952-4662-a8b9-dd8cdfbfeb64",
+      "url": "https://www.last.fm/music/A$AP+Rocky"
+    },
+    "album": {
+      "artist": "A$AP Rocky",
+      "title": "Don't Be Dumb [Clean]",
+      "url": "https://www.last.fm/music/A$AP+Rocky/Don%27t+Be+Dumb+%5BClean%5D",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/bff9dfc2d7a0e7d7d407f13ff454dd9d.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/bff9dfc2d7a0e7d7d407f13ff454dd9d.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/bff9dfc2d7a0e7d7d407f13ff454dd9d.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/bff9dfc2d7a0e7d7d407f13ff454dd9d.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "ASAP Rocky",
+          "url": "https://www.last.fm/tag/ASAP+Rocky"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "03 Mar 2026, 00:01",
+      "summary": "ORDER OF PROTECTION is the intro to A$AP Rocky’s long-awaited 2026 album, Don’t Be Dumb. Rocky gives us a quick synopsis on where he’s been these past 8 years since “TESTING”, ultimately this song is about his resiliency and the passion for the craft. <a href=\"http://www.last.fm/music/A$AP+Rocky/_/Order+of+Protection\">Read more on Last.fm</a>.",
+      "content": "ORDER OF PROTECTION is the intro to A$AP Rocky’s long-awaited 2026 album, Don’t Be Dumb. Rocky gives us a quick synopsis on where he’s been these past 8 years since “TESTING”, ultimately this song is about his resiliency and the passion for the craft. <a href=\"http://www.last.fm/music/A$AP+Rocky/_/Order+of+Protection\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

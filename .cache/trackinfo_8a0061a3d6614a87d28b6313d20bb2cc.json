@@ -1,0 +1,42 @@
+{
+  "track": {
+    "name": "BIRDBRAIN",
+    "url": "https://www.last.fm/music/Jamie+Paige/_/BIRDBRAIN",
+    "duration": "0",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "111275",
+    "playcount": "2623884",
+    "artist": {
+      "name": "Jamie Paige",
+      "mbid": "de2c3324-30c6-45f7-9136-08a5bb66bc2c",
+      "url": "https://www.last.fm/music/Jamie+Paige"
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "bird",
+          "url": "https://www.last.fm/tag/bird"
+        },
+        {
+          "name": "synthpop",
+          "url": "https://www.last.fm/tag/synthpop"
+        },
+        {
+          "name": "synthv",
+          "url": "https://www.last.fm/tag/synthv"
+        },
+        {
+          "name": "pigeon",
+          "url": "https://www.last.fm/tag/pigeon"
+        },
+        {
+          "name": "Birdbrain",
+          "url": "https://www.last.fm/tag/Birdbrain"
+        }
+      ]
+    }
+  }
+}

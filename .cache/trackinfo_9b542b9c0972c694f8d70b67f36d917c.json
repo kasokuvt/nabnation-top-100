@@ -1,0 +1,45 @@
+{
+  "track": {
+    "name": "All I Am",
+    "mbid": "bce433ec-9392-474a-95e5-078d4bb191e3",
+    "url": "https://www.last.fm/music/Ninajirachi/_/All+I+Am",
+    "duration": "184000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "142629",
+    "playcount": "1022735",
+    "artist": {
+      "name": "Ninajirachi",
+      "mbid": "6897b46a-9236-4480-9ed7-300f6b85d62f",
+      "url": "https://www.last.fm/music/Ninajirachi"
+    },
+    "album": {
+      "artist": "Ninajirachi",
+      "title": "All I Am",
+      "url": "https://www.last.fm/music/Ninajirachi/All+I+Am",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/ebeed2907436ae12589807bf876f5e62.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/ebeed2907436ae12589807bf876f5e62.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/ebeed2907436ae12589807bf876f5e62.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/ebeed2907436ae12589807bf876f5e62.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

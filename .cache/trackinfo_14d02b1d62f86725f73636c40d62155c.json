@@ -1,0 +1,66 @@
+{
+  "track": {
+    "name": "Innuendo (I Get U)",
+    "mbid": "e85898a9-2527-406b-b353-f2c53be74311",
+    "url": "https://www.last.fm/music/underscores/_/Innuendo+(I+Get+U)",
+    "duration": "208000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "108455",
+    "playcount": "736831",
+    "artist": {
+      "name": "underscores",
+      "mbid": "ab1a3f85-e0ea-470a-af5c-175447ae774c",
+      "url": "https://www.last.fm/music/underscores"
+    },
+    "album": {
+      "artist": "underscores",
+      "title": "U (2026)",
+      "url": "https://www.last.fm/music/underscores/U+(2026)",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/5bb3b70a3b6f3b1fd7a87243209094b0.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/5bb3b70a3b6f3b1fd7a87243209094b0.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/5bb3b70a3b6f3b1fd7a87243209094b0.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/5bb3b70a3b6f3b1fd7a87243209094b0.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "alternative rnb",
+          "url": "https://www.last.fm/tag/alternative+rnb"
+        },
+        {
+          "name": "hyperpop",
+          "url": "https://www.last.fm/tag/hyperpop"
+        },
+        {
+          "name": "changa tuki",
+          "url": "https://www.last.fm/tag/changa+tuki"
+        },
+        {
+          "name": "hybrid trap",
+          "url": "https://www.last.fm/tag/hybrid+trap"
+        },
+        {
+          "name": "neoperreo",
+          "url": "https://www.last.fm/tag/neoperreo"
+        }
+      ]
+    }
+  }
+}

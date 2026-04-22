@@ -1,0 +1,63 @@
+{
+  "track": {
+    "name": "music",
+    "mbid": "28d11aed-bd08-486c-bd5e-f0188d9475ad",
+    "url": "https://www.last.fm/music/underscores/_/music",
+    "duration": "207000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "96604",
+    "playcount": "968134",
+    "artist": {
+      "name": "underscores",
+      "mbid": "ab1a3f85-e0ea-470a-af5c-175447ae774c",
+      "url": "https://www.last.fm/music/underscores"
+    },
+    "album": {
+      "artist": "underscores",
+      "title": "Music",
+      "url": "https://www.last.fm/music/underscores/Music",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/09539047ce4b9d9878df1b39038cb30c.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/09539047ce4b9d9878df1b39038cb30c.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/09539047ce4b9d9878df1b39038cb30c.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/09539047ce4b9d9878df1b39038cb30c.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "hyperpop",
+          "url": "https://www.last.fm/tag/hyperpop"
+        },
+        {
+          "name": "electropop",
+          "url": "https://www.last.fm/tag/electropop"
+        },
+        {
+          "name": "hybrid trap",
+          "url": "https://www.last.fm/tag/hybrid+trap"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "28 Jun 2025, 18:48",
+      "summary": "\"Music\" is a song by underscores that serves as the lead single from her upcoming third studio album, released by Mom+Pop Music on June 27, 2025.\n\nOn April 11, 2025, underscores debuted the song at Coachella 2025. On May 24, this song was played at her and umru's DJ set @ TheLotRadio. On June 6, underscores posted an HQ snippet of the song on TikTok. On June 25, she officially released a teaser to the music video and announced the song would be dropping on June 27. <a href=\"http://www.last.fm/music/underscores/_/music\">Read more on Last.fm</a>.",
+      "content": "\"Music\" is a song by underscores that serves as the lead single from her upcoming third studio album, released by Mom+Pop Music on June 27, 2025.\n\nOn April 11, 2025, underscores debuted the song at Coachella 2025. On May 24, this song was played at her and umru's DJ set @ TheLotRadio. On June 6, underscores posted an HQ snippet of the song on TikTok. On June 25, she officially released a teaser to the music video and announced the song would be dropping on June 27. <a href=\"http://www.last.fm/music/underscores/_/music\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

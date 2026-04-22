@@ -1,0 +1,66 @@
+{
+  "track": {
+    "name": "Don't You Dare Forget The Sun",
+    "mbid": "052e0c9b-8bdd-4f45-b9ba-eeda5438ff88",
+    "url": "https://www.last.fm/music/Get+Scared/_/Don%27t+You+Dare+Forget+The+Sun",
+    "duration": "193000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "252321",
+    "playcount": "3121338",
+    "artist": {
+      "name": "Get Scared",
+      "mbid": "24a60384-83b0-4cfb-abba-d97075e83e52",
+      "url": "https://www.last.fm/music/Get+Scared"
+    },
+    "album": {
+      "artist": "Get Scared",
+      "title": "Built For Blame, Laced With Shame",
+      "url": "https://www.last.fm/music/Get+Scared/Built+For+Blame,+Laced+With+Shame",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/c67c3045c28de3c4b3ddb7be0447f707.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/c67c3045c28de3c4b3ddb7be0447f707.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/c67c3045c28de3c4b3ddb7be0447f707.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/c67c3045c28de3c4b3ddb7be0447f707.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "emocore",
+          "url": "https://www.last.fm/tag/emocore"
+        },
+        {
+          "name": "metal",
+          "url": "https://www.last.fm/tag/metal"
+        },
+        {
+          "name": "post-hardcore",
+          "url": "https://www.last.fm/tag/post-hardcore"
+        },
+        {
+          "name": "emo",
+          "url": "https://www.last.fm/tag/emo"
+        },
+        {
+          "name": "alternative",
+          "url": "https://www.last.fm/tag/alternative"
+        }
+      ]
+    }
+  }
+}

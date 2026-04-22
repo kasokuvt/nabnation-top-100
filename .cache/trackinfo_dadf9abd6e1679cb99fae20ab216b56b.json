@@ -1,0 +1,71 @@
+{
+  "track": {
+    "name": "Tell Me (U Want It)",
+    "mbid": "41b67131-a415-4254-91ab-a5fa6e8155b5",
+    "url": "https://www.last.fm/music/underscores/_/Tell+Me+(U+Want+It)",
+    "duration": "213000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "131461",
+    "playcount": "870180",
+    "artist": {
+      "name": "underscores",
+      "mbid": "ab1a3f85-e0ea-470a-af5c-175447ae774c",
+      "url": "https://www.last.fm/music/underscores"
+    },
+    "album": {
+      "artist": "underscores",
+      "title": "Tell Me (U Want It)",
+      "url": "https://www.last.fm/music/underscores/Tell+Me+(U+Want+It)",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/3ed7632e65fc257b65ab04067d2eabef.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/3ed7632e65fc257b65ab04067d2eabef.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/3ed7632e65fc257b65ab04067d2eabef.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/3ed7632e65fc257b65ab04067d2eabef.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "electropop",
+          "url": "https://www.last.fm/tag/electropop"
+        },
+        {
+          "name": "hyperpop",
+          "url": "https://www.last.fm/tag/hyperpop"
+        },
+        {
+          "name": "complextro",
+          "url": "https://www.last.fm/tag/complextro"
+        },
+        {
+          "name": "Colour Bass",
+          "url": "https://www.last.fm/tag/Colour+Bass"
+        },
+        {
+          "name": "hard techno",
+          "url": "https://www.last.fm/tag/hard+techno"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "26 Feb 2026, 16:56",
+      "summary": "\"Tell Me (U Want It)\" is the third and final single released by hyperpop artist \"underscores\" from her highly anticipated junior studio album, U. <a href=\"http://www.last.fm/music/underscores/_/Tell+Me+(U+Want+It)\">Read more on Last.fm</a>.",
+      "content": "\"Tell Me (U Want It)\" is the third and final single released by hyperpop artist \"underscores\" from her highly anticipated junior studio album, U. <a href=\"http://www.last.fm/music/underscores/_/Tell+Me+(U+Want+It)\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

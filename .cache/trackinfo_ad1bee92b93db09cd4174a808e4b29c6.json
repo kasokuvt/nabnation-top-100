@@ -1,0 +1,45 @@
+{
+  "track": {
+    "name": "モニタリング (Best Friend Remix)",
+    "mbid": "daa86e86-6ced-4431-8473-4da177d0e483",
+    "url": "https://www.last.fm/music/DECO%2A27/_/%E3%83%A2%E3%83%8B%E3%82%BF%E3%83%AA%E3%83%B3%E3%82%B0+(Best+Friend+Remix)",
+    "duration": "178000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "29480",
+    "playcount": "345097",
+    "artist": {
+      "name": "DECO*27",
+      "mbid": "bd247ab3-c22d-4b5d-a6fd-437771cacbbe",
+      "url": "https://www.last.fm/music/DECO%2A27"
+    },
+    "album": {
+      "artist": "DECO*27",
+      "title": "モニタリング (Best Friend Remix)",
+      "url": "https://www.last.fm/music/DECO%2A27/%E3%83%A2%E3%83%8B%E3%82%BF%E3%83%AA%E3%83%B3%E3%82%B0+(Best+Friend+Remix)",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/e477559ed6636bdd36811abd9fc2a45c.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/e477559ed6636bdd36811abd9fc2a45c.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/e477559ed6636bdd36811abd9fc2a45c.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/e477559ed6636bdd36811abd9fc2a45c.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

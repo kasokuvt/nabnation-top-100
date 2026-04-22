@@ -1,0 +1,71 @@
+{
+  "track": {
+    "name": "FOCUS",
+    "mbid": "e27932eb-c28c-400f-9942-9be31299d74a",
+    "url": "https://www.last.fm/music/Hearts2Hearts/_/FOCUS",
+    "duration": "177000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "120220",
+    "playcount": "1648290",
+    "artist": {
+      "name": "Hearts2Hearts",
+      "mbid": "066080a4-84c7-46c6-91d3-dc10d572749b",
+      "url": "https://www.last.fm/music/Hearts2Hearts"
+    },
+    "album": {
+      "artist": "Hearts2Hearts",
+      "title": "FOCUS",
+      "url": "https://www.last.fm/music/Hearts2Hearts/FOCUS",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/b48275fb097629d51dc2e0221128e0a8.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/b48275fb097629d51dc2e0221128e0a8.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/b48275fb097629d51dc2e0221128e0a8.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/b48275fb097629d51dc2e0221128e0a8.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "dance-pop",
+          "url": "https://www.last.fm/tag/dance-pop"
+        },
+        {
+          "name": "funky house",
+          "url": "https://www.last.fm/tag/funky+house"
+        },
+        {
+          "name": "nu-disco",
+          "url": "https://www.last.fm/tag/nu-disco"
+        },
+        {
+          "name": "House",
+          "url": "https://www.last.fm/tag/House"
+        },
+        {
+          "name": "Kpop",
+          "url": "https://www.last.fm/tag/Kpop"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "01 Nov 2025, 10:00",
+      "summary": "\"FOCUS\" is a song by Hearts2Hearts. It was released on October 20, 2025, serves as the title track and appears as the first track for their first mini album, \"FOCUS\". <a href=\"http://www.last.fm/music/Hearts2Hearts/_/FOCUS\">Read more on Last.fm</a>.",
+      "content": "\"FOCUS\" is a song by Hearts2Hearts. It was released on October 20, 2025, serves as the title track and appears as the first track for their first mini album, \"FOCUS\". <a href=\"http://www.last.fm/music/Hearts2Hearts/_/FOCUS\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

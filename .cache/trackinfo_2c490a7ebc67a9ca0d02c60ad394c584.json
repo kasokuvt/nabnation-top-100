@@ -1,0 +1,71 @@
+{
+  "track": {
+    "name": "Loser",
+    "mbid": "7a11d720-2bcb-41a8-8458-3eb7c8132368",
+    "url": "https://www.last.fm/music/Beck/_/Loser",
+    "duration": "236000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "1666375",
+    "playcount": "12260220",
+    "artist": {
+      "name": "Beck",
+      "mbid": "309c62ba-7a22-4277-9f67-4a162526d18a",
+      "url": "https://www.last.fm/music/Beck"
+    },
+    "album": {
+      "artist": "Beck",
+      "title": "Mellow Gold",
+      "url": "https://www.last.fm/music/Beck/Mellow+Gold",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/91a4ba354ee6db609b68222e7149a32e.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/91a4ba354ee6db609b68222e7149a32e.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/91a4ba354ee6db609b68222e7149a32e.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/91a4ba354ee6db609b68222e7149a32e.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "alternative",
+          "url": "https://www.last.fm/tag/alternative"
+        },
+        {
+          "name": "90s",
+          "url": "https://www.last.fm/tag/90s"
+        },
+        {
+          "name": "indie",
+          "url": "https://www.last.fm/tag/indie"
+        },
+        {
+          "name": "rock",
+          "url": "https://www.last.fm/tag/rock"
+        },
+        {
+          "name": "alternative rock",
+          "url": "https://www.last.fm/tag/alternative+rock"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "01 Jul 2009, 23:14",
+      "summary": "\"Loser\" was Beck's first single for Geffen Records. The song was released from the 1994 album \"Mellow Gold\" & hit #10 on the American charts. Although this was Beck's third studio album, it was his first on a major label.\n\nAccording to the Loser Songfacts, Beck got the idea for this from his friend who always called him \"Loser.\" Beck decided to write it into a chorus of a song as a joke. He didn't think anything would ever come of it.\n\nThe Spanish heard in the chorus - \"Soy un perdedor\" - means \"I am a loser. <a href=\"http://www.last.fm/music/Beck/_/Loser\">Read more on Last.fm</a>.",
+      "content": "\"Loser\" was Beck's first single for Geffen Records. The song was released from the 1994 album \"Mellow Gold\" & hit #10 on the American charts. Although this was Beck's third studio album, it was his first on a major label.\n\nAccording to the Loser Songfacts, Beck got the idea for this from his friend who always called him \"Loser.\" Beck decided to write it into a chorus of a song as a joke. He didn't think anything would ever come of it.\n\nThe Spanish heard in the chorus - \"Soy un perdedor\" - means \"I am a loser.\" Beck has said that idea came while he was creating the first version of the song at another artist's home. When the original version was played back for him, he thought \"Man, I'm the worst rapper in the world. I'm just a loser.\" \n\nThe rest, as they say, is history.\n\n <a href=\"http://www.last.fm/music/Beck/_/Loser\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

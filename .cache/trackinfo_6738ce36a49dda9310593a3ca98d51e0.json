@@ -1,0 +1,45 @@
+{
+  "track": {
+    "name": "true perspective",
+    "mbid": "fcf53a1b-a2d9-4902-a181-d5b73fc0f761",
+    "url": "https://www.last.fm/music/Lucy+Bedroque/_/true+perspective",
+    "duration": "125000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "58241",
+    "playcount": "1275776",
+    "artist": {
+      "name": "Lucy Bedroque",
+      "mbid": "bb7959ac-84cc-45c4-8138-d80ee5f2bd9a",
+      "url": "https://www.last.fm/music/Lucy+Bedroque"
+    },
+    "album": {
+      "artist": "Lucy Bedroque",
+      "title": "true perspective",
+      "url": "https://www.last.fm/music/Lucy+Bedroque/true+perspective",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/048ae82451fb028cf4bd45daa5d68e0f.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/048ae82451fb028cf4bd45daa5d68e0f.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/048ae82451fb028cf4bd45daa5d68e0f.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/048ae82451fb028cf4bd45daa5d68e0f.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

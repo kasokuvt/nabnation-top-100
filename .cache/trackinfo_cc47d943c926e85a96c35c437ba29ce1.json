@@ -1,0 +1,44 @@
+{
+  "track": {
+    "name": "Human",
+    "mbid": "fe36b247-b07d-4b9f-b70f-d64c920911b5",
+    "url": "https://www.last.fm/music/Flavor+Foley/_/Human",
+    "duration": "267000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "1247",
+    "playcount": "15797",
+    "artist": {
+      "name": "Flavor Foley",
+      "url": "https://www.last.fm/music/Flavor+Foley"
+    },
+    "album": {
+      "artist": "Flavor Foley",
+      "title": "Human",
+      "url": "https://www.last.fm/music/Flavor+Foley/Human",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/6d633a482477718bbc4207c04f6b013f.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/6d633a482477718bbc4207c04f6b013f.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/6d633a482477718bbc4207c04f6b013f.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/6d633a482477718bbc4207c04f6b013f.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

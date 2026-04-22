@@ -1,0 +1,50 @@
+{
+  "track": {
+    "name": "Just Your Doll",
+    "mbid": "6b25b62d-d84b-4a09-be63-9f08f050631f",
+    "url": "https://www.last.fm/music/Snow+Strippers/_/Just+Your+Doll",
+    "duration": "147000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "302982",
+    "playcount": "4110148",
+    "artist": {
+      "name": "Snow Strippers",
+      "mbid": "33243fef-ce1a-4ba7-a81e-ec72e4c5029a",
+      "url": "https://www.last.fm/music/Snow+Strippers"
+    },
+    "album": {
+      "artist": "Snow Strippers",
+      "title": "Just Your Doll",
+      "url": "https://www.last.fm/music/Snow+Strippers/Just+Your+Doll",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/744b949e00fce75091ec73c5317d4a10.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/744b949e00fce75091ec73c5317d4a10.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/744b949e00fce75091ec73c5317d4a10.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/744b949e00fce75091ec73c5317d4a10.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "based",
+          "url": "https://www.last.fm/tag/based"
+        }
+      ]
+    }
+  }
+}

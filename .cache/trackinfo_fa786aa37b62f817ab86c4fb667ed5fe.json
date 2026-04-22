@@ -1,0 +1,71 @@
+{
+  "track": {
+    "name": "ETA",
+    "mbid": "bec9099f-460f-4b35-b841-9619b4546487",
+    "url": "https://www.last.fm/music/NewJeans/_/ETA",
+    "duration": "151000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "887917",
+    "playcount": "24500787",
+    "artist": {
+      "name": "NewJeans",
+      "mbid": "49204a7a-ed85-407a-828f-6fd46f1d8126",
+      "url": "https://www.last.fm/music/NewJeans"
+    },
+    "album": {
+      "artist": "NewJeans",
+      "title": "Get Up",
+      "url": "https://www.last.fm/music/NewJeans/Get+Up",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/e42629aa6c2694a9b57241edea410a53.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/e42629aa6c2694a9b57241edea410a53.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/e42629aa6c2694a9b57241edea410a53.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/e42629aa6c2694a9b57241edea410a53.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "Korean",
+          "url": "https://www.last.fm/tag/Korean"
+        },
+        {
+          "name": "k-pop",
+          "url": "https://www.last.fm/tag/k-pop"
+        },
+        {
+          "name": "Kpop",
+          "url": "https://www.last.fm/tag/Kpop"
+        },
+        {
+          "name": "baltimore club",
+          "url": "https://www.last.fm/tag/baltimore+club"
+        },
+        {
+          "name": "2023",
+          "url": "https://www.last.fm/tag/2023"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "21 Jul 2023, 09:53",
+      "summary": "\"ETA\" is an upbeat Baltimore club song that utilizes funky, choppy air horns and scurried drum breaks with sprinting feeling of Favela Funk. It serves as the second lead single from NewJeans' second EP \"Get Up\".\n\nIt was released on July 21, 2023 accompanying music video shot entirely on an iPhone 14 Pro. <a href=\"http://www.last.fm/music/NewJeans/_/ETA\">Read more on Last.fm</a>.",
+      "content": "\"ETA\" is an upbeat Baltimore club song that utilizes funky, choppy air horns and scurried drum breaks with sprinting feeling of Favela Funk. It serves as the second lead single from NewJeans' second EP \"Get Up\".\n\nIt was released on July 21, 2023 accompanying music video shot entirely on an iPhone 14 Pro. <a href=\"http://www.last.fm/music/NewJeans/_/ETA\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

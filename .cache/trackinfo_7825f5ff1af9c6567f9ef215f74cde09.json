@@ -1,0 +1,66 @@
+{
+  "track": {
+    "name": "skipping tiles",
+    "mbid": "762b4e59-a423-4e2f-a306-ef2c29ac3f6c",
+    "url": "https://www.last.fm/music/Julie/_/skipping+tiles",
+    "duration": "136000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "346818",
+    "playcount": "4173602",
+    "artist": {
+      "name": "Julie",
+      "mbid": "4b3392b5-704e-461e-95a3-da8e94c9d4e0",
+      "url": "https://www.last.fm/music/Julie"
+    },
+    "album": {
+      "artist": "Julie",
+      "title": "pushing daisies",
+      "url": "https://www.last.fm/music/Julie/pushing+daisies",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/fea086e4992bf799f708ffd9803310ae.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/fea086e4992bf799f708ffd9803310ae.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/fea086e4992bf799f708ffd9803310ae.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/fea086e4992bf799f708ffd9803310ae.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "shoegaze",
+          "url": "https://www.last.fm/tag/shoegaze"
+        },
+        {
+          "name": "WSUM 91.7 FM Madison",
+          "url": "https://www.last.fm/tag/WSUM+91.7+FM+Madison"
+        },
+        {
+          "name": "The Meltdown with Avery Chheda",
+          "url": "https://www.last.fm/tag/The+Meltdown+with+Avery+Chheda"
+        },
+        {
+          "name": "rock",
+          "url": "https://www.last.fm/tag/rock"
+        },
+        {
+          "name": "noise pop",
+          "url": "https://www.last.fm/tag/noise+pop"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "track": {
+    "name": "Miss Construction Theme",
+    "mbid": "3472358f-bf4e-3e3c-9d58-3cd1c46698b6",
+    "url": "https://www.last.fm/music/Miss+Construction/_/Miss+Construction+Theme",
+    "duration": "288000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "75895",
+    "playcount": "607716",
+    "artist": {
+      "name": "Miss Construction",
+      "mbid": "aa60d625-60fa-4fce-a79d-d88c02f61e47",
+      "url": "https://www.last.fm/music/Miss+Construction"
+    },
+    "album": {
+      "artist": "Miss Construction",
+      "title": "Kunstprodukt",
+      "url": "https://www.last.fm/music/Miss+Construction/Kunstprodukt",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/b1df03f0b89f4ae0ab528dedba21287f.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/b1df03f0b89f4ae0ab528dedba21287f.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/b1df03f0b89f4ae0ab528dedba21287f.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/b1df03f0b89f4ae0ab528dedba21287f.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "dark electro",
+          "url": "https://www.last.fm/tag/dark+electro"
+        },
+        {
+          "name": "ebm",
+          "url": "https://www.last.fm/tag/ebm"
+        },
+        {
+          "name": "industrial",
+          "url": "https://www.last.fm/tag/industrial"
+        },
+        {
+          "name": "german",
+          "url": "https://www.last.fm/tag/german"
+        },
+        {
+          "name": "female vocals",
+          "url": "https://www.last.fm/tag/female+vocals"
+        }
+      ]
+    }
+  }
+}

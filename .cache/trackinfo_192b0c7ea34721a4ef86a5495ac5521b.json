@@ -1,0 +1,59 @@
+{
+  "track": {
+    "name": "crush",
+    "mbid": "de766945-2406-4627-9d3c-5dd4a17497d6",
+    "url": "https://www.last.fm/music/2hollis/_/crush",
+    "duration": "64000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "239773",
+    "playcount": "4262897",
+    "artist": {
+      "name": "2hollis",
+      "mbid": "8bd5a8fb-4c25-401d-a597-2c24affdd5c5",
+      "url": "https://www.last.fm/music/2hollis"
+    },
+    "album": {
+      "artist": "2hollis",
+      "title": "crush - Single",
+      "url": "https://www.last.fm/music/2hollis/crush+-+Single",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/82ac4cdd5b930b89049b93eb244de118.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/82ac4cdd5b930b89049b93eb244de118.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/82ac4cdd5b930b89049b93eb244de118.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/82ac4cdd5b930b89049b93eb244de118.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "hyperpop",
+          "url": "https://www.last.fm/tag/hyperpop"
+        },
+        {
+          "name": "2hollis",
+          "url": "https://www.last.fm/tag/2hollis"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "06 Sep 2025, 19:21",
+      "summary": "“crush” sees 2hollis revealing his strong feelings of love and obsession for an unnamed person. He expresses the vulnerability and awkwardness that comes with having a crush on someone and hopes that they feel the same way about him.\n\nThe song was first previewed during an Instagram Live on January 11, 2024. 2hollis also performed it live during his show in Chicago on January 26 before its release was officially announced via Discord and Instagram on April 9. <a href=\"http://www.last.fm/music/2hollis/_/crush\">Read more on Last.fm</a>.",
+      "content": "“crush” sees 2hollis revealing his strong feelings of love and obsession for an unnamed person. He expresses the vulnerability and awkwardness that comes with having a crush on someone and hopes that they feel the same way about him.\n\nThe song was first previewed during an Instagram Live on January 11, 2024. 2hollis also performed it live during his show in Chicago on January 26 before its release was officially announced via Discord and Instagram on April 9. <a href=\"http://www.last.fm/music/2hollis/_/crush\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

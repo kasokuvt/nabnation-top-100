@@ -1,0 +1,45 @@
+{
+  "track": {
+    "name": "Made In Italy",
+    "mbid": "708d763a-e246-418c-8822-2e1f432b0037",
+    "url": "https://www.last.fm/music/Lucy+Bedroque/_/Made+In+Italy",
+    "duration": "126000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "41359",
+    "playcount": "330792",
+    "artist": {
+      "name": "Lucy Bedroque",
+      "mbid": "bb7959ac-84cc-45c4-8138-d80ee5f2bd9a",
+      "url": "https://www.last.fm/music/Lucy+Bedroque"
+    },
+    "album": {
+      "artist": "Lucy Bedroque",
+      "title": "unmusique",
+      "url": "https://www.last.fm/music/Lucy+Bedroque/unmusique",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/a4d4343e730ea2902a90058284ffe0da.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/a4d4343e730ea2902a90058284ffe0da.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/a4d4343e730ea2902a90058284ffe0da.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/a4d4343e730ea2902a90058284ffe0da.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

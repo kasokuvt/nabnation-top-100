@@ -1,0 +1,25 @@
+{
+  "track": {
+    "name": "薄ら氷心中",
+    "url": "https://www.last.fm/music/Sheena+Ringo/_/%E8%96%84%E3%82%89%E6%B0%B7%E5%BF%83%E4%B8%AD",
+    "duration": "0",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "117731",
+    "playcount": "1340719",
+    "artist": {
+      "name": "Sheena Ringo",
+      "url": "https://www.last.fm/music/Sheena+Ringo"
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "jazz",
+          "url": "https://www.last.fm/tag/jazz"
+        }
+      ]
+    }
+  }
+}

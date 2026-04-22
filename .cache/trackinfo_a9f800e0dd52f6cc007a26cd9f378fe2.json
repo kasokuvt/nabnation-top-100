@@ -1,0 +1,63 @@
+{
+  "track": {
+    "name": "Experimental skin",
+    "mbid": "d99ae90b-41ad-4b81-9feb-194d4d32d767",
+    "url": "https://www.last.fm/music/Jane+Remover/_/Experimental+skin",
+    "duration": "300000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "110904",
+    "playcount": "1171835",
+    "artist": {
+      "name": "Jane Remover",
+      "mbid": "f4b6e451-5dce-4842-a555-f793892299b3",
+      "url": "https://www.last.fm/music/Jane+Remover"
+    },
+    "album": {
+      "artist": "Jane Remover",
+      "title": "Revengeseekerz",
+      "url": "https://www.last.fm/music/Jane+Remover/Revengeseekerz",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/7e63ec5a92240a2f3292aa15bd5af39a.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/7e63ec5a92240a2f3292aa15bd5af39a.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/7e63ec5a92240a2f3292aa15bd5af39a.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/7e63ec5a92240a2f3292aa15bd5af39a.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "experimental hip hop",
+          "url": "https://www.last.fm/tag/experimental+hip+hop"
+        },
+        {
+          "name": "rage",
+          "url": "https://www.last.fm/tag/rage"
+        },
+        {
+          "name": "digicore",
+          "url": "https://www.last.fm/tag/digicore"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "12 Apr 2025, 18:57",
+      "summary": "\"Experimental Skin\" is the fourth track from Jane Remover's third album Revengeseekerz (2025). Beginning with cathartic and explosive guitar droning akin to their second album, Census Designated (2023), and slowly building into a bouncy four-on-the-floor EDM drop to end the song off, with a subtle melody interpolation from “Heads Will Roll” by the early 2000s band Yeah Yeah Yeahs. <a href=\"http://www.last.fm/music/Jane+Remover/_/Experimental+skin\">Read more on Last.fm</a>.",
+      "content": "\"Experimental Skin\" is the fourth track from Jane Remover's third album Revengeseekerz (2025). Beginning with cathartic and explosive guitar droning akin to their second album, Census Designated (2023), and slowly building into a bouncy four-on-the-floor EDM drop to end the song off, with a subtle melody interpolation from “Heads Will Roll” by the early 2000s band Yeah Yeah Yeahs. <a href=\"http://www.last.fm/music/Jane+Remover/_/Experimental+skin\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

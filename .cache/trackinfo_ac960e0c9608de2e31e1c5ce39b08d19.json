@@ -1,0 +1,71 @@
+{
+  "track": {
+    "name": "Midnight Sun",
+    "mbid": "5ff19d51-5018-4410-bfa0-db0468058353",
+    "url": "https://www.last.fm/music/Zara+Larsson/_/Midnight+Sun",
+    "duration": "189000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "352076",
+    "playcount": "5261657",
+    "artist": {
+      "name": "Zara Larsson",
+      "mbid": "134e6410-6954-45d1-bd4a-0f2d2ad5471d",
+      "url": "https://www.last.fm/music/Zara+Larsson"
+    },
+    "album": {
+      "artist": "Zara Larsson",
+      "title": "Midnight Sun",
+      "url": "https://www.last.fm/music/Zara+Larsson/Midnight+Sun",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/d0c78dc3a80e2e45ac4972089360a051.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/d0c78dc3a80e2e45ac4972089360a051.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/d0c78dc3a80e2e45ac4972089360a051.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/d0c78dc3a80e2e45ac4972089360a051.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "jersey club",
+          "url": "https://www.last.fm/tag/jersey+club"
+        },
+        {
+          "name": "dance pop",
+          "url": "https://www.last.fm/tag/dance+pop"
+        },
+        {
+          "name": "atmospheric drum and bass",
+          "url": "https://www.last.fm/tag/atmospheric+drum+and+bass"
+        },
+        {
+          "name": "female vocalist",
+          "url": "https://www.last.fm/tag/female+vocalist"
+        },
+        {
+          "name": "pop",
+          "url": "https://www.last.fm/tag/pop"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "11 Dec 2025, 19:47",
+      "summary": "Serving as the second single for Zara Larsson’s fourth studio album, the title track can be interpreted as a “simple” love song, but as Zara has said it herself, is more of a song for the love of life. It was announced through her social media on June 5, along with the release date of the album. <a href=\"http://www.last.fm/music/Zara+Larsson/_/Midnight+Sun\">Read more on Last.fm</a>.",
+      "content": "Serving as the second single for Zara Larsson’s fourth studio album, the title track can be interpreted as a “simple” love song, but as Zara has said it herself, is more of a song for the love of life. It was announced through her social media on June 5, along with the release date of the album. <a href=\"http://www.last.fm/music/Zara+Larsson/_/Midnight+Sun\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

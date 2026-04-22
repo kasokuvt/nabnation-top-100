@@ -1,0 +1,50 @@
+{
+  "track": {
+    "name": "Human After All",
+    "mbid": "03a9d7a3-7772-47db-9b8b-d41466bf3637",
+    "url": "https://www.last.fm/music/Daft+Punk/_/Human+After+All",
+    "duration": "318000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "614164",
+    "playcount": "3591457",
+    "artist": {
+      "name": "Daft Punk",
+      "mbid": "056e4f3e-d505-4dad-8ec1-d04f521cbb56",
+      "url": "https://www.last.fm/music/Daft+Punk"
+    },
+    "album": {
+      "artist": "Daft Punk",
+      "title": "Human After All",
+      "url": "https://www.last.fm/music/Daft+Punk/Human+After+All",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/dd5fa1d402c7200de2bacdb52d82aadf.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/dd5fa1d402c7200de2bacdb52d82aadf.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/dd5fa1d402c7200de2bacdb52d82aadf.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/dd5fa1d402c7200de2bacdb52d82aadf.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    },
+    "wiki": {
+      "published": "09 May 2010, 04:11",
+      "summary": "\"Human After All\" is Daft Punk's third single and the title track from their third studio album, Human After All. It was released as a single on October 31, 2005. \"Human After All\" is the only single from the album released without an accompanying music video. Daft Punk had originally set to make a video, but it eventually became the feature film Daft Punk's Electroma co-written and directed by the duo.\n\nDaft Punk produced the Teriyaki Boyz song \"HeartBreaker\", which features elements of \"Human After All\". <a href=\"http://www.last.fm/music/Daft+Punk/_/Human+After+All\">Read more on Last.fm</a>.",
+      "content": "\"Human After All\" is Daft Punk's third single and the title track from their third studio album, Human After All. It was released as a single on October 31, 2005. \"Human After All\" is the only single from the album released without an accompanying music video. Daft Punk had originally set to make a video, but it eventually became the feature film Daft Punk's Electroma co-written and directed by the duo.\n\nDaft Punk produced the Teriyaki Boyz song \"HeartBreaker\", which features elements of \"Human After All\". MTV Australia used the coda of \"Human After All\" in its \"Coming Up\" section of their channel format.\n\nOn the album Alive 2007, \"Human After All\" appears with the track \"Superheroes\" from the album Discovery and \"Rock 'N Roll\" from Homework. The song also appeared on the encore on the bonus disc of Alive 2007, put together with Together's song \"Together\", a reprise of \"One More Time\" from Discovery and Stardust's song \"Music Sounds Better with You\". <a href=\"http://www.last.fm/music/Daft+Punk/_/Human+After+All\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

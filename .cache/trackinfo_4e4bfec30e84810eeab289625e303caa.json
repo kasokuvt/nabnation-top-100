@@ -1,0 +1,44 @@
+{
+  "track": {
+    "name": "CHAOS CONSTRUCT",
+    "url": "https://www.last.fm/music/AZALI/_/CHAOS+CONSTRUCT",
+    "duration": "109000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "23863",
+    "playcount": "224696",
+    "artist": {
+      "name": "AZALI",
+      "mbid": "30cf2413-ae41-4ac0-bbbd-ba082ea6f502",
+      "url": "https://www.last.fm/music/AZALI"
+    },
+    "album": {
+      "artist": "AZALI",
+      "title": "CHAOS CONSTRUCT",
+      "url": "https://www.last.fm/music/AZALI/CHAOS+CONSTRUCT",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/0b4a4490d8d5ec54df6bd8190df4d893.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/0b4a4490d8d5ec54df6bd8190df4d893.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/0b4a4490d8d5ec54df6bd8190df4d893.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/0b4a4490d8d5ec54df6bd8190df4d893.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

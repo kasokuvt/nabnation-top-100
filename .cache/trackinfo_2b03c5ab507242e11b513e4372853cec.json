@@ -1,0 +1,44 @@
+{
+  "track": {
+    "name": "(forever?????????)",
+    "mbid": "20fbf473-e7ff-4b32-8418-e300400cddd9",
+    "url": "https://www.last.fm/music/Glass+Beach/_/(forever%3F%3F%3F%3F%3F%3F%3F%3F%3F)",
+    "duration": "108000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "352755",
+    "playcount": "3506536",
+    "artist": {
+      "name": "Glass Beach",
+      "url": "https://www.last.fm/music/Glass+Beach"
+    },
+    "album": {
+      "artist": "Glass Beach",
+      "title": "the first glass beach album",
+      "url": "https://www.last.fm/music/Glass+Beach/the+first+glass+beach+album",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/f34ba55a817a2dd1d97668a01bb03ae8.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/f34ba55a817a2dd1d97668a01bb03ae8.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/f34ba55a817a2dd1d97668a01bb03ae8.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/f34ba55a817a2dd1d97668a01bb03ae8.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

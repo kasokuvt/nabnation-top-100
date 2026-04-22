@@ -1,0 +1,71 @@
+{
+  "track": {
+    "name": "Illegal",
+    "mbid": "8e92bd2d-d78b-47e8-bed1-155fda8befbe",
+    "url": "https://www.last.fm/music/PinkPantheress/_/Illegal",
+    "duration": "149000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "911003",
+    "playcount": "9804061",
+    "artist": {
+      "name": "PinkPantheress",
+      "mbid": "7441014f-f8f5-494f-81db-ff166fbc078d",
+      "url": "https://www.last.fm/music/PinkPantheress"
+    },
+    "album": {
+      "artist": "PinkPantheress",
+      "title": "Fancy That",
+      "url": "https://www.last.fm/music/PinkPantheress/Fancy+That",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/1b93da0254fdeec7307cb3f1d1e16cee.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/1b93da0254fdeec7307cb3f1d1e16cee.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/1b93da0254fdeec7307cb3f1d1e16cee.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/1b93da0254fdeec7307cb3f1d1e16cee.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "dance-pop",
+          "url": "https://www.last.fm/tag/dance-pop"
+        },
+        {
+          "name": "2-step",
+          "url": "https://www.last.fm/tag/2-step"
+        },
+        {
+          "name": "rnb",
+          "url": "https://www.last.fm/tag/rnb"
+        },
+        {
+          "name": "alt-pop",
+          "url": "https://www.last.fm/tag/alt-pop"
+        },
+        {
+          "name": "UK Garage",
+          "url": "https://www.last.fm/tag/UK+Garage"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "17 May 2025, 16:16",
+      "summary": "First teased by PinkPantheress via TikTok on March 17, 2025, in “Illegal,” PinkPantheress describes a secret relationship that feels risky or wrong, alongside confusion, guilt, and the fear of being found out.\n\nSampling Underworld’s 1994 song “Dark & Long (Dark Train),” a snippet of “Illegal” was played during Pink’s DJ set on The Lot Radio in New York on March 28, 2025. The track was then teased on Pink’s SoundCloud account. <a href=\"http://www.last.fm/music/PinkPantheress/_/Illegal\">Read more on Last.fm</a>.",
+      "content": "First teased by PinkPantheress via TikTok on March 17, 2025, in “Illegal,” PinkPantheress describes a secret relationship that feels risky or wrong, alongside confusion, guilt, and the fear of being found out.\n\nSampling Underworld’s 1994 song “Dark & Long (Dark Train),” a snippet of “Illegal” was played during Pink’s DJ set on The Lot Radio in New York on March 28, 2025. The track was then teased on Pink’s SoundCloud account. <a href=\"http://www.last.fm/music/PinkPantheress/_/Illegal\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

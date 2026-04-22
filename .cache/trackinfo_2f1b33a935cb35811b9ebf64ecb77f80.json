@@ -1,0 +1,54 @@
+{
+  "track": {
+    "name": "BURNING UP",
+    "mbid": "e6ea8409-874c-47f3-9a07-c1988c6f8420",
+    "url": "https://www.last.fm/music/Meovv/_/BURNING+UP",
+    "duration": "169000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "81172",
+    "playcount": "959764",
+    "artist": {
+      "name": "Meovv",
+      "url": "https://www.last.fm/music/Meovv"
+    },
+    "album": {
+      "artist": "Meovv",
+      "title": "BURNING UP",
+      "url": "https://www.last.fm/music/Meovv/BURNING+UP",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/eb3a79d3205b35176f0bda3cdce4bb1c.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/eb3a79d3205b35176f0bda3cdce4bb1c.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/eb3a79d3205b35176f0bda3cdce4bb1c.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/eb3a79d3205b35176f0bda3cdce4bb1c.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "dancebreak",
+          "url": "https://www.last.fm/tag/dancebreak"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "29 Oct 2025, 07:49",
+      "summary": "\"BURNING UP\" is the fourth digital single by MEOVV. It was released on October 14, 2025. <a href=\"http://www.last.fm/music/Meovv/_/BURNING+UP\">Read more on Last.fm</a>.",
+      "content": "\"BURNING UP\" is the fourth digital single by MEOVV. It was released on October 14, 2025. <a href=\"http://www.last.fm/music/Meovv/_/BURNING+UP\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

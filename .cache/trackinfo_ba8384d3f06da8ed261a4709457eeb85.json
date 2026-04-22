@@ -1,0 +1,66 @@
+{
+  "track": {
+    "name": "Flash in the Pan",
+    "mbid": "be90ddb8-724a-45fa-904f-611d60851b2f",
+    "url": "https://www.last.fm/music/Jane+Remover/_/Flash+in+the+Pan",
+    "duration": "223000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "137035",
+    "playcount": "2000039",
+    "artist": {
+      "name": "Jane Remover",
+      "mbid": "f4b6e451-5dce-4842-a555-f793892299b3",
+      "url": "https://www.last.fm/music/Jane+Remover"
+    },
+    "album": {
+      "artist": "Jane Remover",
+      "title": "Flash in the Pan",
+      "url": "https://www.last.fm/music/Jane+Remover/Flash+in+the+Pan",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/a060521f0a000340df7f4d13a132e1d7.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/a060521f0a000340df7f4d13a132e1d7.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/a060521f0a000340df7f4d13a132e1d7.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/a060521f0a000340df7f4d13a132e1d7.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "Sexy Drill",
+          "url": "https://www.last.fm/tag/Sexy+Drill"
+        },
+        {
+          "name": "emo rap",
+          "url": "https://www.last.fm/tag/emo+rap"
+        },
+        {
+          "name": "alternative rnb",
+          "url": "https://www.last.fm/tag/alternative+rnb"
+        },
+        {
+          "name": "shoegaze",
+          "url": "https://www.last.fm/tag/shoegaze"
+        },
+        {
+          "name": "dream pop",
+          "url": "https://www.last.fm/tag/dream+pop"
+        }
+      ]
+    }
+  }
+}

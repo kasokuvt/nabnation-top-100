@@ -1,0 +1,50 @@
+{
+  "track": {
+    "name": "I Just Might",
+    "mbid": "781018b7-f4f0-4fae-9b41-f45ecbe34024",
+    "url": "https://www.last.fm/music/Bruno+Mars/_/I+Just+Might",
+    "duration": "212000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "119361",
+    "playcount": "351153",
+    "artist": {
+      "name": "Bruno Mars",
+      "mbid": "afb680f2-b6eb-4cd7-a70b-a63b25c763d5",
+      "url": "https://www.last.fm/music/Bruno+Mars"
+    },
+    "album": {
+      "artist": "Bruno Mars",
+      "title": "I Just Might",
+      "url": "https://www.last.fm/music/Bruno+Mars/I+Just+Might",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/528f1d003dea09e0b0ad99ce49cecbce.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/528f1d003dea09e0b0ad99ce49cecbce.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/528f1d003dea09e0b0ad99ce49cecbce.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/528f1d003dea09e0b0ad99ce49cecbce.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    },
+    "wiki": {
+      "published": "10 Jan 2026, 14:13",
+      "summary": "\"I Just Might\" is a song by American singer Bruno Mars. It was released on January 9th 2026 as the lead single from his upcoming fourth album The Romantic, his first full-length solo release since 2017. The song was written by Mars, D'Mile, Philip Lawrence and Christopher Brody Brown, and produced by the former two. <a href=\"http://www.last.fm/music/Bruno+Mars/_/I+Just+Might\">Read more on Last.fm</a>.",
+      "content": "\"I Just Might\" is a song by American singer Bruno Mars. It was released on January 9th 2026 as the lead single from his upcoming fourth album The Romantic, his first full-length solo release since 2017. The song was written by Mars, D'Mile, Philip Lawrence and Christopher Brody Brown, and produced by the former two. <a href=\"http://www.last.fm/music/Bruno+Mars/_/I+Just+Might\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

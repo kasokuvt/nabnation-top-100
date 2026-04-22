@@ -1,0 +1,71 @@
+{
+  "track": {
+    "name": "hand crushed by a mallet",
+    "mbid": "ddcd7975-0176-47c0-b35e-b3d67676f043",
+    "url": "https://www.last.fm/music/100+gecs/_/hand+crushed+by+a+mallet",
+    "duration": "192000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "483307",
+    "playcount": "6832602",
+    "artist": {
+      "name": "100 gecs",
+      "mbid": "d6d45dda-2377-4faa-947b-e071efa085c0",
+      "url": "https://www.last.fm/music/100+gecs"
+    },
+    "album": {
+      "artist": "100 gecs",
+      "title": "1000 gecs",
+      "url": "https://www.last.fm/music/100+gecs/1000+gecs",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/a6e7b4bdb9f7674e3364404be2f5f683.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/a6e7b4bdb9f7674e3364404be2f5f683.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/a6e7b4bdb9f7674e3364404be2f5f683.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/a6e7b4bdb9f7674e3364404be2f5f683.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "hyperpop",
+          "url": "https://www.last.fm/tag/hyperpop"
+        },
+        {
+          "name": "Nightcore",
+          "url": "https://www.last.fm/tag/Nightcore"
+        },
+        {
+          "name": "glitch",
+          "url": "https://www.last.fm/tag/glitch"
+        },
+        {
+          "name": "pop",
+          "url": "https://www.last.fm/tag/pop"
+        },
+        {
+          "name": "trap",
+          "url": "https://www.last.fm/tag/trap"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "07 May 2021, 18:35",
+      "summary": "The song is about a fly that's in Dylan and Laura's studio. \n\nA common misconception about \"hand crushed by a mallet\" is that it's about getting into an argument while working, but that is not true. <a href=\"http://www.last.fm/music/100+gecs/_/hand+crushed+by+a+mallet\">Read more on Last.fm</a>.",
+      "content": "The song is about a fly that's in Dylan and Laura's studio. \n\nA common misconception about \"hand crushed by a mallet\" is that it's about getting into an argument while working, but that is not true. <a href=\"http://www.last.fm/music/100+gecs/_/hand+crushed+by+a+mallet\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

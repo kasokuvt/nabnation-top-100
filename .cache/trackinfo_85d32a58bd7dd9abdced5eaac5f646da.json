@@ -1,0 +1,71 @@
+{
+  "track": {
+    "name": "fenty face",
+    "mbid": "5e354063-ce28-4234-a758-1d5c591b23d1",
+    "url": "https://www.last.fm/music/Lucy+Bedroque/_/fenty+face",
+    "duration": "134000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "68791",
+    "playcount": "664341",
+    "artist": {
+      "name": "Lucy Bedroque",
+      "mbid": "bb7959ac-84cc-45c4-8138-d80ee5f2bd9a",
+      "url": "https://www.last.fm/music/Lucy+Bedroque"
+    },
+    "album": {
+      "artist": "Lucy Bedroque",
+      "title": "unmusique",
+      "url": "https://www.last.fm/music/Lucy+Bedroque/unmusique",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/a4d4343e730ea2902a90058284ffe0da.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/a4d4343e730ea2902a90058284ffe0da.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/a4d4343e730ea2902a90058284ffe0da.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/a4d4343e730ea2902a90058284ffe0da.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "rage",
+          "url": "https://www.last.fm/tag/rage"
+        },
+        {
+          "name": "glitch hop",
+          "url": "https://www.last.fm/tag/glitch+hop"
+        },
+        {
+          "name": "digicore",
+          "url": "https://www.last.fm/tag/digicore"
+        },
+        {
+          "name": "pop rap",
+          "url": "https://www.last.fm/tag/pop+rap"
+        },
+        {
+          "name": "willow approved",
+          "url": "https://www.last.fm/tag/willow+approved"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "15 May 2025, 21:59",
+      "summary": "This song samples Kerguelen Vortex by artist  Aural Vampire. <a href=\"http://www.last.fm/music/Lucy+Bedroque/_/fenty+face\">Read more on Last.fm</a>.",
+      "content": "This song samples Kerguelen Vortex by artist  Aural Vampire. <a href=\"http://www.last.fm/music/Lucy+Bedroque/_/fenty+face\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

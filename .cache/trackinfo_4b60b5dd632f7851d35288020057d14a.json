@@ -1,0 +1,45 @@
+{
+  "track": {
+    "name": "Seven Minutes In Heaven",
+    "mbid": "b71e6276-3c6c-487d-84ef-ac25cffbf62b",
+    "url": "https://www.last.fm/music/Mindless+Self+Indulgence/_/Seven+Minutes+In+Heaven",
+    "duration": "133000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "178098",
+    "playcount": "3148121",
+    "artist": {
+      "name": "Mindless Self Indulgence",
+      "mbid": "44f42386-a733-4b51-8298-fe5c807d03aa",
+      "url": "https://www.last.fm/music/Mindless+Self+Indulgence"
+    },
+    "album": {
+      "artist": "Mindless Self Indulgence",
+      "title": "MSI B-SIDES vol.1",
+      "url": "https://www.last.fm/music/Mindless+Self+Indulgence/MSI+B-SIDES+vol.1",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/a6d16d759f3a75c44d10b7f50ac60f82.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/a6d16d759f3a75c44d10b7f50ac60f82.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/a6d16d759f3a75c44d10b7f50ac60f82.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/a6d16d759f3a75c44d10b7f50ac60f82.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

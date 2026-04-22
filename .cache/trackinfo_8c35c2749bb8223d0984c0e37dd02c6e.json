@@ -1,0 +1,49 @@
+{
+  "track": {
+    "name": "Father",
+    "url": "https://www.last.fm/music/Jim+Legxacy/_/Father",
+    "duration": "106000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "89783",
+    "playcount": "1054261",
+    "artist": {
+      "name": "Jim Legxacy",
+      "mbid": "9ca998cf-c1cd-493b-9a5d-a32fd33859ea",
+      "url": "https://www.last.fm/music/Jim+Legxacy"
+    },
+    "album": {
+      "artist": "Jim Legxacy",
+      "title": "father",
+      "url": "https://www.last.fm/music/Jim+Legxacy/father",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/be8e0cd9c92bba3c05cfab9d51de51d4.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/be8e0cd9c92bba3c05cfab9d51de51d4.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/be8e0cd9c92bba3c05cfab9d51de51d4.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/be8e0cd9c92bba3c05cfab9d51de51d4.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "Jerk",
+          "url": "https://www.last.fm/tag/Jerk"
+        }
+      ]
+    }
+  }
+}

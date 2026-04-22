@@ -1,0 +1,65 @@
+{
+  "track": {
+    "name": "Medicine",
+    "mbid": "340fd45c-c9b3-4be5-a8cb-1469742c00e3",
+    "url": "https://www.last.fm/music/Sasuke+Haraguchi/_/Medicine",
+    "duration": "120000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "139000",
+    "playcount": "2513856",
+    "artist": {
+      "name": "Sasuke Haraguchi",
+      "url": "https://www.last.fm/music/Sasuke+Haraguchi"
+    },
+    "album": {
+      "artist": "原口沙輔",
+      "title": "Medicine",
+      "url": "https://www.last.fm/music/%E5%8E%9F%E5%8F%A3%E6%B2%99%E8%BC%94/Medicine",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/ca20e2f46339452bb1e9674f5e915e22.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/ca20e2f46339452bb1e9674f5e915e22.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/ca20e2f46339452bb1e9674f5e915e22.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/ca20e2f46339452bb1e9674f5e915e22.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "breakcore",
+          "url": "https://www.last.fm/tag/breakcore"
+        },
+        {
+          "name": "dance",
+          "url": "https://www.last.fm/tag/dance"
+        },
+        {
+          "name": "sillycore",
+          "url": "https://www.last.fm/tag/sillycore"
+        },
+        {
+          "name": "upbeat",
+          "url": "https://www.last.fm/tag/upbeat"
+        },
+        {
+          "name": "vocaloid",
+          "url": "https://www.last.fm/tag/vocaloid"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "track": {
+    "name": "Xtal",
+    "mbid": "e5e5e3c9-8515-4abf-aebb-7529b4e9aa0b",
+    "url": "https://www.last.fm/music/Aphex+Twin/_/Xtal",
+    "duration": "280000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "957465",
+    "playcount": "10879051",
+    "artist": {
+      "name": "Aphex Twin",
+      "mbid": "f22942a1-6f70-4f48-866e-238cb2308fbd",
+      "url": "https://www.last.fm/music/Aphex+Twin"
+    },
+    "album": {
+      "artist": "Aphex Twin",
+      "title": "Selected Ambient Works 85-92",
+      "url": "https://www.last.fm/music/Aphex+Twin/Selected+Ambient+Works+85-92",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/36307d33d9e5025c8f4564748e17a5f8.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/36307d33d9e5025c8f4564748e17a5f8.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/36307d33d9e5025c8f4564748e17a5f8.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/36307d33d9e5025c8f4564748e17a5f8.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "ambient",
+          "url": "https://www.last.fm/tag/ambient"
+        },
+        {
+          "name": "electronic",
+          "url": "https://www.last.fm/tag/electronic"
+        },
+        {
+          "name": "idm",
+          "url": "https://www.last.fm/tag/idm"
+        },
+        {
+          "name": "chillout",
+          "url": "https://www.last.fm/tag/chillout"
+        },
+        {
+          "name": "electronica",
+          "url": "https://www.last.fm/tag/electronica"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "26 Jan 2019, 12:41",
+      "summary": "\"Xtal\" is the opening track on Aphex Twin’s album \"Selected Ambient Works 85–92.\" The composition features atmospheric synthesizers, heavily reverberated percussion, and sampled vocals from Donald Greig’s \"Evil at Play,\" creating an ethereal and immersive sound that sets the tone for the rest of the album. The vocal sample originates from \"Evil at Play,\" part of the \"Atmospheric – Vocal – Chappell AV Series\" recorded music library by S. Jeffries, M. Carewe, and D. Greig (1986). This sample is not credited in the album’s liner notes. <a href=\"http://www.last.fm/music/Aphex+Twin/_/Xtal\">Read more on Last.fm</a>.",
+      "content": "\"Xtal\" is the opening track on Aphex Twin’s album \"Selected Ambient Works 85–92.\" The composition features atmospheric synthesizers, heavily reverberated percussion, and sampled vocals from Donald Greig’s \"Evil at Play,\" creating an ethereal and immersive sound that sets the tone for the rest of the album. The vocal sample originates from \"Evil at Play,\" part of the \"Atmospheric – Vocal – Chappell AV Series\" recorded music library by S. Jeffries, M. Carewe, and D. Greig (1986). This sample is not credited in the album’s liner notes. <a href=\"http://www.last.fm/music/Aphex+Twin/_/Xtal\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

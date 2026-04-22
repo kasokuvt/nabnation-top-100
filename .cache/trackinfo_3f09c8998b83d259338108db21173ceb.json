@@ -1,0 +1,50 @@
+{
+  "track": {
+    "name": "Doritos & Fritos",
+    "mbid": "86c5732f-2607-4725-a589-d2ebbade3c5e",
+    "url": "https://www.last.fm/music/100+gecs/_/Doritos+&+Fritos",
+    "duration": "196000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "233402",
+    "playcount": "2609864",
+    "artist": {
+      "name": "100 gecs",
+      "mbid": "d6d45dda-2377-4faa-947b-e071efa085c0",
+      "url": "https://www.last.fm/music/100+gecs"
+    },
+    "album": {
+      "artist": "100 gecs",
+      "title": "Doritos & Fritos",
+      "url": "https://www.last.fm/music/100+gecs/Doritos+&+Fritos",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/5e36515d9c7872a8407d4aacda1f2832.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/5e36515d9c7872a8407d4aacda1f2832.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/5e36515d9c7872a8407d4aacda1f2832.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/5e36515d9c7872a8407d4aacda1f2832.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    },
+    "wiki": {
+      "published": "17 Nov 2023, 03:27",
+      "summary": "Shit all we gots Doritos and Fritos <a href=\"http://www.last.fm/music/100+gecs/_/Doritos+&+Fritos\">Read more on Last.fm</a>.",
+      "content": "Shit all we gots Doritos and Fritos <a href=\"http://www.last.fm/music/100+gecs/_/Doritos+&+Fritos\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

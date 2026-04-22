@@ -1,0 +1,66 @@
+{
+  "track": {
+    "name": "2010 Justin Bieber",
+    "mbid": "dff93650-d421-4a22-9f67-1b172998942d",
+    "url": "https://www.last.fm/music/Lucy+Bedroque/_/2010+Justin+Bieber",
+    "duration": "112000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "101119",
+    "playcount": "1991817",
+    "artist": {
+      "name": "Lucy Bedroque",
+      "mbid": "bb7959ac-84cc-45c4-8138-d80ee5f2bd9a",
+      "url": "https://www.last.fm/music/Lucy+Bedroque"
+    },
+    "album": {
+      "artist": "Lucy Bedroque",
+      "title": "unmusique",
+      "url": "https://www.last.fm/music/Lucy+Bedroque/unmusique",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/a4d4343e730ea2902a90058284ffe0da.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/a4d4343e730ea2902a90058284ffe0da.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/a4d4343e730ea2902a90058284ffe0da.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/a4d4343e730ea2902a90058284ffe0da.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "glitch hop",
+          "url": "https://www.last.fm/tag/glitch+hop"
+        },
+        {
+          "name": "underground hip hop",
+          "url": "https://www.last.fm/tag/underground+hip+hop"
+        },
+        {
+          "name": "rage",
+          "url": "https://www.last.fm/tag/rage"
+        },
+        {
+          "name": "industrial hip hop",
+          "url": "https://www.last.fm/tag/industrial+hip+hop"
+        },
+        {
+          "name": "digicore",
+          "url": "https://www.last.fm/tag/digicore"
+        }
+      ]
+    }
+  }
+}

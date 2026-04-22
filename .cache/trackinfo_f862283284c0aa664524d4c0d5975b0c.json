@@ -1,0 +1,66 @@
+{
+  "track": {
+    "name": "Roommates",
+    "url": "https://www.last.fm/music/Malcolm+Todd/_/Roommates",
+    "duration": "214000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "717033",
+    "playcount": "9534622",
+    "artist": {
+      "name": "Malcolm Todd",
+      "mbid": "6c2a79b8-2b5c-4c2d-b495-6a446811bf9d",
+      "url": "https://www.last.fm/music/Malcolm+Todd"
+    },
+    "album": {
+      "artist": "Malcolm Todd",
+      "title": "Roommates",
+      "url": "https://www.last.fm/music/Malcolm+Todd/Roommates",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/abc91cbea47e6d9f5f41ae455e0a98c9.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/abc91cbea47e6d9f5f41ae455e0a98c9.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/abc91cbea47e6d9f5f41ae455e0a98c9.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/abc91cbea47e6d9f5f41ae455e0a98c9.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "indie",
+          "url": "https://www.last.fm/tag/indie"
+        },
+        {
+          "name": "alternative",
+          "url": "https://www.last.fm/tag/alternative"
+        },
+        {
+          "name": "indie rock",
+          "url": "https://www.last.fm/tag/indie+rock"
+        },
+        {
+          "name": "Sewerslvt",
+          "url": "https://www.last.fm/tag/Sewerslvt"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "03 Mar 2025, 23:12",
+      "summary": "The song talks about a troubled relationship that is coming to an end. Both parties want to apologize, but there are circumstances beyond their control. The speaker feels he is losing his identity and questions if he is acting differently when he’s not with this love interest. Despite wanting to show the other person what he’s been up to, he finds he can’t get through to them. He expresses that even if he does find someone new, he’s bound to still miss this other person. <a href=\"http://www.last.fm/music/Malcolm+Todd/_/Roommates\">Read more on Last.fm</a>.",
+      "content": "The song talks about a troubled relationship that is coming to an end. Both parties want to apologize, but there are circumstances beyond their control. The speaker feels he is losing his identity and questions if he is acting differently when he’s not with this love interest. Despite wanting to show the other person what he’s been up to, he finds he can’t get through to them. He expresses that even if he does find someone new, he’s bound to still miss this other person. The speaker decides to stop trying and fighting for this relationship, recognizing that he must finally move on. <a href=\"http://www.last.fm/music/Malcolm+Todd/_/Roommates\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

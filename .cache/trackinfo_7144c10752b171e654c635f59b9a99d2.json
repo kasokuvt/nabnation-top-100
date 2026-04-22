@@ -1,0 +1,45 @@
+{
+  "track": {
+    "name": "Let's Do It (feat. Playboi Carti & Skooly)",
+    "mbid": "a7c1ecf3-5f4b-4025-9c8f-7f02cbbc8fc8",
+    "url": "https://www.last.fm/music/Lil+Baby/_/Let%27s+Do+It+(feat.+Playboi+Carti+&+Skooly)",
+    "duration": "202000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "77988",
+    "playcount": "394680",
+    "artist": {
+      "name": "Lil Baby",
+      "mbid": "d42a5768-ada1-4fb6-85fd-f61aba6264e0",
+      "url": "https://www.last.fm/music/Lil+Baby"
+    },
+    "album": {
+      "artist": "Lil Baby",
+      "title": "The Leaks",
+      "url": "https://www.last.fm/music/Lil+Baby/The+Leaks",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/a8eb33778d520243cb21dfc6f78d7597.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/a8eb33778d520243cb21dfc6f78d7597.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/a8eb33778d520243cb21dfc6f78d7597.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/a8eb33778d520243cb21dfc6f78d7597.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

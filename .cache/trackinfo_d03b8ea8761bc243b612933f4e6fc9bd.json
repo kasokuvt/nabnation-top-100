@@ -1,0 +1,43 @@
+{
+  "track": {
+    "name": "Doku",
+    "url": "https://www.last.fm/music/Hakushi+Hasegawa/_/Doku",
+    "duration": "172000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "93048",
+    "playcount": "905724",
+    "artist": {
+      "name": "Hakushi Hasegawa",
+      "url": "https://www.last.fm/music/Hakushi+Hasegawa"
+    },
+    "album": {
+      "artist": "Hakushi Hasegawa",
+      "title": "Somoku Hodo",
+      "url": "https://www.last.fm/music/Hakushi+Hasegawa/Somoku+Hodo",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/3e8184948601780e1a80f6c933c45c75.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/3e8184948601780e1a80f6c933c45c75.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/3e8184948601780e1a80f6c933c45c75.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/3e8184948601780e1a80f6c933c45c75.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

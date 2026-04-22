@@ -1,0 +1,55 @@
+{
+  "track": {
+    "name": "Relevant",
+    "mbid": "619345ec-cd29-4251-bb3f-71fc3d88f944",
+    "url": "https://www.last.fm/music/Lil+Uzi+Vert/_/Relevant",
+    "duration": "122000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "70491",
+    "playcount": "478410",
+    "artist": {
+      "name": "Lil Uzi Vert",
+      "mbid": "8837b875-3689-4646-b3fd-d8b53815c7a8",
+      "url": "https://www.last.fm/music/Lil+Uzi+Vert"
+    },
+    "album": {
+      "artist": "Lil Uzi Vert",
+      "title": "Relevant",
+      "url": "https://www.last.fm/music/Lil+Uzi+Vert/Relevant",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/ac5d680c88af6d47f1a17c12401beb86.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/ac5d680c88af6d47f1a17c12401beb86.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/ac5d680c88af6d47f1a17c12401beb86.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/ac5d680c88af6d47f1a17c12401beb86.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://www.last.fm/tag/Lil+Uzi+Vert"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "25 Nov 2025, 03:01",
+      "summary": "“Relevant” is a single that was surprise released by Lil Uzi Vert, on November 24th, 2025, just hours after releasing another single titled Chanel Boy.\n\nThis track was initially previewed on Lil Uzi Vert's TikTok with a snippet of the music video. Minutes later, the official music video would release on Lil Uzi Vert's YouTube channel.\n\nThis track was produced by ZeeGoinXrazy. <a href=\"http://www.last.fm/music/Lil+Uzi+Vert/_/Relevant\">Read more on Last.fm</a>.",
+      "content": "“Relevant” is a single that was surprise released by Lil Uzi Vert, on November 24th, 2025, just hours after releasing another single titled Chanel Boy.\n\nThis track was initially previewed on Lil Uzi Vert's TikTok with a snippet of the music video. Minutes later, the official music video would release on Lil Uzi Vert's YouTube channel.\n\nThis track was produced by ZeeGoinXrazy. <a href=\"http://www.last.fm/music/Lil+Uzi+Vert/_/Relevant\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "track": {
+    "name": "alucard",
+    "mbid": "fa40bbc2-a8c2-4de5-af52-fb05ba309a58",
+    "url": "https://www.last.fm/music/bleood/_/alucard",
+    "duration": "108000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "13722",
+    "playcount": "291651",
+    "artist": {
+      "name": "bleood",
+      "mbid": "ce6a32ee-197d-4a59-9dad-37eb21b45c30",
+      "url": "https://www.last.fm/music/bleood"
+    },
+    "album": {
+      "artist": "bleood",
+      "title": "alucard",
+      "url": "https://www.last.fm/music/bleood/alucard",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/070d9cbce46bad49566073b95bc2a5d7.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/070d9cbce46bad49566073b95bc2a5d7.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/070d9cbce46bad49566073b95bc2a5d7.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/070d9cbce46bad49566073b95bc2a5d7.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

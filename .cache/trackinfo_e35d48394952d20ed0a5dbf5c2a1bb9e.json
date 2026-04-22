@@ -1,0 +1,45 @@
+{
+  "track": {
+    "name": "Century",
+    "mbid": "665836e7-a7bb-4fbf-a830-e551f4027c0f",
+    "url": "https://www.last.fm/music/EsDeeKid/_/Century",
+    "duration": "110000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "290972",
+    "playcount": "3003728",
+    "artist": {
+      "name": "EsDeeKid",
+      "mbid": "3d253cbd-fb66-4752-a8d1-f9b0db75bcea",
+      "url": "https://www.last.fm/music/EsDeeKid"
+    },
+    "album": {
+      "artist": "EsDeeKid",
+      "title": "Century",
+      "url": "https://www.last.fm/music/EsDeeKid/Century",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/fc0b26c605bbeb763482778c28c12cfa.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/fc0b26c605bbeb763482778c28c12cfa.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/fc0b26c605bbeb763482778c28c12cfa.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/fc0b26c605bbeb763482778c28c12cfa.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

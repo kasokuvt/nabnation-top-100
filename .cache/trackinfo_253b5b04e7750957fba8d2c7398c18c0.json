@@ -1,0 +1,71 @@
+{
+  "track": {
+    "name": "PUSH UR T3MPRR",
+    "mbid": "542c36ea-eb71-412b-acdd-4107206daa65",
+    "url": "https://www.last.fm/music/femtanyl/_/PUSH+UR+T3MPRR",
+    "duration": "148000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "128717",
+    "playcount": "2548160",
+    "artist": {
+      "name": "femtanyl",
+      "mbid": "eb3c021d-e056-42d6-8fad-064205a90527",
+      "url": "https://www.last.fm/music/femtanyl"
+    },
+    "album": {
+      "artist": "femtanyl",
+      "title": "PUSH UR T3MPRR",
+      "url": "https://www.last.fm/music/femtanyl/PUSH+UR+T3MPRR",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/7f7d60823e4258162d0fa62a1b412dc6.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/7f7d60823e4258162d0fa62a1b412dc6.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/7f7d60823e4258162d0fa62a1b412dc6.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/7f7d60823e4258162d0fa62a1b412dc6.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "noise",
+          "url": "https://www.last.fm/tag/noise"
+        },
+        {
+          "name": "hardcore",
+          "url": "https://www.last.fm/tag/hardcore"
+        },
+        {
+          "name": "electronic",
+          "url": "https://www.last.fm/tag/electronic"
+        },
+        {
+          "name": "dance",
+          "url": "https://www.last.fm/tag/dance"
+        },
+        {
+          "name": "breakcore",
+          "url": "https://www.last.fm/tag/breakcore"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "24 Nov 2024, 01:51",
+      "summary": "This song is about a toxic person who fetishizes harm and death. The singer fulfills this fetish by “pushing the temper” of her partner, i.e., driving him it.to do more and more toxic/abusive things to her. <a href=\"http://www.last.fm/music/femtanyl/_/PUSH+UR+T3MPRR\">Read more on Last.fm</a>.",
+      "content": "This song is about a toxic person who fetishizes harm and death. The singer fulfills this fetish by “pushing the temper” of her partner, i.e., driving him it.to do more and more toxic/abusive things to her. <a href=\"http://www.last.fm/music/femtanyl/_/PUSH+UR+T3MPRR\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

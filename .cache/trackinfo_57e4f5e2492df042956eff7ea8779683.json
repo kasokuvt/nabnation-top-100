@@ -1,0 +1,65 @@
+{
+  "track": {
+    "name": "Spoken For",
+    "mbid": "851c4e65-7c9e-4493-912d-b08ec6d7f64c",
+    "url": "https://www.last.fm/music/Flavor+Foley/_/Spoken+For",
+    "duration": "244000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "63806",
+    "playcount": "1630802",
+    "artist": {
+      "name": "Flavor Foley",
+      "url": "https://www.last.fm/music/Flavor+Foley"
+    },
+    "album": {
+      "artist": "Flavor Foley",
+      "title": "Spoken For",
+      "url": "https://www.last.fm/music/Flavor+Foley/Spoken+For",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/5c05114d08a01184ca28705eb10c6301.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/5c05114d08a01184ca28705eb10c6301.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/5c05114d08a01184ca28705eb10c6301.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/5c05114d08a01184ca28705eb10c6301.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "kasane teto",
+          "url": "https://www.last.fm/tag/kasane+teto"
+        },
+        {
+          "name": "pop",
+          "url": "https://www.last.fm/tag/pop"
+        },
+        {
+          "name": "electronic",
+          "url": "https://www.last.fm/tag/electronic"
+        },
+        {
+          "name": "english",
+          "url": "https://www.last.fm/tag/english"
+        },
+        {
+          "name": "vocaloid",
+          "url": "https://www.last.fm/tag/vocaloid"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "track": {
+    "name": "Color Your Night",
+    "url": "https://www.last.fm/music/Lotus+Juice/_/Color+Your+Night",
+    "duration": "0",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "179327",
+    "playcount": "3387555",
+    "artist": {
+      "name": "Lotus Juice",
+      "url": "https://www.last.fm/music/Lotus+Juice"
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "Japanese hip hop",
+          "url": "https://www.last.fm/tag/Japanese+hip+hop"
+        },
+        {
+          "name": "jazz rap",
+          "url": "https://www.last.fm/tag/jazz+rap"
+        },
+        {
+          "name": "pop rap",
+          "url": "https://www.last.fm/tag/pop+rap"
+        },
+        {
+          "name": "jazz pop",
+          "url": "https://www.last.fm/tag/jazz+pop"
+        },
+        {
+          "name": "video game music",
+          "url": "https://www.last.fm/tag/video+game+music"
+        }
+      ]
+    }
+  }
+}

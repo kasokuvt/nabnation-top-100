@@ -1,0 +1,71 @@
+{
+  "track": {
+    "name": "From the Start",
+    "mbid": "2d60d854-bbae-4f81-80f9-bed406d17a10",
+    "url": "https://www.last.fm/music/Laufey/_/From+the+Start",
+    "duration": "169000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "1373647",
+    "playcount": "24737423",
+    "artist": {
+      "name": "Laufey",
+      "mbid": "21a89505-10a9-4ac0-8388-833bc07b9f86",
+      "url": "https://www.last.fm/music/Laufey"
+    },
+    "album": {
+      "artist": "Laufey",
+      "title": "From The Start - Single",
+      "url": "https://www.last.fm/music/Laufey/From+The+Start+-+Single",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/3875932ff9d87debe979c34e7e1dd6e4.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/3875932ff9d87debe979c34e7e1dd6e4.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/3875932ff9d87debe979c34e7e1dd6e4.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/3875932ff9d87debe979c34e7e1dd6e4.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "jazz pop",
+          "url": "https://www.last.fm/tag/jazz+pop"
+        },
+        {
+          "name": "Bossa Nova",
+          "url": "https://www.last.fm/tag/Bossa+Nova"
+        },
+        {
+          "name": "jazz",
+          "url": "https://www.last.fm/tag/jazz"
+        },
+        {
+          "name": "rock",
+          "url": "https://www.last.fm/tag/rock"
+        },
+        {
+          "name": "pop",
+          "url": "https://www.last.fm/tag/pop"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "11 May 2023, 23:58",
+      "summary": "Laufey’s single, “From The Start,”represents an unrequited love between two friends. With her witty lyrics, it’s easy to not realize the sad situation taking place during the song. \n\nAs expected, Laufey has gifted us a beautiful masterpiece. <a href=\"http://www.last.fm/music/Laufey/_/From+the+Start\">Read more on Last.fm</a>.",
+      "content": "Laufey’s single, “From The Start,”represents an unrequited love between two friends. With her witty lyrics, it’s easy to not realize the sad situation taking place during the song. \n\nAs expected, Laufey has gifted us a beautiful masterpiece. <a href=\"http://www.last.fm/music/Laufey/_/From+the+Start\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "track": {
+    "name": "How To Pretend",
+    "mbid": "baed70e9-4ded-40a8-b4ff-842e4923f013",
+    "url": "https://www.last.fm/music/Lucy+Bedroque/_/How+To+Pretend",
+    "duration": "224000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "84609",
+    "playcount": "1245103",
+    "artist": {
+      "name": "Lucy Bedroque",
+      "mbid": "bb7959ac-84cc-45c4-8138-d80ee5f2bd9a",
+      "url": "https://www.last.fm/music/Lucy+Bedroque"
+    },
+    "album": {
+      "artist": "Lucy Bedroque",
+      "title": "Fête de la Vanille [Explicit]",
+      "url": "https://www.last.fm/music/Lucy+Bedroque/F%C3%AAte+de+la+Vanille+%5BExplicit%5D",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/0d96868d007d7d337e3a079e4e3b2fc5.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/0d96868d007d7d337e3a079e4e3b2fc5.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/0d96868d007d7d337e3a079e4e3b2fc5.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/0d96868d007d7d337e3a079e4e3b2fc5.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "art pop",
+          "url": "https://www.last.fm/tag/art+pop"
+        },
+        {
+          "name": "glitch pop",
+          "url": "https://www.last.fm/tag/glitch+pop"
+        },
+        {
+          "name": "alternative rnb",
+          "url": "https://www.last.fm/tag/alternative+rnb"
+        },
+        {
+          "name": "shibuya-kei",
+          "url": "https://www.last.fm/tag/shibuya-kei"
+        },
+        {
+          "name": "breakbeat",
+          "url": "https://www.last.fm/tag/breakbeat"
+        }
+      ]
+    }
+  }
+}

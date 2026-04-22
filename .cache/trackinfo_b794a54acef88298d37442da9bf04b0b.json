@@ -1,0 +1,50 @@
+{
+  "track": {
+    "name": "Unmusique",
+    "mbid": "b8f8c5fa-b20e-4806-b9ec-a12651f1600b",
+    "url": "https://www.last.fm/music/Lucy+Bedroque/_/Unmusique",
+    "duration": "150000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "51465",
+    "playcount": "402688",
+    "artist": {
+      "name": "Lucy Bedroque",
+      "mbid": "bb7959ac-84cc-45c4-8138-d80ee5f2bd9a",
+      "url": "https://www.last.fm/music/Lucy+Bedroque"
+    },
+    "album": {
+      "artist": "Lucy Bedroque",
+      "title": "unmusique",
+      "url": "https://www.last.fm/music/Lucy+Bedroque/unmusique",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/a4d4343e730ea2902a90058284ffe0da.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/a4d4343e730ea2902a90058284ffe0da.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/a4d4343e730ea2902a90058284ffe0da.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/a4d4343e730ea2902a90058284ffe0da.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    },
+    "wiki": {
+      "published": "03 Apr 2026, 16:28",
+      "summary": "“Unmusique” was produced by Lucy Bedroque.  Lucy Bedroque released “Unmusique” on May 16, 2025. <a href=\"http://www.last.fm/music/Lucy+Bedroque/_/Unmusique\">Read more on Last.fm</a>.",
+      "content": "“Unmusique” was produced by Lucy Bedroque.  Lucy Bedroque released “Unmusique” on May 16, 2025. <a href=\"http://www.last.fm/music/Lucy+Bedroque/_/Unmusique\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

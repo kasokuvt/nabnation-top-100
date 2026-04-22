@@ -1,0 +1,71 @@
+{
+  "track": {
+    "name": "Dracula",
+    "mbid": "5b1c893a-16da-4e3d-b9b7-6cc57afc360c",
+    "url": "https://www.last.fm/music/Tame+Impala/_/Dracula",
+    "duration": "205000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "699371",
+    "playcount": "5538275",
+    "artist": {
+      "name": "Tame Impala",
+      "mbid": "63aa26c3-d59b-4da4-84ac-716b54f1ef4d",
+      "url": "https://www.last.fm/music/Tame+Impala"
+    },
+    "album": {
+      "artist": "Tame Impala",
+      "title": "Dracula",
+      "url": "https://www.last.fm/music/Tame+Impala/Dracula",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/b54c44fa13530ee2e088e13096becaf2.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/b54c44fa13530ee2e088e13096becaf2.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/b54c44fa13530ee2e088e13096becaf2.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/b54c44fa13530ee2e088e13096becaf2.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "psychedelic",
+          "url": "https://www.last.fm/tag/psychedelic"
+        },
+        {
+          "name": "synthpop",
+          "url": "https://www.last.fm/tag/synthpop"
+        },
+        {
+          "name": "synth funk",
+          "url": "https://www.last.fm/tag/synth+funk"
+        },
+        {
+          "name": "rock",
+          "url": "https://www.last.fm/tag/rock"
+        },
+        {
+          "name": "dance-pop",
+          "url": "https://www.last.fm/tag/dance-pop"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "19 Oct 2025, 20:19",
+      "summary": "Dracula by Tame Impala is the third single to his fifth album, Deadbeat. It was released on September 26, 2025, accompanied by a music video.\n\nThe song was first teased on social media platforms on September 17, 2025, alongside the track list. This song in particular happens to be the third song on the track list for Deadbeat.\n\nThe music video for Dracula was first teased on September 22, 2025, on social media platforms.\n\nDeadbeat was released to all streaming platforms on October 17, 2025. <a href=\"http://www.last.fm/music/Tame+Impala/_/Dracula\">Read more on Last.fm</a>.",
+      "content": "Dracula by Tame Impala is the third single to his fifth album, Deadbeat. It was released on September 26, 2025, accompanied by a music video.\n\nThe song was first teased on social media platforms on September 17, 2025, alongside the track list. This song in particular happens to be the third song on the track list for Deadbeat.\n\nThe music video for Dracula was first teased on September 22, 2025, on social media platforms.\n\nDeadbeat was released to all streaming platforms on October 17, 2025. <a href=\"http://www.last.fm/music/Tame+Impala/_/Dracula\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

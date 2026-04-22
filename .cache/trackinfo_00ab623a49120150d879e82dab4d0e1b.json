@@ -1,0 +1,49 @@
+{
+  "track": {
+    "name": "Pressure",
+    "mbid": "181dea24-167e-4cb5-b84d-042f6b16f61f",
+    "url": "https://www.last.fm/music/Choerry/_/Pressure",
+    "duration": "162000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "22808",
+    "playcount": "365964",
+    "artist": {
+      "name": "Choerry",
+      "url": "https://www.last.fm/music/Choerry"
+    },
+    "album": {
+      "artist": "Choerry",
+      "title": "<Pressure>",
+      "url": "https://www.last.fm/music/Choerry/%3CPressure%3E",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/070c020357e24911cdc86ec55c60adf3.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/070c020357e24911cdc86ec55c60adf3.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/070c020357e24911cdc86ec55c60adf3.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/070c020357e24911cdc86ec55c60adf3.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    },
+    "wiki": {
+      "published": "28 Oct 2025, 08:54",
+      "summary": "\"Pressure\" is the first digital single by Choerry. It was released on October 30, 2025. <a href=\"http://www.last.fm/music/Choerry/_/Pressure\">Read more on Last.fm</a>.",
+      "content": "\"Pressure\" is the first digital single by Choerry. It was released on October 30, 2025. <a href=\"http://www.last.fm/music/Choerry/_/Pressure\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

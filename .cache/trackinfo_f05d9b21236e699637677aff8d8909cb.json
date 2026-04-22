@@ -1,0 +1,45 @@
+{
+  "track": {
+    "name": "2Door",
+    "mbid": "037b96b1-564d-42af-98a6-7b6c809f80b7",
+    "url": "https://www.last.fm/music/Kuru/_/2Door",
+    "duration": "126000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "50916",
+    "playcount": "630172",
+    "artist": {
+      "name": "Kuru",
+      "mbid": "487ed6f0-2e6a-40f9-962a-e33af4632f61",
+      "url": "https://www.last.fm/music/Kuru"
+    },
+    "album": {
+      "artist": "Kuru",
+      "title": "2Door",
+      "url": "https://www.last.fm/music/Kuru/2Door",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/52dc17a07b73792f82115069046362d0.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/52dc17a07b73792f82115069046362d0.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/52dc17a07b73792f82115069046362d0.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/52dc17a07b73792f82115069046362d0.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}
