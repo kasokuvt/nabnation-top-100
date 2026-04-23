@@ -1,0 +1,71 @@
+{
+  "track": {
+    "name": "Something About Us",
+    "mbid": "07380981-1f3d-43c6-a908-1d532beaef78",
+    "url": "https://www.last.fm/music/Daft+Punk/_/Something+About+Us",
+    "duration": "232000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "1569828",
+    "playcount": "14843196",
+    "artist": {
+      "name": "Daft Punk",
+      "mbid": "056e4f3e-d505-4dad-8ec1-d04f521cbb56",
+      "url": "https://www.last.fm/music/Daft+Punk"
+    },
+    "album": {
+      "artist": "Daft Punk",
+      "title": "Discovery",
+      "url": "https://www.last.fm/music/Daft+Punk/Discovery",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/1340e9e1082cf0dc748583b7eefce6d5.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/1340e9e1082cf0dc748583b7eefce6d5.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/1340e9e1082cf0dc748583b7eefce6d5.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/1340e9e1082cf0dc748583b7eefce6d5.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "electronic",
+          "url": "https://www.last.fm/tag/electronic"
+        },
+        {
+          "name": "chillout",
+          "url": "https://www.last.fm/tag/chillout"
+        },
+        {
+          "name": "poptron",
+          "url": "https://www.last.fm/tag/poptron"
+        },
+        {
+          "name": "electronica",
+          "url": "https://www.last.fm/tag/electronica"
+        },
+        {
+          "name": "Daft Punk",
+          "url": "https://www.last.fm/tag/Daft+Punk"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "03 Aug 2008, 22:38",
+      "summary": "\"Something About Us\" is a song by the French electronic music duo Daft Punk. It was released as the final single from the 2001 album Discovery as a promotion for their 2003 animated feature film Interstella 5555: The 5tory of the 5ecret 5tar 5ystem. The song reached #93 on the SNEP chart ranking. <a href=\"http://www.last.fm/music/Daft+Punk/_/Something+About+Us\">Read more on Last.fm</a>.",
+      "content": "\"Something About Us\" is a song by the French electronic music duo Daft Punk. It was released as the final single from the 2001 album Discovery as a promotion for their 2003 animated feature film Interstella 5555: The 5tory of the 5ecret 5tar 5ystem. The song reached #93 on the SNEP chart ranking. <a href=\"http://www.last.fm/music/Daft+Punk/_/Something+About+Us\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

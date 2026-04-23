@@ -1,0 +1,21 @@
+{
+  "track": {
+    "name": "I Don’t Gotta Say It",
+    "url": "https://www.last.fm/music/xaviersobased/_/I+Don%E2%80%99t+Gotta+Say+It",
+    "duration": "0",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "45240",
+    "playcount": "144819",
+    "artist": {
+      "name": "xaviersobased",
+      "mbid": "155cfd40-dcde-471e-acc0-32179916165c",
+      "url": "https://www.last.fm/music/xaviersobased"
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

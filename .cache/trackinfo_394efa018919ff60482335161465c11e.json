@@ -1,0 +1,44 @@
+{
+  "track": {
+    "name": "Brand New",
+    "mbid": "9446b1a7-75d6-42d6-ada5-cfd947413986",
+    "url": "https://www.last.fm/music/Slayr/_/Brand+New",
+    "duration": "115000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "56314",
+    "playcount": "404859",
+    "artist": {
+      "name": "Slayr",
+      "url": "https://www.last.fm/music/Slayr"
+    },
+    "album": {
+      "artist": "Slayr",
+      "title": "Half Blood (Bloodluxe)",
+      "url": "https://www.last.fm/music/Slayr/Half+Blood+(Bloodluxe)",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/3843dd0874586904ef643332806e585d.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/3843dd0874586904ef643332806e585d.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/3843dd0874586904ef643332806e585d.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/3843dd0874586904ef643332806e585d.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

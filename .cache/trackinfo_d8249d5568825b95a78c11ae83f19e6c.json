@@ -1,0 +1,22 @@
+{
+  "track": {
+    "name": "Like glue",
+    "mbid": "60f471a5-a9f1-4e09-a3fd-720c3b7b5550",
+    "url": "https://www.last.fm/music/Kuru/_/Like+glue",
+    "duration": "143000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "6684",
+    "playcount": "27869",
+    "artist": {
+      "name": "Kuru",
+      "mbid": "487ed6f0-2e6a-40f9-962a-e33af4632f61",
+      "url": "https://www.last.fm/music/Kuru"
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

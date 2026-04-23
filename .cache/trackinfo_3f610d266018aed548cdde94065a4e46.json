@@ -1,0 +1,22 @@
+{
+  "track": {
+    "name": "Glass",
+    "mbid": "d0f0eb7e-5555-412d-aeee-c4aacd5af454",
+    "url": "https://www.last.fm/music/Kuru/_/Glass",
+    "duration": "182000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "8409",
+    "playcount": "26912",
+    "artist": {
+      "name": "Kuru",
+      "mbid": "487ed6f0-2e6a-40f9-962a-e33af4632f61",
+      "url": "https://www.last.fm/music/Kuru"
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

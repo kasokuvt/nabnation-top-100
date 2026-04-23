@@ -1,0 +1,49 @@
+{
+  "track": {
+    "name": "The One Who's Running The Show",
+    "url": "https://www.last.fm/music/Gooseworx/_/The+One+Who%27s+Running+The+Show",
+    "duration": "133000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "31552",
+    "playcount": "517596",
+    "artist": {
+      "name": "Gooseworx",
+      "mbid": "b5b625e6-19cc-42e3-8a2a-7617750a9f9a",
+      "url": "https://www.last.fm/music/Gooseworx"
+    },
+    "album": {
+      "artist": "Gooseworx",
+      "title": "The One Who's Running The Show",
+      "url": "https://www.last.fm/music/Gooseworx/The+One+Who%27s+Running+The+Show",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/e74af47b3b3bf7a19aa08bae728c7ced.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/e74af47b3b3bf7a19aa08bae728c7ced.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/e74af47b3b3bf7a19aa08bae728c7ced.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/e74af47b3b3bf7a19aa08bae728c7ced.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    },
+    "wiki": {
+      "published": "25 Mar 2026, 13:47",
+      "summary": " <a href=\"http://www.last.fm/music/Gooseworx/_/The+One+Who%27s+Running+The+Show\">Read more on Last.fm</a>.",
+      "content": " <a href=\"http://www.last.fm/music/Gooseworx/_/The+One+Who%27s+Running+The+Show\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

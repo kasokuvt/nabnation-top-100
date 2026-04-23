@@ -1,0 +1,44 @@
+{
+  "track": {
+    "name": "Dance with STEEL BALL RUN",
+    "mbid": "40662ab1-1c11-479f-a1c4-76be0551f87c",
+    "url": "https://www.last.fm/music/Yugo+Kanno/_/Dance+with+STEEL+BALL+RUN",
+    "duration": "287000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "30006",
+    "playcount": "283584",
+    "artist": {
+      "name": "Yugo Kanno",
+      "url": "https://www.last.fm/music/Yugo+Kanno"
+    },
+    "album": {
+      "artist": "Yugo Kanno",
+      "title": "Dance with STEEL BALL RUN",
+      "url": "https://www.last.fm/music/Yugo+Kanno/Dance+with+STEEL+BALL+RUN",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/baced7fbe15e0ca9fb2253e31b1335d2.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/baced7fbe15e0ca9fb2253e31b1335d2.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/baced7fbe15e0ca9fb2253e31b1335d2.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/baced7fbe15e0ca9fb2253e31b1335d2.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

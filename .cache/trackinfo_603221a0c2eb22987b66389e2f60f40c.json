@@ -1,0 +1,71 @@
+{
+  "track": {
+    "name": "YES GODDD",
+    "mbid": "7eb1ec52-683a-4cae-8d8a-850a1b5683b8",
+    "url": "https://www.last.fm/music/Slayyyter/_/YES+GODDD",
+    "duration": "159000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "144879",
+    "playcount": "1193133",
+    "artist": {
+      "name": "Slayyyter",
+      "mbid": "9058d01e-8afc-47a4-8664-621fb5f159c0",
+      "url": "https://www.last.fm/music/Slayyyter"
+    },
+    "album": {
+      "artist": "Slayyyter",
+      "title": "WOR$T GIRL IN AMERICA",
+      "url": "https://www.last.fm/music/Slayyyter/WOR$T+GIRL+IN+AMERICA",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/d60a52a2d3e8eec7d9df29dc18d16ec2.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/d60a52a2d3e8eec7d9df29dc18d16ec2.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/d60a52a2d3e8eec7d9df29dc18d16ec2.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/d60a52a2d3e8eec7d9df29dc18d16ec2.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "midtempo bass",
+          "url": "https://www.last.fm/tag/midtempo+bass"
+        },
+        {
+          "name": "electro-industrial",
+          "url": "https://www.last.fm/tag/electro-industrial"
+        },
+        {
+          "name": "french electro",
+          "url": "https://www.last.fm/tag/french+electro"
+        },
+        {
+          "name": "Electroclash",
+          "url": "https://www.last.fm/tag/Electroclash"
+        },
+        {
+          "name": "industrial hip hop",
+          "url": "https://www.last.fm/tag/industrial+hip+hop"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "28 Mar 2026, 22:36",
+      "summary": "\"YES GODDD\" by Slayyyter is a chaotic, darksynth-influenced track from her 2026 album \"WOR$T GIRL IN AMERICA\", featuring spoken-word verses and heavy electronic bass. The song portrays a chaotic, high-energy night out and a reckless, confident persona, often described as \"hysterical,\" \"menacing,\" and \"thrilling\". <a href=\"http://www.last.fm/music/Slayyyter/_/YES+GODDD\">Read more on Last.fm</a>.",
+      "content": "\"YES GODDD\" by Slayyyter is a chaotic, darksynth-influenced track from her 2026 album \"WOR$T GIRL IN AMERICA\", featuring spoken-word verses and heavy electronic bass. The song portrays a chaotic, high-energy night out and a reckless, confident persona, often described as \"hysterical,\" \"menacing,\" and \"thrilling\". <a href=\"http://www.last.fm/music/Slayyyter/_/YES+GODDD\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

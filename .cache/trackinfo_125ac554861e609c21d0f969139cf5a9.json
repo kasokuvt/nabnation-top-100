@@ -1,0 +1,45 @@
+{
+  "track": {
+    "name": "Fml .",
+    "mbid": "17c66899-1c98-4fb5-9dfd-114954d714f6",
+    "url": "https://www.last.fm/music/fakemink/_/Fml+.",
+    "duration": "160000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "62131",
+    "playcount": "350468",
+    "artist": {
+      "name": "fakemink",
+      "mbid": "968847c6-2150-419d-b14b-68c672dcde99",
+      "url": "https://www.last.fm/music/fakemink"
+    },
+    "album": {
+      "artist": "fakemink",
+      "title": "The Boy Who Cried Terrified .",
+      "url": "https://www.last.fm/music/fakemink/The+Boy+Who+Cried+Terrified+.",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/42f887e9e7724350e728abd5e149c9a2.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/42f887e9e7724350e728abd5e149c9a2.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/42f887e9e7724350e728abd5e149c9a2.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/42f887e9e7724350e728abd5e149c9a2.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

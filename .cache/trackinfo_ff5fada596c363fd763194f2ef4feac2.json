@@ -1,0 +1,44 @@
+{
+  "track": {
+    "name": "plan b",
+    "mbid": "0dccd98c-c018-4bac-9abb-9d4482b7d918",
+    "url": "https://www.last.fm/music/nettspend/_/plan+b",
+    "duration": "128000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "45600",
+    "playcount": "283958",
+    "artist": {
+      "name": "nettspend",
+      "url": "https://www.last.fm/music/nettspend"
+    },
+    "album": {
+      "artist": "nettspend",
+      "title": "Plan B - Single",
+      "url": "https://www.last.fm/music/nettspend/Plan+B+-+Single",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2cdcd3ea000e8c15b5ef008c1ba3043e.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2cdcd3ea000e8c15b5ef008c1ba3043e.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2cdcd3ea000e8c15b5ef008c1ba3043e.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2cdcd3ea000e8c15b5ef008c1ba3043e.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

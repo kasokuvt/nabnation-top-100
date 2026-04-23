@@ -1,0 +1,21 @@
+{
+  "track": {
+    "name": "galore",
+    "url": "https://www.last.fm/music/Confetti/_/galore",
+    "duration": "0",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "7251",
+    "playcount": "37816",
+    "artist": {
+      "name": "Confetti",
+      "mbid": "866e50dc-b6b3-4c6b-91ae-3a872765dac9",
+      "url": "https://www.last.fm/music/Confetti"
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

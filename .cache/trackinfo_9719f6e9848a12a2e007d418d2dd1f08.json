@@ -1,0 +1,44 @@
+{
+  "track": {
+    "name": "marionette",
+    "url": "https://www.last.fm/music/Confetti/_/marionette",
+    "duration": "111000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "9900",
+    "playcount": "59683",
+    "artist": {
+      "name": "Confetti",
+      "mbid": "866e50dc-b6b3-4c6b-91ae-3a872765dac9",
+      "url": "https://www.last.fm/music/Confetti"
+    },
+    "album": {
+      "artist": "Confetti",
+      "title": "weapon party [Explicit]",
+      "url": "https://www.last.fm/music/Confetti/weapon+party+%5BExplicit%5D",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/1d0f79443b6c4023e72ea2e19e6e27c1.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/1d0f79443b6c4023e72ea2e19e6e27c1.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/1d0f79443b6c4023e72ea2e19e6e27c1.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/1d0f79443b6c4023e72ea2e19e6e27c1.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

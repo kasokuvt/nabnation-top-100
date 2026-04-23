@@ -1,0 +1,45 @@
+{
+  "track": {
+    "name": "Break it (feat. Lexie Liu)",
+    "mbid": "ed378d94-7bc9-493b-a494-5649d9b4f41a",
+    "url": "https://www.last.fm/music/Yves/_/Break+it+(feat.+Lexie+Liu)",
+    "duration": "184000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "35598",
+    "playcount": "155341",
+    "artist": {
+      "name": "Yves",
+      "mbid": "8339c0c3-7a04-4b19-8ca3-b149e0d09222",
+      "url": "https://www.last.fm/music/Yves"
+    },
+    "album": {
+      "artist": "Yves",
+      "title": "NAIL",
+      "url": "https://www.last.fm/music/Yves/NAIL",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/8b9962bd04526d33ca4a883b0b6ef4e5.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/8b9962bd04526d33ca4a883b0b6ef4e5.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/8b9962bd04526d33ca4a883b0b6ef4e5.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/8b9962bd04526d33ca4a883b0b6ef4e5.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

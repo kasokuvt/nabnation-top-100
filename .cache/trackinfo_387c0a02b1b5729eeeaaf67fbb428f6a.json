@@ -1,0 +1,64 @@
+{
+  "track": {
+    "name": "MAMA’S FAVORITE",
+    "url": "https://www.last.fm/music/Kanye+West/_/MAMA%E2%80%99S+FAVORITE",
+    "duration": "154000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "219443",
+    "playcount": "913424",
+    "artist": {
+      "name": "Kanye West",
+      "url": "https://www.last.fm/music/Kanye+West"
+    },
+    "album": {
+      "artist": "Kanye West",
+      "title": "MAMA’S FAVORITE",
+      "url": "https://www.last.fm/music/Kanye+West/MAMA%E2%80%99S+FAVORITE",
+      "image": [
+        {
+          "#text": "",
+          "size": "small"
+        },
+        {
+          "#text": "",
+          "size": "medium"
+        },
+        {
+          "#text": "",
+          "size": "large"
+        },
+        {
+          "#text": "",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "ambient",
+          "url": "https://www.last.fm/tag/ambient"
+        },
+        {
+          "name": "spoken word",
+          "url": "https://www.last.fm/tag/spoken+word"
+        },
+        {
+          "name": "art pop",
+          "url": "https://www.last.fm/tag/art+pop"
+        },
+        {
+          "name": "wave",
+          "url": "https://www.last.fm/tag/wave"
+        },
+        {
+          "name": "future bass",
+          "url": "https://www.last.fm/tag/future+bass"
+        }
+      ]
+    }
+  }
+}

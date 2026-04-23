@@ -1,0 +1,71 @@
+{
+  "track": {
+    "name": "Sweater Weather",
+    "mbid": "19f56d18-090a-4f50-b427-a655e9a2521e",
+    "url": "https://www.last.fm/music/The+Neighbourhood/_/Sweater+Weather",
+    "duration": "240000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "2953940",
+    "playcount": "49789600",
+    "artist": {
+      "name": "The Neighbourhood",
+      "mbid": "53b06622-ec51-4924-a554-58b0affde6b5",
+      "url": "https://www.last.fm/music/The+Neighbourhood"
+    },
+    "album": {
+      "artist": "The Neighbourhood",
+      "title": "I Love You.",
+      "url": "https://www.last.fm/music/The+Neighbourhood/I+Love+You.",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/d787d7eb7324e25dfb03dd9c0220d818.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/d787d7eb7324e25dfb03dd9c0220d818.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/d787d7eb7324e25dfb03dd9c0220d818.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/d787d7eb7324e25dfb03dd9c0220d818.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "indie",
+          "url": "https://www.last.fm/tag/indie"
+        },
+        {
+          "name": "alternative",
+          "url": "https://www.last.fm/tag/alternative"
+        },
+        {
+          "name": "chill",
+          "url": "https://www.last.fm/tag/chill"
+        },
+        {
+          "name": "summer",
+          "url": "https://www.last.fm/tag/summer"
+        },
+        {
+          "name": "can't stop listening",
+          "url": "https://www.last.fm/tag/can%27t+stop+listening"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "10 Aug 2013, 21:41",
+      "summary": "“Sweater Weather” is the lead single from The Neighbourhood’s debut EP I'm Sorry… and also features on their debut full-length album I Love You.\n\n“Sweater Weather” is one of The Neighbourhood’s most successful tracks, peaking at #14 on the Billboard Hot 100 charts in December 2013 and spent 11 weeks at #1 on the Alternative charts. The music video for the track reached 100 million views in December 2015, when the video was merely two years old. <a href=\"http://www.last.fm/music/The+Neighbourhood/_/Sweater+Weather\">Read more on Last.fm</a>.",
+      "content": "“Sweater Weather” is the lead single from The Neighbourhood’s debut EP I'm Sorry… and also features on their debut full-length album I Love You.\n\n“Sweater Weather” is one of The Neighbourhood’s most successful tracks, peaking at #14 on the Billboard Hot 100 charts in December 2013 and spent 11 weeks at #1 on the Alternative charts. The music video for the track reached 100 million views in December 2015, when the video was merely two years old.\n\n“Sweater Weather” is the first song the band had ever written together, composed during their first practice, around a year prior to its release. Frontman Jesse Rutherford recalled the historic day to Schon! in December 2015: “It was just a really special moment and it felt special before anybody said it was special. When we first wrote it and showed our families and some friends that we trusted their opinion around town or whatever, it was just a different reaction than we’d ever seen someone have to our music…” <a href=\"http://www.last.fm/music/The+Neighbourhood/_/Sweater+Weather\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

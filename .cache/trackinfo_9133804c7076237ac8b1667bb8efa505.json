@@ -1,0 +1,71 @@
+{
+  "track": {
+    "name": "Venus as a Boy",
+    "mbid": "0043af91-a2b1-3144-8afe-ed351c72dd4c",
+    "url": "https://www.last.fm/music/Bj%C3%B6rk/_/Venus+as+a+Boy",
+    "duration": "282000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "1125487",
+    "playcount": "9746115",
+    "artist": {
+      "name": "Björk",
+      "mbid": "87c5dedd-371d-4a53-9f7f-80522fb7f3cb",
+      "url": "https://www.last.fm/music/Bj%C3%B6rk"
+    },
+    "album": {
+      "artist": "Björk",
+      "title": "Debut",
+      "url": "https://www.last.fm/music/Bj%C3%B6rk/Debut",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/7098faeeba40a168cea952f95204a89a.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/7098faeeba40a168cea952f95204a89a.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/7098faeeba40a168cea952f95204a89a.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/7098faeeba40a168cea952f95204a89a.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "alternative",
+          "url": "https://www.last.fm/tag/alternative"
+        },
+        {
+          "name": "electronic",
+          "url": "https://www.last.fm/tag/electronic"
+        },
+        {
+          "name": "female vocalists",
+          "url": "https://www.last.fm/tag/female+vocalists"
+        },
+        {
+          "name": "icelandic",
+          "url": "https://www.last.fm/tag/icelandic"
+        },
+        {
+          "name": "bjork",
+          "url": "https://www.last.fm/tag/bjork"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "11 Jan 2009, 10:46",
+      "summary": "The song was released in 1993 as the second single from Björk's debut album, Debut. The song is about a boy who sees everything from a beauty point of view. The lyrics refer to a specific person, but Björk has refused to tell who he is. The music video features Björk rolling eggs across her face and upper body before she fries them. <a href=\"http://www.last.fm/music/Bj%C3%B6rk/_/Venus+as+a+Boy\">Read more on Last.fm</a>.",
+      "content": "The song was released in 1993 as the second single from Björk's debut album, Debut. The song is about a boy who sees everything from a beauty point of view. The lyrics refer to a specific person, but Björk has refused to tell who he is. The music video features Björk rolling eggs across her face and upper body before she fries them. <a href=\"http://www.last.fm/music/Bj%C3%B6rk/_/Venus+as+a+Boy\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

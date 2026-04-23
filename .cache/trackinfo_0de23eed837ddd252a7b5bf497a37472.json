@@ -1,0 +1,44 @@
+{
+  "track": {
+    "name": "CIRCLES (feat. Don Toliver)",
+    "mbid": "337662cf-ba0f-4b44-a4ff-3a6e0dac72a3",
+    "url": "https://www.last.fm/music/Kanye+West/_/CIRCLES+(feat.+Don+Toliver)",
+    "duration": "91000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "154798",
+    "playcount": "415986",
+    "artist": {
+      "name": "Kanye West",
+      "url": "https://www.last.fm/music/Kanye+West"
+    },
+    "album": {
+      "artist": "KanYeWest",
+      "title": "Bully",
+      "url": "https://www.last.fm/music/KanYeWest/Bully",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/4c83937d9cecddbf15c90e4894c0ed9e.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/4c83937d9cecddbf15c90e4894c0ed9e.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/4c83937d9cecddbf15c90e4894c0ed9e.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/4c83937d9cecddbf15c90e4894c0ed9e.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

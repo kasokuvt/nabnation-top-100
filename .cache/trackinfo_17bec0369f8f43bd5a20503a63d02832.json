@@ -1,0 +1,63 @@
+{
+  "track": {
+    "name": "Vivarium",
+    "mbid": "cd305d8d-c7e4-455f-bd7d-a22f021aea76",
+    "url": "https://www.last.fm/music/Ado/_/Vivarium",
+    "duration": "243000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "35512",
+    "playcount": "728133",
+    "artist": {
+      "name": "Ado",
+      "mbid": "ca195d97-30d9-4870-8a52-7fd3c2e175c3",
+      "url": "https://www.last.fm/music/Ado"
+    },
+    "album": {
+      "artist": "Ado",
+      "title": "Vivarium",
+      "url": "https://www.last.fm/music/Ado/Vivarium",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/8a0080f2962530dd9cb408f73cb00eb7.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/8a0080f2962530dd9cb408f73cb00eb7.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/8a0080f2962530dd9cb408f73cb00eb7.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/8a0080f2962530dd9cb408f73cb00eb7.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "j-pop",
+          "url": "https://www.last.fm/tag/j-pop"
+        },
+        {
+          "name": "math rock",
+          "url": "https://www.last.fm/tag/math+rock"
+        },
+        {
+          "name": "ado",
+          "url": "https://www.last.fm/tag/ado"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "03 Mar 2026, 20:19",
+      "summary": "Vivarium is a chaotic, introspective rock single in which Ado turns her gaze inward, using a “vivarium” as a metaphor for a dim, enclosed inner world that feels suffocating yet stubbornly alive. Built around a dense, guitar‑driven arrangement with frantic drums and restless bass, the production constantly shifts dynamics so that her voice can move from near‑whispers to explosive belts without ever getting buried.\n\nWritten by Ado herself and arranged by her bandmaster/guitarist Takafumi “CO‑K” Kokei <a href=\"http://www.last.fm/music/Ado/_/Vivarium\">Read more on Last.fm</a>.",
+      "content": "Vivarium is a chaotic, introspective rock single in which Ado turns her gaze inward, using a “vivarium” as a metaphor for a dim, enclosed inner world that feels suffocating yet stubbornly alive. Built around a dense, guitar‑driven arrangement with frantic drums and restless bass, the production constantly shifts dynamics so that her voice can move from near‑whispers to explosive belts without ever getting buried.\n\nWritten by Ado herself and arranged by her bandmaster/guitarist Takafumi “CO‑K” Kokei, the track leans on sharp dynamic contrast and deliberately “messy” layering to mirror the lyrical clash between her adult persona and a crying inner child. Vocal‑focused analyses highlight how the mix leaves plenty of space for her timbre changes—soft, breathy phrases, sudden growls, and strained high notes—turning the performance into a kind of argument between inner voices rather than a polished pop delivery. Lyrically, the song is unusually cynical and self‑critical for a major single, rejecting easy affirmations about “loving your flaws” and instead confronting impostor feelings and the emotional cost of success, which many listeners consider some of her most personal writing to date. <a href=\"http://www.last.fm/music/Ado/_/Vivarium\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

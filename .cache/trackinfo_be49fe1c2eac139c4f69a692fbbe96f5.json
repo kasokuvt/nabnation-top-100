@@ -1,0 +1,50 @@
+{
+  "track": {
+    "name": "LONG WAY TO CALABASAS",
+    "mbid": "a252494f-ac49-47da-9a6a-6f12f1742b62",
+    "url": "https://www.last.fm/music/Don+Toliver/_/LONG+WAY+TO+CALABASAS",
+    "duration": "0",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "164394",
+    "playcount": "852960",
+    "artist": {
+      "name": "Don Toliver",
+      "mbid": "a0723a3c-4135-438e-85c5-012712144ede",
+      "url": "https://www.last.fm/music/Don+Toliver"
+    },
+    "album": {
+      "artist": "Don Toliver",
+      "title": "Octane [Clean]",
+      "url": "https://www.last.fm/music/Don+Toliver/Octane+%5BClean%5D",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/01a59fefacbce707f2237cff7764c13a.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/01a59fefacbce707f2237cff7764c13a.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/01a59fefacbce707f2237cff7764c13a.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/01a59fefacbce707f2237cff7764c13a.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    },
+    "wiki": {
+      "published": "19 Feb 2026, 20:14",
+      "summary": "Calabasas is a rich suburb of Los Angeles. <a href=\"http://www.last.fm/music/Don+Toliver/_/LONG+WAY+TO+CALABASAS\">Read more on Last.fm</a>.",
+      "content": "Calabasas is a rich suburb of Los Angeles. <a href=\"http://www.last.fm/music/Don+Toliver/_/LONG+WAY+TO+CALABASAS\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

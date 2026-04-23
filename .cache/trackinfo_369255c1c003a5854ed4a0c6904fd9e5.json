@@ -1,0 +1,45 @@
+{
+  "track": {
+    "name": "Tiramisu",
+    "mbid": "492f30a6-3591-4e7f-98a1-19ba4141f716",
+    "url": "https://www.last.fm/music/Don+Toliver/_/Tiramisu",
+    "duration": "138000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "461607",
+    "playcount": "4174925",
+    "artist": {
+      "name": "Don Toliver",
+      "mbid": "a0723a3c-4135-438e-85c5-012712144ede",
+      "url": "https://www.last.fm/music/Don+Toliver"
+    },
+    "album": {
+      "artist": "Don Toliver",
+      "title": "Tiramisu",
+      "url": "https://www.last.fm/music/Don+Toliver/Tiramisu",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/28efd1c3176f9b646f37230bf280fc1a.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/28efd1c3176f9b646f37230bf280fc1a.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/28efd1c3176f9b646f37230bf280fc1a.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/28efd1c3176f9b646f37230bf280fc1a.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

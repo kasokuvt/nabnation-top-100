@@ -1,0 +1,22 @@
+{
+  "track": {
+    "name": "End of spring",
+    "mbid": "6824d47e-0493-4340-b472-ef2379f72f3d",
+    "url": "https://www.last.fm/music/Kuru/_/End+of+spring",
+    "duration": "172000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "9540",
+    "playcount": "33835",
+    "artist": {
+      "name": "Kuru",
+      "mbid": "487ed6f0-2e6a-40f9-962a-e33af4632f61",
+      "url": "https://www.last.fm/music/Kuru"
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

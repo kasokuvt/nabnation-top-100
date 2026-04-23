@@ -1,0 +1,1506 @@
+{
+  "chartName": "nabnation top 100",
+  "week": "2026-03-10",
+  "entries": [
+    {
+      "rank": 1,
+      "title": "Brain Fog",
+      "artist": "Slayr",
+      "cover": "covers/slayr__brain_fog.png",
+      "movement": {
+        "type": "new",
+        "value": null
+      },
+      "lastWeek": null,
+      "peak": 1,
+      "weeks": 1,
+      "points": 241.0,
+      "listeners": 27
+    },
+    {
+      "rank": 2,
+      "title": "Hard Knock",
+      "artist": "Slayr",
+      "cover": "covers/slayr__hard_knock.png",
+      "movement": {
+        "type": "new",
+        "value": null
+      },
+      "lastWeek": null,
+      "peak": 2,
+      "weeks": 1,
+      "points": 210.5,
+      "listeners": 26
+    },
+    {
+      "rank": 3,
+      "title": "Sloppy Joe",
+      "artist": "Slayr",
+      "cover": "covers/slayr__sloppy_joe.png",
+      "movement": {
+        "type": "down",
+        "value": 1
+      },
+      "lastWeek": 2,
+      "peak": 1,
+      "weeks": 8,
+      "points": 191.5,
+      "listeners": 27
+    },
+    {
+      "rank": 4,
+      "title": "Daytona",
+      "artist": "Slayr",
+      "cover": "covers/_placeholder.png",
+      "movement": {
+        "type": "new",
+        "value": null
+      },
+      "lastWeek": null,
+      "peak": 4,
+      "weeks": 1,
+      "points": 188.5,
+      "listeners": 29
+    },
+    {
+      "rank": 5,
+      "title": "Flashout Freestyle",
+      "artist": "Slayr",
+      "cover": "covers/slayr__flashout_freestyle.png",
+      "movement": {
+        "type": "new",
+        "value": null
+      },
+      "lastWeek": null,
+      "peak": 5,
+      "weeks": 1,
+      "points": 181.0,
+      "listeners": 25
+    },
+    {
+      "rank": 6,
+      "title": "Died But Came Back",
+      "artist": "Slayr",
+      "cover": "covers/slayr__died_but_came_back.png",
+      "movement": {
+        "type": "new",
+        "value": null
+      },
+      "lastWeek": null,
+      "peak": 6,
+      "weeks": 1,
+      "points": 172.5,
+      "listeners": 24
+    },
+    {
+      "rank": 7,
+      "title": "toxic",
+      "artist": "Slayr",
+      "cover": "covers/slayr__toxic.png",
+      "movement": {
+        "type": "new",
+        "value": null
+      },
+      "lastWeek": null,
+      "peak": 7,
+      "weeks": 1,
+      "points": 169.5,
+      "listeners": 27
+    },
+    {
+      "rank": 8,
+      "title": "Brand New",
+      "artist": "Slayr",
+      "cover": "covers/slayr__brand_new.png",
+      "movement": {
+        "type": "new",
+        "value": null
+      },
+      "lastWeek": null,
+      "peak": 8,
+      "weeks": 1,
+      "points": 158.5,
+      "listeners": 26
+    },
+    {
+      "rank": 9,
+      "title": "Racks",
+      "artist": "Slayr",
+      "cover": "covers/slayr__racks.png",
+      "movement": {
+        "type": "new",
+        "value": null
+      },
+      "lastWeek": null,
+      "peak": 9,
+      "weeks": 1,
+      "points": 158.5,
+      "listeners": 26
+    },
+    {
+      "rank": 10,
+      "title": "Stateside + Zara Larsson",
+      "artist": "PinkPantheress",
+      "cover": "covers/_placeholder.png",
+      "movement": {
+        "type": "down",
+        "value": 7
+      },
+      "lastWeek": 3,
+      "peak": 3,
+      "weeks": 13,
+      "points": 154.5,
+      "listeners": 29
+    },
+    {
+      "rank": 11,
+      "title": "masked up (feat. YoungBoy Never Broke Again)",
+      "artist": "nettspend",
+      "cover": "covers/nettspend__masked_up_feat_youngboy_never_broke_again.png",
+      "movement": {
+        "type": "new",
+        "value": null
+      },
+      "lastWeek": null,
+      "peak": 11,
+      "weeks": 1,
+      "points": 151.5,
+      "listeners": 18
+    },
+    {
+      "rank": 12,
+      "title": "Eyesight",
+      "artist": "Slayr",
+      "cover": "covers/slayr__eyesight.png",
+      "movement": {
+        "type": "new",
+        "value": null
+      },
+      "lastWeek": null,
+      "peak": 12,
+      "weeks": 1,
+      "points": 144.5,
+      "listeners": 24
+    },
+    {
+      "rank": 13,
+      "title": "Paint A Picture",
+      "artist": "Slayr",
+      "cover": "covers/slayr__paint_a_picture.png",
+      "movement": {
+        "type": "new",
+        "value": null
+      },
+      "lastWeek": null,
+      "peak": 13,
+      "weeks": 1,
+      "points": 138.5,
+      "listeners": 26
+    },
+    {
+      "rank": 14,
+      "title": "Holding",
+      "artist": "Slayr",
+      "cover": "covers/slayr__holding.png",
+      "movement": {
+        "type": "down",
+        "value": 9
+      },
+      "lastWeek": 5,
+      "peak": 5,
+      "weeks": 13,
+      "points": 136.5,
+      "listeners": 21
+    },
+    {
+      "rank": 15,
+      "title": "Music",
+      "artist": "underscores",
+      "cover": "covers/underscores__music.png",
+      "movement": {
+        "type": "down",
+        "value": 7
+      },
+      "lastWeek": 8,
+      "peak": 8,
+      "weeks": 11,
+      "points": 134.5,
+      "listeners": 23
+    },
+    {
+      "rank": 16,
+      "title": "Tell Me (U Want It)",
+      "artist": "underscores",
+      "cover": "covers/underscores__tell_me_u_want_it.png",
+      "movement": {
+        "type": "down",
+        "value": 15
+      },
+      "lastWeek": 1,
+      "peak": 1,
+      "weeks": 2,
+      "points": 132.0,
+      "listeners": 18
+    },
+    {
+      "rank": 17,
+      "title": "Demigod",
+      "artist": "Slayr",
+      "cover": "covers/slayr__demigod.png",
+      "movement": {
+        "type": "down",
+        "value": 3
+      },
+      "lastWeek": 14,
+      "peak": 13,
+      "weeks": 8,
+      "points": 126.5,
+      "listeners": 19
+    },
+    {
+      "rank": 18,
+      "title": "Party At My Place",
+      "artist": "xaviersobased",
+      "cover": "covers/xaviersobased__party_at_my_place.png",
+      "movement": {
+        "type": "down",
+        "value": 2
+      },
+      "lastWeek": 16,
+      "peak": 16,
+      "weeks": 5,
+      "points": 123.5,
+      "listeners": 15
+    },
+    {
+      "rank": 19,
+      "title": "CA$INO",
+      "artist": "Baby Keem",
+      "cover": "covers/baby_keem__ca_ino.png",
+      "movement": {
+        "type": "down",
+        "value": 13
+      },
+      "lastWeek": 6,
+      "peak": 1,
+      "weeks": 3,
+      "points": 122.0,
+      "listeners": 9
+    },
+    {
+      "rank": 20,
+      "title": "Pain Talk (with OsamaSon)",
+      "artist": "nettspend",
+      "cover": "covers/nettspend__pain_talk_with_osamason.png",
+      "movement": {
+        "type": "new",
+        "value": null
+      },
+      "lastWeek": null,
+      "peak": 20,
+      "weeks": 1,
+      "points": 120.0,
+      "listeners": 17
+    },
+    {
+      "rank": 21,
+      "title": "Dramatic Girl (feat. Che Ecru)",
+      "artist": "Baby Keem",
+      "cover": "covers/baby_keem__dramatic_girl_feat_che_ecru.png",
+      "movement": {
+        "type": "up",
+        "value": 35
+      },
+      "lastWeek": 56,
+      "peak": 8,
+      "weeks": 3,
+      "points": 115.0,
+      "listeners": 10
+    },
+    {
+      "rank": 22,
+      "title": "Babydoll",
+      "artist": "Dominic Fike",
+      "cover": "covers/dominic_fike__babydoll.png",
+      "movement": {
+        "type": "up",
+        "value": 36
+      },
+      "lastWeek": 58,
+      "peak": 22,
+      "weeks": 2,
+      "points": 114.0,
+      "listeners": 12
+    },
+    {
+      "rank": 23,
+      "title": "you ready?",
+      "artist": "nettspend",
+      "cover": "covers/nettspend__you_ready.png",
+      "movement": {
+        "type": "new",
+        "value": null
+      },
+      "lastWeek": null,
+      "peak": 23,
+      "weeks": 1,
+      "points": 111.5,
+      "listeners": 20
+    },
+    {
+      "rank": 24,
+      "title": "Do It",
+      "artist": "underscores",
+      "cover": "covers/underscores__do_it.png",
+      "movement": {
+        "type": "down",
+        "value": 17
+      },
+      "lastWeek": 7,
+      "peak": 6,
+      "weeks": 12,
+      "points": 111.5,
+      "listeners": 18
+    },
+    {
+      "rank": 25,
+      "title": "iPod Touch",
+      "artist": "Ninajirachi",
+      "cover": "covers/ninajirachi__ipod_touch.png",
+      "movement": {
+        "type": "up",
+        "value": 20
+      },
+      "lastWeek": 45,
+      "peak": 25,
+      "weeks": 7,
+      "points": 111.0,
+      "listeners": 14
+    },
+    {
+      "rank": 26,
+      "title": "Still Standing",
+      "artist": "nettspend",
+      "cover": "covers/nettspend__still_standing.png",
+      "movement": {
+        "type": "new",
+        "value": null
+      },
+      "lastWeek": null,
+      "peak": 26,
+      "weeks": 1,
+      "points": 110.0,
+      "listeners": 19
+    },
+    {
+      "rank": 27,
+      "title": "Love Blur",
+      "artist": "Slayr",
+      "cover": "covers/slayr__love_blur.png",
+      "movement": {
+        "type": "down",
+        "value": 23
+      },
+      "lastWeek": 4,
+      "peak": 4,
+      "weeks": 9,
+      "points": 109.0,
+      "listeners": 14
+    },
+    {
+      "rank": 28,
+      "title": "sick",
+      "artist": "nettspend",
+      "cover": "covers/nettspend__sick.png",
+      "movement": {
+        "type": "new",
+        "value": null
+      },
+      "lastWeek": null,
+      "peak": 28,
+      "weeks": 1,
+      "points": 107.0,
+      "listeners": 17
+    },
+    {
+      "rank": 29,
+      "title": "Never Go Down",
+      "artist": "Slayr",
+      "cover": "covers/slayr__never_go_down.png",
+      "movement": {
+        "type": "up",
+        "value": 50
+      },
+      "lastWeek": 79,
+      "peak": 5,
+      "weeks": 8,
+      "points": 105.5,
+      "listeners": 17
+    },
+    {
+      "rank": 30,
+      "title": "How To Pretend",
+      "artist": "Lucy Bedroque",
+      "cover": "covers/lucy_bedroque__how_to_pretend.png",
+      "movement": {
+        "type": "up",
+        "value": 12
+      },
+      "lastWeek": 42,
+      "peak": 1,
+      "weeks": 14,
+      "points": 103.5,
+      "listeners": 15
+    },
+    {
+      "rank": 31,
+      "title": "Dracula",
+      "artist": "Tame Impala",
+      "cover": "covers/tame_impala__dracula.png",
+      "movement": {
+        "type": "up",
+        "value": 66
+      },
+      "lastWeek": 97,
+      "peak": 20,
+      "weeks": 7,
+      "points": 102.5,
+      "listeners": 15
+    },
+    {
+      "rank": 32,
+      "title": "make it bleed",
+      "artist": "nettspend",
+      "cover": "covers/nettspend__make_it_bleed.png",
+      "movement": {
+        "type": "new",
+        "value": null
+      },
+      "lastWeek": null,
+      "peak": 32,
+      "weeks": 1,
+      "points": 97.0,
+      "listeners": 16
+    },
+    {
+      "rank": 33,
+      "title": "Earrings",
+      "artist": "Malcolm Todd",
+      "cover": "covers/_placeholder.png",
+      "movement": {
+        "type": "up",
+        "value": 4
+      },
+      "lastWeek": 37,
+      "peak": 23,
+      "weeks": 11,
+      "points": 96.5,
+      "listeners": 13
+    },
+    {
+      "rank": 34,
+      "title": "ce",
+      "artist": "nettspend",
+      "cover": "covers/nettspend__ce.png",
+      "movement": {
+        "type": "new",
+        "value": null
+      },
+      "lastWeek": null,
+      "peak": 34,
+      "weeks": 1,
+      "points": 96.0,
+      "listeners": 22
+    },
+    {
+      "rank": 35,
+      "title": "halftime",
+      "artist": "nettspend",
+      "cover": "covers/nettspend__halftime.png",
+      "movement": {
+        "type": "new",
+        "value": null
+      },
+      "lastWeek": null,
+      "peak": 35,
+      "weeks": 1,
+      "points": 96.0,
+      "listeners": 16
+    },
+    {
+      "rank": 36,
+      "title": "trap house 2016",
+      "artist": "nettspend",
+      "cover": "covers/nettspend__trap_house_2016.png",
+      "movement": {
+        "type": "new",
+        "value": null
+      },
+      "lastWeek": null,
+      "peak": 36,
+      "weeks": 1,
+      "points": 92.5,
+      "listeners": 17
+    },
+    {
+      "rank": 37,
+      "title": "Midnight Sun",
+      "artist": "Zara Larsson",
+      "cover": "covers/zara_larsson__midnight_sun.png",
+      "movement": {
+        "type": "up",
+        "value": 1
+      },
+      "lastWeek": 38,
+      "peak": 24,
+      "weeks": 6,
+      "points": 92.5,
+      "listeners": 11
+    },
+    {
+      "rank": 38,
+      "title": "Phone (Interlude)",
+      "artist": "Slayr",
+      "cover": "covers/slayr__phone_interlude.png",
+      "movement": {
+        "type": "up",
+        "value": 23
+      },
+      "lastWeek": 61,
+      "peak": 21,
+      "weeks": 6,
+      "points": 91.5,
+      "listeners": 17
+    },
+    {
+      "rank": 39,
+      "title": "Dancing with your eyes closed",
+      "artist": "Jane Remover",
+      "cover": "covers/jane_remover__dancing_with_your_eyes_closed.png",
+      "movement": {
+        "type": "down",
+        "value": 4
+      },
+      "lastWeek": 35,
+      "peak": 4,
+      "weeks": 15,
+      "points": 88.5,
+      "listeners": 16
+    },
+    {
+      "rank": 40,
+      "title": "who TF is U",
+      "artist": "nettspend",
+      "cover": "covers/nettspend__who_tf_is_u.png",
+      "movement": {
+        "type": "new",
+        "value": null
+      },
+      "lastWeek": null,
+      "peak": 40,
+      "weeks": 1,
+      "points": 85.5,
+      "listeners": 17
+    },
+    {
+      "rank": 41,
+      "title": "Music Baby",
+      "artist": "Jane Remover",
+      "cover": "covers/jane_remover__music_baby.png",
+      "movement": {
+        "type": "down",
+        "value": 31
+      },
+      "lastWeek": 10,
+      "peak": 1,
+      "weeks": 14,
+      "points": 82.5,
+      "listeners": 18
+    },
+    {
+      "rank": 42,
+      "title": "24/7",
+      "artist": "Slayr",
+      "cover": "covers/slayr__24_7.png",
+      "movement": {
+        "type": "re",
+        "value": null
+      },
+      "lastWeek": null,
+      "peak": 22,
+      "weeks": 6,
+      "points": 82.5,
+      "listeners": 15
+    },
+    {
+      "rank": 43,
+      "title": "Paris Hilton",
+      "artist": "nettspend",
+      "cover": "covers/nettspend__paris_hilton.png",
+      "movement": {
+        "type": "new",
+        "value": null
+      },
+      "lastWeek": null,
+      "peak": 43,
+      "weeks": 1,
+      "points": 81.5,
+      "listeners": 18
+    },
+    {
+      "rank": 44,
+      "title": "Wipe Yo Nose",
+      "artist": "Slayr",
+      "cover": "covers/slayr__wipe_yo_nose.png",
+      "movement": {
+        "type": "re",
+        "value": null
+      },
+      "lastWeek": null,
+      "peak": 11,
+      "weeks": 6,
+      "points": 81.0,
+      "listeners": 17
+    },
+    {
+      "rank": 45,
+      "title": "It's You",
+      "artist": "Ninajirachi",
+      "cover": "covers/ninajirachi__it_s_you.png",
+      "movement": {
+        "type": "new",
+        "value": null
+      },
+      "lastWeek": null,
+      "peak": 45,
+      "weeks": 1,
+      "points": 80.5,
+      "listeners": 15
+    },
+    {
+      "rank": 46,
+      "title": "JRJRJR",
+      "artist": "Jane Remover",
+      "cover": "covers/jane_remover__jrjrjr.png",
+      "movement": {
+        "type": "re",
+        "value": null
+      },
+      "lastWeek": null,
+      "peak": 8,
+      "weeks": 11,
+      "points": 78.5,
+      "listeners": 15
+    },
+    {
+      "rank": 47,
+      "title": "Dreamflasher",
+      "artist": "Jane Remover",
+      "cover": "covers/jane_remover__dreamflasher.png",
+      "movement": {
+        "type": "down",
+        "value": 14
+      },
+      "lastWeek": 33,
+      "peak": 14,
+      "weeks": 15,
+      "points": 78.0,
+      "listeners": 16
+    },
+    {
+      "rank": 48,
+      "title": "I AM NOT A LYRICIST",
+      "artist": "Baby Keem",
+      "cover": "covers/baby_keem__i_am_not_a_lyricist.png",
+      "movement": {
+        "type": "down",
+        "value": 25
+      },
+      "lastWeek": 23,
+      "peak": 4,
+      "weeks": 3,
+      "points": 78.0,
+      "listeners": 8
+    },
+    {
+      "rank": 49,
+      "title": "Go Away",
+      "artist": "Weezer",
+      "cover": "covers/weezer__go_away.png",
+      "movement": {
+        "type": "down",
+        "value": 40
+      },
+      "lastWeek": 9,
+      "peak": 9,
+      "weeks": 4,
+      "points": 77.5,
+      "listeners": 15
+    },
+    {
+      "rank": 50,
+      "title": "Jane!",
+      "artist": "The Long Faces",
+      "cover": "covers/the_long_faces__jane.png",
+      "movement": {
+        "type": "down",
+        "value": 31
+      },
+      "lastWeek": 19,
+      "peak": 19,
+      "weeks": 8,
+      "points": 77.5,
+      "listeners": 10
+    },
+    {
+      "rank": 51,
+      "title": "Duvet",
+      "artist": "bôa",
+      "cover": "covers/b_a__duvet.png",
+      "movement": {
+        "type": "re",
+        "value": null
+      },
+      "lastWeek": null,
+      "peak": 41,
+      "weeks": 4,
+      "points": 77.0,
+      "listeners": 14
+    },
+    {
+      "rank": 52,
+      "title": "Stateside",
+      "artist": "PinkPantheress",
+      "cover": "covers/pinkpantheress__stateside.png",
+      "movement": {
+        "type": "down",
+        "value": 27
+      },
+      "lastWeek": 25,
+      "peak": 25,
+      "weeks": 6,
+      "points": 76.5,
+      "listeners": 14
+    },
+    {
+      "rank": 53,
+      "title": "Stupid (Can’t run from the urge)",
+      "artist": "underscores",
+      "cover": "covers/underscores__stupid_can_t_run_from_the_urge.png",
+      "movement": {
+        "type": "down",
+        "value": 14
+      },
+      "lastWeek": 39,
+      "peak": 39,
+      "weeks": 4,
+      "points": 76.0,
+      "listeners": 16
+    },
+    {
+      "rank": 54,
+      "title": "stab",
+      "artist": "nettspend",
+      "cover": "covers/nettspend__stab.png",
+      "movement": {
+        "type": "new",
+        "value": null
+      },
+      "lastWeek": null,
+      "peak": 54,
+      "weeks": 1,
+      "points": 75.0,
+      "listeners": 18
+    },
+    {
+      "rank": 55,
+      "title": "Delete",
+      "artist": "Ninajirachi",
+      "cover": "covers/ninajirachi__delete.png",
+      "movement": {
+        "type": "re",
+        "value": null
+      },
+      "lastWeek": null,
+      "peak": 9,
+      "weeks": 6,
+      "points": 75.0,
+      "listeners": 16
+    },
+    {
+      "rank": 56,
+      "title": "Looping the Rooms (feat. HATSUNE MIKU)",
+      "artist": "rusino",
+      "cover": "covers/_placeholder.png",
+      "movement": {
+        "type": "down",
+        "value": 43
+      },
+      "lastWeek": 13,
+      "peak": 1,
+      "weeks": 11,
+      "points": 74.5,
+      "listeners": 16
+    },
+    {
+      "rank": 57,
+      "title": "The Sky",
+      "artist": "Slayr",
+      "cover": "covers/slayr__the_sky.png",
+      "movement": {
+        "type": "down",
+        "value": 13
+      },
+      "lastWeek": 44,
+      "peak": 36,
+      "weeks": 7,
+      "points": 73.5,
+      "listeners": 15
+    },
+    {
+      "rank": 58,
+      "title": "crack",
+      "artist": "nettspend",
+      "cover": "covers/nettspend__crack.png",
+      "movement": {
+        "type": "new",
+        "value": null
+      },
+      "lastWeek": null,
+      "peak": 58,
+      "weeks": 1,
+      "points": 73.0,
+      "listeners": 16
+    },
+    {
+      "rank": 59,
+      "title": "Girl Like Me",
+      "artist": "PinkPantheress",
+      "cover": "covers/pinkpantheress__girl_like_me.png",
+      "movement": {
+        "type": "down",
+        "value": 11
+      },
+      "lastWeek": 48,
+      "peak": 44,
+      "weeks": 6,
+      "points": 72.5,
+      "listeners": 9
+    },
+    {
+      "rank": 60,
+      "title": "I WANT THINGS TO BE BEAUTIFUL",
+      "artist": "Devi McCallion",
+      "cover": "covers/devi_mccallion__i_want_things_to_be_beautiful.png",
+      "movement": {
+        "type": "down",
+        "value": 20
+      },
+      "lastWeek": 40,
+      "peak": 1,
+      "weeks": 13,
+      "points": 71.5,
+      "listeners": 17
+    },
+    {
+      "rank": 61,
+      "title": "Set in stone",
+      "artist": "Slayr",
+      "cover": "covers/slayr__set_in_stone.png",
+      "movement": {
+        "type": "up",
+        "value": 27
+      },
+      "lastWeek": 88,
+      "peak": 30,
+      "weeks": 8,
+      "points": 71.5,
+      "listeners": 16
+    },
+    {
+      "rank": 62,
+      "title": "cross em out",
+      "artist": "nettspend",
+      "cover": "covers/nettspend__cross_em_out.png",
+      "movement": {
+        "type": "new",
+        "value": null
+      },
+      "lastWeek": null,
+      "peak": 62,
+      "weeks": 1,
+      "points": 71.5,
+      "listeners": 16
+    },
+    {
+      "rank": 63,
+      "title": "Flash in the Pan",
+      "artist": "Jane Remover",
+      "cover": "covers/jane_remover__flash_in_the_pan.png",
+      "movement": {
+        "type": "down",
+        "value": 27
+      },
+      "lastWeek": 36,
+      "peak": 8,
+      "weeks": 14,
+      "points": 71.0,
+      "listeners": 16
+    },
+    {
+      "rank": 64,
+      "title": "Experimental skin",
+      "artist": "Jane Remover",
+      "cover": "covers/jane_remover__experimental_skin.png",
+      "movement": {
+        "type": "up",
+        "value": 7
+      },
+      "lastWeek": 71,
+      "peak": 25,
+      "weeks": 10,
+      "points": 69.5,
+      "listeners": 12
+    },
+    {
+      "rank": 65,
+      "title": "HOUSE MONEY",
+      "artist": "Baby Keem",
+      "cover": "covers/baby_keem__house_money.png",
+      "movement": {
+        "type": "down",
+        "value": 35
+      },
+      "lastWeek": 30,
+      "peak": 3,
+      "weeks": 3,
+      "points": 68.5,
+      "listeners": 9
+    },
+    {
+      "rank": 66,
+      "title": "plan b",
+      "artist": "nettspend",
+      "cover": "covers/nettspend__plan_b.png",
+      "movement": {
+        "type": "new",
+        "value": null
+      },
+      "lastWeek": null,
+      "peak": 66,
+      "weeks": 1,
+      "points": 67.5,
+      "listeners": 15
+    },
+    {
+      "rank": 67,
+      "title": "Magic I Want U",
+      "artist": "Jane Remover",
+      "cover": "covers/jane_remover__magic_i_want_u.png",
+      "movement": {
+        "type": "up",
+        "value": 16
+      },
+      "lastWeek": 83,
+      "peak": 2,
+      "weeks": 12,
+      "points": 67.5,
+      "listeners": 11
+    },
+    {
+      "rank": 68,
+      "title": "Knot Me",
+      "artist": "Lucy Bedroque",
+      "cover": "covers/lucy_bedroque__knot_me.png",
+      "movement": {
+        "type": "up",
+        "value": 27
+      },
+      "lastWeek": 95,
+      "peak": 18,
+      "weeks": 9,
+      "points": 67.0,
+      "listeners": 13
+    },
+    {
+      "rank": 69,
+      "title": "No Sleep",
+      "artist": "nettspend",
+      "cover": "covers/nettspend__no_sleep.png",
+      "movement": {
+        "type": "new",
+        "value": null
+      },
+      "lastWeek": null,
+      "peak": 69,
+      "weeks": 1,
+      "points": 66.5,
+      "listeners": 18
+    },
+    {
+      "rank": 70,
+      "title": "Just The Way You Are",
+      "artist": "Milky",
+      "cover": "covers/milky__just_the_way_you_are.png",
+      "movement": {
+        "type": "new",
+        "value": null
+      },
+      "lastWeek": null,
+      "peak": 70,
+      "weeks": 1,
+      "points": 65.5,
+      "listeners": 8
+    },
+    {
+      "rank": 71,
+      "title": "Ego Renegade Boy",
+      "artist": "Flavor Foley",
+      "cover": "covers/flavor_foley__ego_renegade_boy.png",
+      "movement": {
+        "type": "down",
+        "value": 53
+      },
+      "lastWeek": 18,
+      "peak": 14,
+      "weeks": 3,
+      "points": 65.5,
+      "listeners": 7
+    },
+    {
+      "rank": 72,
+      "title": "marionette",
+      "artist": "Confetti",
+      "cover": "covers/_placeholder.png",
+      "movement": {
+        "type": "new",
+        "value": null
+      },
+      "lastWeek": null,
+      "peak": 72,
+      "weeks": 1,
+      "points": 64.0,
+      "listeners": 7
+    },
+    {
+      "rank": 73,
+      "title": "galore",
+      "artist": "Confetti",
+      "cover": "covers/_placeholder.png",
+      "movement": {
+        "type": "new",
+        "value": null
+      },
+      "lastWeek": null,
+      "peak": 73,
+      "weeks": 1,
+      "points": 63.5,
+      "listeners": 6
+    },
+    {
+      "rank": 74,
+      "title": "CIRCUS CIRCUS FREE$TYLE",
+      "artist": "Baby Keem",
+      "cover": "covers/baby_keem__circus_circus_free_tyle.png",
+      "movement": {
+        "type": "down",
+        "value": 52
+      },
+      "lastWeek": 22,
+      "peak": 9,
+      "weeks": 3,
+      "points": 63.5,
+      "listeners": 5
+    },
+    {
+      "rank": 75,
+      "title": "Death By MP3",
+      "artist": "Slayr",
+      "cover": "covers/slayr__death_by_mp3.png",
+      "movement": {
+        "type": "down",
+        "value": 23
+      },
+      "lastWeek": 52,
+      "peak": 15,
+      "weeks": 7,
+      "points": 62.5,
+      "listeners": 15
+    },
+    {
+      "rank": 76,
+      "title": "TWICE REMOVED",
+      "artist": "Jane Remover",
+      "cover": "covers/jane_remover__twice_removed.png",
+      "movement": {
+        "type": "up",
+        "value": 2
+      },
+      "lastWeek": 78,
+      "peak": 33,
+      "weeks": 4,
+      "points": 62.5,
+      "listeners": 10
+    },
+    {
+      "rank": 77,
+      "title": "world's end",
+      "artist": "Confetti",
+      "cover": "covers/_placeholder.png",
+      "movement": {
+        "type": "new",
+        "value": null
+      },
+      "lastWeek": null,
+      "peak": 77,
+      "weeks": 1,
+      "points": 62.0,
+      "listeners": 8
+    },
+    {
+      "rank": 78,
+      "title": "Richman",
+      "artist": "3OH!3",
+      "cover": "covers/3oh_3__richman.png",
+      "movement": {
+        "type": "new",
+        "value": null
+      },
+      "lastWeek": null,
+      "peak": 78,
+      "weeks": 1,
+      "points": 61.5,
+      "listeners": 8
+    },
+    {
+      "rank": 79,
+      "title": "How To Teleport",
+      "artist": "Jane Remover",
+      "cover": "covers/jane_remover__how_to_teleport.png",
+      "movement": {
+        "type": "down",
+        "value": 58
+      },
+      "lastWeek": 21,
+      "peak": 4,
+      "weeks": 14,
+      "points": 61.0,
+      "listeners": 16
+    },
+    {
+      "rank": 80,
+      "title": "Lying Is the Most Fun a Girl Can Have Without Taking Her Clothes Off",
+      "artist": "Panic! at the Disco",
+      "cover": "covers/panic_at_the_disco__lying_is_the_most_fun_a_girl_can_have_without_taking_her_clothes_off.png",
+      "movement": {
+        "type": "re",
+        "value": null
+      },
+      "lastWeek": null,
+      "peak": 35,
+      "weeks": 6,
+      "points": 61.0,
+      "listeners": 12
+    },
+    {
+      "rank": 81,
+      "title": "An Eater",
+      "artist": "Matt Martians",
+      "cover": "covers/matt_martians__an_eater.png",
+      "movement": {
+        "type": "down",
+        "value": 47
+      },
+      "lastWeek": 34,
+      "peak": 34,
+      "weeks": 6,
+      "points": 61.0,
+      "listeners": 9
+    },
+    {
+      "rank": 82,
+      "title": "Kwik Trip",
+      "artist": "Lightris",
+      "cover": "covers/lightris__kwik_trip.png",
+      "movement": {
+        "type": "down",
+        "value": 9
+      },
+      "lastWeek": 73,
+      "peak": 42,
+      "weeks": 5,
+      "points": 61.0,
+      "listeners": 7
+    },
+    {
+      "rank": 83,
+      "title": "Ruder Buster",
+      "artist": "Toby Fox",
+      "cover": "covers/toby_fox__ruder_buster.png",
+      "movement": {
+        "type": "re",
+        "value": null
+      },
+      "lastWeek": null,
+      "peak": 31,
+      "weeks": 2,
+      "points": 60.5,
+      "listeners": 10
+    },
+    {
+      "rank": 84,
+      "title": "fenty face",
+      "artist": "Lucy Bedroque",
+      "cover": "covers/lucy_bedroque__fenty_face.png",
+      "movement": {
+        "type": "down",
+        "value": 58
+      },
+      "lastWeek": 26,
+      "peak": 5,
+      "weeks": 9,
+      "points": 60.5,
+      "listeners": 10
+    },
+    {
+      "rank": 85,
+      "title": "true perspective",
+      "artist": "Lucy Bedroque",
+      "cover": "covers/lucy_bedroque__true_perspective.png",
+      "movement": {
+        "type": "re",
+        "value": null
+      },
+      "lastWeek": null,
+      "peak": 55,
+      "weeks": 2,
+      "points": 60.5,
+      "listeners": 6
+    },
+    {
+      "rank": 86,
+      "title": "The Moon Cave (feat. Asha Puthli, Bobby Womack, Dave Jolicoeur, Jalen Ngonda and Black Thought)",
+      "artist": "Gorillaz",
+      "cover": "covers/gorillaz__the_moon_cave_feat_asha_puthli_bobby_womack_dave_jolicoeur_jalen_ngonda_and_blac.png",
+      "movement": {
+        "type": "down",
+        "value": 69
+      },
+      "lastWeek": 17,
+      "peak": 17,
+      "weeks": 2,
+      "points": 60.0,
+      "listeners": 10
+    },
+    {
+      "rank": 87,
+      "title": "Taxes",
+      "artist": "Geese",
+      "cover": "covers/geese__taxes.png",
+      "movement": {
+        "type": "re",
+        "value": null
+      },
+      "lastWeek": null,
+      "peak": 39,
+      "weeks": 4,
+      "points": 58.5,
+      "listeners": 9
+    },
+    {
+      "rank": 88,
+      "title": "Professional Vengeance",
+      "artist": "Jane Remover",
+      "cover": "covers/jane_remover__professional_vengeance.png",
+      "movement": {
+        "type": "down",
+        "value": 6
+      },
+      "lastWeek": 82,
+      "peak": 7,
+      "weeks": 14,
+      "points": 57.0,
+      "listeners": 15
+    },
+    {
+      "rank": 89,
+      "title": "CRANK",
+      "artist": "Slayyyter",
+      "cover": "covers/slayyyter__crank.png",
+      "movement": {
+        "type": "down",
+        "value": 46
+      },
+      "lastWeek": 43,
+      "peak": 43,
+      "weeks": 3,
+      "points": 57.0,
+      "listeners": 8
+    },
+    {
+      "rank": 90,
+      "title": "adobe flash",
+      "artist": "Confetti",
+      "cover": "covers/_placeholder.png",
+      "movement": {
+        "type": "new",
+        "value": null
+      },
+      "lastWeek": null,
+      "peak": 90,
+      "weeks": 1,
+      "points": 57.0,
+      "listeners": 7
+    },
+    {
+      "rank": 91,
+      "title": "Let It Happen",
+      "artist": "Tame Impala",
+      "cover": "covers/tame_impala__let_it_happen.png",
+      "movement": {
+        "type": "stay",
+        "value": 0
+      },
+      "lastWeek": 91,
+      "peak": 91,
+      "weeks": 2,
+      "points": 57.0,
+      "listeners": 7
+    },
+    {
+      "rank": 92,
+      "title": "HIGHWAY 95 PT.2",
+      "artist": "Baby Keem",
+      "cover": "covers/baby_keem__highway_95_pt_2.png",
+      "movement": {
+        "type": "down",
+        "value": 46
+      },
+      "lastWeek": 46,
+      "peak": 6,
+      "weeks": 3,
+      "points": 57.0,
+      "listeners": 5
+    },
+    {
+      "rank": 93,
+      "title": "We Own You",
+      "artist": "Waitress",
+      "cover": "covers/waitress__we_own_you.png",
+      "movement": {
+        "type": "new",
+        "value": null
+      },
+      "lastWeek": null,
+      "peak": 93,
+      "weeks": 1,
+      "points": 57.0,
+      "listeners": 3
+    },
+    {
+      "rank": 94,
+      "title": "BAILE INoLVIDABLE",
+      "artist": "Bad Bunny",
+      "cover": "covers/_placeholder.png",
+      "movement": {
+        "type": "down",
+        "value": 37
+      },
+      "lastWeek": 57,
+      "peak": 3,
+      "weeks": 7,
+      "points": 56.0,
+      "listeners": 9
+    },
+    {
+      "rank": 95,
+      "title": "Body",
+      "artist": "Don Toliver",
+      "cover": "covers/don_toliver__body.png",
+      "movement": {
+        "type": "re",
+        "value": null
+      },
+      "lastWeek": null,
+      "peak": 53,
+      "weeks": 2,
+      "points": 56.0,
+      "listeners": 8
+    },
+    {
+      "rank": 96,
+      "title": "<3 me",
+      "artist": "nettspend",
+      "cover": "covers/nettspend__3_me.png",
+      "movement": {
+        "type": "new",
+        "value": null
+      },
+      "lastWeek": null,
+      "peak": 96,
+      "weeks": 1,
+      "points": 55.5,
+      "listeners": 14
+    },
+    {
+      "rank": 97,
+      "title": "Psychoboost",
+      "artist": "Jane Remover",
+      "cover": "covers/_placeholder.png",
+      "movement": {
+        "type": "down",
+        "value": 46
+      },
+      "lastWeek": 51,
+      "peak": 21,
+      "weeks": 10,
+      "points": 55.0,
+      "listeners": 9
+    },
+    {
+      "rank": 98,
+      "title": "Headlock",
+      "artist": "Imogen Heap",
+      "cover": "covers/imogen_heap__headlock.png",
+      "movement": {
+        "type": "re",
+        "value": null
+      },
+      "lastWeek": null,
+      "peak": 92,
+      "weeks": 2,
+      "points": 54.5,
+      "listeners": 10
+    },
+    {
+      "rank": 99,
+      "title": "If You Can't Hang",
+      "artist": "Sleeping With Sirens",
+      "cover": "covers/sleeping_with_sirens__if_you_can_t_hang.png",
+      "movement": {
+        "type": "new",
+        "value": null
+      },
+      "lastWeek": null,
+      "peak": 99,
+      "weeks": 1,
+      "points": 54.5,
+      "listeners": 9
+    },
+    {
+      "rank": 100,
+      "title": "If I Leave",
+      "artist": "Mitski",
+      "cover": "covers/mitski__if_i_leave.png",
+      "movement": {
+        "type": "down",
+        "value": 45
+      },
+      "lastWeek": 55,
+      "peak": 55,
+      "weeks": 2,
+      "points": 54.5,
+      "listeners": 6
+    }
+  ]
+}

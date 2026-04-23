@@ -1,0 +1,45 @@
+{
+  "track": {
+    "name": "MY HEAD HURTS",
+    "mbid": "72d02455-a8fa-4b04-b820-b279d7612ce4",
+    "url": "https://www.last.fm/music/femtanyl/_/MY+HEAD+HURTS",
+    "duration": "166000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "22548",
+    "playcount": "95115",
+    "artist": {
+      "name": "femtanyl",
+      "mbid": "eb3c021d-e056-42d6-8fad-064205a90527",
+      "url": "https://www.last.fm/music/femtanyl"
+    },
+    "album": {
+      "artist": "femtanyl",
+      "title": "MAN BITES DOG",
+      "url": "https://www.last.fm/music/femtanyl/MAN+BITES+DOG",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/1a0253dede6b1d443fd912bbd02e73f8.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/1a0253dede6b1d443fd912bbd02e73f8.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/1a0253dede6b1d443fd912bbd02e73f8.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/1a0253dede6b1d443fd912bbd02e73f8.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

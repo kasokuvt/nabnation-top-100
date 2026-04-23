@@ -1,0 +1,45 @@
+{
+  "track": {
+    "name": "Something has to change",
+    "mbid": "4036a981-a2e7-4374-a0ad-3a3961d7d9b3",
+    "url": "https://www.last.fm/music/venturing/_/Something+has+to+change",
+    "duration": "199000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "45226",
+    "playcount": "399191",
+    "artist": {
+      "name": "venturing",
+      "mbid": "72f75074-0607-4a5b-bf9a-0b861e9c8681",
+      "url": "https://www.last.fm/music/venturing"
+    },
+    "album": {
+      "artist": "venturing",
+      "title": "Ghostholding",
+      "url": "https://www.last.fm/music/venturing/Ghostholding",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/9373642d1f9fc218700f8ff915974988.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/9373642d1f9fc218700f8ff915974988.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/9373642d1f9fc218700f8ff915974988.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/9373642d1f9fc218700f8ff915974988.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

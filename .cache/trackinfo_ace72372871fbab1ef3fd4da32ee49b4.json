@@ -1,0 +1,45 @@
+{
+  "track": {
+    "name": "Bound2U",
+    "mbid": "b349cd86-95c1-460d-abdc-c02a8a88e1d6",
+    "url": "https://www.last.fm/music/Frost+Children/_/Bound2U",
+    "duration": "176000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "53771",
+    "playcount": "359221",
+    "artist": {
+      "name": "Frost Children",
+      "mbid": "3f1ed758-50e4-401f-8dc6-e0066e546e7c",
+      "url": "https://www.last.fm/music/Frost+Children"
+    },
+    "album": {
+      "artist": "Frost Children",
+      "title": "SISTER [Explicit]",
+      "url": "https://www.last.fm/music/Frost+Children/SISTER+%5BExplicit%5D",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/c22142dad63fca35aadcec485075094a.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/c22142dad63fca35aadcec485075094a.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/c22142dad63fca35aadcec485075094a.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/c22142dad63fca35aadcec485075094a.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

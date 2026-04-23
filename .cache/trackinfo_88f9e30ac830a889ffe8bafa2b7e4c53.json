@@ -1,0 +1,71 @@
+{
+  "track": {
+    "name": "Just The Way You Are",
+    "mbid": "00daf0ea-ed2e-4b90-8b68-8ee04de43113",
+    "url": "https://www.last.fm/music/Milky/_/Just+The+Way+You+Are",
+    "duration": "158000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "343531",
+    "playcount": "2518255",
+    "artist": {
+      "name": "Milky",
+      "mbid": "f858fe79-9e1b-48af-ba97-4c07e94e37cd",
+      "url": "https://www.last.fm/music/Milky"
+    },
+    "album": {
+      "artist": "Milky",
+      "title": "Star",
+      "url": "https://www.last.fm/music/Milky/Star",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/cd04b76137a5b268dc03adbd811df3ac.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/cd04b76137a5b268dc03adbd811df3ac.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/cd04b76137a5b268dc03adbd811df3ac.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/cd04b76137a5b268dc03adbd811df3ac.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "dance",
+          "url": "https://www.last.fm/tag/dance"
+        },
+        {
+          "name": "electronic",
+          "url": "https://www.last.fm/tag/electronic"
+        },
+        {
+          "name": "House",
+          "url": "https://www.last.fm/tag/House"
+        },
+        {
+          "name": "pop",
+          "url": "https://www.last.fm/tag/pop"
+        },
+        {
+          "name": "00s",
+          "url": "https://www.last.fm/tag/00s"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "03 May 2009, 02:56",
+      "summary": "This song samples streets of your town. <a href=\"http://www.last.fm/music/Milky/_/Just+The+Way+You+Are\">Read more on Last.fm</a>.",
+      "content": "This song samples streets of your town. <a href=\"http://www.last.fm/music/Milky/_/Just+The+Way+You+Are\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "track": {
+    "name": "Good game",
+    "mbid": "92809dbb-6e40-4eee-a5d7-2ea52c23ca36",
+    "url": "https://www.last.fm/music/Kuru/_/Good+game",
+    "duration": "145000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "7025",
+    "playcount": "23819",
+    "artist": {
+      "name": "Kuru",
+      "mbid": "487ed6f0-2e6a-40f9-962a-e33af4632f61",
+      "url": "https://www.last.fm/music/Kuru"
+    },
+    "album": {
+      "artist": "Kuru",
+      "title": "Backstage Hologram",
+      "url": "https://www.last.fm/music/Kuru/Backstage+Hologram",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/c10941bd2c9446944e46b2bacd35cd5c.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/c10941bd2c9446944e46b2bacd35cd5c.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/c10941bd2c9446944e46b2bacd35cd5c.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/c10941bd2c9446944e46b2bacd35cd5c.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

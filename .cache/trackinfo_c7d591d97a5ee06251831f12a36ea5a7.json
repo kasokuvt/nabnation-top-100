@@ -1,0 +1,70 @@
+{
+  "track": {
+    "name": "BUTCHER VANITY",
+    "mbid": "c76ffa78-051e-4f97-9193-cb2f7aff6103",
+    "url": "https://www.last.fm/music/Flavor+Foley/_/BUTCHER+VANITY",
+    "duration": "187000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "76746",
+    "playcount": "953864",
+    "artist": {
+      "name": "Flavor Foley",
+      "url": "https://www.last.fm/music/Flavor+Foley"
+    },
+    "album": {
+      "artist": "Flavor Foley",
+      "title": "BUTCHER VANITY",
+      "url": "https://www.last.fm/music/Flavor+Foley/BUTCHER+VANITY",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/7ec92e9fd5a34ed38ea689d71e0e598d.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/7ec92e9fd5a34ed38ea689d71e0e598d.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/7ec92e9fd5a34ed38ea689d71e0e598d.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/7ec92e9fd5a34ed38ea689d71e0e598d.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "pop",
+          "url": "https://www.last.fm/tag/pop"
+        },
+        {
+          "name": "chinese",
+          "url": "https://www.last.fm/tag/chinese"
+        },
+        {
+          "name": "synthv",
+          "url": "https://www.last.fm/tag/synthv"
+        },
+        {
+          "name": "yi xi",
+          "url": "https://www.last.fm/tag/yi+xi"
+        },
+        {
+          "name": "english",
+          "url": "https://www.last.fm/tag/english"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "17 Nov 2025, 16:34",
+      "summary": "still praying, hopeless and in vein <a href=\"http://www.last.fm/music/Flavor+Foley/_/BUTCHER+VANITY\">Read more on Last.fm</a>.",
+      "content": "still praying, hopeless and in vein <a href=\"http://www.last.fm/music/Flavor+Foley/_/BUTCHER+VANITY\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

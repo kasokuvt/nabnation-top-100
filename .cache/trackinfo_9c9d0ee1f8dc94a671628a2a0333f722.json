@@ -1,0 +1,41 @@
+{
+  "track": {
+    "name": "It's Going Down Now",
+    "url": "https://www.last.fm/music/Azumi+Takahashi/_/It%27s+Going+Down+Now",
+    "duration": "0",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "201740",
+    "playcount": "2029194",
+    "artist": {
+      "name": "Azumi Takahashi",
+      "url": "https://www.last.fm/music/Azumi+Takahashi"
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "J-rock",
+          "url": "https://www.last.fm/tag/J-rock"
+        },
+        {
+          "name": "video game music",
+          "url": "https://www.last.fm/tag/video+game+music"
+        },
+        {
+          "name": "rap rock",
+          "url": "https://www.last.fm/tag/rap+rock"
+        },
+        {
+          "name": "pop rock",
+          "url": "https://www.last.fm/tag/pop+rock"
+        },
+        {
+          "name": "jazz fusion",
+          "url": "https://www.last.fm/tag/jazz+fusion"
+        }
+      ]
+    }
+  }
+}

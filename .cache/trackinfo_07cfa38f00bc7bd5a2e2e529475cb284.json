@@ -1,0 +1,62 @@
+{
+  "track": {
+    "name": "Orange County (feat. Bizarrap, Kara Jackson and Anoushka Shankar)",
+    "mbid": "1f0768d1-b066-4b49-9161-532aaf41f329",
+    "url": "https://www.last.fm/music/Gorillaz/_/Orange+County+(feat.+Bizarrap,+Kara+Jackson+and+Anoushka+Shankar)",
+    "duration": "0",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "203359",
+    "playcount": "1061155",
+    "artist": {
+      "name": "Gorillaz",
+      "mbid": "e21857d5-3256-4547-afb3-4b6ded592596",
+      "url": "https://www.last.fm/music/Gorillaz"
+    },
+    "album": {
+      "artist": "Various Artists",
+      "title": "The Mountain (Spotify Tracklist)",
+      "url": "https://www.last.fm/music/Various+Artists/The+Mountain+(Spotify+Tracklist)",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/fc00eaffb7e55e1fceb1c129f8f1e8c8.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/fc00eaffb7e55e1fceb1c129f8f1e8c8.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/fc00eaffb7e55e1fceb1c129f8f1e8c8.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/fc00eaffb7e55e1fceb1c129f8f1e8c8.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "art pop",
+          "url": "https://www.last.fm/tag/art+pop"
+        },
+        {
+          "name": "indie pop",
+          "url": "https://www.last.fm/tag/indie+pop"
+        },
+        {
+          "name": "Neo-Psychedelia",
+          "url": "https://www.last.fm/tag/Neo-Psychedelia"
+        },
+        {
+          "name": "psychedelic pop",
+          "url": "https://www.last.fm/tag/psychedelic+pop"
+        }
+      ]
+    }
+  }
+}

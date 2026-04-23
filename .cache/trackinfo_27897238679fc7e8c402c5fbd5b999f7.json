@@ -1,0 +1,57 @@
+{
+  "track": {
+    "name": "Minty",
+    "url": "https://www.last.fm/music/Mike/_/Minty",
+    "duration": "107000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "45014",
+    "playcount": "224233",
+    "artist": {
+      "name": "Mike",
+      "mbid": "e70c1ee9-0b7e-4e94-b14e-333b3677cfc6",
+      "url": "https://www.last.fm/music/Mike"
+    },
+    "album": {
+      "artist": "Earl Sweatshirt",
+      "title": "Leadbelly (feat. MIKE)",
+      "url": "https://www.last.fm/music/Earl+Sweatshirt/Leadbelly+(feat.+MIKE)",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/ed9be24207118aecc5c7af3cb1434a6d.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/ed9be24207118aecc5c7af3cb1434a6d.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/ed9be24207118aecc5c7af3cb1434a6d.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/ed9be24207118aecc5c7af3cb1434a6d.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "trap",
+          "url": "https://www.last.fm/tag/trap"
+        },
+        {
+          "name": "plugg",
+          "url": "https://www.last.fm/tag/plugg"
+        },
+        {
+          "name": "cloud rap",
+          "url": "https://www.last.fm/tag/cloud+rap"
+        }
+      ]
+    }
+  }
+}

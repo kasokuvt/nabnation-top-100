@@ -1,0 +1,44 @@
+{
+  "track": {
+    "name": "Cannibal",
+    "mbid": "3056b329-2b9c-3ed7-9847-1c871dde7cb5",
+    "url": "https://www.last.fm/music/Ke$ha/_/Cannibal",
+    "duration": "194000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "164520",
+    "playcount": "2435741",
+    "artist": {
+      "name": "Ke$ha",
+      "url": "https://www.last.fm/music/Ke$ha"
+    },
+    "album": {
+      "artist": "Ke$ha",
+      "title": "Cannibal",
+      "url": "https://www.last.fm/music/Ke$ha/Cannibal",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/52e18c5887c1c6c9eecb878dd6854160.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/52e18c5887c1c6c9eecb878dd6854160.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/52e18c5887c1c6c9eecb878dd6854160.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/52e18c5887c1c6c9eecb878dd6854160.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

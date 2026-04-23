@@ -1,0 +1,45 @@
+{
+  "track": {
+    "name": "Gracious",
+    "mbid": "902393a0-2c09-4d31-a1bc-c90bcef31264",
+    "url": "https://www.last.fm/music/Kuru/_/Gracious",
+    "duration": "135000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "8457",
+    "playcount": "32327",
+    "artist": {
+      "name": "Kuru",
+      "mbid": "487ed6f0-2e6a-40f9-962a-e33af4632f61",
+      "url": "https://www.last.fm/music/Kuru"
+    },
+    "album": {
+      "artist": "Kuru",
+      "title": "Backstage Hologram",
+      "url": "https://www.last.fm/music/Kuru/Backstage+Hologram",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/c10941bd2c9446944e46b2bacd35cd5c.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/c10941bd2c9446944e46b2bacd35cd5c.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/c10941bd2c9446944e46b2bacd35cd5c.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/c10941bd2c9446944e46b2bacd35cd5c.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

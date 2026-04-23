@@ -1,0 +1,71 @@
+{
+  "track": {
+    "name": "Lovefool",
+    "mbid": "00fe4160-5b71-3d33-b545-e07b754e29d7",
+    "url": "https://www.last.fm/music/The+Cardigans/_/Lovefool",
+    "duration": "196000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "2214129",
+    "playcount": "20750779",
+    "artist": {
+      "name": "The Cardigans",
+      "mbid": "3e55d51d-687f-4a9d-af96-2fabccf802e5",
+      "url": "https://www.last.fm/music/The+Cardigans"
+    },
+    "album": {
+      "artist": "The Cardigans",
+      "title": "Best Of",
+      "url": "https://www.last.fm/music/The+Cardigans/Best+Of",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/118cdb502af3929c505617d8e687e95c.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/118cdb502af3929c505617d8e687e95c.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/118cdb502af3929c505617d8e687e95c.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/118cdb502af3929c505617d8e687e95c.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "pop",
+          "url": "https://www.last.fm/tag/pop"
+        },
+        {
+          "name": "90s",
+          "url": "https://www.last.fm/tag/90s"
+        },
+        {
+          "name": "female vocalists",
+          "url": "https://www.last.fm/tag/female+vocalists"
+        },
+        {
+          "name": "rock",
+          "url": "https://www.last.fm/tag/rock"
+        },
+        {
+          "name": "Love",
+          "url": "https://www.last.fm/tag/Love"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "27 Mar 2009, 22:31",
+      "summary": "\"Lovefool\" is a song written by Peter Svensson and Nina Persson for The Cardigans' third studio album, First Band on the Moon. It was released as the album's lead single on 14 September 1996 in the United Kingdom and internationally on 5 October 1996. Following a re-release in 1997, the song found international success, peaking at number two on the UK Singles Chart and achieving moderate success on other European charts. In North America, the song <a href=\"http://www.last.fm/music/The+Cardigans/_/Lovefool\">Read more on Last.fm</a>.",
+      "content": "\"Lovefool\" is a song written by Peter Svensson and Nina Persson for The Cardigans' third studio album, First Band on the Moon. It was released as the album's lead single on 14 September 1996 in the United Kingdom and internationally on 5 October 1996. Following a re-release in 1997, the song found international success, peaking at number two on the UK Singles Chart and achieving moderate success on other European charts. In North America, the song reached number three in Canada and number two on the US Billboard Hot 100 Airplay Chart (it did not chart on the Hot 100 due to rules in place at the time). It also made appearances on six other Billboard charts. In Australasia, the single topped the chart in New Zealand and climbed to number 11 in Australia. In both countries, the single was certified Gold.\n\n The song was featured in the film \"Romeo + Juliet\" just two months after the release of the single, as well as in the 1999 film \"Cruel Intentions\" and the 2007 comedy \"Decameron Pie\". <a href=\"http://www.last.fm/music/The+Cardigans/_/Lovefool\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

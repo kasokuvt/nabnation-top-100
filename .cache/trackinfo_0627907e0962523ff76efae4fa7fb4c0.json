@@ -1,0 +1,71 @@
+{
+  "track": {
+    "name": "Juna",
+    "mbid": "016d187f-0e11-4171-82e9-15f04fafa097",
+    "url": "https://www.last.fm/music/Clairo/_/Juna",
+    "duration": "195000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "1260582",
+    "playcount": "21901706",
+    "artist": {
+      "name": "Clairo",
+      "mbid": "d786f59b-1836-4ddb-8393-ab753edbe984",
+      "url": "https://www.last.fm/music/Clairo"
+    },
+    "album": {
+      "artist": "Clairo",
+      "title": "Charm",
+      "url": "https://www.last.fm/music/Clairo/Charm",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/6e8d5d5ca3c27594162651accd47cb7e.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/6e8d5d5ca3c27594162651accd47cb7e.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/6e8d5d5ca3c27594162651accd47cb7e.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/6e8d5d5ca3c27594162651accd47cb7e.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "WSUM 91.7 FM Madison",
+          "url": "https://www.last.fm/tag/WSUM+91.7+FM+Madison"
+        },
+        {
+          "name": "clairykah badu",
+          "url": "https://www.last.fm/tag/clairykah+badu"
+        },
+        {
+          "name": "The Rewind",
+          "url": "https://www.last.fm/tag/The+Rewind"
+        },
+        {
+          "name": "soft rock",
+          "url": "https://www.last.fm/tag/soft+rock"
+        },
+        {
+          "name": "indie",
+          "url": "https://www.last.fm/tag/indie"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "01 Aug 2024, 07:50",
+      "summary": "“Juna” is the 7th track and a fan favorite off of her new album Charm. The song explores the idea of having such a deep level of connection with someone such that everything becomes instinct. \n\nThe album and song are reminiscent of the 70’s through light and airy vocal melodies accompanied by brass and percussion, including a simple and clean transition between the use of a mouth trumpet to an actual trumpet. <a href=\"http://www.last.fm/music/Clairo/_/Juna\">Read more on Last.fm</a>.",
+      "content": "“Juna” is the 7th track and a fan favorite off of her new album Charm. The song explores the idea of having such a deep level of connection with someone such that everything becomes instinct. \n\nThe album and song are reminiscent of the 70’s through light and airy vocal melodies accompanied by brass and percussion, including a simple and clean transition between the use of a mouth trumpet to an actual trumpet. <a href=\"http://www.last.fm/music/Clairo/_/Juna\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

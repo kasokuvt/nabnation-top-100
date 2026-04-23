@@ -1,0 +1,49 @@
+{
+  "track": {
+    "name": "crack",
+    "mbid": "7836ca42-d4d0-46b2-a38e-115f8b535c8e",
+    "url": "https://www.last.fm/music/nettspend/_/crack",
+    "duration": "106000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "56100",
+    "playcount": "293532",
+    "artist": {
+      "name": "nettspend",
+      "url": "https://www.last.fm/music/nettspend"
+    },
+    "album": {
+      "artist": "nettspend",
+      "title": "Early Life Crisis",
+      "url": "https://www.last.fm/music/nettspend/Early+Life+Crisis",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/c8aa095fb407e2869048fbd7d8152e92.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/c8aa095fb407e2869048fbd7d8152e92.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/c8aa095fb407e2869048fbd7d8152e92.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/c8aa095fb407e2869048fbd7d8152e92.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    },
+    "wiki": {
+      "published": "12 Mar 2026, 13:13",
+      "summary": "“crack” is the fourth track to Nettspend’s debut studio album, early life crisis. It showcases Nettspend’s ability to melodically flow, while the catchy instrumental, which was produced by frequent collaborator Rok, consists of synth and arpeggiated melodies, while hard-hitting bass and laid-back percussion fill in the blank space. Nettspend released “crack” on March 6, 2026. <a href=\"http://www.last.fm/music/nettspend/_/crack\">Read more on Last.fm</a>.",
+      "content": "“crack” is the fourth track to Nettspend’s debut studio album, early life crisis. It showcases Nettspend’s ability to melodically flow, while the catchy instrumental, which was produced by frequent collaborator Rok, consists of synth and arpeggiated melodies, while hard-hitting bass and laid-back percussion fill in the blank space. Nettspend released “crack” on March 6, 2026. <a href=\"http://www.last.fm/music/nettspend/_/crack\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

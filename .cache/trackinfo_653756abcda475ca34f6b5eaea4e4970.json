@@ -1,0 +1,71 @@
+{
+  "track": {
+    "name": "BRITTANY MURPHY.",
+    "mbid": "0126bedf-8d0f-442f-8f8b-52b30d95f43c",
+    "url": "https://www.last.fm/music/Slayyyter/_/BRITTANY+MURPHY.",
+    "duration": "224000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "137312",
+    "playcount": "970273",
+    "artist": {
+      "name": "Slayyyter",
+      "mbid": "9058d01e-8afc-47a4-8664-621fb5f159c0",
+      "url": "https://www.last.fm/music/Slayyyter"
+    },
+    "album": {
+      "artist": "Slayyyter",
+      "title": "WOR$T GIRL IN AMERICA",
+      "url": "https://www.last.fm/music/Slayyyter/WOR$T+GIRL+IN+AMERICA",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/d60a52a2d3e8eec7d9df29dc18d16ec2.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/d60a52a2d3e8eec7d9df29dc18d16ec2.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/d60a52a2d3e8eec7d9df29dc18d16ec2.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/d60a52a2d3e8eec7d9df29dc18d16ec2.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "Electroclash",
+          "url": "https://www.last.fm/tag/Electroclash"
+        },
+        {
+          "name": "dance-pop",
+          "url": "https://www.last.fm/tag/dance-pop"
+        },
+        {
+          "name": "new rave",
+          "url": "https://www.last.fm/tag/new+rave"
+        },
+        {
+          "name": "electro house",
+          "url": "https://www.last.fm/tag/electro+house"
+        },
+        {
+          "name": "chillwave",
+          "url": "https://www.last.fm/tag/chillwave"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "02 Apr 2026, 18:01",
+      "summary": "\"BRITTANY MURPHY.\" is a song by Slayyyter from her album \"WOR$T GIRL IN AMERICA\". It was released on March 27, 2026, through Columbia Records, as the fourteenth track on it. <a href=\"http://www.last.fm/music/Slayyyter/_/BRITTANY+MURPHY.\">Read more on Last.fm</a>.",
+      "content": "\"BRITTANY MURPHY.\" is a song by Slayyyter from her album \"WOR$T GIRL IN AMERICA\". It was released on March 27, 2026, through Columbia Records, as the fourteenth track on it. <a href=\"http://www.last.fm/music/Slayyyter/_/BRITTANY+MURPHY.\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "track": {
+    "name": "It Can't Come Quickly Enough",
+    "mbid": "010081e0-089d-326c-ab32-34a09a543699",
+    "url": "https://www.last.fm/music/Scissor+Sisters/_/It+Can%27t+Come+Quickly+Enough",
+    "duration": "279000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "186739",
+    "playcount": "1219953",
+    "artist": {
+      "name": "Scissor Sisters",
+      "mbid": "4236d929-9a81-4c8e-97c3-8d3306780f50",
+      "url": "https://www.last.fm/music/Scissor+Sisters"
+    },
+    "album": {
+      "artist": "Scissor Sisters",
+      "title": "Scissor Sisters",
+      "url": "https://www.last.fm/music/Scissor+Sisters/Scissor+Sisters",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/70190f0c067c425a8259f7da5e6aa974.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/70190f0c067c425a8259f7da5e6aa974.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/70190f0c067c425a8259f7da5e6aa974.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/70190f0c067c425a8259f7da5e6aa974.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "track": {
+    "name": "All I Did Was Dream Of You (feat. The Marías)",
+    "url": "https://www.last.fm/music/beabadoobee/_/All+I+Did+Was+Dream+Of+You+(feat.+The+Mar%C3%ADas)",
+    "duration": "0",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "283471",
+    "playcount": "2655489",
+    "artist": {
+      "name": "beabadoobee",
+      "mbid": "88d17133-abbc-42db-9526-4e2c1db60336",
+      "url": "https://www.last.fm/music/beabadoobee"
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "chill",
+          "url": "https://www.last.fm/tag/chill"
+        },
+        {
+          "name": "shoegaze",
+          "url": "https://www.last.fm/tag/shoegaze"
+        },
+        {
+          "name": "switchexyy",
+          "url": "https://www.last.fm/tag/switchexyy"
+        }
+      ]
+    }
+  }
+}

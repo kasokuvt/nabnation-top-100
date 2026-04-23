@@ -1,0 +1,71 @@
+{
+  "track": {
+    "name": "All I Wanted",
+    "mbid": "013c6618-aac8-335c-b45f-2b39ed6f47ae",
+    "url": "https://www.last.fm/music/Paramore/_/All+I+Wanted",
+    "duration": "225000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "1750490",
+    "playcount": "24017027",
+    "artist": {
+      "name": "Paramore",
+      "mbid": "44cf61b8-5197-448a-b82b-cef6ee89fac5",
+      "url": "https://www.last.fm/music/Paramore"
+    },
+    "album": {
+      "artist": "Paramore",
+      "title": "brand new eyes",
+      "url": "https://www.last.fm/music/Paramore/brand+new+eyes",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/8935ea2d777c8f2f5f3c7a8f521ea9fb.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/8935ea2d777c8f2f5f3c7a8f521ea9fb.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/8935ea2d777c8f2f5f3c7a8f521ea9fb.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/8935ea2d777c8f2f5f3c7a8f521ea9fb.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "rock",
+          "url": "https://www.last.fm/tag/rock"
+        },
+        {
+          "name": "alternative rock",
+          "url": "https://www.last.fm/tag/alternative+rock"
+        },
+        {
+          "name": "Paramore",
+          "url": "https://www.last.fm/tag/Paramore"
+        },
+        {
+          "name": "female vocalists",
+          "url": "https://www.last.fm/tag/female+vocalists"
+        },
+        {
+          "name": "alternative",
+          "url": "https://www.last.fm/tag/alternative"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "08 Aug 2023, 20:44",
+      "summary": "\"All I Wanted\" is the eleventh and final track from Paramore's third album brand new eyes. It was the only song from a main Paramore album to never be performed live until October 24, 2022, at When We Were Young Fest, due to the song's difficult vocal parts, according to Williams.\n\n\"I wish there was an actual story for this song. The whole time we were writing and rehearsing at home, I was in this state where I wouldn’t come out or go out unless it was to write with the guys. <a href=\"http://www.last.fm/music/Paramore/_/All+I+Wanted\">Read more on Last.fm</a>.",
+      "content": "\"All I Wanted\" is the eleventh and final track from Paramore's third album brand new eyes. It was the only song from a main Paramore album to never be performed live until October 24, 2022, at When We Were Young Fest, due to the song's difficult vocal parts, according to Williams.\n\n\"I wish there was an actual story for this song. The whole time we were writing and rehearsing at home, I was in this state where I wouldn’t come out or go out unless it was to write with the guys. I spent so much time alone in my apartment that I think it started to mess with me and just make me really sad. One day, I went to practice and Taylor was playing this song. It was another one of his. It hit me and I just started writing whatever came to mind. ‘All I Wanted’ almost didn’t make the record. I can’t remember why we didn’t think it would work. We would’ve been pissed right now if it wasn’t there.” - Hayley Williams <a href=\"http://www.last.fm/music/Paramore/_/All+I+Wanted\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

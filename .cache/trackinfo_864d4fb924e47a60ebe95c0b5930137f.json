@@ -1,0 +1,45 @@
+{
+  "track": {
+    "name": "Second Sleep",
+    "mbid": "90dc8b1e-ba0d-49cd-a0f5-b1019b733c7c",
+    "url": "https://www.last.fm/music/Magdalena+Bay/_/Second+Sleep",
+    "duration": "288000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "159079",
+    "playcount": "1121556",
+    "artist": {
+      "name": "Magdalena Bay",
+      "mbid": "68c261d5-48c8-4ea9-9466-9fc908dc79bb",
+      "url": "https://www.last.fm/music/Magdalena+Bay"
+    },
+    "album": {
+      "artist": "Magdalena Bay",
+      "title": "Second Sleep / Star Eyes",
+      "url": "https://www.last.fm/music/Magdalena+Bay/Second+Sleep+%2F+Star+Eyes",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/6165020a40ac3faa6e305c974bac16fc.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/6165020a40ac3faa6e305c974bac16fc.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/6165020a40ac3faa6e305c974bac16fc.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/6165020a40ac3faa6e305c974bac16fc.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

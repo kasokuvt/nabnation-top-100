@@ -1,0 +1,45 @@
+{
+  "track": {
+    "name": "Mr. Chow .",
+    "mbid": "35ae047f-9b40-42b8-afa7-23c8ac465bdf",
+    "url": "https://www.last.fm/music/fakemink/_/Mr.+Chow+.",
+    "duration": "145000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "67734",
+    "playcount": "399164",
+    "artist": {
+      "name": "fakemink",
+      "mbid": "968847c6-2150-419d-b14b-68c672dcde99",
+      "url": "https://www.last.fm/music/fakemink"
+    },
+    "album": {
+      "artist": "fakemink",
+      "title": "The Boy Who Cried Terrified .",
+      "url": "https://www.last.fm/music/fakemink/The+Boy+Who+Cried+Terrified+.",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/42f887e9e7724350e728abd5e149c9a2.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/42f887e9e7724350e728abd5e149c9a2.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/42f887e9e7724350e728abd5e149c9a2.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/42f887e9e7724350e728abd5e149c9a2.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

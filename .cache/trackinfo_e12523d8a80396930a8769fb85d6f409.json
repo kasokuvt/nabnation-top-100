@@ -1,0 +1,50 @@
+{
+  "track": {
+    "name": "E85",
+    "mbid": "5c66f91b-1b0d-4bd7-b1e1-8d2477f99b92",
+    "url": "https://www.last.fm/music/Don+Toliver/_/E85",
+    "duration": "0",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "436796",
+    "playcount": "3922826",
+    "artist": {
+      "name": "Don Toliver",
+      "mbid": "a0723a3c-4135-438e-85c5-012712144ede",
+      "url": "https://www.last.fm/music/Don+Toliver"
+    },
+    "album": {
+      "artist": "Don Toliver",
+      "title": "Octane [Clean]",
+      "url": "https://www.last.fm/music/Don+Toliver/Octane+%5BClean%5D",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/01a59fefacbce707f2237cff7764c13a.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/01a59fefacbce707f2237cff7764c13a.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/01a59fefacbce707f2237cff7764c13a.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/01a59fefacbce707f2237cff7764c13a.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    },
+    "wiki": {
+      "published": "07 Feb 2026, 08:29",
+      "summary": "“E85” is the opening track of Don Toliver’s fifth studio album, OCTANE.\n\nIt was first previewed through the OCTANE trailer on January 22, 2026. \n\nDon would then go on The Tonight Show Starring Jimmy Fallon on January 26, 2026, performing a part of the song, along with Long Way to Calabasas.\n\nE85 samples Chest Pain (I Love) by Malcolm Todd. <a href=\"http://www.last.fm/music/Don+Toliver/_/E85\">Read more on Last.fm</a>.",
+      "content": "“E85” is the opening track of Don Toliver’s fifth studio album, OCTANE.\n\nIt was first previewed through the OCTANE trailer on January 22, 2026. \n\nDon would then go on The Tonight Show Starring Jimmy Fallon on January 26, 2026, performing a part of the song, along with Long Way to Calabasas.\n\nE85 samples Chest Pain (I Love) by Malcolm Todd. <a href=\"http://www.last.fm/music/Don+Toliver/_/E85\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

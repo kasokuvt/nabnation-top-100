@@ -1,0 +1,44 @@
+{
+  "track": {
+    "name": "Brain Fog",
+    "mbid": "6a0e73bd-0f15-4cf1-94c5-03f433e1d334",
+    "url": "https://www.last.fm/music/Slayr/_/Brain+Fog",
+    "duration": "145000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "65926",
+    "playcount": "530738",
+    "artist": {
+      "name": "Slayr",
+      "url": "https://www.last.fm/music/Slayr"
+    },
+    "album": {
+      "artist": "Slayr",
+      "title": "Half Blood (Bloodluxe)",
+      "url": "https://www.last.fm/music/Slayr/Half+Blood+(Bloodluxe)",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/3843dd0874586904ef643332806e585d.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/3843dd0874586904ef643332806e585d.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/3843dd0874586904ef643332806e585d.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/3843dd0874586904ef643332806e585d.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

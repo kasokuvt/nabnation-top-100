@@ -1,0 +1,65 @@
+{
+  "track": {
+    "name": "BULLY (feat. CeeLo Green)",
+    "mbid": "837b8d33-6a03-49a8-883d-3bc210a0bcf2",
+    "url": "https://www.last.fm/music/Kanye+West/_/BULLY+(feat.+CeeLo+Green)",
+    "duration": "147000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "211686",
+    "playcount": "970197",
+    "artist": {
+      "name": "Kanye West",
+      "url": "https://www.last.fm/music/Kanye+West"
+    },
+    "album": {
+      "artist": "KanYeWest",
+      "title": "Bully",
+      "url": "https://www.last.fm/music/KanYeWest/Bully",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/4c83937d9cecddbf15c90e4894c0ed9e.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/4c83937d9cecddbf15c90e4894c0ed9e.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/4c83937d9cecddbf15c90e4894c0ed9e.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/4c83937d9cecddbf15c90e4894c0ed9e.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "goat",
+          "url": "https://www.last.fm/tag/goat"
+        },
+        {
+          "name": "electronic",
+          "url": "https://www.last.fm/tag/electronic"
+        },
+        {
+          "name": "The Simpsons",
+          "url": "https://www.last.fm/tag/The+Simpsons"
+        },
+        {
+          "name": "electronic edgy",
+          "url": "https://www.last.fm/tag/electronic+edgy"
+        },
+        {
+          "name": "ceelo green",
+          "url": "https://www.last.fm/tag/ceelo+green"
+        }
+      ]
+    }
+  }
+}

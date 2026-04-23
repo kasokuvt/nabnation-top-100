@@ -1,0 +1,45 @@
+{
+  "track": {
+    "name": "BUSTAMOVE",
+    "mbid": "72e08bbc-34b8-4e99-944a-f0eb8966bab8",
+    "url": "https://www.last.fm/music/Joey+Valence+&+Brae/_/BUSTAMOVE",
+    "duration": "0",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "17140",
+    "playcount": "64793",
+    "artist": {
+      "name": "Joey Valence & Brae",
+      "mbid": "93a4d03b-4f0e-42da-ae0b-a62876e46071",
+      "url": "https://www.last.fm/music/Joey+Valence+&+Brae"
+    },
+    "album": {
+      "artist": "Joey Valence & Brae",
+      "title": "HYPERYOUTH (afterparty)",
+      "url": "https://www.last.fm/music/Joey+Valence+&+Brae/HYPERYOUTH+(afterparty)",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/292895e77c22c8e53170ce849cb5c6a7.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/292895e77c22c8e53170ce849cb5c6a7.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/292895e77c22c8e53170ce849cb5c6a7.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/292895e77c22c8e53170ce849cb5c6a7.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

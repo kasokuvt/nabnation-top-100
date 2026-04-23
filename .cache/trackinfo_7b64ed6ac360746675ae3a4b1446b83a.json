@@ -1,0 +1,45 @@
+{
+  "track": {
+    "name": "Eatin' Rats",
+    "mbid": "b434b328-c67e-43a5-acb7-36a4c5edb42f",
+    "url": "https://www.last.fm/music/Ridiculon/_/Eatin%27+Rats",
+    "duration": "212000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "12859",
+    "playcount": "81221",
+    "artist": {
+      "name": "Ridiculon",
+      "mbid": "f07c6afe-ee84-4cd5-9b11-5c541d1dff3b",
+      "url": "https://www.last.fm/music/Ridiculon"
+    },
+    "album": {
+      "artist": "Ridiculon",
+      "title": "Eatin' Rats",
+      "url": "https://www.last.fm/music/Ridiculon/Eatin%27+Rats",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/51adb992162f11cafd5bfc8ef0254f2d.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/51adb992162f11cafd5bfc8ef0254f2d.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/51adb992162f11cafd5bfc8ef0254f2d.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/51adb992162f11cafd5bfc8ef0254f2d.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

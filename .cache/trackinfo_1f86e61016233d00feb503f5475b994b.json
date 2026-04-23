@@ -1,0 +1,22 @@
+{
+  "track": {
+    "name": "HEAD UP",
+    "mbid": "33e33d17-99d3-48f7-bcf7-b6a6653886a6",
+    "url": "https://www.last.fm/music/femtanyl/_/HEAD+UP",
+    "duration": "205000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "37903",
+    "playcount": "269989",
+    "artist": {
+      "name": "femtanyl",
+      "mbid": "eb3c021d-e056-42d6-8fad-064205a90527",
+      "url": "https://www.last.fm/music/femtanyl"
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

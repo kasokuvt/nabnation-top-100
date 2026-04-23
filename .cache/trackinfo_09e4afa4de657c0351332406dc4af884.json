@@ -1,0 +1,45 @@
+{
+  "track": {
+    "name": "FW19",
+    "mbid": "d1042737-2c45-4413-b5c7-a9c0fbdcbecf",
+    "url": "https://www.last.fm/music/Kuru/_/FW19",
+    "duration": "131000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "21034",
+    "playcount": "124516",
+    "artist": {
+      "name": "Kuru",
+      "mbid": "487ed6f0-2e6a-40f9-962a-e33af4632f61",
+      "url": "https://www.last.fm/music/Kuru"
+    },
+    "album": {
+      "artist": "Kuru",
+      "title": "FW19",
+      "url": "https://www.last.fm/music/Kuru/FW19",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/e47908dea9d86d8cebde5e0123d1786b.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/e47908dea9d86d8cebde5e0123d1786b.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/e47908dea9d86d8cebde5e0123d1786b.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/e47908dea9d86d8cebde5e0123d1786b.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

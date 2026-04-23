@@ -1,0 +1,45 @@
+{
+  "track": {
+    "name": "I (Heart) Not",
+    "mbid": "1abfa26e-a4df-4481-9347-0796440dffb0",
+    "url": "https://www.last.fm/music/KMFDM/_/I+(Heart)+Not",
+    "duration": "272000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "3152",
+    "playcount": "14700",
+    "artist": {
+      "name": "KMFDM",
+      "mbid": "45074d7c-5307-44a8-854f-ae072e1622ae",
+      "url": "https://www.last.fm/music/KMFDM"
+    },
+    "album": {
+      "artist": "KMFDM",
+      "title": "Amnesia",
+      "url": "https://www.last.fm/music/KMFDM/Amnesia",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/14744864f12f43c3b290a347faf9448e.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/14744864f12f43c3b290a347faf9448e.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/14744864f12f43c3b290a347faf9448e.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/14744864f12f43c3b290a347faf9448e.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "track": {
+    "name": "$ex Appeal (feat. Too $hort)",
+    "mbid": "0809e29a-40c3-4a1d-93a6-3de783cf07c3",
+    "url": "https://www.last.fm/music/Baby+Keem/_/$ex+Appeal+(feat.+Too+$hort)",
+    "duration": "184000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "157170",
+    "playcount": "1021219",
+    "artist": {
+      "name": "Baby Keem",
+      "mbid": "81d12ca7-5b89-4d21-8736-860b7400b4eb",
+      "url": "https://www.last.fm/music/Baby+Keem"
+    },
+    "album": {
+      "artist": "Baby Keem",
+      "title": "CA$INO (Explicit)",
+      "url": "https://www.last.fm/music/Baby+Keem/CA$INO+(Explicit)",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/355bd805b2ce1f25408fa8ccf0eca9a9.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/355bd805b2ce1f25408fa8ccf0eca9a9.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/355bd805b2ce1f25408fa8ccf0eca9a9.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/355bd805b2ce1f25408fa8ccf0eca9a9.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

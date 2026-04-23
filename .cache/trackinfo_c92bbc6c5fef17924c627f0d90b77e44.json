@@ -1,0 +1,66 @@
+{
+  "track": {
+    "name": "Comfortable Liar",
+    "mbid": "00d537cb-ae89-4f17-8277-3e8e2469c822",
+    "url": "https://www.last.fm/music/Chevelle/_/Comfortable+Liar",
+    "duration": "223000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "518704",
+    "playcount": "4018018",
+    "artist": {
+      "name": "Chevelle",
+      "mbid": "8456e9f7-debf-4579-a86c-33a325a35d2d",
+      "url": "https://www.last.fm/music/Chevelle"
+    },
+    "album": {
+      "artist": "Chevelle",
+      "title": "Wonder What's Next",
+      "url": "https://www.last.fm/music/Chevelle/Wonder+What%27s+Next",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/7e1236413df85484308673ca1ac139d5.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/7e1236413df85484308673ca1ac139d5.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/7e1236413df85484308673ca1ac139d5.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/7e1236413df85484308673ca1ac139d5.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "alternative rock",
+          "url": "https://www.last.fm/tag/alternative+rock"
+        },
+        {
+          "name": "hard rock",
+          "url": "https://www.last.fm/tag/hard+rock"
+        },
+        {
+          "name": "rock",
+          "url": "https://www.last.fm/tag/rock"
+        },
+        {
+          "name": "alternative metal",
+          "url": "https://www.last.fm/tag/alternative+metal"
+        },
+        {
+          "name": "alternative",
+          "url": "https://www.last.fm/tag/alternative"
+        }
+      ]
+    }
+  }
+}

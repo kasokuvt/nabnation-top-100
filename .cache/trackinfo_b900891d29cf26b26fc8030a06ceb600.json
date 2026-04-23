@@ -1,0 +1,50 @@
+{
+  "track": {
+    "name": "Cops and robbers",
+    "mbid": "4326889b-fdff-47ec-a66b-a55ca725d88a",
+    "url": "https://www.last.fm/music/underscores/_/Cops+and+robbers",
+    "duration": "265000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "126162",
+    "playcount": "1405281",
+    "artist": {
+      "name": "underscores",
+      "mbid": "ab1a3f85-e0ea-470a-af5c-175447ae774c",
+      "url": "https://www.last.fm/music/underscores"
+    },
+    "album": {
+      "artist": "underscores",
+      "title": "Cops and robbers",
+      "url": "https://www.last.fm/music/underscores/Cops+and+robbers",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/90a7a4a1e8dcfe49ff40224e966d28c6.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/90a7a4a1e8dcfe49ff40224e966d28c6.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/90a7a4a1e8dcfe49ff40224e966d28c6.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/90a7a4a1e8dcfe49ff40224e966d28c6.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    },
+    "wiki": {
+      "published": "26 Oct 2023, 03:10",
+      "summary": "A bank teller flees the town of Wallsocket after being exposed for embezzling money from his clientele for over a decade. <a href=\"http://www.last.fm/music/underscores/_/Cops+and+robbers\">Read more on Last.fm</a>.",
+      "content": "A bank teller flees the town of Wallsocket after being exposed for embezzling money from his clientele for over a decade. <a href=\"http://www.last.fm/music/underscores/_/Cops+and+robbers\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

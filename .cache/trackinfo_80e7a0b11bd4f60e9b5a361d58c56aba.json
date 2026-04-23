@@ -1,0 +1,45 @@
+{
+  "track": {
+    "name": "Aired out",
+    "mbid": "1e82d0ea-e31c-4ea5-8156-aad78b3cfe00",
+    "url": "https://www.last.fm/music/kmoe/_/Aired+out",
+    "duration": "188000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "51983",
+    "playcount": "428295",
+    "artist": {
+      "name": "kmoe",
+      "mbid": "88040dd1-4841-48e0-9aec-4e606ca52825",
+      "url": "https://www.last.fm/music/kmoe"
+    },
+    "album": {
+      "artist": "kmoe",
+      "title": "Aired out",
+      "url": "https://www.last.fm/music/kmoe/Aired+out",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/af4eceda1a90e0c6e7d230624bf95476.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/af4eceda1a90e0c6e7d230624bf95476.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/af4eceda1a90e0c6e7d230624bf95476.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/af4eceda1a90e0c6e7d230624bf95476.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

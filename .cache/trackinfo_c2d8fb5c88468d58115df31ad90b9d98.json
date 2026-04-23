@@ -1,0 +1,22 @@
+{
+  "track": {
+    "name": "SICK OF IT",
+    "mbid": "b9753be4-08e1-473d-a2a7-809ae9f36f6a",
+    "url": "https://www.last.fm/music/femtanyl/_/SICK+OF+IT",
+    "duration": "190000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "29436",
+    "playcount": "182680",
+    "artist": {
+      "name": "femtanyl",
+      "mbid": "eb3c021d-e056-42d6-8fad-064205a90527",
+      "url": "https://www.last.fm/music/femtanyl"
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

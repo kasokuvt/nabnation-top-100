@@ -1,0 +1,66 @@
+{
+  "track": {
+    "name": "Andrew In Drag",
+    "mbid": "2ab2cf20-9837-491f-b80d-5c2ca22d2d1c",
+    "url": "https://www.last.fm/music/The+Magnetic+Fields/_/Andrew+In+Drag",
+    "duration": "129000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "294492",
+    "playcount": "3768326",
+    "artist": {
+      "name": "The Magnetic Fields",
+      "mbid": "3ff72a59-f39d-411d-9f93-2d4a86413013",
+      "url": "https://www.last.fm/music/The+Magnetic+Fields"
+    },
+    "album": {
+      "artist": "The Magnetic Fields",
+      "title": "Love at the Bottom of the Sea",
+      "url": "https://www.last.fm/music/The+Magnetic+Fields/Love+at+the+Bottom+of+the+Sea",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/3346b5d07c084e7db86c4d862d28b815.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/3346b5d07c084e7db86c4d862d28b815.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/3346b5d07c084e7db86c4d862d28b815.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/3346b5d07c084e7db86c4d862d28b815.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "indie pop",
+          "url": "https://www.last.fm/tag/indie+pop"
+        },
+        {
+          "name": "synthpop",
+          "url": "https://www.last.fm/tag/synthpop"
+        },
+        {
+          "name": "pop",
+          "url": "https://www.last.fm/tag/pop"
+        },
+        {
+          "name": "indie",
+          "url": "https://www.last.fm/tag/indie"
+        },
+        {
+          "name": "indie rock",
+          "url": "https://www.last.fm/tag/indie+rock"
+        }
+      ]
+    }
+  }
+}

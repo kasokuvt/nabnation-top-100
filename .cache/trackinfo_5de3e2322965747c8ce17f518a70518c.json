@@ -1,0 +1,45 @@
+{
+  "track": {
+    "name": "Thousand yard stare",
+    "mbid": "c0e3c3d0-4b98-44a1-9c9e-b82183017d3a",
+    "url": "https://www.last.fm/music/kmoe/_/Thousand+yard+stare",
+    "duration": "198000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "70011",
+    "playcount": "664453",
+    "artist": {
+      "name": "kmoe",
+      "mbid": "88040dd1-4841-48e0-9aec-4e606ca52825",
+      "url": "https://www.last.fm/music/kmoe"
+    },
+    "album": {
+      "artist": "kmoe",
+      "title": "Thousand yard stare",
+      "url": "https://www.last.fm/music/kmoe/Thousand+yard+stare",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a011cd5dc0b30ca7cccc5e650c70796.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a011cd5dc0b30ca7cccc5e650c70796.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a011cd5dc0b30ca7cccc5e650c70796.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a011cd5dc0b30ca7cccc5e650c70796.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

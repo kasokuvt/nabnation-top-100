@@ -1,0 +1,20 @@
+{
+  "track": {
+    "name": "darling",
+    "url": "https://www.last.fm/music/egobreak/_/darling",
+    "duration": "0",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "13760",
+    "playcount": "52042",
+    "artist": {
+      "name": "egobreak",
+      "url": "https://www.last.fm/music/egobreak"
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

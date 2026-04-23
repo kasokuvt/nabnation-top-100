@@ -1,0 +1,66 @@
+{
+  "track": {
+    "name": "Go Away",
+    "mbid": "06f9d23b-664a-4e98-ace9-edc6c8a3fe48",
+    "url": "https://www.last.fm/music/Weezer/_/Go+Away",
+    "duration": "193000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "390144",
+    "playcount": "3807495",
+    "artist": {
+      "name": "Weezer",
+      "mbid": "6fe07aa5-fec0-4eca-a456-f29bff451b04",
+      "url": "https://www.last.fm/music/Weezer"
+    },
+    "album": {
+      "artist": "Weezer",
+      "title": "Everything Will Be Alright in the End",
+      "url": "https://www.last.fm/music/Weezer/Everything+Will+Be+Alright+in+the+End",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/f9a1b19e001fe2adb697f55df60aacdd.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/f9a1b19e001fe2adb697f55df60aacdd.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/f9a1b19e001fe2adb697f55df60aacdd.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/f9a1b19e001fe2adb697f55df60aacdd.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "alternative rock",
+          "url": "https://www.last.fm/tag/alternative+rock"
+        },
+        {
+          "name": "rock",
+          "url": "https://www.last.fm/tag/rock"
+        },
+        {
+          "name": "indie",
+          "url": "https://www.last.fm/tag/indie"
+        },
+        {
+          "name": "power pop",
+          "url": "https://www.last.fm/tag/power+pop"
+        },
+        {
+          "name": "pop",
+          "url": "https://www.last.fm/tag/pop"
+        }
+      ]
+    }
+  }
+}

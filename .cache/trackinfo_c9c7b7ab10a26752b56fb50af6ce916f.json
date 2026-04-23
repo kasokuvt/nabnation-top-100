@@ -1,0 +1,66 @@
+{
+  "track": {
+    "name": "CUT",
+    "mbid": "94a74e97-8e17-400c-8b7c-e3b1b15c11e8",
+    "url": "https://www.last.fm/music/Panchiko/_/CUT",
+    "duration": "293000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "391446",
+    "playcount": "3864584",
+    "artist": {
+      "name": "Panchiko",
+      "mbid": "8f64d6ea-3f6c-408c-b2e0-e5334b28dae9",
+      "url": "https://www.last.fm/music/Panchiko"
+    },
+    "album": {
+      "artist": "Panchiko",
+      "title": "R>E>M>I>X>E>D",
+      "url": "https://www.last.fm/music/Panchiko/R%3EE%3EM%3EI%3EX%3EE%3ED",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/301e56fc6873446e887d6c39ff58889b.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/301e56fc6873446e887d6c39ff58889b.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/301e56fc6873446e887d6c39ff58889b.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/301e56fc6873446e887d6c39ff58889b.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "indietronica",
+          "url": "https://www.last.fm/tag/indietronica"
+        },
+        {
+          "name": "shoegaze",
+          "url": "https://www.last.fm/tag/shoegaze"
+        },
+        {
+          "name": "indie rock",
+          "url": "https://www.last.fm/tag/indie+rock"
+        },
+        {
+          "name": "japanese",
+          "url": "https://www.last.fm/tag/japanese"
+        },
+        {
+          "name": "indie",
+          "url": "https://www.last.fm/tag/indie"
+        }
+      ]
+    }
+  }
+}

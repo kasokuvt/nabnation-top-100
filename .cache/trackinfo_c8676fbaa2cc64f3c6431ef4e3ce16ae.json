@@ -1,0 +1,66 @@
+{
+  "track": {
+    "name": "Join Me In Death",
+    "mbid": "00ebd754-5167-346e-bc79-3a0b7e1737f9",
+    "url": "https://www.last.fm/music/HIM/_/Join+Me+In+Death",
+    "duration": "217000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "441796",
+    "playcount": "5458789",
+    "artist": {
+      "name": "HIM",
+      "mbid": "4cc51547-88ae-49a2-bf7e-0ef65ee7a94c",
+      "url": "https://www.last.fm/music/HIM"
+    },
+    "album": {
+      "artist": "HIM",
+      "title": "And Love Said No: Greatest Hits 1997-2004",
+      "url": "https://www.last.fm/music/HIM/And+Love+Said+No:+Greatest+Hits+1997-2004",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/ffae641e1f9b4f8c84144b072890eab3.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/ffae641e1f9b4f8c84144b072890eab3.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/ffae641e1f9b4f8c84144b072890eab3.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/ffae641e1f9b4f8c84144b072890eab3.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "Love Metal",
+          "url": "https://www.last.fm/tag/Love+Metal"
+        },
+        {
+          "name": "Gothic Rock",
+          "url": "https://www.last.fm/tag/Gothic+Rock"
+        },
+        {
+          "name": "rock",
+          "url": "https://www.last.fm/tag/rock"
+        },
+        {
+          "name": "finnish",
+          "url": "https://www.last.fm/tag/finnish"
+        },
+        {
+          "name": "metal",
+          "url": "https://www.last.fm/tag/metal"
+        }
+      ]
+    }
+  }
+}

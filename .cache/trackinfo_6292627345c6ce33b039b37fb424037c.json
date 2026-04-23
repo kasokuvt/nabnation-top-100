@@ -1,0 +1,21 @@
+{
+  "track": {
+    "name": "Lonely",
+    "url": "https://www.last.fm/music/YT/_/Lonely",
+    "duration": "0",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "12630",
+    "playcount": "72621",
+    "artist": {
+      "name": "YT",
+      "mbid": "118d4e8e-7495-48f0-99fd-dca30feddfe4",
+      "url": "https://www.last.fm/music/YT"
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

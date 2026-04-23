@@ -1,0 +1,45 @@
+{
+  "track": {
+    "name": "Dead forever",
+    "mbid": "74577c80-97fb-4b76-bf8a-6bf89429d3f1",
+    "url": "https://www.last.fm/music/venturing/_/Dead+forever",
+    "duration": "243000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "59805",
+    "playcount": "684832",
+    "artist": {
+      "name": "venturing",
+      "mbid": "72f75074-0607-4a5b-bf9a-0b861e9c8681",
+      "url": "https://www.last.fm/music/venturing"
+    },
+    "album": {
+      "artist": "venturing",
+      "title": "Ghostholding",
+      "url": "https://www.last.fm/music/venturing/Ghostholding",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/9373642d1f9fc218700f8ff915974988.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/9373642d1f9fc218700f8ff915974988.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/9373642d1f9fc218700f8ff915974988.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/9373642d1f9fc218700f8ff915974988.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

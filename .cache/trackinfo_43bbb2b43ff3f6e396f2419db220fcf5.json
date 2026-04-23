@@ -1,0 +1,66 @@
+{
+  "track": {
+    "name": "Wish U Well",
+    "mbid": "37eb7f92-69a5-40e0-abbc-394821bcfafd",
+    "url": "https://www.last.fm/music/underscores/_/Wish+U+Well",
+    "duration": "261000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "80231",
+    "playcount": "429858",
+    "artist": {
+      "name": "underscores",
+      "mbid": "ab1a3f85-e0ea-470a-af5c-175447ae774c",
+      "url": "https://www.last.fm/music/underscores"
+    },
+    "album": {
+      "artist": "underscores",
+      "title": "U",
+      "url": "https://www.last.fm/music/underscores/U",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/82573426631c6de14959f4753eafe666.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/82573426631c6de14959f4753eafe666.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/82573426631c6de14959f4753eafe666.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/82573426631c6de14959f4753eafe666.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "electropop",
+          "url": "https://www.last.fm/tag/electropop"
+        },
+        {
+          "name": "guitar",
+          "url": "https://www.last.fm/tag/guitar"
+        },
+        {
+          "name": "Electroclash",
+          "url": "https://www.last.fm/tag/Electroclash"
+        },
+        {
+          "name": "bachata",
+          "url": "https://www.last.fm/tag/bachata"
+        },
+        {
+          "name": "EDM",
+          "url": "https://www.last.fm/tag/EDM"
+        }
+      ]
+    }
+  }
+}

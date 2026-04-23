@@ -1,0 +1,22 @@
+{
+  "track": {
+    "name": "SHOWS YOU THE WAY TO THE HIWAY",
+    "mbid": "43b3d890-3ed4-4325-86d9-1923ef6b7e55",
+    "url": "https://www.last.fm/music/femtanyl/_/SHOWS+YOU+THE+WAY+TO+THE+HIWAY",
+    "duration": "162000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "27309",
+    "playcount": "161297",
+    "artist": {
+      "name": "femtanyl",
+      "mbid": "eb3c021d-e056-42d6-8fad-064205a90527",
+      "url": "https://www.last.fm/music/femtanyl"
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

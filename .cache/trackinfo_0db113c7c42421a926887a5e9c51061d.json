@@ -1,0 +1,71 @@
+{
+  "track": {
+    "name": "Super Shy",
+    "mbid": "d4e6c885-3533-499c-abcb-169a5db174c7",
+    "url": "https://www.last.fm/music/NewJeans/_/Super+Shy",
+    "duration": "154000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "1194919",
+    "playcount": "29655724",
+    "artist": {
+      "name": "NewJeans",
+      "mbid": "49204a7a-ed85-407a-828f-6fd46f1d8126",
+      "url": "https://www.last.fm/music/NewJeans"
+    },
+    "album": {
+      "artist": "NewJeans",
+      "title": "Get Up",
+      "url": "https://www.last.fm/music/NewJeans/Get+Up",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/e42629aa6c2694a9b57241edea410a53.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/e42629aa6c2694a9b57241edea410a53.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/e42629aa6c2694a9b57241edea410a53.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/e42629aa6c2694a9b57241edea410a53.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "you don't even know my name do ya",
+          "url": "https://www.last.fm/tag/you+don%27t+even+know+my+name+do+ya"
+        },
+        {
+          "name": "k-pop",
+          "url": "https://www.last.fm/tag/k-pop"
+        },
+        {
+          "name": "Drum and bass",
+          "url": "https://www.last.fm/tag/Drum+and+bass"
+        },
+        {
+          "name": "Kpop",
+          "url": "https://www.last.fm/tag/Kpop"
+        },
+        {
+          "name": "jersey club",
+          "url": "https://www.last.fm/tag/jersey+club"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "07 Jul 2023, 23:31",
+      "summary": "\"Super Shy\" is the first lead single from NewJeans' second EP \"Get Up\". It was released on July 7, 2023. <a href=\"http://www.last.fm/music/NewJeans/_/Super+Shy\">Read more on Last.fm</a>.",
+      "content": "\"Super Shy\" is the first lead single from NewJeans' second EP \"Get Up\". It was released on July 7, 2023. <a href=\"http://www.last.fm/music/NewJeans/_/Super+Shy\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

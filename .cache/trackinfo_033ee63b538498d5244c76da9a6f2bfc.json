@@ -1,0 +1,66 @@
+{
+  "track": {
+    "name": "The Peace",
+    "mbid": "4267a0de-de03-444a-bc15-7f780f57e8c9",
+    "url": "https://www.last.fm/music/underscores/_/The+Peace",
+    "duration": "169000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "106607",
+    "playcount": "675078",
+    "artist": {
+      "name": "underscores",
+      "mbid": "ab1a3f85-e0ea-470a-af5c-175447ae774c",
+      "url": "https://www.last.fm/music/underscores"
+    },
+    "album": {
+      "artist": "underscores",
+      "title": "U",
+      "url": "https://www.last.fm/music/underscores/U",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/82573426631c6de14959f4753eafe666.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/82573426631c6de14959f4753eafe666.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/82573426631c6de14959f4753eafe666.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/82573426631c6de14959f4753eafe666.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "art pop",
+          "url": "https://www.last.fm/tag/art+pop"
+        },
+        {
+          "name": "alt-pop",
+          "url": "https://www.last.fm/tag/alt-pop"
+        },
+        {
+          "name": "a capella",
+          "url": "https://www.last.fm/tag/a+capella"
+        },
+        {
+          "name": "glitch pop",
+          "url": "https://www.last.fm/tag/glitch+pop"
+        },
+        {
+          "name": "future bass",
+          "url": "https://www.last.fm/tag/future+bass"
+        }
+      ]
+    }
+  }
+}

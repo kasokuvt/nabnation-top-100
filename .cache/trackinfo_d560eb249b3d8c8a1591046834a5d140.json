@@ -1,0 +1,71 @@
+{
+  "track": {
+    "name": "Pretty Peach",
+    "mbid": "92747ef5-39cd-4e25-8b48-1c3ada4d9e9f",
+    "url": "https://www.last.fm/music/Lucy+Bedroque/_/Pretty+Peach",
+    "duration": "181000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "67099",
+    "playcount": "748430",
+    "artist": {
+      "name": "Lucy Bedroque",
+      "mbid": "bb7959ac-84cc-45c4-8138-d80ee5f2bd9a",
+      "url": "https://www.last.fm/music/Lucy+Bedroque"
+    },
+    "album": {
+      "artist": "Lucy Bedroque",
+      "title": "Fête de la Vanille - EP",
+      "url": "https://www.last.fm/music/Lucy+Bedroque/F%C3%AAte+de+la+Vanille+-+EP",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/96decca17a3fc4409b13fb97ba752c43.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/96decca17a3fc4409b13fb97ba752c43.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/96decca17a3fc4409b13fb97ba752c43.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/96decca17a3fc4409b13fb97ba752c43.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "indietronica",
+          "url": "https://www.last.fm/tag/indietronica"
+        },
+        {
+          "name": "shibuya-kei",
+          "url": "https://www.last.fm/tag/shibuya-kei"
+        },
+        {
+          "name": "art pop",
+          "url": "https://www.last.fm/tag/art+pop"
+        },
+        {
+          "name": "field recordings",
+          "url": "https://www.last.fm/tag/field+recordings"
+        },
+        {
+          "name": "rage",
+          "url": "https://www.last.fm/tag/rage"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "03 Apr 2026, 16:51",
+      "summary": "“Pretty Peach” was produced by Lucy Bedroque. Lucy Bedroque released “Pretty Peach” on October 4, 2024. <a href=\"http://www.last.fm/music/Lucy+Bedroque/_/Pretty+Peach\">Read more on Last.fm</a>.",
+      "content": "“Pretty Peach” was produced by Lucy Bedroque. Lucy Bedroque released “Pretty Peach” on October 4, 2024. <a href=\"http://www.last.fm/music/Lucy+Bedroque/_/Pretty+Peach\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

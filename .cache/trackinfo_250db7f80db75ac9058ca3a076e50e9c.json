@@ -1,0 +1,45 @@
+{
+  "track": {
+    "name": "Magic Misery",
+    "mbid": "72a159ef-07c1-4db0-ad00-7d902318106d",
+    "url": "https://www.last.fm/music/Bladee/_/Magic+Misery",
+    "duration": "196000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "48734",
+    "playcount": "263712",
+    "artist": {
+      "name": "Bladee",
+      "mbid": "cd689e77-dfdd-4f81-b50c-5e5a3f5e38a4",
+      "url": "https://www.last.fm/music/Bladee"
+    },
+    "album": {
+      "artist": "Bladee",
+      "title": "Magic Misery",
+      "url": "https://www.last.fm/music/Bladee/Magic+Misery",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/c16d35b7a5d178f7f1d47cbec310e948.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/c16d35b7a5d178f7f1d47cbec310e948.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/c16d35b7a5d178f7f1d47cbec310e948.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/c16d35b7a5d178f7f1d47cbec310e948.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

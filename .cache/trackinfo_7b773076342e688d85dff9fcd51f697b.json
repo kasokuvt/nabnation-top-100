@@ -1,0 +1,50 @@
+{
+  "track": {
+    "name": "Army",
+    "mbid": "0344a069-0ed0-31ec-aea0-3149fd3e46f5",
+    "url": "https://www.last.fm/music/Ben+Folds+Five/_/Army",
+    "duration": "203000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "171151",
+    "playcount": "1043374",
+    "artist": {
+      "name": "Ben Folds Five",
+      "mbid": "abe2669a-a612-4bf6-9193-bb4f4b8a9088",
+      "url": "https://www.last.fm/music/Ben+Folds+Five"
+    },
+    "album": {
+      "artist": "Ben Folds Five",
+      "title": "The Unauthorized Biography of Reinhold Messner",
+      "url": "https://www.last.fm/music/Ben+Folds+Five/The+Unauthorized+Biography+of+Reinhold+Messner",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/5aae999b13cb8671c885833611808464.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/5aae999b13cb8671c885833611808464.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/5aae999b13cb8671c885833611808464.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/5aae999b13cb8671c885833611808464.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    },
+    "wiki": {
+      "published": "10 Dec 2009, 16:25",
+      "summary": "\"Well you know it's funny because I'm not a pot smoker at all and I was really nervous about it, decided I would smoke some pot in my bedroom in high school. So I'm in there getting high and I thought, 'Y'know what? I think I need to join the army so I can pay for school' and I went out to tell my father, and he's sitting there watching TV and I said, 'Hey poppa d'ya think I should, I think... I think I'm gonna join the army' and he just looked up at me and said, 'You're fucking high' and looked back at the TV set. <a href=\"http://www.last.fm/music/Ben+Folds+Five/_/Army\">Read more on Last.fm</a>.",
+      "content": "\"Well you know it's funny because I'm not a pot smoker at all and I was really nervous about it, decided I would smoke some pot in my bedroom in high school. So I'm in there getting high and I thought, 'Y'know what? I think I need to join the army so I can pay for school' and I went out to tell my father, and he's sitting there watching TV and I said, 'Hey poppa d'ya think I should, I think... I think I'm gonna join the army' and he just looked up at me and said, 'You're fucking high' and looked back at the TV set. And I went back to my room going, 'Can he tell? Or is that just an expression? Maybe he can tell. It's just an expression... can he tell?'\"\n- Ben Folds\n <a href=\"http://www.last.fm/music/Ben+Folds+Five/_/Army\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

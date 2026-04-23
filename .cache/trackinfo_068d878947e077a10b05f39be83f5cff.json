@@ -1,0 +1,70 @@
+{
+  "track": {
+    "name": "DAMN",
+    "mbid": "19319eec-cec0-4af1-8d8e-75e650bef072",
+    "url": "https://www.last.fm/music/Kanye+West/_/DAMN",
+    "duration": "122000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "167216",
+    "playcount": "647757",
+    "artist": {
+      "name": "Kanye West",
+      "url": "https://www.last.fm/music/Kanye+West"
+    },
+    "album": {
+      "artist": "Kanye West",
+      "title": "BULLY",
+      "url": "https://www.last.fm/music/Kanye+West/BULLY",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2e9a66809bcaea26977c3e486560ef67.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2e9a66809bcaea26977c3e486560ef67.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2e9a66809bcaea26977c3e486560ef67.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2e9a66809bcaea26977c3e486560ef67.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "art pop",
+          "url": "https://www.last.fm/tag/art+pop"
+        },
+        {
+          "name": "ambient pop",
+          "url": "https://www.last.fm/tag/ambient+pop"
+        },
+        {
+          "name": "pop rap",
+          "url": "https://www.last.fm/tag/pop+rap"
+        },
+        {
+          "name": "Neo-Soul",
+          "url": "https://www.last.fm/tag/Neo-Soul"
+        },
+        {
+          "name": "chillsynth",
+          "url": "https://www.last.fm/tag/chillsynth"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "24 Jun 2025, 14:40",
+      "summary": "“DAMN” was released as a single on June 20, 2025. Prior to that it was seen as one of five new tracks from the BULLY album that was uploaded to digital streaming services, as indicated by the International Standard Recording Code. <a href=\"http://www.last.fm/music/Kanye+West/_/DAMN\">Read more on Last.fm</a>.",
+      "content": "“DAMN” was released as a single on June 20, 2025. Prior to that it was seen as one of five new tracks from the BULLY album that was uploaded to digital streaming services, as indicated by the International Standard Recording Code. <a href=\"http://www.last.fm/music/Kanye+West/_/DAMN\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

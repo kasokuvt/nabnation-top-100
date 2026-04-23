@@ -1,0 +1,50 @@
+{
+  "track": {
+    "name": "Tarmac",
+    "mbid": "19fd77b0-f9d2-421f-86cf-95f8dbd3a7b2",
+    "url": "https://www.last.fm/music/Joji/_/Tarmac",
+    "duration": "95000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "136670",
+    "playcount": "659465",
+    "artist": {
+      "name": "Joji",
+      "mbid": "74922d42-c3ec-4f7d-8a24-20da6eda6ba6",
+      "url": "https://www.last.fm/music/Joji"
+    },
+    "album": {
+      "artist": "Joji",
+      "title": "Piss In The Wind [Explicit]",
+      "url": "https://www.last.fm/music/Joji/Piss+In+The+Wind+%5BExplicit%5D",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/11e2f55d56b2ec88c05a0c2edc8f1cee.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/11e2f55d56b2ec88c05a0c2edc8f1cee.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/11e2f55d56b2ec88c05a0c2edc8f1cee.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/11e2f55d56b2ec88c05a0c2edc8f1cee.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    },
+    "wiki": {
+      "published": "08 Feb 2026, 22:55",
+      "summary": "In “Tarmac,” Joji explores the numb stillness of being emotionally stuck—pushing feelings aside while waiting for the pain to fade. Floating between memory and detachment, the song captures the quiet longing to find a way back to something that once felt real. <a href=\"http://www.last.fm/music/Joji/_/Tarmac\">Read more on Last.fm</a>.",
+      "content": "In “Tarmac,” Joji explores the numb stillness of being emotionally stuck—pushing feelings aside while waiting for the pain to fade. Floating between memory and detachment, the song captures the quiet longing to find a way back to something that once felt real. <a href=\"http://www.last.fm/music/Joji/_/Tarmac\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

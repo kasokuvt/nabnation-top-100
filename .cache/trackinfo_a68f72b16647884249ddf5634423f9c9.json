@@ -1,0 +1,45 @@
+{
+  "track": {
+    "name": "Party At My Place",
+    "mbid": "85468ecb-2e5c-410e-8343-3ca0f4e19cfb",
+    "url": "https://www.last.fm/music/xaviersobased/_/Party+At+My+Place",
+    "duration": "0",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "68544",
+    "playcount": "600408",
+    "artist": {
+      "name": "xaviersobased",
+      "mbid": "155cfd40-dcde-471e-acc0-32179916165c",
+      "url": "https://www.last.fm/music/xaviersobased"
+    },
+    "album": {
+      "artist": "xaviersobased",
+      "title": "Xavier [clean]",
+      "url": "https://www.last.fm/music/xaviersobased/Xavier+%5Bclean%5D",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/6cb11fc18cefba59d69cc669fc695a75.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/6cb11fc18cefba59d69cc669fc695a75.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/6cb11fc18cefba59d69cc669fc695a75.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/6cb11fc18cefba59d69cc669fc695a75.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

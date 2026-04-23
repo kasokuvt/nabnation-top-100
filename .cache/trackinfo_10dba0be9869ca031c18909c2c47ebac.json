@@ -1,0 +1,44 @@
+{
+  "track": {
+    "name": "Ego Renegade Boy",
+    "mbid": "40d5ea27-45b2-4f43-b957-e329bc47e818",
+    "url": "https://www.last.fm/music/Flavor+Foley/_/Ego+Renegade+Boy",
+    "duration": "198000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "23289",
+    "playcount": "524099",
+    "artist": {
+      "name": "Flavor Foley",
+      "url": "https://www.last.fm/music/Flavor+Foley"
+    },
+    "album": {
+      "artist": "Flavor Foley",
+      "title": "Ego Renegade Boy",
+      "url": "https://www.last.fm/music/Flavor+Foley/Ego+Renegade+Boy",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/4b954356d92aad6e27dd69d46062e25e.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/4b954356d92aad6e27dd69d46062e25e.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/4b954356d92aad6e27dd69d46062e25e.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/4b954356d92aad6e27dd69d46062e25e.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "track": {
+    "name": "HELLTARGET",
+    "mbid": "c0190857-83b8-4575-91b2-37e4903af842",
+    "url": "https://www.last.fm/music/femtanyl/_/HELLTARGET",
+    "duration": "221000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "24803",
+    "playcount": "125658",
+    "artist": {
+      "name": "femtanyl",
+      "mbid": "eb3c021d-e056-42d6-8fad-064205a90527",
+      "url": "https://www.last.fm/music/femtanyl"
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "track": {
+    "name": "CITY",
+    "mbid": "d7891ffa-fcf6-42ba-a3e5-9c06ffb471ec",
+    "url": "https://www.last.fm/music/femtanyl/_/CITY",
+    "duration": "172000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "24576",
+    "playcount": "120454",
+    "artist": {
+      "name": "femtanyl",
+      "mbid": "eb3c021d-e056-42d6-8fad-064205a90527",
+      "url": "https://www.last.fm/music/femtanyl"
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

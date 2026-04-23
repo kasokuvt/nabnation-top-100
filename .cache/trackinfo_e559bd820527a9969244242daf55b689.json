@@ -1,0 +1,45 @@
+{
+  "track": {
+    "name": "Love Is A State",
+    "mbid": "84dfc956-1fe4-4f67-a846-beea7c991f4b",
+    "url": "https://www.last.fm/music/Bladee/_/Love+Is+A+State",
+    "duration": "232000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "57803",
+    "playcount": "256617",
+    "artist": {
+      "name": "Bladee",
+      "mbid": "cd689e77-dfdd-4f81-b50c-5e5a3f5e38a4",
+      "url": "https://www.last.fm/music/Bladee"
+    },
+    "album": {
+      "artist": "Bladee",
+      "title": "Love Is A State / Eyelash",
+      "url": "https://www.last.fm/music/Bladee/Love+Is+A+State+%2F+Eyelash",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/71cb0e4b9241247adb5cc651e62b55a8.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/71cb0e4b9241247adb5cc651e62b55a8.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/71cb0e4b9241247adb5cc651e62b55a8.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/71cb0e4b9241247adb5cc651e62b55a8.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

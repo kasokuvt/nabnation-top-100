@@ -1,0 +1,70 @@
+{
+  "track": {
+    "name": "HIGHS AND LOWS",
+    "mbid": "394951fb-0f9f-47fa-a40a-63e8239d85a5",
+    "url": "https://www.last.fm/music/Kanye+West/_/HIGHS+AND+LOWS",
+    "duration": "111000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "228150",
+    "playcount": "1174808",
+    "artist": {
+      "name": "Kanye West",
+      "url": "https://www.last.fm/music/Kanye+West"
+    },
+    "album": {
+      "artist": "Kanye West",
+      "title": "BULLY V1",
+      "url": "https://www.last.fm/music/Kanye+West/BULLY+V1",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/e3f2f29e66a135acf6c414e95791844f.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/e3f2f29e66a135acf6c414e95791844f.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/e3f2f29e66a135acf6c414e95791844f.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/e3f2f29e66a135acf6c414e95791844f.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "art pop",
+          "url": "https://www.last.fm/tag/art+pop"
+        },
+        {
+          "name": "Neo-Psychedelia",
+          "url": "https://www.last.fm/tag/Neo-Psychedelia"
+        },
+        {
+          "name": "beat",
+          "url": "https://www.last.fm/tag/beat"
+        },
+        {
+          "name": "choral",
+          "url": "https://www.last.fm/tag/choral"
+        },
+        {
+          "name": "midwest hip hop",
+          "url": "https://www.last.fm/tag/midwest+hip+hop"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "16 Jan 2025, 07:02",
+      "summary": "Kanye West's track \"Highs and Lows\" was oficially released on March 28th, 2026, on his album BULLY.\n\nThe track was first previewed during a listening event in Switzerland, sparking significant interest from fans and listeners worldwide. This version featured a sample of Pomme’s 2019 track \"soleil soleil.\" However, Pomme has declined to clear the sample, forcing Kanye to update the song.\n\nThe title may reference Akira Kurosawa's High and Low. <a href=\"http://www.last.fm/music/Kanye+West/_/HIGHS+AND+LOWS\">Read more on Last.fm</a>.",
+      "content": "Kanye West's track \"Highs and Lows\" was oficially released on March 28th, 2026, on his album BULLY.\n\nThe track was first previewed during a listening event in Switzerland, sparking significant interest from fans and listeners worldwide. This version featured a sample of Pomme’s 2019 track \"soleil soleil.\" However, Pomme has declined to clear the sample, forcing Kanye to update the song.\n\nThe title may reference Akira Kurosawa's High and Low. <a href=\"http://www.last.fm/music/Kanye+West/_/HIGHS+AND+LOWS\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

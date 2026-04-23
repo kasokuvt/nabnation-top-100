@@ -1,0 +1,21 @@
+{
+  "track": {
+    "name": "world's end",
+    "url": "https://www.last.fm/music/Confetti/_/world%27s+end",
+    "duration": "0",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "8647",
+    "playcount": "38474",
+    "artist": {
+      "name": "Confetti",
+      "mbid": "866e50dc-b6b3-4c6b-91ae-3a872765dac9",
+      "url": "https://www.last.fm/music/Confetti"
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

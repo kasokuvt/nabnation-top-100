@@ -1,0 +1,45 @@
+{
+  "track": {
+    "name": "Harajuku",
+    "mbid": "933fe73d-8a80-4b87-b456-f1d55f5ce9cd",
+    "url": "https://www.last.fm/music/xaviersobased/_/Harajuku",
+    "duration": "0",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "48613",
+    "playcount": "252531",
+    "artist": {
+      "name": "xaviersobased",
+      "mbid": "155cfd40-dcde-471e-acc0-32179916165c",
+      "url": "https://www.last.fm/music/xaviersobased"
+    },
+    "album": {
+      "artist": "xaviersobased",
+      "title": "Xavier [clean]",
+      "url": "https://www.last.fm/music/xaviersobased/Xavier+%5Bclean%5D",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/6cb11fc18cefba59d69cc669fc695a75.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/6cb11fc18cefba59d69cc669fc695a75.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/6cb11fc18cefba59d69cc669fc695a75.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/6cb11fc18cefba59d69cc669fc695a75.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

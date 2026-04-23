@@ -1,0 +1,50 @@
+{
+  "track": {
+    "name": "The Mountain (feat. Dennis Hopper, Ajay Prasanna, Anoushka Shankar, Amaan Ali Bangash and Ayaan Ali Bangash)",
+    "mbid": "f4881949-4cba-41b3-884a-bebd4c56e8ac",
+    "url": "https://www.last.fm/music/Gorillaz/_/The+Mountain+(feat.+Dennis+Hopper,+Ajay+Prasanna,+Anoushka+Shankar,+Amaan+Ali+Bangash+and+Ayaan+Ali+Bangash)",
+    "duration": "0",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "148238",
+    "playcount": "449501",
+    "artist": {
+      "name": "Gorillaz",
+      "mbid": "e21857d5-3256-4547-afb3-4b6ded592596",
+      "url": "https://www.last.fm/music/Gorillaz"
+    },
+    "album": {
+      "artist": "Various Artists",
+      "title": "The Mountain (Spotify Tracklist)",
+      "url": "https://www.last.fm/music/Various+Artists/The+Mountain+(Spotify+Tracklist)",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/fc00eaffb7e55e1fceb1c129f8f1e8c8.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/fc00eaffb7e55e1fceb1c129f8f1e8c8.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/fc00eaffb7e55e1fceb1c129f8f1e8c8.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/fc00eaffb7e55e1fceb1c129f8f1e8c8.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "mantra",
+          "url": "https://www.last.fm/tag/mantra"
+        }
+      ]
+    }
+  }
+}

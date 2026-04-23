@@ -1,0 +1,43 @@
+{
+  "track": {
+    "name": "School Days",
+    "url": "https://www.last.fm/music/ATLUS+GAME+MUSIC/_/School+Days",
+    "duration": "139000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "3432",
+    "playcount": "18206",
+    "artist": {
+      "name": "ATLUS GAME MUSIC",
+      "url": "https://www.last.fm/music/ATLUS+GAME+MUSIC"
+    },
+    "album": {
+      "artist": "ATLUS GAME MUSIC, Yumi Kawamura & 目黒将司",
+      "title": "Persona (Original Soundtrack)",
+      "url": "https://www.last.fm/music/ATLUS+GAME+MUSIC,+Yumi+Kawamura+&+%E7%9B%AE%E9%BB%92%E5%B0%86%E5%8F%B8/Persona+(Original+Soundtrack)",
+      "image": [
+        {
+          "#text": "",
+          "size": "small"
+        },
+        {
+          "#text": "",
+          "size": "medium"
+        },
+        {
+          "#text": "",
+          "size": "large"
+        },
+        {
+          "#text": "",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

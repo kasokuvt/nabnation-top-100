@@ -1,0 +1,45 @@
+{
+  "track": {
+    "name": "Going Shopping",
+    "mbid": "ca036ec4-51b2-42d0-9ba7-2eea9de4eb0a",
+    "url": "https://www.last.fm/music/The+Strokes/_/Going+Shopping",
+    "duration": "261000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "122426",
+    "playcount": "375940",
+    "artist": {
+      "name": "The Strokes",
+      "mbid": "f181961b-20f7-459e-89de-920ef03c7ed0",
+      "url": "https://www.last.fm/music/The+Strokes"
+    },
+    "album": {
+      "artist": "The Strokes",
+      "title": "Reality Awaits",
+      "url": "https://www.last.fm/music/The+Strokes/Reality+Awaits",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/86e66c508b9644b0cf80e97439ae2ccd.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/86e66c508b9644b0cf80e97439ae2ccd.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/86e66c508b9644b0cf80e97439ae2ccd.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/86e66c508b9644b0cf80e97439ae2ccd.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

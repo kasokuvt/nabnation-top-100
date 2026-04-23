@@ -1,0 +1,50 @@
+{
+  "track": {
+    "name": "Girls and boys",
+    "mbid": "a924828e-b398-4ee6-9714-355b281a5cad",
+    "url": "https://www.last.fm/music/underscores/_/Girls+and+boys",
+    "duration": "198000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "40147",
+    "playcount": "523353",
+    "artist": {
+      "name": "underscores",
+      "mbid": "ab1a3f85-e0ea-470a-af5c-175447ae774c",
+      "url": "https://www.last.fm/music/underscores"
+    },
+    "album": {
+      "artist": "underscores",
+      "title": "boneyard aka fearmonger",
+      "url": "https://www.last.fm/music/underscores/boneyard+aka+fearmonger",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/3f0266af96efa67250bed3c87e6deb45.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/3f0266af96efa67250bed3c87e6deb45.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/3f0266af96efa67250bed3c87e6deb45.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/3f0266af96efa67250bed3c87e6deb45.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    },
+    "wiki": {
+      "published": "07 Jul 2022, 22:06",
+      "summary": "Full track name: \"Girls and boys—but secretly, you’d love to know what it’s like, wouldn’t you?\" <a href=\"http://www.last.fm/music/underscores/_/Girls+and+boys\">Read more on Last.fm</a>.",
+      "content": "Full track name: \"Girls and boys—but secretly, you’d love to know what it’s like, wouldn’t you?\" <a href=\"http://www.last.fm/music/underscores/_/Girls+and+boys\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "track": {
+    "name": "Joyfulthought",
+    "mbid": "69291b2c-2633-4697-a196-6e9fde2a7d5b",
+    "url": "https://www.last.fm/music/Mom/_/Joyfulthought",
+    "duration": "162000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "75518",
+    "playcount": "1111084",
+    "artist": {
+      "name": "Mom",
+      "mbid": "52569c7e-023d-4a64-a061-3978aacde1a5",
+      "url": "https://www.last.fm/music/Mom"
+    },
+    "album": {
+      "artist": "Mom",
+      "title": "Self-Titled - EP",
+      "url": "https://www.last.fm/music/Mom/Self-Titled+-+EP",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/8d9fbf814fc5d48127c3bffde52b608c.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/8d9fbf814fc5d48127c3bffde52b608c.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/8d9fbf814fc5d48127c3bffde52b608c.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/8d9fbf814fc5d48127c3bffde52b608c.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

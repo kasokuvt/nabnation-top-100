@@ -1,0 +1,45 @@
+{
+  "track": {
+    "name": "BURNOUT",
+    "mbid": "72162908-787f-4ce8-9df7-46e85c3b5cfa",
+    "url": "https://www.last.fm/music/Roma/_/BURNOUT",
+    "duration": "220000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "4850",
+    "playcount": "41177",
+    "artist": {
+      "name": "Roma",
+      "mbid": "e8efcb4e-a447-47e1-acdf-33f972cc938f",
+      "url": "https://www.last.fm/music/Roma"
+    },
+    "album": {
+      "artist": "ROMA ft. Kasane Teto",
+      "title": "BURNOUT",
+      "url": "https://www.last.fm/music/ROMA+ft.+Kasane+Teto/BURNOUT",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/12151a144e943c0dfadbc2632f202ea6.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/12151a144e943c0dfadbc2632f202ea6.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/12151a144e943c0dfadbc2632f202ea6.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/12151a144e943c0dfadbc2632f202ea6.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

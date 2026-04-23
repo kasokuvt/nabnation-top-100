@@ -1,0 +1,45 @@
+{
+  "track": {
+    "name": "Lecture 25",
+    "mbid": "0a14cbf1-467e-457f-8080-9d2a8ad64a13",
+    "url": "https://www.last.fm/music/My+New+Band+Believe/_/Lecture+25",
+    "duration": "186000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "23239",
+    "playcount": "146249",
+    "artist": {
+      "name": "My New Band Believe",
+      "mbid": "d296518f-e5e3-4ba9-a026-560916dcbc2f",
+      "url": "https://www.last.fm/music/My+New+Band+Believe"
+    },
+    "album": {
+      "artist": "My New Band Believe",
+      "title": "Lecture 25",
+      "url": "https://www.last.fm/music/My+New+Band+Believe/Lecture+25",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/36d6686af1350aa405088bf3d54470d6.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/36d6686af1350aa405088bf3d54470d6.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/36d6686af1350aa405088bf3d54470d6.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/36d6686af1350aa405088bf3d54470d6.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

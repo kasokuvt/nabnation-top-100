@@ -1,0 +1,71 @@
+{
+  "track": {
+    "name": "Pain",
+    "mbid": "86c677d9-ecfd-4fc7-9a99-23cf73a95930",
+    "url": "https://www.last.fm/music/PinkPantheress/_/Pain",
+    "duration": "98000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "1910857",
+    "playcount": "36022818",
+    "artist": {
+      "name": "PinkPantheress",
+      "mbid": "7441014f-f8f5-494f-81db-ff166fbc078d",
+      "url": "https://www.last.fm/music/PinkPantheress"
+    },
+    "album": {
+      "artist": "PinkPantheress",
+      "title": "Pain",
+      "url": "https://www.last.fm/music/PinkPantheress/Pain",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/8895879b7897bc65b6f016ab6a298ec7.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/8895879b7897bc65b6f016ab6a298ec7.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/8895879b7897bc65b6f016ab6a298ec7.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/8895879b7897bc65b6f016ab6a298ec7.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "bedroom pop",
+          "url": "https://www.last.fm/tag/bedroom+pop"
+        },
+        {
+          "name": "2-step",
+          "url": "https://www.last.fm/tag/2-step"
+        },
+        {
+          "name": "new jack swing",
+          "url": "https://www.last.fm/tag/new+jack+swing"
+        },
+        {
+          "name": "pop",
+          "url": "https://www.last.fm/tag/pop"
+        },
+        {
+          "name": "rnb",
+          "url": "https://www.last.fm/tag/rnb"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "23 Feb 2022, 02:05",
+      "summary": "\"Pain\" explores the hurt and disappointment of a failed relationship. The lyrics tell the story of a person who wakes up every morning expecting to see their former lover as they did in the past watching them go for their morning run. Despite their good intentions, the reminder of this person causes them pain. The song also reflects on their hopes that the failed relationship still has a chance to come back to life and the realization that they were never meant to be. <a href=\"http://www.last.fm/music/PinkPantheress/_/Pain\">Read more on Last.fm</a>.",
+      "content": "\"Pain\" explores the hurt and disappointment of a failed relationship. The lyrics tell the story of a person who wakes up every morning expecting to see their former lover as they did in the past watching them go for their morning run. Despite their good intentions, the reminder of this person causes them pain. The song also reflects on their hopes that the failed relationship still has a chance to come back to life and the realization that they were never meant to be. Ultimately, they come to terms with the fact that they have to let go and move on, learning a lesson from their past experiences. <a href=\"http://www.last.fm/music/PinkPantheress/_/Pain\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

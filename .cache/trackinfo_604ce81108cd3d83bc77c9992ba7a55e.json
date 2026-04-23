@@ -1,0 +1,45 @@
+{
+  "track": {
+    "name": "Limb of Leviticus",
+    "mbid": "3cb25947-758d-4b5d-8402-0d1bd1152e9c",
+    "url": "https://www.last.fm/music/Archspire/_/Limb+of+Leviticus",
+    "duration": "342000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "12690",
+    "playcount": "78855",
+    "artist": {
+      "name": "Archspire",
+      "mbid": "89c3e96a-9dfe-4264-8995-4e5f9b0fb358",
+      "url": "https://www.last.fm/music/Archspire"
+    },
+    "album": {
+      "artist": "Archspire",
+      "title": "Too Fast To Die",
+      "url": "https://www.last.fm/music/Archspire/Too+Fast+To+Die",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/584f3d35a12870ba8e56f7d8d5d2f381.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/584f3d35a12870ba8e56f7d8d5d2f381.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/584f3d35a12870ba8e56f7d8d5d2f381.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/584f3d35a12870ba8e56f7d8d5d2f381.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

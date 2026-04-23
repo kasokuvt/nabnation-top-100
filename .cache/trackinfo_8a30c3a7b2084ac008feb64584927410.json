@@ -1,0 +1,71 @@
+{
+  "track": {
+    "name": "I'M ACTUALLY KINDA FAMOUS",
+    "mbid": "5fff70a4-994c-41fe-8857-f319ff59a442",
+    "url": "https://www.last.fm/music/Slayyyter/_/I%27M+ACTUALLY+KINDA+FAMOUS",
+    "duration": "186000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "131232",
+    "playcount": "870193",
+    "artist": {
+      "name": "Slayyyter",
+      "mbid": "9058d01e-8afc-47a4-8664-621fb5f159c0",
+      "url": "https://www.last.fm/music/Slayyyter"
+    },
+    "album": {
+      "artist": "Slayyyter",
+      "title": "WOR$T GIRL IN AMERICA",
+      "url": "https://www.last.fm/music/Slayyyter/WOR$T+GIRL+IN+AMERICA",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/d60a52a2d3e8eec7d9df29dc18d16ec2.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/d60a52a2d3e8eec7d9df29dc18d16ec2.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/d60a52a2d3e8eec7d9df29dc18d16ec2.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/d60a52a2d3e8eec7d9df29dc18d16ec2.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "Electroclash",
+          "url": "https://www.last.fm/tag/Electroclash"
+        },
+        {
+          "name": "french electro",
+          "url": "https://www.last.fm/tag/french+electro"
+        },
+        {
+          "name": "midtempo bass",
+          "url": "https://www.last.fm/tag/midtempo+bass"
+        },
+        {
+          "name": "Hard Beat",
+          "url": "https://www.last.fm/tag/Hard+Beat"
+        },
+        {
+          "name": "ebm",
+          "url": "https://www.last.fm/tag/ebm"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "02 Apr 2026, 17:51",
+      "summary": "\"I'M ACTUALLY KINDA FAMOUS\" is a song by Slayyyter. It is the tenth track on her third full-length studio album \"WOR$T GIRL IN AMERICA\", releasing on March 27, 2026, on streaming services. <a href=\"http://www.last.fm/music/Slayyyter/_/I%27M+ACTUALLY+KINDA+FAMOUS\">Read more on Last.fm</a>.",
+      "content": "\"I'M ACTUALLY KINDA FAMOUS\" is a song by Slayyyter. It is the tenth track on her third full-length studio album \"WOR$T GIRL IN AMERICA\", releasing on March 27, 2026, on streaming services. <a href=\"http://www.last.fm/music/Slayyyter/_/I%27M+ACTUALLY+KINDA+FAMOUS\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

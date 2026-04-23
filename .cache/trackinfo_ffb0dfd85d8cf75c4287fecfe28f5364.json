@@ -1,0 +1,45 @@
+{
+  "track": {
+    "name": "Excavator",
+    "mbid": "01e31c34-d864-448d-89f5-fcb3d11932ce",
+    "url": "https://www.last.fm/music/Don+Toliver/_/Excavator",
+    "duration": "0",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "204629",
+    "playcount": "1385065",
+    "artist": {
+      "name": "Don Toliver",
+      "mbid": "a0723a3c-4135-438e-85c5-012712144ede",
+      "url": "https://www.last.fm/music/Don+Toliver"
+    },
+    "album": {
+      "artist": "Don Toliver",
+      "title": "Octane [Clean]",
+      "url": "https://www.last.fm/music/Don+Toliver/Octane+%5BClean%5D",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/01a59fefacbce707f2237cff7764c13a.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/01a59fefacbce707f2237cff7764c13a.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/01a59fefacbce707f2237cff7764c13a.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/01a59fefacbce707f2237cff7764c13a.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

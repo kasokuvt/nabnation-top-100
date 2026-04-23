@@ -1,0 +1,45 @@
+{
+  "track": {
+    "name": "Tuition",
+    "mbid": "c0613a66-8fca-4c11-9621-ca244d3470d1",
+    "url": "https://www.last.fm/music/Don+Toliver/_/Tuition",
+    "duration": "0",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "150091",
+    "playcount": "830865",
+    "artist": {
+      "name": "Don Toliver",
+      "mbid": "a0723a3c-4135-438e-85c5-012712144ede",
+      "url": "https://www.last.fm/music/Don+Toliver"
+    },
+    "album": {
+      "artist": "Don Toliver",
+      "title": "Octane [Clean]",
+      "url": "https://www.last.fm/music/Don+Toliver/Octane+%5BClean%5D",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/01a59fefacbce707f2237cff7764c13a.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/01a59fefacbce707f2237cff7764c13a.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/01a59fefacbce707f2237cff7764c13a.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/01a59fefacbce707f2237cff7764c13a.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

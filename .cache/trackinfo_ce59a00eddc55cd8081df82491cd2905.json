@@ -1,0 +1,65 @@
+{
+  "track": {
+    "name": "SISTERS AND BROTHERS",
+    "mbid": "01d7b91a-704a-45bb-a9e8-35d66b0903f4",
+    "url": "https://www.last.fm/music/Kanye+West/_/SISTERS+AND+BROTHERS",
+    "duration": "166000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "251666",
+    "playcount": "936534",
+    "artist": {
+      "name": "Kanye West",
+      "url": "https://www.last.fm/music/Kanye+West"
+    },
+    "album": {
+      "artist": "KanYeWest",
+      "title": "Bully",
+      "url": "https://www.last.fm/music/KanYeWest/Bully",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/4c83937d9cecddbf15c90e4894c0ed9e.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/4c83937d9cecddbf15c90e4894c0ed9e.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/4c83937d9cecddbf15c90e4894c0ed9e.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/4c83937d9cecddbf15c90e4894c0ed9e.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "electro-industrial",
+          "url": "https://www.last.fm/tag/electro-industrial"
+        },
+        {
+          "name": "spoken word",
+          "url": "https://www.last.fm/tag/spoken+word"
+        },
+        {
+          "name": "industrial hip hop",
+          "url": "https://www.last.fm/tag/industrial+hip+hop"
+        },
+        {
+          "name": "wonky",
+          "url": "https://www.last.fm/tag/wonky"
+        },
+        {
+          "name": "midwest hip hop",
+          "url": "https://www.last.fm/tag/midwest+hip+hop"
+        }
+      ]
+    }
+  }
+}

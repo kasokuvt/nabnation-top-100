@@ -1,0 +1,45 @@
+{
+  "track": {
+    "name": "Griddlë",
+    "mbid": "02880bd3-7d4c-4c39-8436-9965536f10fc",
+    "url": "https://www.last.fm/music/Yeat/_/Griddl%C3%AB",
+    "duration": "157000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "112925",
+    "playcount": "558599",
+    "artist": {
+      "name": "Yeat",
+      "mbid": "9e6a6a2f-f696-4cc0-87f1-e4f712e46802",
+      "url": "https://www.last.fm/music/Yeat"
+    },
+    "album": {
+      "artist": "Yeat",
+      "title": "ADL {CLEAN}",
+      "url": "https://www.last.fm/music/Yeat/ADL+%7BCLEAN%7D",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/59bd84e46b9df370eaf3381037930070.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/59bd84e46b9df370eaf3381037930070.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/59bd84e46b9df370eaf3381037930070.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/59bd84e46b9df370eaf3381037930070.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

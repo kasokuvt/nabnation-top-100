@@ -1,0 +1,43 @@
+{
+  "track": {
+    "name": "Coin Locker Baby",
+    "url": "https://www.last.fm/music/maretu/_/Coin+Locker+Baby",
+    "duration": "0",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "114466",
+    "playcount": "940040",
+    "artist": {
+      "name": "maretu",
+      "url": "https://www.last.fm/music/maretu"
+    },
+    "album": {
+      "artist": "maretu",
+      "title": "Coin Locker Baby",
+      "url": "https://www.last.fm/music/maretu/Coin+Locker+Baby",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/947dba8525851f9a697cd9678e58e26d.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/947dba8525851f9a697cd9678e58e26d.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/947dba8525851f9a697cd9678e58e26d.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/947dba8525851f9a697cd9678e58e26d.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

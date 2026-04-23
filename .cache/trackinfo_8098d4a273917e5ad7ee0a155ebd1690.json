@@ -1,0 +1,45 @@
+{
+  "track": {
+    "name": "It's You",
+    "mbid": "c1032df5-8b0f-4b8f-9392-22dbb85ec070",
+    "url": "https://www.last.fm/music/Ninajirachi/_/It%27s+You",
+    "duration": "169000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "99106",
+    "playcount": "674788",
+    "artist": {
+      "name": "Ninajirachi",
+      "mbid": "6897b46a-9236-4480-9ed7-300f6b85d62f",
+      "url": "https://www.last.fm/music/Ninajirachi"
+    },
+    "album": {
+      "artist": "Ninajirachi",
+      "title": "It's You",
+      "url": "https://www.last.fm/music/Ninajirachi/It%27s+You",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/775d0a00fd58ef204a78623df2f8b6c3.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/775d0a00fd58ef204a78623df2f8b6c3.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/775d0a00fd58ef204a78623df2f8b6c3.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/775d0a00fd58ef204a78623df2f8b6c3.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

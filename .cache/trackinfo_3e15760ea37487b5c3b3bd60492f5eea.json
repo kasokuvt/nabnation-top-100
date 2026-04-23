@@ -1,0 +1,71 @@
+{
+  "track": {
+    "name": "UNKNOWN LOVERZ",
+    "mbid": "b1e63610-866a-4963-8799-8b86d7a25dd0",
+    "url": "https://www.last.fm/music/Slayyyter/_/UNKNOWN+LOVERZ",
+    "duration": "198000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "136131",
+    "playcount": "915858",
+    "artist": {
+      "name": "Slayyyter",
+      "mbid": "9058d01e-8afc-47a4-8664-621fb5f159c0",
+      "url": "https://www.last.fm/music/Slayyyter"
+    },
+    "album": {
+      "artist": "Slayyyter",
+      "title": "WOR$T GIRL IN AMERICA",
+      "url": "https://www.last.fm/music/Slayyyter/WOR$T+GIRL+IN+AMERICA",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/d60a52a2d3e8eec7d9df29dc18d16ec2.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/d60a52a2d3e8eec7d9df29dc18d16ec2.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/d60a52a2d3e8eec7d9df29dc18d16ec2.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/d60a52a2d3e8eec7d9df29dc18d16ec2.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "indietronica",
+          "url": "https://www.last.fm/tag/indietronica"
+        },
+        {
+          "name": "electropop",
+          "url": "https://www.last.fm/tag/electropop"
+        },
+        {
+          "name": "dance-pop",
+          "url": "https://www.last.fm/tag/dance-pop"
+        },
+        {
+          "name": "new wave",
+          "url": "https://www.last.fm/tag/new+wave"
+        },
+        {
+          "name": "dance-punk revival",
+          "url": "https://www.last.fm/tag/dance-punk+revival"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "28 Mar 2026, 16:26",
+      "summary": "\"UNKNOWN LOVERZ\" is a song by American singer-songwriter, Slayyyter. it is her eighth track on her third full-length studio album \"WOR$T GIRL IN AMERICA\" releasing on March 27th, 2026 on streaming services. <a href=\"http://www.last.fm/music/Slayyyter/_/UNKNOWN+LOVERZ\">Read more on Last.fm</a>.",
+      "content": "\"UNKNOWN LOVERZ\" is a song by American singer-songwriter, Slayyyter. it is her eighth track on her third full-length studio album \"WOR$T GIRL IN AMERICA\" releasing on March 27th, 2026 on streaming services. <a href=\"http://www.last.fm/music/Slayyyter/_/UNKNOWN+LOVERZ\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "track": {
+    "name": "Strange Home",
+    "mbid": "2548b77b-d591-42fa-b15e-8f72c89da739",
+    "url": "https://www.last.fm/music/Joji/_/Strange+Home",
+    "duration": "170000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "101387",
+    "playcount": "462314",
+    "artist": {
+      "name": "Joji",
+      "mbid": "74922d42-c3ec-4f7d-8a24-20da6eda6ba6",
+      "url": "https://www.last.fm/music/Joji"
+    },
+    "album": {
+      "artist": "Joji",
+      "title": "Piss In The Wind [Explicit]",
+      "url": "https://www.last.fm/music/Joji/Piss+In+The+Wind+%5BExplicit%5D",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/11e2f55d56b2ec88c05a0c2edc8f1cee.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/11e2f55d56b2ec88c05a0c2edc8f1cee.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/11e2f55d56b2ec88c05a0c2edc8f1cee.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/11e2f55d56b2ec88c05a0c2edc8f1cee.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

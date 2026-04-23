@@ -1,0 +1,22 @@
+{
+  "track": {
+    "name": "VIDEO NASTY",
+    "mbid": "83e8ae73-9d52-44e2-8c47-9cbd2351d77c",
+    "url": "https://www.last.fm/music/femtanyl/_/VIDEO+NASTY",
+    "duration": "182000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "29416",
+    "playcount": "167276",
+    "artist": {
+      "name": "femtanyl",
+      "mbid": "eb3c021d-e056-42d6-8fad-064205a90527",
+      "url": "https://www.last.fm/music/femtanyl"
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

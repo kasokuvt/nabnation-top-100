@@ -1,0 +1,43 @@
+{
+  "track": {
+    "name": "World's A Fuck",
+    "mbid": "7b65e714-64bf-4f57-aca9-46f587d1aeed",
+    "url": "https://www.last.fm/music/Sematary/_/World%27s+A+Fuck",
+    "duration": "178000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "84290",
+    "playcount": "1516564",
+    "artist": {
+      "name": "Sematary",
+      "mbid": "c1d8cc1e-1e45-4b90-bfd7-f413c599c6ac",
+      "url": "https://www.last.fm/music/Sematary"
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "Horrorcore",
+          "url": "https://www.last.fm/tag/Horrorcore"
+        },
+        {
+          "name": "shoegaze",
+          "url": "https://www.last.fm/tag/shoegaze"
+        },
+        {
+          "name": "trap",
+          "url": "https://www.last.fm/tag/trap"
+        },
+        {
+          "name": "emo rap",
+          "url": "https://www.last.fm/tag/emo+rap"
+        },
+        {
+          "name": "witch house",
+          "url": "https://www.last.fm/tag/witch+house"
+        }
+      ]
+    }
+  }
+}

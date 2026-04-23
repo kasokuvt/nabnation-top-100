@@ -1,0 +1,66 @@
+{
+  "track": {
+    "name": "Military Fashion Show",
+    "mbid": "91b128a4-7d8f-3fb4-8edb-3125255551a8",
+    "url": "https://www.last.fm/music/And+One/_/Military+Fashion+Show",
+    "duration": "269000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "174383",
+    "playcount": "2430691",
+    "artist": {
+      "name": "And One",
+      "mbid": "f04cc80e-0f59-45b8-aaf4-ac81035644e9",
+      "url": "https://www.last.fm/music/And+One"
+    },
+    "album": {
+      "artist": "And One",
+      "title": "Bodypop",
+      "url": "https://www.last.fm/music/And+One/Bodypop",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/879d5ebb9eb45bb2be529d7d874135e9.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/879d5ebb9eb45bb2be529d7d874135e9.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/879d5ebb9eb45bb2be529d7d874135e9.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/879d5ebb9eb45bb2be529d7d874135e9.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "ebm",
+          "url": "https://www.last.fm/tag/ebm"
+        },
+        {
+          "name": "synthpop",
+          "url": "https://www.last.fm/tag/synthpop"
+        },
+        {
+          "name": "electronic",
+          "url": "https://www.last.fm/tag/electronic"
+        },
+        {
+          "name": "futurepop",
+          "url": "https://www.last.fm/tag/futurepop"
+        },
+        {
+          "name": "industrial",
+          "url": "https://www.last.fm/tag/industrial"
+        }
+      ]
+    }
+  }
+}

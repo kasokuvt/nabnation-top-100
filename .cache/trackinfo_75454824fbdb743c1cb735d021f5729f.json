@@ -1,0 +1,49 @@
+{
+  "track": {
+    "name": "halftime",
+    "mbid": "646419e2-caaa-43aa-ab42-02a15219e7d0",
+    "url": "https://www.last.fm/music/nettspend/_/halftime",
+    "duration": "128000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "54147",
+    "playcount": "369618",
+    "artist": {
+      "name": "nettspend",
+      "url": "https://www.last.fm/music/nettspend"
+    },
+    "album": {
+      "artist": "nettspend",
+      "title": "Early Life Crisis",
+      "url": "https://www.last.fm/music/nettspend/Early+Life+Crisis",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/c8aa095fb407e2869048fbd7d8152e92.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/c8aa095fb407e2869048fbd7d8152e92.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/c8aa095fb407e2869048fbd7d8152e92.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/c8aa095fb407e2869048fbd7d8152e92.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "nigga",
+          "url": "https://www.last.fm/tag/nigga"
+        }
+      ]
+    }
+  }
+}

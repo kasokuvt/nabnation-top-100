@@ -1,0 +1,71 @@
+{
+  "track": {
+    "name": "Locals (Girls like us) [with gabby start]",
+    "mbid": "63543987-a63b-44ff-91e5-9d8ae1addf2d",
+    "url": "https://www.last.fm/music/underscores/_/Locals+(Girls+like+us)+%5Bwith+gabby+start%5D",
+    "duration": "258000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "156861",
+    "playcount": "2123477",
+    "artist": {
+      "name": "underscores",
+      "mbid": "ab1a3f85-e0ea-470a-af5c-175447ae774c",
+      "url": "https://www.last.fm/music/underscores"
+    },
+    "album": {
+      "artist": "underscores",
+      "title": "Locals (Girls like us) [with gabby start]",
+      "url": "https://www.last.fm/music/underscores/Locals+(Girls+like+us)+%5Bwith+gabby+start%5D",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/a94dfffbec77b0b508338a85e59fc546.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/a94dfffbec77b0b508338a85e59fc546.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/a94dfffbec77b0b508338a85e59fc546.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/a94dfffbec77b0b508338a85e59fc546.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "indietronica",
+          "url": "https://www.last.fm/tag/indietronica"
+        },
+        {
+          "name": "electropop",
+          "url": "https://www.last.fm/tag/electropop"
+        },
+        {
+          "name": "dance-pop",
+          "url": "https://www.last.fm/tag/dance-pop"
+        },
+        {
+          "name": "new rave",
+          "url": "https://www.last.fm/tag/new+rave"
+        },
+        {
+          "name": "Electroclash",
+          "url": "https://www.last.fm/tag/Electroclash"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "20 Nov 2023, 16:11",
+      "summary": "While the rest of the town is reeling from the bank robbery, three local girls try and figure out how to grow up. <a href=\"http://www.last.fm/music/underscores/_/Locals+(Girls+like+us)+%5Bwith+gabby+start%5D\">Read more on Last.fm</a>.",
+      "content": "While the rest of the town is reeling from the bank robbery, three local girls try and figure out how to grow up. <a href=\"http://www.last.fm/music/underscores/_/Locals+(Girls+like+us)+%5Bwith+gabby+start%5D\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

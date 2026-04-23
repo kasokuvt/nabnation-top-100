@@ -1,0 +1,44 @@
+{
+  "track": {
+    "name": "idk idk",
+    "url": "https://www.last.fm/music/Jim+Legxacy/_/idk+idk",
+    "duration": "146000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "37966",
+    "playcount": "290862",
+    "artist": {
+      "name": "Jim Legxacy",
+      "mbid": "9ca998cf-c1cd-493b-9a5d-a32fd33859ea",
+      "url": "https://www.last.fm/music/Jim+Legxacy"
+    },
+    "album": {
+      "artist": "Jim Legxacy",
+      "title": "idk idk",
+      "url": "https://www.last.fm/music/Jim+Legxacy/idk+idk",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/305f2e767121b1ca8ae8a920647979fb.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/305f2e767121b1ca8ae8a920647979fb.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/305f2e767121b1ca8ae8a920647979fb.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/305f2e767121b1ca8ae8a920647979fb.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

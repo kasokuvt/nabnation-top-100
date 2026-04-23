@@ -1,0 +1,44 @@
+{
+  "track": {
+    "name": "Everyone I Know Has Magic Powers",
+    "mbid": "b4f91dce-ba81-4b65-a9df-baec62d31839",
+    "url": "https://www.last.fm/music/traptraptrap/_/Everyone+I+Know+Has+Magic+Powers",
+    "duration": "115000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "31611",
+    "playcount": "356037",
+    "artist": {
+      "name": "traptraptrap",
+      "url": "https://www.last.fm/music/traptraptrap"
+    },
+    "album": {
+      "artist": "traptraptrap",
+      "title": "You're Pretty and Everyone Likes You",
+      "url": "https://www.last.fm/music/traptraptrap/You%27re+Pretty+and+Everyone+Likes+You",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/3d91451faed44d68b53e250cb70a6ffa.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/3d91451faed44d68b53e250cb70a6ffa.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/3d91451faed44d68b53e250cb70a6ffa.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/3d91451faed44d68b53e250cb70a6ffa.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

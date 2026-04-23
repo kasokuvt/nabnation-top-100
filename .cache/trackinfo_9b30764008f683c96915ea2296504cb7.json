@@ -1,0 +1,44 @@
+{
+  "track": {
+    "name": "We Own You",
+    "url": "https://www.last.fm/music/Waitress/_/We+Own+You",
+    "duration": "174000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "18865",
+    "playcount": "197469",
+    "artist": {
+      "name": "Waitress",
+      "mbid": "6ab69e59-2406-4d3e-bd54-51b5f037b8b0",
+      "url": "https://www.last.fm/music/Waitress"
+    },
+    "album": {
+      "artist": "Waitress",
+      "title": "We Own You",
+      "url": "https://www.last.fm/music/Waitress/We+Own+You",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/9abe34889780ecbc6a81c85efbbe45dc.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/9abe34889780ecbc6a81c85efbbe45dc.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/9abe34889780ecbc6a81c85efbbe45dc.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/9abe34889780ecbc6a81c85efbbe45dc.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

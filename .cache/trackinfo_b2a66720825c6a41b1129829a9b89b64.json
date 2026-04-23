@@ -1,0 +1,71 @@
+{
+  "track": {
+    "name": "Tear You Apart",
+    "mbid": "06cde52f-842b-3808-b60f-409ceb7d87cf",
+    "url": "https://www.last.fm/music/She+Wants+Revenge/_/Tear+You+Apart",
+    "duration": "283000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "878194",
+    "playcount": "11246800",
+    "artist": {
+      "name": "She Wants Revenge",
+      "mbid": "f434ae2b-b203-490d-a8ac-aa9cd51c0e73",
+      "url": "https://www.last.fm/music/She+Wants+Revenge"
+    },
+    "album": {
+      "artist": "She Wants Revenge",
+      "title": "She Wants Revenge",
+      "url": "https://www.last.fm/music/She+Wants+Revenge/She+Wants+Revenge",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/07836c75f23644b5ad10d7cf6662072d.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/07836c75f23644b5ad10d7cf6662072d.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/07836c75f23644b5ad10d7cf6662072d.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/07836c75f23644b5ad10d7cf6662072d.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "darkwave",
+          "url": "https://www.last.fm/tag/darkwave"
+        },
+        {
+          "name": "indie",
+          "url": "https://www.last.fm/tag/indie"
+        },
+        {
+          "name": "alternative",
+          "url": "https://www.last.fm/tag/alternative"
+        },
+        {
+          "name": "post-punk",
+          "url": "https://www.last.fm/tag/post-punk"
+        },
+        {
+          "name": "new wave",
+          "url": "https://www.last.fm/tag/new+wave"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "29 Dec 2008, 03:44",
+      "summary": "\"Tear You Apart\" is the second single released by the California-based darkwave duo, She Wants Revenge. This track was later re-released in their self-titled album of 2006.\n\nA section of the track was used in the psycho-suspence film, The Number 23. Moreover, it appeared in one of the 'Fringe' episodes called 'Midnight', and the season premiere of American Horror Story: Hotel. <a href=\"http://www.last.fm/music/She+Wants+Revenge/_/Tear+You+Apart\">Read more on Last.fm</a>.",
+      "content": "\"Tear You Apart\" is the second single released by the California-based darkwave duo, She Wants Revenge. This track was later re-released in their self-titled album of 2006.\n\nA section of the track was used in the psycho-suspence film, The Number 23. Moreover, it appeared in one of the 'Fringe' episodes called 'Midnight', and the season premiere of American Horror Story: Hotel. <a href=\"http://www.last.fm/music/She+Wants+Revenge/_/Tear+You+Apart\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

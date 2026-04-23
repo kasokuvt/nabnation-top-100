@@ -1,0 +1,45 @@
+{
+  "track": {
+    "name": "Dual Wield (femtanyl Remix)",
+    "mbid": "2c579435-1522-42c5-96a9-009b9be3a814",
+    "url": "https://www.last.fm/music/Machine+Girl/_/Dual+Wield+(femtanyl+Remix)",
+    "duration": "232000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "7975",
+    "playcount": "18869",
+    "artist": {
+      "name": "Machine Girl",
+      "mbid": "c7df5ec5-380a-40f9-856f-28fb4a33d946",
+      "url": "https://www.last.fm/music/Machine+Girl"
+    },
+    "album": {
+      "artist": "Machine Girl",
+      "title": "Dual Wield (femtanyl Remix)",
+      "url": "https://www.last.fm/music/Machine+Girl/Dual+Wield+(femtanyl+Remix)",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/074e24c5ed16241419723d6a0a175932.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/074e24c5ed16241419723d6a0a175932.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/074e24c5ed16241419723d6a0a175932.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/074e24c5ed16241419723d6a0a175932.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

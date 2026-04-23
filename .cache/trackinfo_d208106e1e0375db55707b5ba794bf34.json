@@ -1,0 +1,45 @@
+{
+  "track": {
+    "name": "You're serious, aren't you ?",
+    "mbid": "970a2a78-3456-4f59-8f1f-4a4ab631750f",
+    "url": "https://www.last.fm/music/tsubi+club/_/You%27re+serious,+aren%27t+you+%3F",
+    "duration": "145000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "13959",
+    "playcount": "60684",
+    "artist": {
+      "name": "tsubi club",
+      "mbid": "ad9144b0-5d22-4d4f-a57b-e0ec7df1e865",
+      "url": "https://www.last.fm/music/tsubi+club"
+    },
+    "album": {
+      "artist": "tsubi club",
+      "title": "trinket",
+      "url": "https://www.last.fm/music/tsubi+club/trinket",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/4e7973bb339d02c603044659d7a56c4d.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/4e7973bb339d02c603044659d7a56c4d.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/4e7973bb339d02c603044659d7a56c4d.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/4e7973bb339d02c603044659d7a56c4d.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

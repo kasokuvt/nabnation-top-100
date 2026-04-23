@@ -1,0 +1,45 @@
+{
+  "track": {
+    "name": "NAIL (feat. Lolo Zouaï)",
+    "mbid": "7c1150d2-eb74-4022-ad10-3b65dae11bbf",
+    "url": "https://www.last.fm/music/Yves/_/NAIL+(feat.+Lolo+Zoua%C3%AF)",
+    "duration": "162000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "42076",
+    "playcount": "284697",
+    "artist": {
+      "name": "Yves",
+      "mbid": "8339c0c3-7a04-4b19-8ca3-b149e0d09222",
+      "url": "https://www.last.fm/music/Yves"
+    },
+    "album": {
+      "artist": "Yves",
+      "title": "NAIL",
+      "url": "https://www.last.fm/music/Yves/NAIL",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/8b9962bd04526d33ca4a883b0b6ef4e5.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/8b9962bd04526d33ca4a883b0b6ef4e5.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/8b9962bd04526d33ca4a883b0b6ef4e5.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/8b9962bd04526d33ca4a883b0b6ef4e5.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

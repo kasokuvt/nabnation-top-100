@@ -1,0 +1,64 @@
+{
+  "track": {
+    "name": "I CAN’T WAIT",
+    "url": "https://www.last.fm/music/Kanye+West/_/I+CAN%E2%80%99T+WAIT",
+    "duration": "127000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "202721",
+    "playcount": "943063",
+    "artist": {
+      "name": "Kanye West",
+      "url": "https://www.last.fm/music/Kanye+West"
+    },
+    "album": {
+      "artist": "Kanye West",
+      "title": "I CAN’T WAIT",
+      "url": "https://www.last.fm/music/Kanye+West/I+CAN%E2%80%99T+WAIT",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/ea441451cd637789aeeb1072c6aa828e.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/ea441451cd637789aeeb1072c6aa828e.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/ea441451cd637789aeeb1072c6aa828e.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/ea441451cd637789aeeb1072c6aa828e.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "pop rap",
+          "url": "https://www.last.fm/tag/pop+rap"
+        },
+        {
+          "name": "Neo-Soul",
+          "url": "https://www.last.fm/tag/Neo-Soul"
+        },
+        {
+          "name": "boom bap",
+          "url": "https://www.last.fm/tag/boom+bap"
+        },
+        {
+          "name": "Conscious Hip Hop",
+          "url": "https://www.last.fm/tag/Conscious+Hip+Hop"
+        },
+        {
+          "name": "midwest hip hop",
+          "url": "https://www.last.fm/tag/midwest+hip+hop"
+        }
+      ]
+    }
+  }
+}

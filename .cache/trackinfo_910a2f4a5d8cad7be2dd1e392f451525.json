@@ -1,0 +1,44 @@
+{
+  "track": {
+    "name": "BACKDOOR",
+    "url": "https://www.last.fm/music/ericdoa/_/BACKDOOR",
+    "duration": "96000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "14726",
+    "playcount": "173825",
+    "artist": {
+      "name": "ericdoa",
+      "mbid": "e6e63b7f-3819-4c48-a3f5-90e439bdea13",
+      "url": "https://www.last.fm/music/ericdoa"
+    },
+    "album": {
+      "artist": "ericdoa",
+      "title": "Backdoor",
+      "url": "https://www.last.fm/music/ericdoa/Backdoor",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/c609f532ad9f00a42c4856720975868c.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/c609f532ad9f00a42c4856720975868c.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/c609f532ad9f00a42c4856720975868c.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/c609f532ad9f00a42c4856720975868c.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

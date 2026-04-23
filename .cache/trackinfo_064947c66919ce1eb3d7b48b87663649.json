@@ -1,0 +1,45 @@
+{
+  "track": {
+    "name": "Looping the Rooms",
+    "mbid": "f0d1e974-caf1-4444-96b2-f0d847b06c34",
+    "url": "https://www.last.fm/music/rusino/_/Looping+the+Rooms",
+    "duration": "134000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "66918",
+    "playcount": "353669",
+    "artist": {
+      "name": "rusino",
+      "mbid": "5b73d3b8-0600-4255-b88f-3aa6039e037d",
+      "url": "https://www.last.fm/music/rusino"
+    },
+    "album": {
+      "artist": "ルシノ",
+      "title": "Looping the Rooms / Lambent Aria",
+      "url": "https://www.last.fm/music/%E3%83%AB%E3%82%B7%E3%83%8E/Looping+the+Rooms+%2F+Lambent+Aria",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/07e38a1765a33b52d3ce706528df6e78.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/07e38a1765a33b52d3ce706528df6e78.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/07e38a1765a33b52d3ce706528df6e78.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/07e38a1765a33b52d3ce706528df6e78.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

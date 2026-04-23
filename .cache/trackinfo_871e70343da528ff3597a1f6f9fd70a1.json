@@ -1,0 +1,66 @@
+{
+  "track": {
+    "name": "EoO",
+    "mbid": "549bbde2-a84a-43b2-a6fa-a0a0baaffb7e",
+    "url": "https://www.last.fm/music/Bad+Bunny/_/EoO",
+    "duration": "203000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "793596",
+    "playcount": "10097564",
+    "artist": {
+      "name": "Bad Bunny",
+      "mbid": "89aa5ecb-59ad-46f5-b3eb-2d424e941f19",
+      "url": "https://www.last.fm/music/Bad+Bunny"
+    },
+    "album": {
+      "artist": "Bad Bunny",
+      "title": "DeBÍ TiRAR MáS FOToS",
+      "url": "https://www.last.fm/music/Bad+Bunny/DeB%C3%8D+TiRAR+M%C3%A1S+FOToS",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/7d0982b56a5e4304eb6207d6688c917a.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/7d0982b56a5e4304eb6207d6688c917a.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/7d0982b56a5e4304eb6207d6688c917a.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/7d0982b56a5e4304eb6207d6688c917a.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "Reggaeton",
+          "url": "https://www.last.fm/tag/Reggaeton"
+        },
+        {
+          "name": "Perreo",
+          "url": "https://www.last.fm/tag/Perreo"
+        },
+        {
+          "name": "Ayo",
+          "url": "https://www.last.fm/tag/Ayo"
+        },
+        {
+          "name": "tratra",
+          "url": "https://www.last.fm/tag/tratra"
+        },
+        {
+          "name": "spanish",
+          "url": "https://www.last.fm/tag/spanish"
+        }
+      ]
+    }
+  }
+}

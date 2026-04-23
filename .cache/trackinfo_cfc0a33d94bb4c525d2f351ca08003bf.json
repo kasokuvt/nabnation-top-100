@@ -1,0 +1,45 @@
+{
+  "track": {
+    "name": "Cicada",
+    "mbid": "d07669a7-372e-425f-88f9-643124f79cfd",
+    "url": "https://www.last.fm/music/Good+Kid/_/Cicada",
+    "duration": "166000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "47719",
+    "playcount": "526569",
+    "artist": {
+      "name": "Good Kid",
+      "mbid": "adab38f4-297d-4af8-9450-4e84697240e7",
+      "url": "https://www.last.fm/music/Good+Kid"
+    },
+    "album": {
+      "artist": "Good Kid",
+      "title": "Can We Hang Out Sometime?",
+      "url": "https://www.last.fm/music/Good+Kid/Can+We+Hang+Out+Sometime%3F",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/5be866fd440a29fb7979046a1853c14d.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/5be866fd440a29fb7979046a1853c14d.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/5be866fd440a29fb7979046a1853c14d.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/5be866fd440a29fb7979046a1853c14d.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

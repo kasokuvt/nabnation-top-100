@@ -1,0 +1,66 @@
+{
+  "track": {
+    "name": "SAME LA",
+    "mbid": "daadd365-8d74-41d3-b290-05f3f4ecdfed",
+    "url": "https://www.last.fm/music/Tiffany+Day/_/SAME+LA",
+    "duration": "224000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "63342",
+    "playcount": "383176",
+    "artist": {
+      "name": "Tiffany Day",
+      "mbid": "c9e3089c-a7bc-4df5-80f9-9161eaa74a02",
+      "url": "https://www.last.fm/music/Tiffany+Day"
+    },
+    "album": {
+      "artist": "Tiffany Day",
+      "title": "Нaӏo",
+      "url": "https://www.last.fm/music/Tiffany+Day/%D0%9Da%D3%8Fo",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/5a7df42c63f85fde74ce5a53bd4d8e6d.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/5a7df42c63f85fde74ce5a53bd4d8e6d.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/5a7df42c63f85fde74ce5a53bd4d8e6d.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/5a7df42c63f85fde74ce5a53bd4d8e6d.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "electropop",
+          "url": "https://www.last.fm/tag/electropop"
+        },
+        {
+          "name": "electronic",
+          "url": "https://www.last.fm/tag/electronic"
+        },
+        {
+          "name": "dance-pop",
+          "url": "https://www.last.fm/tag/dance-pop"
+        },
+        {
+          "name": "fun",
+          "url": "https://www.last.fm/tag/fun"
+        },
+        {
+          "name": "bubblegum bass",
+          "url": "https://www.last.fm/tag/bubblegum+bass"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "track": {
+    "name": "Husbands",
+    "mbid": "1a086ac1-5e6e-4f7f-afed-c23c408d49fb",
+    "url": "https://www.last.fm/music/Geese/_/Husbands",
+    "duration": "318000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "237071",
+    "playcount": "2069226",
+    "artist": {
+      "name": "Geese",
+      "mbid": "16a8a6cc-57d9-4a13-9fb9-c87e359c5abe",
+      "url": "https://www.last.fm/music/Geese"
+    },
+    "album": {
+      "artist": "Geese",
+      "title": "Getting Killed",
+      "url": "https://www.last.fm/music/Geese/Getting+Killed",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/75695cd196406316f055a757728c6ee7.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/75695cd196406316f055a757728c6ee7.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/75695cd196406316f055a757728c6ee7.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/75695cd196406316f055a757728c6ee7.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "country soul",
+          "url": "https://www.last.fm/tag/country+soul"
+        },
+        {
+          "name": "soft rock",
+          "url": "https://www.last.fm/tag/soft+rock"
+        },
+        {
+          "name": "indie rock",
+          "url": "https://www.last.fm/tag/indie+rock"
+        },
+        {
+          "name": "krautrock",
+          "url": "https://www.last.fm/tag/krautrock"
+        },
+        {
+          "name": "trip hop",
+          "url": "https://www.last.fm/tag/trip+hop"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "06 Dec 2025, 13:24",
+      "summary": "“Husbands” explores the relationship between singer and fan, and both of their searches for meaning & fears of being alone. <a href=\"http://www.last.fm/music/Geese/_/Husbands\">Read more on Last.fm</a>.",
+      "content": "“Husbands” explores the relationship between singer and fan, and both of their searches for meaning & fears of being alone. <a href=\"http://www.last.fm/music/Geese/_/Husbands\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "track": {
+    "name": "Me and My Madness",
+    "mbid": "2e435f54-887a-4ca9-a1e0-2c810b750b5a",
+    "url": "https://www.last.fm/music/Heavenly/_/Me+and+My+Madness",
+    "duration": "172000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "96709",
+    "playcount": "1140653",
+    "artist": {
+      "name": "Heavenly",
+      "mbid": "d1a0301e-1167-42e8-bf89-c7835e0d3485",
+      "url": "https://www.last.fm/music/Heavenly"
+    },
+    "album": {
+      "artist": "Heavenly",
+      "title": "The Decline and Fall of Heavenly",
+      "url": "https://www.last.fm/music/Heavenly/The+Decline+and+Fall+of+Heavenly",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/040ad29d81993b7c9e4be40b3c0380a6.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/040ad29d81993b7c9e4be40b3c0380a6.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/040ad29d81993b7c9e4be40b3c0380a6.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/040ad29d81993b7c9e4be40b3c0380a6.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "indie rock",
+          "url": "https://www.last.fm/tag/indie+rock"
+        },
+        {
+          "name": "twee",
+          "url": "https://www.last.fm/tag/twee"
+        },
+        {
+          "name": "twee pop",
+          "url": "https://www.last.fm/tag/twee+pop"
+        }
+      ]
+    }
+  }
+}

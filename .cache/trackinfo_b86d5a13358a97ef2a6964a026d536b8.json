@@ -1,0 +1,50 @@
+{
+  "track": {
+    "name": "Good Flirts (feat. Kendrick Lamar & Momo Boyd)",
+    "mbid": "95fc79ea-8ab1-481e-bdc6-80272e2a025e",
+    "url": "https://www.last.fm/music/Baby+Keem/_/Good+Flirts+(feat.+Kendrick+Lamar+&+Momo+Boyd)",
+    "duration": "232000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "222292",
+    "playcount": "1071316",
+    "artist": {
+      "name": "Baby Keem",
+      "mbid": "81d12ca7-5b89-4d21-8736-860b7400b4eb",
+      "url": "https://www.last.fm/music/Baby+Keem"
+    },
+    "album": {
+      "artist": "Baby Keem",
+      "title": "CA$INO (Explicit)",
+      "url": "https://www.last.fm/music/Baby+Keem/CA$INO+(Explicit)",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/355bd805b2ce1f25408fa8ccf0eca9a9.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/355bd805b2ce1f25408fa8ccf0eca9a9.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/355bd805b2ce1f25408fa8ccf0eca9a9.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/355bd805b2ce1f25408fa8ccf0eca9a9.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "kendrick lamar",
+          "url": "https://www.last.fm/tag/kendrick+lamar"
+        }
+      ]
+    }
+  }
+}

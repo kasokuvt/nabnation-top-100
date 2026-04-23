@@ -1,0 +1,44 @@
+{
+  "track": {
+    "name": "Paris Hilton",
+    "mbid": "496682d7-5a21-4e2c-886c-061a515c8fe2",
+    "url": "https://www.last.fm/music/nettspend/_/Paris+Hilton",
+    "duration": "123000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "59847",
+    "playcount": "436141",
+    "artist": {
+      "name": "nettspend",
+      "url": "https://www.last.fm/music/nettspend"
+    },
+    "album": {
+      "artist": "nettspend",
+      "title": "Early Life Crisis",
+      "url": "https://www.last.fm/music/nettspend/Early+Life+Crisis",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/c8aa095fb407e2869048fbd7d8152e92.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/c8aa095fb407e2869048fbd7d8152e92.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/c8aa095fb407e2869048fbd7d8152e92.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/c8aa095fb407e2869048fbd7d8152e92.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

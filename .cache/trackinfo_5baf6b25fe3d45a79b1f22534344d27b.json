@@ -1,0 +1,71 @@
+{
+  "track": {
+    "name": "Bulls in the Bronx",
+    "mbid": "00579615-cf05-41fa-ae4d-4b1ba3210202",
+    "url": "https://www.last.fm/music/Pierce+the+Veil/_/Bulls+in+the+Bronx",
+    "duration": "267000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "696246",
+    "playcount": "12044722",
+    "artist": {
+      "name": "Pierce the Veil",
+      "mbid": "8ed919fb-eaee-45a1-ba99-b3ede9ca5f1d",
+      "url": "https://www.last.fm/music/Pierce+the+Veil"
+    },
+    "album": {
+      "artist": "Pierce the Veil",
+      "title": "Collide With the Sky",
+      "url": "https://www.last.fm/music/Pierce+the+Veil/Collide+With+the+Sky",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/557643a8faaa35768cb6088f576fed30.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/557643a8faaa35768cb6088f576fed30.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/557643a8faaa35768cb6088f576fed30.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/557643a8faaa35768cb6088f576fed30.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "post-hardcore",
+          "url": "https://www.last.fm/tag/post-hardcore"
+        },
+        {
+          "name": "emocore",
+          "url": "https://www.last.fm/tag/emocore"
+        },
+        {
+          "name": "screamo",
+          "url": "https://www.last.fm/tag/screamo"
+        },
+        {
+          "name": "emo",
+          "url": "https://www.last.fm/tag/emo"
+        },
+        {
+          "name": "mexicore",
+          "url": "https://www.last.fm/tag/mexicore"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "24 Apr 2023, 23:00",
+      "summary": "\"Bulls in the Bronx\" is the 5th track on the album, Collide With the Sky. It was influenced by and written as tribute to Olivia Jane Penpraze, an Australian girl from Victoria who took her own life in April 2012 at 19 as a result of years of bullying. Penpraze was a fan of Pierce the Veil, and after her passing, her friends wrote a letter to them about what happened. <a href=\"http://www.last.fm/music/Pierce+the+Veil/_/Bulls+in+the+Bronx\">Read more on Last.fm</a>.",
+      "content": "\"Bulls in the Bronx\" is the 5th track on the album, Collide With the Sky. It was influenced by and written as tribute to Olivia Jane Penpraze, an Australian girl from Victoria who took her own life in April 2012 at 19 as a result of years of bullying. Penpraze was a fan of Pierce the Veil, and after her passing, her friends wrote a letter to them about what happened. <a href=\"http://www.last.fm/music/Pierce+the+Veil/_/Bulls+in+the+Bronx\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

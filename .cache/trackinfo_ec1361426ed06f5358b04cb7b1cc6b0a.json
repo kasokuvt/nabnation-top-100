@@ -1,0 +1,71 @@
+{
+  "track": {
+    "name": "Deceptacon",
+    "mbid": "06446ea9-fa4f-31b3-9895-2ad3f6aaf99f",
+    "url": "https://www.last.fm/music/Le+Tigre/_/Deceptacon",
+    "duration": "216000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "1373264",
+    "playcount": "13436085",
+    "artist": {
+      "name": "Le Tigre",
+      "mbid": "2d67239c-aa40-4ad5-a807-9052b66857a6",
+      "url": "https://www.last.fm/music/Le+Tigre"
+    },
+    "album": {
+      "artist": "Le Tigre",
+      "title": "Le Tigre",
+      "url": "https://www.last.fm/music/Le+Tigre/Le+Tigre",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/050f910fc44546e5a5dcd3657dc9bef4.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/050f910fc44546e5a5dcd3657dc9bef4.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/050f910fc44546e5a5dcd3657dc9bef4.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/050f910fc44546e5a5dcd3657dc9bef4.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "riot grrrl",
+          "url": "https://www.last.fm/tag/riot+grrrl"
+        },
+        {
+          "name": "indie",
+          "url": "https://www.last.fm/tag/indie"
+        },
+        {
+          "name": "electronic",
+          "url": "https://www.last.fm/tag/electronic"
+        },
+        {
+          "name": "female vocalists",
+          "url": "https://www.last.fm/tag/female+vocalists"
+        },
+        {
+          "name": "dance",
+          "url": "https://www.last.fm/tag/dance"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "26 May 2024, 22:06",
+      "summary": "The first track off of Le Tigre’s 1999 self-titled debut unleashed a riot grrrl dance-punk party time excellent.\n\nPitchfork gave it its blessing with a 8.5. “Rather than continuing to preach to the choir, Hanna has called off mass in favor of a dance party.” <a href=\"http://www.last.fm/music/Le+Tigre/_/Deceptacon\">Read more on Last.fm</a>.",
+      "content": "The first track off of Le Tigre’s 1999 self-titled debut unleashed a riot grrrl dance-punk party time excellent.\n\nPitchfork gave it its blessing with a 8.5. “Rather than continuing to preach to the choir, Hanna has called off mass in favor of a dance party.” <a href=\"http://www.last.fm/music/Le+Tigre/_/Deceptacon\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

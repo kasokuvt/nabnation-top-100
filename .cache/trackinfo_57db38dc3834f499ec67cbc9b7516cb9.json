@@ -1,0 +1,44 @@
+{
+  "track": {
+    "name": "LAST BREATH (feat. Peso Pluma)",
+    "mbid": "bd85371e-542b-41f9-a1e3-5e3738599c76",
+    "url": "https://www.last.fm/music/Kanye+West/_/LAST+BREATH+(feat.+Peso+Pluma)",
+    "duration": "186000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "164803",
+    "playcount": "661356",
+    "artist": {
+      "name": "Kanye West",
+      "url": "https://www.last.fm/music/Kanye+West"
+    },
+    "album": {
+      "artist": "KanYeWest",
+      "title": "Bully",
+      "url": "https://www.last.fm/music/KanYeWest/Bully",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/4c83937d9cecddbf15c90e4894c0ed9e.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/4c83937d9cecddbf15c90e4894c0ed9e.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/4c83937d9cecddbf15c90e4894c0ed9e.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/4c83937d9cecddbf15c90e4894c0ed9e.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

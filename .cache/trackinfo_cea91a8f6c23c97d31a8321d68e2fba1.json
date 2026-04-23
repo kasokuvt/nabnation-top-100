@@ -1,0 +1,43 @@
+{
+  "track": {
+    "name": "St. Solis",
+    "url": "https://www.last.fm/music/churgney+gurgney/_/St.+Solis",
+    "duration": "278000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "2244",
+    "playcount": "64138",
+    "artist": {
+      "name": "churgney gurgney",
+      "url": "https://www.last.fm/music/churgney+gurgney"
+    },
+    "album": {
+      "artist": "churgney gurgney",
+      "title": "St. Solis",
+      "url": "https://www.last.fm/music/churgney+gurgney/St.+Solis",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/292a9502d2f0d09ae3891efe46bf9c38.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/292a9502d2f0d09ae3891efe46bf9c38.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/292a9502d2f0d09ae3891efe46bf9c38.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/292a9502d2f0d09ae3891efe46bf9c38.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

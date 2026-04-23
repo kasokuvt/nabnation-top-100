@@ -1,0 +1,22 @@
+{
+  "track": {
+    "name": "IS THIS IT",
+    "mbid": "ab94c13c-5a93-4d65-bc3f-667526da81be",
+    "url": "https://www.last.fm/music/femtanyl/_/IS+THIS+IT",
+    "duration": "237000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "21792",
+    "playcount": "113973",
+    "artist": {
+      "name": "femtanyl",
+      "mbid": "eb3c021d-e056-42d6-8fad-064205a90527",
+      "url": "https://www.last.fm/music/femtanyl"
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "track": {
+    "name": "KING",
+    "mbid": "318086ff-dc52-4ecc-9b06-e089db7f07c0",
+    "url": "https://www.last.fm/music/Kanye+West/_/KING",
+    "duration": "126000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "419291",
+    "playcount": "2496933",
+    "artist": {
+      "name": "Kanye West",
+      "url": "https://www.last.fm/music/Kanye+West"
+    },
+    "album": {
+      "artist": "Kanye West",
+      "title": "VULTURES 1",
+      "url": "https://www.last.fm/music/Kanye+West/VULTURES+1",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/bf0ac59956f0bc53579402a83c928eb9.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/bf0ac59956f0bc53579402a83c928eb9.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/bf0ac59956f0bc53579402a83c928eb9.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/bf0ac59956f0bc53579402a83c928eb9.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "rap rock",
+          "url": "https://www.last.fm/tag/rap+rock"
+        },
+        {
+          "name": "hardcore hip hop",
+          "url": "https://www.last.fm/tag/hardcore+hip+hop"
+        },
+        {
+          "name": "pop rap",
+          "url": "https://www.last.fm/tag/pop+rap"
+        },
+        {
+          "name": "King",
+          "url": "https://www.last.fm/tag/King"
+        },
+        {
+          "name": "trap",
+          "url": "https://www.last.fm/tag/trap"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "10 Feb 2024, 21:07",
+      "summary": "Kanye West has released two songs titled “KING.”\n\nIt serves as the opener of Ye’s highly anticipated solo album BULLY, revolving around a prominent sample from Duke Edwards & The Youngones’ “Reach For A Star.”\n\n“KING” is also the closer to the ¥$ collaboration album VULTURES 1. The song sees Ye address the continuously negative press coverage about him, with the hook being “Crazy, bipolar, antisemite”. However, he is not phased, flexing how all this bad coverage can’t stop his popularity and influence. <a href=\"http://www.last.fm/music/Kanye+West/_/KING\">Read more on Last.fm</a>.",
+      "content": "Kanye West has released two songs titled “KING.”\n\nIt serves as the opener of Ye’s highly anticipated solo album BULLY, revolving around a prominent sample from Duke Edwards & The Youngones’ “Reach For A Star.”\n\n“KING” is also the closer to the ¥$ collaboration album VULTURES 1. The song sees Ye address the continuously negative press coverage about him, with the hook being “Crazy, bipolar, antisemite”. However, he is not phased, flexing how all this bad coverage can’t stop his popularity and influence. While the album originally released under ‘Kanye West’, he would later move it to ¥$. <a href=\"http://www.last.fm/music/Kanye+West/_/KING\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

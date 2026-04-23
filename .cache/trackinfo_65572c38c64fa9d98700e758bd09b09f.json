@@ -1,0 +1,70 @@
+{
+  "track": {
+    "name": "Chase",
+    "mbid": "430d36c7-a446-4be9-b288-08caa255b61f",
+    "url": "https://www.last.fm/music/Batta/_/Chase",
+    "duration": "145000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "216755",
+    "playcount": "3049644",
+    "artist": {
+      "name": "Batta",
+      "url": "https://www.last.fm/music/Batta"
+    },
+    "album": {
+      "artist": "Batta",
+      "title": "chase",
+      "url": "https://www.last.fm/music/Batta/chase",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/deef0e7285d2af4bcabf9256512dc2c6.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/deef0e7285d2af4bcabf9256512dc2c6.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/deef0e7285d2af4bcabf9256512dc2c6.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/deef0e7285d2af4bcabf9256512dc2c6.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "J-rock",
+          "url": "https://www.last.fm/tag/J-rock"
+        },
+        {
+          "name": "JoJo",
+          "url": "https://www.last.fm/tag/JoJo"
+        },
+        {
+          "name": "rock",
+          "url": "https://www.last.fm/tag/rock"
+        },
+        {
+          "name": "Soundtrack",
+          "url": "https://www.last.fm/tag/Soundtrack"
+        },
+        {
+          "name": "anime",
+          "url": "https://www.last.fm/tag/anime"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "15 May 2021, 13:08",
+      "summary": "\"chase\" is the second opening theme song of JoJo's Bizarre Adventure: Diamond is Unbreakable and the sixth overall opening theme of the JoJo's Bizarre Adventure TV anime. The song is performed and arranged by the group batta, consisting of Tomomori Mano, Asato Shinohara, Takeshi Hoshino, and Tatsu Hoshino, who wrote the lyrics. The single was released on July 27, 2016.\n\nAn English version of \"chase\" was included as a bonus track on the band's 3rd album Prelude, released on October 17, 2018. <a href=\"http://www.last.fm/music/Batta/_/Chase\">Read more on Last.fm</a>.",
+      "content": "\"chase\" is the second opening theme song of JoJo's Bizarre Adventure: Diamond is Unbreakable and the sixth overall opening theme of the JoJo's Bizarre Adventure TV anime. The song is performed and arranged by the group batta, consisting of Tomomori Mano, Asato Shinohara, Takeshi Hoshino, and Tatsu Hoshino, who wrote the lyrics. The single was released on July 27, 2016.\n\nAn English version of \"chase\" was included as a bonus track on the band's 3rd album Prelude, released on October 17, 2018. <a href=\"http://www.last.fm/music/Batta/_/Chase\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

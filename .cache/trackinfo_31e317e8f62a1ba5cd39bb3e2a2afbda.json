@@ -1,0 +1,66 @@
+{
+  "track": {
+    "name": "I'll Change For You",
+    "mbid": "11359140-f050-44b4-9bf9-d2016df21ddd",
+    "url": "https://www.last.fm/music/Mitski/_/I%27ll+Change+For+You",
+    "duration": "196000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "293936",
+    "playcount": "2228823",
+    "artist": {
+      "name": "Mitski",
+      "mbid": "fa58cf24-0e44-421d-8519-8bf461dcfaa5",
+      "url": "https://www.last.fm/music/Mitski"
+    },
+    "album": {
+      "artist": "Mitski",
+      "title": "Nothing’s About to Happen to Me",
+      "url": "https://www.last.fm/music/Mitski/Nothing%E2%80%99s+About+to+Happen+to+Me",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/a0a6d1725444a48d33e14a993c875a16.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/a0a6d1725444a48d33e14a993c875a16.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/a0a6d1725444a48d33e14a993c875a16.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/a0a6d1725444a48d33e14a993c875a16.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "Bossa Nova",
+          "url": "https://www.last.fm/tag/Bossa+Nova"
+        },
+        {
+          "name": "Traditional Pop",
+          "url": "https://www.last.fm/tag/Traditional+Pop"
+        },
+        {
+          "name": "lounge",
+          "url": "https://www.last.fm/tag/lounge"
+        },
+        {
+          "name": "jazz",
+          "url": "https://www.last.fm/tag/jazz"
+        },
+        {
+          "name": "singer-songwriter",
+          "url": "https://www.last.fm/tag/singer-songwriter"
+        }
+      ]
+    }
+  }
+}

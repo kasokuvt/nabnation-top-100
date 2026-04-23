@@ -1,0 +1,50 @@
+{
+  "track": {
+    "name": "Flood",
+    "mbid": "2a007711-edb5-41c8-ab8b-ba48df655f52",
+    "url": "https://www.last.fm/music/Boris/_/Flood",
+    "duration": "1342000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "21471",
+    "playcount": "106354",
+    "artist": {
+      "name": "Boris",
+      "mbid": "57652bf8-cfe8-42e7-b9a7-5572a7080d8d",
+      "url": "https://www.last.fm/music/Boris"
+    },
+    "album": {
+      "artist": "Boris",
+      "title": "Heavy Metal Me",
+      "url": "https://www.last.fm/music/Boris/Heavy+Metal+Me",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/09a2c959e5f490e78f6f4375cec9a5a9.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/09a2c959e5f490e78f6f4375cec9a5a9.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/09a2c959e5f490e78f6f4375cec9a5a9.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/09a2c959e5f490e78f6f4375cec9a5a9.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    },
+    "wiki": {
+      "published": "04 May 2025, 15:24",
+      "summary": "Flood is the third studio album by Japanese experimental band Boris, released on December 15, 2000. It consists of a single 70-minute title-track that is broken into four movements.\n\nWhile Flood did not receive many reviews upon release, it has become a cult classic among fans, prompting the band to play it in its entirety every night of their 2013 US-based \"Residency Tour\". <a href=\"http://www.last.fm/music/Boris/_/Flood\">Read more on Last.fm</a>.",
+      "content": "Flood is the third studio album by Japanese experimental band Boris, released on December 15, 2000. It consists of a single 70-minute title-track that is broken into four movements.\n\nWhile Flood did not receive many reviews upon release, it has become a cult classic among fans, prompting the band to play it in its entirety every night of their 2013 US-based \"Residency Tour\". <a href=\"http://www.last.fm/music/Boris/_/Flood\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

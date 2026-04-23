@@ -1,0 +1,57 @@
+{
+  "track": {
+    "name": "Super Psycho Love (2024 Remaster)",
+    "url": "https://www.last.fm/music/Simon+Curtis/_/Super+Psycho+Love+(2024+Remaster)",
+    "duration": "217000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "55824",
+    "playcount": "624152",
+    "artist": {
+      "name": "Simon Curtis",
+      "mbid": "c7bc787f-5bc7-4b75-8644-c19f8a4d026a",
+      "url": "https://www.last.fm/music/Simon+Curtis"
+    },
+    "album": {
+      "artist": "Simon Curtis",
+      "title": "8-Bit Heart (2024 Remaster) [Explicit]",
+      "url": "https://www.last.fm/music/Simon+Curtis/8-Bit+Heart+(2024+Remaster)+%5BExplicit%5D",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/a860b1ddb8bdc32591ddcb0c1cb498b8.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/a860b1ddb8bdc32591ddcb0c1cb498b8.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/a860b1ddb8bdc32591ddcb0c1cb498b8.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/a860b1ddb8bdc32591ddcb0c1cb498b8.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "completamente obcecada",
+          "url": "https://www.last.fm/tag/completamente+obcecada"
+        },
+        {
+          "name": "marcou minha infancia",
+          "url": "https://www.last.fm/tag/marcou+minha+infancia"
+        },
+        {
+          "name": "favoritas da vida",
+          "url": "https://www.last.fm/tag/favoritas+da+vida"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "track": {
+    "name": "IPHONE 16",
+    "mbid": "6d23c16d-9274-4b3e-8ffc-fe1de82559ca",
+    "url": "https://www.last.fm/music/xaviersobased/_/IPHONE+16",
+    "duration": "231000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "53728",
+    "playcount": "284130",
+    "artist": {
+      "name": "xaviersobased",
+      "mbid": "155cfd40-dcde-471e-acc0-32179916165c",
+      "url": "https://www.last.fm/music/xaviersobased"
+    },
+    "album": {
+      "artist": "xaviersobased",
+      "title": "iPhone 16",
+      "url": "https://www.last.fm/music/xaviersobased/iPhone+16",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/e4127faa4b2ad81d1111a1bd73910f25.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/e4127faa4b2ad81d1111a1bd73910f25.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/e4127faa4b2ad81d1111a1bd73910f25.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/e4127faa4b2ad81d1111a1bd73910f25.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

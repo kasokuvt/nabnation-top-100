@@ -1,0 +1,66 @@
+{
+  "track": {
+    "name": "Killshot",
+    "mbid": "42070cda-6242-4985-94a8-90146b8a0b1d",
+    "url": "https://www.last.fm/music/Magdalena+Bay/_/Killshot",
+    "duration": "236000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "709316",
+    "playcount": "8274050",
+    "artist": {
+      "name": "Magdalena Bay",
+      "mbid": "68c261d5-48c8-4ea9-9466-9fc908dc79bb",
+      "url": "https://www.last.fm/music/Magdalena+Bay"
+    },
+    "album": {
+      "artist": "Magdalena Bay",
+      "title": "Killshot - Single",
+      "url": "https://www.last.fm/music/Magdalena+Bay/Killshot+-+Single",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/1a2f8c7903813521ad5c94e131e289fe.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/1a2f8c7903813521ad5c94e131e289fe.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/1a2f8c7903813521ad5c94e131e289fe.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/1a2f8c7903813521ad5c94e131e289fe.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "pop",
+          "url": "https://www.last.fm/tag/pop"
+        },
+        {
+          "name": "synthpop",
+          "url": "https://www.last.fm/tag/synthpop"
+        },
+        {
+          "name": "electronic",
+          "url": "https://www.last.fm/tag/electronic"
+        },
+        {
+          "name": "dance",
+          "url": "https://www.last.fm/tag/dance"
+        },
+        {
+          "name": "rnb",
+          "url": "https://www.last.fm/tag/rnb"
+        }
+      ]
+    }
+  }
+}
