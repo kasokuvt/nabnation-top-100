@@ -1,0 +1,50 @@
+{
+  "track": {
+    "name": "Nosferatu",
+    "mbid": "8f497213-a4fe-45fd-86e8-c46a0736ea12",
+    "url": "https://www.last.fm/music/Che/_/Nosferatu",
+    "duration": "126000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "19086",
+    "playcount": "84362",
+    "artist": {
+      "name": "Che",
+      "mbid": "e10ddbc5-dcae-4bbb-8a32-4c9a7228bfab",
+      "url": "https://www.last.fm/music/Che"
+    },
+    "album": {
+      "artist": "Che",
+      "title": "Para'dies",
+      "url": "https://www.last.fm/music/Che/Para%27dies",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/9ee9b7af7327167d37e25a9f66593969.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/9ee9b7af7327167d37e25a9f66593969.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/9ee9b7af7327167d37e25a9f66593969.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/9ee9b7af7327167d37e25a9f66593969.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    },
+    "wiki": {
+      "published": "27 Apr 2026, 13:22",
+      "summary": "In “Nosferatu,” Che returns to a loud and aggressive delivery. Lyrically, he raps about drug use, fashion, high luxury, and emotional isolation, giving the track a detached and intense tone.\n\nThe music video for “Nosferatu” was released on the same day as its release, at 9:00 PM EST. It was released as part of a two-in-one video alongside “Tell U Sum.” <a href=\"http://www.last.fm/music/Che/_/Nosferatu\">Read more on Last.fm</a>.",
+      "content": "In “Nosferatu,” Che returns to a loud and aggressive delivery. Lyrically, he raps about drug use, fashion, high luxury, and emotional isolation, giving the track a detached and intense tone.\n\nThe music video for “Nosferatu” was released on the same day as its release, at 9:00 PM EST. It was released as part of a two-in-one video alongside “Tell U Sum.” <a href=\"http://www.last.fm/music/Che/_/Nosferatu\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

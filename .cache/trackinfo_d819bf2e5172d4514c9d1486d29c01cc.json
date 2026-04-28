@@ -1,0 +1,67 @@
+{
+  "track": {
+    "name": "Infohazard",
+    "mbid": "70c821ed-05f7-4151-975f-40e209a9c6a7",
+    "url": "https://www.last.fm/music/Ninajirachi/_/Infohazard",
+    "duration": "269000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "132707",
+    "playcount": "1029854",
+    "artist": {
+      "name": "Ninajirachi",
+      "mbid": "6897b46a-9236-4480-9ed7-300f6b85d62f",
+      "url": "https://www.last.fm/music/Ninajirachi"
+    },
+    "album": {
+      "artist": "Ninajirachi",
+      "title": "I Love My Computer",
+      "url": "https://www.last.fm/music/Ninajirachi/I+Love+My+Computer",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/d07be8636d6da9e572767ceb1c8422be.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/d07be8636d6da9e572767ceb1c8422be.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/d07be8636d6da9e572767ceb1c8422be.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/d07be8636d6da9e572767ceb1c8422be.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "uplifting trance",
+          "url": "https://www.last.fm/tag/uplifting+trance"
+        },
+        {
+          "name": "vocal trance",
+          "url": "https://www.last.fm/tag/vocal+trance"
+        },
+        {
+          "name": "Hi-Tech Full-On",
+          "url": "https://www.last.fm/tag/Hi-Tech+Full-On"
+        },
+        {
+          "name": "dream trance",
+          "url": "https://www.last.fm/tag/dream+trance"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "23 Apr 2026, 01:57",
+      "summary": "“I saw this artwork of this girl sitting next to a computer and she was cute, kind of Bratz doll style. And the text said, ‘Help, I’m online and I just saw a beheading.’ And I was like, ‘Oh yeah, that happened to me when I was a cute girl too.’ It just seemed like an interesting way to make light of what is probably a shared trauma amongst people of my generation. If not a beheading they’ve just been scrolling and been like, ‘Oh, I probably wasn’t meant to see that and I can’t forget about it now.’” <a href=\"http://www.last.fm/music/Ninajirachi/_/Infohazard\">Read more on Last.fm</a>.",
+      "content": "“I saw this artwork of this girl sitting next to a computer and she was cute, kind of Bratz doll style. And the text said, ‘Help, I’m online and I just saw a beheading.’ And I was like, ‘Oh yeah, that happened to me when I was a cute girl too.’ It just seemed like an interesting way to make light of what is probably a shared trauma amongst people of my generation. If not a beheading they’ve just been scrolling and been like, ‘Oh, I probably wasn’t meant to see that and I can’t forget about it now.’” <a href=\"http://www.last.fm/music/Ninajirachi/_/Infohazard\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

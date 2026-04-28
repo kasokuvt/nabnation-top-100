@@ -1,0 +1,44 @@
+{
+  "track": {
+    "name": "The Troubles",
+    "url": "https://www.last.fm/music/glaive/_/The+Troubles",
+    "duration": "116000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "12614",
+    "playcount": "175080",
+    "artist": {
+      "name": "glaive",
+      "mbid": "fd36f43e-5bd1-488e-b844-0e059250ef78",
+      "url": "https://www.last.fm/music/glaive"
+    },
+    "album": {
+      "artist": "glaive",
+      "title": "The Troubles",
+      "url": "https://www.last.fm/music/glaive/The+Troubles",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/c82d330126bf55f472a4366f5464e9cf.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/c82d330126bf55f472a4366f5464e9cf.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/c82d330126bf55f472a4366f5464e9cf.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/c82d330126bf55f472a4366f5464e9cf.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}
