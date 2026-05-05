@@ -1,0 +1,45 @@
+{
+  "track": {
+    "name": "H0w Sh0uld ! f33l",
+    "mbid": "a5bb9dac-07be-401f-9301-993c4374cc1c",
+    "url": "https://www.last.fm/music/North+West/_/H0w+Sh0uld+%21+f33l",
+    "duration": "115000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "21207",
+    "playcount": "38103",
+    "artist": {
+      "name": "North West",
+      "mbid": "9bba8640-a28c-43c1-9611-3b4e9515efe1",
+      "url": "https://www.last.fm/music/North+West"
+    },
+    "album": {
+      "artist": "North West",
+      "title": "N0RTH4EVR",
+      "url": "https://www.last.fm/music/North+West/N0RTH4EVR",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/ffe45bcf5bd8530269d749752c37515c.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/ffe45bcf5bd8530269d749752c37515c.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/ffe45bcf5bd8530269d749752c37515c.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/ffe45bcf5bd8530269d749752c37515c.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

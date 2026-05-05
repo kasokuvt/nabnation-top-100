@@ -1,0 +1,44 @@
+{
+  "track": {
+    "name": "BAD* Influence Freestyle 2 (FOR THE LOVE)",
+    "mbid": "51af540a-531e-4d2b-96bc-e41f3df78fd0",
+    "url": "https://www.last.fm/music/Lucki/_/BAD%2A+Influence+Freestyle+2+(FOR+THE+LOVE)",
+    "duration": "89000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "17848",
+    "playcount": "47829",
+    "artist": {
+      "name": "Lucki",
+      "url": "https://www.last.fm/music/Lucki"
+    },
+    "album": {
+      "artist": "Lucki",
+      "title": "DAYSB4BAD*",
+      "url": "https://www.last.fm/music/Lucki/DAYSB4BAD%2A",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/621d0d049988bf7cf3d6f7b2129e6301.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/621d0d049988bf7cf3d6f7b2129e6301.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/621d0d049988bf7cf3d6f7b2129e6301.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/621d0d049988bf7cf3d6f7b2129e6301.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "track": {
+    "name": "Breathe",
+    "mbid": "9b8c22e6-9a28-42a9-83db-dd79966581f5",
+    "url": "https://www.last.fm/music/Malcolm+Todd/_/Breathe",
+    "duration": "176000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "221698",
+    "playcount": "1866246",
+    "artist": {
+      "name": "Malcolm Todd",
+      "mbid": "6c2a79b8-2b5c-4c2d-b495-6a446811bf9d",
+      "url": "https://www.last.fm/music/Malcolm+Todd"
+    },
+    "album": {
+      "artist": "Malcolm Todd",
+      "title": "Breathe",
+      "url": "https://www.last.fm/music/Malcolm+Todd/Breathe",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/dd66cace2466d54f9fabc900e476bf60.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/dd66cace2466d54f9fabc900e476bf60.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/dd66cace2466d54f9fabc900e476bf60.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/dd66cace2466d54f9fabc900e476bf60.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    },
+    "wiki": {
+      "published": "20 Mar 2026, 20:04",
+      "summary": "First teased on March 8th, 2026, “Breathe” was the first track shown from from Malcolm Todd’s new album. It also came with it’s own animated gif on his official website. It’d proceed to drop Friday and would later be accompanied by a short “Freaktodd” event in the official Discord to pair with the cover art and music video. <a href=\"http://www.last.fm/music/Malcolm+Todd/_/Breathe\">Read more on Last.fm</a>.",
+      "content": "First teased on March 8th, 2026, “Breathe” was the first track shown from from Malcolm Todd’s new album. It also came with it’s own animated gif on his official website. It’d proceed to drop Friday and would later be accompanied by a short “Freaktodd” event in the official Discord to pair with the cover art and music video. <a href=\"http://www.last.fm/music/Malcolm+Todd/_/Breathe\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "track": {
+    "name": "Art is Sucking The Life Out Of Me!",
+    "mbid": "9b4bed08-2188-4fe1-b620-08d4f00a4261",
+    "url": "https://www.last.fm/music/Edward+Skeletrix/_/Art+is+Sucking+The+Life+Out+Of+Me%21",
+    "duration": "89000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "5210",
+    "playcount": "11018",
+    "artist": {
+      "name": "Edward Skeletrix",
+      "mbid": "5af910b2-17c1-4255-9747-f4b0f31258b4",
+      "url": "https://www.last.fm/music/Edward+Skeletrix"
+    },
+    "album": {
+      "artist": "Edward Skeletrix",
+      "title": "Body Of Work",
+      "url": "https://www.last.fm/music/Edward+Skeletrix/Body+Of+Work",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/038e9cfc3c1f81fd3f0b0ba361af994a.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/038e9cfc3c1f81fd3f0b0ba361af994a.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/038e9cfc3c1f81fd3f0b0ba361af994a.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/038e9cfc3c1f81fd3f0b0ba361af994a.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

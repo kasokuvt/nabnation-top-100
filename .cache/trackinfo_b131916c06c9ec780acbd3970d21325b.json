@@ -1,0 +1,70 @@
+{
+  "track": {
+    "name": "Homecoming",
+    "mbid": "0b242edf-ccf6-331b-a863-feed3b220834",
+    "url": "https://www.last.fm/music/Kanye+West/_/Homecoming",
+    "duration": "69000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "1511147",
+    "playcount": "20802696",
+    "artist": {
+      "name": "Kanye West",
+      "url": "https://www.last.fm/music/Kanye+West"
+    },
+    "album": {
+      "artist": "Kanye West",
+      "title": "Graduation",
+      "url": "https://www.last.fm/music/Kanye+West/Graduation",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/8ddd1959a2bef460a5149b3e0cf5e18a.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/8ddd1959a2bef460a5149b3e0cf5e18a.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/8ddd1959a2bef460a5149b3e0cf5e18a.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/8ddd1959a2bef460a5149b3e0cf5e18a.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "Hip-Hop",
+          "url": "https://www.last.fm/tag/Hip-Hop"
+        },
+        {
+          "name": "rap",
+          "url": "https://www.last.fm/tag/rap"
+        },
+        {
+          "name": "Kanye West",
+          "url": "https://www.last.fm/tag/Kanye+West"
+        },
+        {
+          "name": "hip hop",
+          "url": "https://www.last.fm/tag/hip+hop"
+        },
+        {
+          "name": "chris martin",
+          "url": "https://www.last.fm/tag/chris+martin"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "27 Nov 2012, 11:51",
+      "summary": "“Homecoming” by Kanye West featuring Chris Martin is about Kanye’s relationship with his hometown, Chicago. In the lyrics, he personifies the city as a woman named “Wendy,” a reference to Chicago’s nickname, the “Windy City.” The song describes his early life growing up there, how the city influenced his identity and music, and how he eventually left to pursue fame and success. As he becomes more successful, he reflects on feeling distant from his roots and wonders whether the city still remembers or accepts him. <a href=\"http://www.last.fm/music/Kanye+West/_/Homecoming\">Read more on Last.fm</a>.",
+      "content": "“Homecoming” by Kanye West featuring Chris Martin is about Kanye’s relationship with his hometown, Chicago. In the lyrics, he personifies the city as a woman named “Wendy,” a reference to Chicago’s nickname, the “Windy City.” The song describes his early life growing up there, how the city influenced his identity and music, and how he eventually left to pursue fame and success. As he becomes more successful, he reflects on feeling distant from his roots and wonders whether the city still remembers or accepts him. The theme of “coming home” represents returning to and reconnecting with the place that shaped him, expressing both pride in Chicago and some guilt about leaving it behind while building his career. <a href=\"http://www.last.fm/music/Kanye+West/_/Homecoming\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

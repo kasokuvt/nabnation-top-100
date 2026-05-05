@@ -1,0 +1,50 @@
+{
+  "track": {
+    "name": "babygirl",
+    "mbid": "eae17c73-8d47-4c8b-b2a9-07234560ff36",
+    "url": "https://www.last.fm/music/JPEGMAFIA/_/babygirl",
+    "duration": "147000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "37687",
+    "playcount": "101368",
+    "artist": {
+      "name": "JPEGMAFIA",
+      "mbid": "c42e60f4-4520-4954-b6e4-82bbdf532c11",
+      "url": "https://www.last.fm/music/JPEGMAFIA"
+    },
+    "album": {
+      "artist": "JPEGMAFIA",
+      "title": "babygirl",
+      "url": "https://www.last.fm/music/JPEGMAFIA/babygirl",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/be01052251bd0754ac48e6a41bae0c31.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/be01052251bd0754ac48e6a41bae0c31.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/be01052251bd0754ac48e6a41bae0c31.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/be01052251bd0754ac48e6a41bae0c31.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    },
+    "wiki": {
+      "published": "30 Apr 2026, 14:36",
+      "summary": "we ALL think this is the greatest song of all time #ballfartmonkeyapproved\n\n- ballfartmonkey <a href=\"http://www.last.fm/music/JPEGMAFIA/_/babygirl\">Read more on Last.fm</a>.",
+      "content": "we ALL think this is the greatest song of all time #ballfartmonkeyapproved\n\n- ballfartmonkey <a href=\"http://www.last.fm/music/JPEGMAFIA/_/babygirl\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}
