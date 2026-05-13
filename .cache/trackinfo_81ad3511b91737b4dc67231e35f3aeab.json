@@ -1,0 +1,45 @@
+{
+  "track": {
+    "name": "Rock Music",
+    "mbid": "858ac727-a934-4eda-be8c-905be40f9ac3",
+    "url": "https://www.last.fm/music/Charli+xcx/_/Rock+Music",
+    "duration": "115000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "179372",
+    "playcount": "683743",
+    "artist": {
+      "name": "Charli xcx",
+      "mbid": "260b6184-8828-48eb-945c-bc4cb6fc34ca",
+      "url": "https://www.last.fm/music/Charli+xcx"
+    },
+    "album": {
+      "artist": "Charli xcx",
+      "title": "Rock Music",
+      "url": "https://www.last.fm/music/Charli+xcx/Rock+Music",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/036a2afdf107b41cc835fbbe673f55df.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/036a2afdf107b41cc835fbbe673f55df.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/036a2afdf107b41cc835fbbe673f55df.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/036a2afdf107b41cc835fbbe673f55df.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

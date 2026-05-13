@@ -1,0 +1,49 @@
+{
+  "track": {
+    "name": "the band",
+    "url": "https://www.last.fm/music/glaive/_/the+band",
+    "duration": "177000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "13585",
+    "playcount": "98312",
+    "artist": {
+      "name": "glaive",
+      "mbid": "fd36f43e-5bd1-488e-b844-0e059250ef78",
+      "url": "https://www.last.fm/music/glaive"
+    },
+    "album": {
+      "artist": "Glaive & Kurtains",
+      "title": "God Save the Three",
+      "url": "https://www.last.fm/music/Glaive+&+Kurtains/God+Save+the+Three",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/b1debb5b2e6db262a791b08d40eefbec.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/b1debb5b2e6db262a791b08d40eefbec.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/b1debb5b2e6db262a791b08d40eefbec.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/b1debb5b2e6db262a791b08d40eefbec.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    },
+    "wiki": {
+      "published": "08 May 2026, 23:14",
+      "summary": "The Band is track 3 off of God Save The Three.\nThis song starts off with a dialogue snippet of glaive talking about quitting  what seems like addictions, which could be talking about glaives smoking habit. This combined with the lyrics talking about smoking fags and stealing a fag off a Chinese man could back up this claim.\nglaive’s chorus also interpolates The Killers 2003 song “Mr. Brightside”.\nKurtains’ verse talks about trying to quit [drinking?] but he quit at quitting. <a href=\"http://www.last.fm/music/glaive/_/the+band\">Read more on Last.fm</a>.",
+      "content": "The Band is track 3 off of God Save The Three.\nThis song starts off with a dialogue snippet of glaive talking about quitting  what seems like addictions, which could be talking about glaives smoking habit. This combined with the lyrics talking about smoking fags and stealing a fag off a Chinese man could back up this claim.\nglaive’s chorus also interpolates The Killers 2003 song “Mr. Brightside”.\nKurtains’ verse talks about trying to quit [drinking?] but he quit at quitting. <a href=\"http://www.last.fm/music/glaive/_/the+band\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

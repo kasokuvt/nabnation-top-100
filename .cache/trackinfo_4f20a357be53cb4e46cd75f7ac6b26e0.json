@@ -1,0 +1,45 @@
+{
+  "track": {
+    "name": "アメリカの女王",
+    "mbid": "6084302c-23ce-3481-8b17-18f86d1cf915",
+    "url": "https://www.last.fm/music/Cymbals/_/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E3%81%AE%E5%A5%B3%E7%8E%8B",
+    "duration": "186000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "20798",
+    "playcount": "117783",
+    "artist": {
+      "name": "Cymbals",
+      "mbid": "3db58207-409a-4c64-a2b2-bbcaab4d6f65",
+      "url": "https://www.last.fm/music/Cymbals"
+    },
+    "album": {
+      "artist": "Cymbals",
+      "title": "Anthology",
+      "url": "https://www.last.fm/music/Cymbals/Anthology",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/c354db796ee64f58bfce3bb881a305a9.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/c354db796ee64f58bfce3bb881a305a9.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/c354db796ee64f58bfce3bb881a305a9.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/c354db796ee64f58bfce3bb881a305a9.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

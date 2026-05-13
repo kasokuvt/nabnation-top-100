@@ -1,0 +1,44 @@
+{
+  "track": {
+    "name": "Spinning Around",
+    "url": "https://www.last.fm/music/glaive/_/Spinning+Around",
+    "duration": "161000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "12026",
+    "playcount": "81463",
+    "artist": {
+      "name": "glaive",
+      "mbid": "fd36f43e-5bd1-488e-b844-0e059250ef78",
+      "url": "https://www.last.fm/music/glaive"
+    },
+    "album": {
+      "artist": "Glaive & Kurtains",
+      "title": "God Save the Three",
+      "url": "https://www.last.fm/music/Glaive+&+Kurtains/God+Save+the+Three",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/b1debb5b2e6db262a791b08d40eefbec.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/b1debb5b2e6db262a791b08d40eefbec.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/b1debb5b2e6db262a791b08d40eefbec.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/b1debb5b2e6db262a791b08d40eefbec.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

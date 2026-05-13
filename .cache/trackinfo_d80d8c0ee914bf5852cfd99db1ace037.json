@@ -1,0 +1,49 @@
+{
+  "track": {
+    "name": "Weston Super Mare",
+    "url": "https://www.last.fm/music/glaive/_/Weston+Super+Mare",
+    "duration": "144000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "14283",
+    "playcount": "78436",
+    "artist": {
+      "name": "glaive",
+      "mbid": "fd36f43e-5bd1-488e-b844-0e059250ef78",
+      "url": "https://www.last.fm/music/glaive"
+    },
+    "album": {
+      "artist": "Glaive & Kurtains",
+      "title": "God Save the Three",
+      "url": "https://www.last.fm/music/Glaive+&+Kurtains/God+Save+the+Three",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/b1debb5b2e6db262a791b08d40eefbec.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/b1debb5b2e6db262a791b08d40eefbec.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/b1debb5b2e6db262a791b08d40eefbec.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/b1debb5b2e6db262a791b08d40eefbec.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    },
+    "wiki": {
+      "published": "08 May 2026, 01:06",
+      "summary": "Track 1 off of God Save The Three\nWeston Super Mare is a seaside town in southwest England, on the Bristol Channel. <a href=\"http://www.last.fm/music/glaive/_/Weston+Super+Mare\">Read more on Last.fm</a>.",
+      "content": "Track 1 off of God Save The Three\nWeston Super Mare is a seaside town in southwest England, on the Bristol Channel. <a href=\"http://www.last.fm/music/glaive/_/Weston+Super+Mare\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "track": {
+    "name": "Chicago",
+    "mbid": "0f7ce1c6-a72b-476b-83c6-bd995a828f7e",
+    "url": "https://www.last.fm/music/Michael+Jackson/_/Chicago",
+    "duration": "245000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "1100375",
+    "playcount": "12172766",
+    "artist": {
+      "name": "Michael Jackson",
+      "mbid": "f27ec8db-af05-4f36-916e-3d57f91ecf5e",
+      "url": "https://www.last.fm/music/Michael+Jackson"
+    },
+    "album": {
+      "artist": "Michael Jackson",
+      "title": "Xscape",
+      "url": "https://www.last.fm/music/Michael+Jackson/Xscape",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/b366cff64b1e4757c7f64e117142baa5.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/b366cff64b1e4757c7f64e117142baa5.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/b366cff64b1e4757c7f64e117142baa5.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/b366cff64b1e4757c7f64e117142baa5.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "pop",
+          "url": "https://www.last.fm/tag/pop"
+        },
+        {
+          "name": "funk",
+          "url": "https://www.last.fm/tag/funk"
+        },
+        {
+          "name": "dance",
+          "url": "https://www.last.fm/tag/dance"
+        },
+        {
+          "name": "Hip-Hop",
+          "url": "https://www.last.fm/tag/Hip-Hop"
+        },
+        {
+          "name": "rnb",
+          "url": "https://www.last.fm/tag/rnb"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "23 Apr 2023, 04:27",
+      "summary": "\"Chicago\" is a song by American recording artist Michael Jackson. The song was originally written by Cory Rooney under the title \"She Was Loving Me\". Jackson recorded the track at The Hit Factory recording studio in New York City during the Invincible album sessions between late March and mid-April 1999.\n\nThe track was ultimately not selected for Invincible and remained unreleased and unheard by the public for 15 years. Following Jackson's death, Rooney collaborated with his nephew, Taryll Jackson, on a new production in 2010. <a href=\"http://www.last.fm/music/Michael+Jackson/_/Chicago\">Read more on Last.fm</a>.",
+      "content": "\"Chicago\" is a song by American recording artist Michael Jackson. The song was originally written by Cory Rooney under the title \"She Was Loving Me\". Jackson recorded the track at The Hit Factory recording studio in New York City during the Invincible album sessions between late March and mid-April 1999.\n\nThe track was ultimately not selected for Invincible and remained unreleased and unheard by the public for 15 years. Following Jackson's death, Rooney collaborated with his nephew, Taryll Jackson, on a new production in 2010.\n\nIn 2014, the track was reworked yet again, this time by producer Timbaland. The Timbaland version of the track was ultimately included on Jackson's second posthumous album, Xscape, under the title \"Chicago\". Nine months before Xscape was officially released, Timbaland sparked rumours that \"Chicago\" was going to be the project's lead single. However, that wouldn't end up being the case, with \"Love Never Felt So Good\" going on to be the lead single instead.\n\nThe song was released on May 5, 2014 on Sony Entertainment Network as a promotional single for promoting Xscape. <a href=\"http://www.last.fm/music/Michael+Jackson/_/Chicago\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "track": {
+    "name": "Mr. Incorrect",
+    "url": "https://www.last.fm/music/Malcolm+Todd/_/Mr.+Incorrect",
+    "duration": "170000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "325575",
+    "playcount": "3277124",
+    "artist": {
+      "name": "Malcolm Todd",
+      "mbid": "6c2a79b8-2b5c-4c2d-b495-6a446811bf9d",
+      "url": "https://www.last.fm/music/Malcolm+Todd"
+    },
+    "album": {
+      "artist": "Malcolm Todd",
+      "title": "Mr. Incorrect - Single",
+      "url": "https://www.last.fm/music/Malcolm+Todd/Mr.+Incorrect+-+Single",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/4889dd932d013a0bb4088981eb3424cd.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/4889dd932d013a0bb4088981eb3424cd.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/4889dd932d013a0bb4088981eb3424cd.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/4889dd932d013a0bb4088981eb3424cd.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

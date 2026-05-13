@@ -1,0 +1,49 @@
+{
+  "track": {
+    "name": "Let's Link Up and Die",
+    "url": "https://www.last.fm/music/glaive/_/Let%27s+Link+Up+and+Die",
+    "duration": "153000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "12331",
+    "playcount": "82922",
+    "artist": {
+      "name": "glaive",
+      "mbid": "fd36f43e-5bd1-488e-b844-0e059250ef78",
+      "url": "https://www.last.fm/music/glaive"
+    },
+    "album": {
+      "artist": "Glaive & Kurtains",
+      "title": "God Save the Three",
+      "url": "https://www.last.fm/music/Glaive+&+Kurtains/God+Save+the+Three",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/b1debb5b2e6db262a791b08d40eefbec.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/b1debb5b2e6db262a791b08d40eefbec.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/b1debb5b2e6db262a791b08d40eefbec.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/b1debb5b2e6db262a791b08d40eefbec.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    },
+    "wiki": {
+      "published": "08 May 2026, 01:12",
+      "summary": "Track 8 off of God Save The Three\nLet's Link Up and Die is a solo track, featuring only glaive. It contains the lyrics ”I heard that lil’ diss you made. You need more to say to upset the boy”. Which could be a jab at artist midwxst’s track 6/17/20 which talks about glaive being a shitty friend. <a href=\"http://www.last.fm/music/glaive/_/Let%27s+Link+Up+and+Die\">Read more on Last.fm</a>.",
+      "content": "Track 8 off of God Save The Three\nLet's Link Up and Die is a solo track, featuring only glaive. It contains the lyrics ”I heard that lil’ diss you made. You need more to say to upset the boy”. Which could be a jab at artist midwxst’s track 6/17/20 which talks about glaive being a shitty friend. <a href=\"http://www.last.fm/music/glaive/_/Let%27s+Link+Up+and+Die\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}
