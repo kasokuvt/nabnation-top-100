@@ -1,0 +1,44 @@
+{
+  "track": {
+    "name": "magfest",
+    "url": "https://www.last.fm/music/femtanyl/_/magfest",
+    "duration": "194000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "5504",
+    "playcount": "19051",
+    "artist": {
+      "name": "femtanyl",
+      "mbid": "eb3c021d-e056-42d6-8fad-064205a90527",
+      "url": "https://www.last.fm/music/femtanyl"
+    },
+    "album": {
+      "artist": "femtanyl",
+      "title": "MAGFEST",
+      "url": "https://www.last.fm/music/femtanyl/MAGFEST",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/ad45011257547e09c1aea21050a667f8.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/ad45011257547e09c1aea21050a667f8.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/ad45011257547e09c1aea21050a667f8.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/ad45011257547e09c1aea21050a667f8.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

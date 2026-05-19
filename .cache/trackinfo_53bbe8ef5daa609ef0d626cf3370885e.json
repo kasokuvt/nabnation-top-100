@@ -1,0 +1,25 @@
+{
+  "track": {
+    "name": "MY JEALOUSY",
+    "url": "https://www.last.fm/music/vivi+baby/_/MY+JEALOUSY",
+    "duration": "0",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "87482",
+    "playcount": "1441724",
+    "artist": {
+      "name": "vivi baby",
+      "url": "https://www.last.fm/music/vivi+baby"
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "hyperpop",
+          "url": "https://www.last.fm/tag/hyperpop"
+        }
+      ]
+    }
+  }
+}

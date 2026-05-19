@@ -1,0 +1,45 @@
+{
+  "track": {
+    "name": "Rude Buster",
+    "mbid": "275460c9-c8b6-4275-82b4-5e90f0e17623",
+    "url": "https://www.last.fm/music/Toby+Fox/_/Rude+Buster",
+    "duration": "111000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "186716",
+    "playcount": "2055424",
+    "artist": {
+      "name": "Toby Fox",
+      "mbid": "1c26f82c-b35d-4c8e-a1f4-9c20747495c9",
+      "url": "https://www.last.fm/music/Toby+Fox"
+    },
+    "album": {
+      "artist": "Toby Fox",
+      "title": "DELTARUNE Chapter 1 Soundtrack",
+      "url": "https://www.last.fm/music/Toby+Fox/DELTARUNE+Chapter+1+Soundtrack",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/66c325b35265c953defa9bace953bd15.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/66c325b35265c953defa9bace953bd15.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/66c325b35265c953defa9bace953bd15.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/66c325b35265c953defa9bace953bd15.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

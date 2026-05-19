@@ -1,0 +1,50 @@
+{
+  "track": {
+    "name": "Firm Friends",
+    "mbid": "36b4e89c-21c3-4514-a1f4-24fba3cc7e6b",
+    "url": "https://www.last.fm/music/Drake/_/Firm+Friends",
+    "duration": "302000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "111434",
+    "playcount": "204194",
+    "artist": {
+      "name": "Drake",
+      "mbid": "9fff2f8a-21e6-47de-a2b8-7f449929d43f",
+      "url": "https://www.last.fm/music/Drake"
+    },
+    "album": {
+      "artist": "Drake",
+      "title": "ICEMAN",
+      "url": "https://www.last.fm/music/Drake/ICEMAN",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/6e943f6ba13c59abf020a3c4c2163833.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/6e943f6ba13c59abf020a3c4c2163833.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/6e943f6ba13c59abf020a3c4c2163833.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/6e943f6ba13c59abf020a3c4c2163833.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    },
+    "wiki": {
+      "published": "15 May 2026, 10:06",
+      "summary": "On “Firm Friends.” Drake explores loyalty and betrayal following the 2024 beef with Kendrick Lamar. He disses fake allies who he had helped get popular while honoring the day ones who has stuck by his die through the beef. <a href=\"http://www.last.fm/music/Drake/_/Firm+Friends\">Read more on Last.fm</a>.",
+      "content": "On “Firm Friends.” Drake explores loyalty and betrayal following the 2024 beef with Kendrick Lamar. He disses fake allies who he had helped get popular while honoring the day ones who has stuck by his die through the beef. <a href=\"http://www.last.fm/music/Drake/_/Firm+Friends\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

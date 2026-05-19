@@ -1,0 +1,71 @@
+{
+  "track": {
+    "name": "Ocean Man",
+    "mbid": "04bdc4b2-0b48-4a1f-bcdf-244e37aec79d",
+    "url": "https://www.last.fm/music/Ween/_/Ocean+Man",
+    "duration": "127000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "644411",
+    "playcount": "5429769",
+    "artist": {
+      "name": "Ween",
+      "mbid": "c0eee88b-47f2-4cd2-ac48-a045e902a432",
+      "url": "https://www.last.fm/music/Ween"
+    },
+    "album": {
+      "artist": "Ween",
+      "title": "The Mollusk",
+      "url": "https://www.last.fm/music/Ween/The+Mollusk",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/9cf878a50592e6d217ca23f3a0844ab8.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/9cf878a50592e6d217ca23f3a0844ab8.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/9cf878a50592e6d217ca23f3a0844ab8.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/9cf878a50592e6d217ca23f3a0844ab8.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "alternative",
+          "url": "https://www.last.fm/tag/alternative"
+        },
+        {
+          "name": "experimental",
+          "url": "https://www.last.fm/tag/experimental"
+        },
+        {
+          "name": "rock",
+          "url": "https://www.last.fm/tag/rock"
+        },
+        {
+          "name": "fun",
+          "url": "https://www.last.fm/tag/fun"
+        },
+        {
+          "name": "spongebob",
+          "url": "https://www.last.fm/tag/spongebob"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "12 Jul 2016, 06:21",
+      "summary": "\"Ocean Man\" is a song by American experimental rock band Ween, and is the penultimate track from their sixth album The Mollusk. It was released as the B-side to the earlier single \"Mutilated Lips\" on June 24, 1997.\n\nIt was featured during the first set of end credits in The SpongeBob SquarePants Movie, and on the film soundtrack. <a href=\"http://www.last.fm/music/Ween/_/Ocean+Man\">Read more on Last.fm</a>.",
+      "content": "\"Ocean Man\" is a song by American experimental rock band Ween, and is the penultimate track from their sixth album The Mollusk. It was released as the B-side to the earlier single \"Mutilated Lips\" on June 24, 1997.\n\nIt was featured during the first set of end credits in The SpongeBob SquarePants Movie, and on the film soundtrack. <a href=\"http://www.last.fm/music/Ween/_/Ocean+Man\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

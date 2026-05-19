@@ -1,0 +1,45 @@
+{
+  "track": {
+    "name": "Like What?",
+    "mbid": "05dc8495-c8ed-4d05-93df-5921e2baa690",
+    "url": "https://www.last.fm/music/Lil+Shine/_/Like+What%3F",
+    "duration": "132000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "12533",
+    "playcount": "44526",
+    "artist": {
+      "name": "Lil Shine",
+      "mbid": "616a541a-6a4c-46a6-90b2-aef08df4e722",
+      "url": "https://www.last.fm/music/Lil+Shine"
+    },
+    "album": {
+      "artist": "Lil Shine",
+      "title": "Get Rich or Die Sippin'",
+      "url": "https://www.last.fm/music/Lil+Shine/Get+Rich+or+Die+Sippin%27",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/c6e2fc5bb8898e0dcb1ea0185da48b9d.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/c6e2fc5bb8898e0dcb1ea0185da48b9d.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/c6e2fc5bb8898e0dcb1ea0185da48b9d.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/c6e2fc5bb8898e0dcb1ea0185da48b9d.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

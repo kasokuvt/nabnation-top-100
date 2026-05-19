@@ -1,0 +1,50 @@
+{
+  "track": {
+    "name": "Don’t Worry",
+    "mbid": "48e94ae8-8363-40e4-a34c-1a0e42d087a1",
+    "url": "https://www.last.fm/music/Drake/_/Don%E2%80%99t+Worry",
+    "duration": "281000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "115655",
+    "playcount": "211012",
+    "artist": {
+      "name": "Drake",
+      "mbid": "9fff2f8a-21e6-47de-a2b8-7f449929d43f",
+      "url": "https://www.last.fm/music/Drake"
+    },
+    "album": {
+      "artist": "Drake",
+      "title": "ICEMAN",
+      "url": "https://www.last.fm/music/Drake/ICEMAN",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/6e943f6ba13c59abf020a3c4c2163833.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/6e943f6ba13c59abf020a3c4c2163833.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/6e943f6ba13c59abf020a3c4c2163833.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/6e943f6ba13c59abf020a3c4c2163833.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    },
+    "wiki": {
+      "published": "15 May 2026, 10:02",
+      "summary": "A four-minute R&B track, “Don’t Worry” is Drake expressing his vulnerability, amidst the feelings of confusion he experiences.\n\nFurthermore, the track paints a picture of longingness; the melancholy Drake exudes in his laid-back songs. <a href=\"http://www.last.fm/music/Drake/_/Don%E2%80%99t+Worry\">Read more on Last.fm</a>.",
+      "content": "A four-minute R&B track, “Don’t Worry” is Drake expressing his vulnerability, amidst the feelings of confusion he experiences.\n\nFurthermore, the track paints a picture of longingness; the melancholy Drake exudes in his laid-back songs. <a href=\"http://www.last.fm/music/Drake/_/Don%E2%80%99t+Worry\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "track": {
+    "name": "Laputa",
+    "mbid": "01531289-e5a2-4046-af72-4f9fa01e7e29",
+    "url": "https://www.last.fm/music/Panchiko/_/Laputa",
+    "duration": "163000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "682618",
+    "playcount": "9853149",
+    "artist": {
+      "name": "Panchiko",
+      "mbid": "8f64d6ea-3f6c-408c-b2e0-e5334b28dae9",
+      "url": "https://www.last.fm/music/Panchiko"
+    },
+    "album": {
+      "artist": "Panchiko",
+      "title": "D>E>A>T>H>M>E>T>A>L",
+      "url": "https://www.last.fm/music/Panchiko/D%3EE%3EA%3ET%3EH%3EM%3EE%3ET%3EA%3EL",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/6fa12c3f4bf011241d45189a0f82a338.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/6fa12c3f4bf011241d45189a0f82a338.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/6fa12c3f4bf011241d45189a0f82a338.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/6fa12c3f4bf011241d45189a0f82a338.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "post-Britpop",
+          "url": "https://www.last.fm/tag/post-Britpop"
+        },
+        {
+          "name": "indie rock",
+          "url": "https://www.last.fm/tag/indie+rock"
+        },
+        {
+          "name": "dream pop",
+          "url": "https://www.last.fm/tag/dream+pop"
+        },
+        {
+          "name": "downtempo",
+          "url": "https://www.last.fm/tag/downtempo"
+        },
+        {
+          "name": "slowcore",
+          "url": "https://www.last.fm/tag/slowcore"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "01 Apr 2023, 22:54",
+      "summary": "The song’s title and chorus reference Castle in the Sky, a 1986 film directed by Hayao Miyazaki, the first such film to be produced by Studio Ghibli.\n\n\"Laputa is all about yearning for something you thought was lost and you would never see again.\"\n\n— OWAIN, via Corduroy Threads <a href=\"http://www.last.fm/music/Panchiko/_/Laputa\">Read more on Last.fm</a>.",
+      "content": "The song’s title and chorus reference Castle in the Sky, a 1986 film directed by Hayao Miyazaki, the first such film to be produced by Studio Ghibli.\n\n\"Laputa is all about yearning for something you thought was lost and you would never see again.\"\n\n— OWAIN, via Corduroy Threads <a href=\"http://www.last.fm/music/Panchiko/_/Laputa\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

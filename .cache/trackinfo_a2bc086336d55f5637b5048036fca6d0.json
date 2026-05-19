@@ -1,0 +1,71 @@
+{
+  "track": {
+    "name": "Step On Me",
+    "mbid": "1f2c4450-9731-4f08-8ab0-920fede6c56f",
+    "url": "https://www.last.fm/music/The+Cardigans/_/Step+On+Me",
+    "duration": "227000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "944271",
+    "playcount": "13210558",
+    "artist": {
+      "name": "The Cardigans",
+      "mbid": "3e55d51d-687f-4a9d-af96-2fabccf802e5",
+      "url": "https://www.last.fm/music/The+Cardigans"
+    },
+    "album": {
+      "artist": "The Cardigans",
+      "title": "First Band on the Moon",
+      "url": "https://www.last.fm/music/The+Cardigans/First+Band+on+the+Moon",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/77e3006d4dadf39309660b4ead44bb3a.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/77e3006d4dadf39309660b4ead44bb3a.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/77e3006d4dadf39309660b4ead44bb3a.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/77e3006d4dadf39309660b4ead44bb3a.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "pop",
+          "url": "https://www.last.fm/tag/pop"
+        },
+        {
+          "name": "rock",
+          "url": "https://www.last.fm/tag/rock"
+        },
+        {
+          "name": "female vocalists",
+          "url": "https://www.last.fm/tag/female+vocalists"
+        },
+        {
+          "name": "swedish",
+          "url": "https://www.last.fm/tag/swedish"
+        },
+        {
+          "name": "alternative",
+          "url": "https://www.last.fm/tag/alternative"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "31 Jan 2023, 19:56",
+      "summary": "This song is a melancholy look at a codependent relationship, where Nina Persson sings from the perspective of a woman too attached to her significant other, who would let them do anything to her as long as they don’t leave. It follows the tone of other tracks, such as “Lovefool” from The Cardigans' third album, First Band on the Moon. <a href=\"http://www.last.fm/music/The+Cardigans/_/Step+On+Me\">Read more on Last.fm</a>.",
+      "content": "This song is a melancholy look at a codependent relationship, where Nina Persson sings from the perspective of a woman too attached to her significant other, who would let them do anything to her as long as they don’t leave. It follows the tone of other tracks, such as “Lovefool” from The Cardigans' third album, First Band on the Moon. <a href=\"http://www.last.fm/music/The+Cardigans/_/Step+On+Me\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

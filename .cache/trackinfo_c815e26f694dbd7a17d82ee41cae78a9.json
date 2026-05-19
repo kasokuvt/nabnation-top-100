@@ -1,0 +1,49 @@
+{
+  "track": {
+    "name": "Rusty Intro",
+    "url": "https://www.last.fm/music/Drake/_/Rusty+Intro",
+    "duration": "62000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "90978",
+    "playcount": "143575",
+    "artist": {
+      "name": "Drake",
+      "mbid": "9fff2f8a-21e6-47de-a2b8-7f449929d43f",
+      "url": "https://www.last.fm/music/Drake"
+    },
+    "album": {
+      "artist": "Drake",
+      "title": "Habibti",
+      "url": "https://www.last.fm/music/Drake/Habibti",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/36aef3f8dbb1cbb48b0e71bf089347b5.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/36aef3f8dbb1cbb48b0e71bf089347b5.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/36aef3f8dbb1cbb48b0e71bf089347b5.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/36aef3f8dbb1cbb48b0e71bf089347b5.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    },
+    "wiki": {
+      "published": "15 May 2026, 11:01",
+      "summary": "Rusty Intro is the opening track to HABIBTI — one of the two companion projects released alongside MAID OF HONOUR and highly anticipated album ICEMAN.\n\nThe song sets a reflective and emotionally intoxicated tone for the album, blending regret, loneliness, lust, and self awareness over a late night atmosphere driven by club culture and emotional vulnerability. <a href=\"http://www.last.fm/music/Drake/_/Rusty+Intro\">Read more on Last.fm</a>.",
+      "content": "Rusty Intro is the opening track to HABIBTI — one of the two companion projects released alongside MAID OF HONOUR and highly anticipated album ICEMAN.\n\nThe song sets a reflective and emotionally intoxicated tone for the album, blending regret, loneliness, lust, and self awareness over a late night atmosphere driven by club culture and emotional vulnerability. <a href=\"http://www.last.fm/music/Drake/_/Rusty+Intro\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

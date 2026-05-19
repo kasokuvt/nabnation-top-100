@@ -1,0 +1,71 @@
+{
+  "track": {
+    "name": "Absolute Territory",
+    "mbid": "2578db7d-06df-336c-b703-26a09fecd750",
+    "url": "https://www.last.fm/music/Ken+Ashcorp/_/Absolute+Territory",
+    "duration": "268000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "201842",
+    "playcount": "3295470",
+    "artist": {
+      "name": "Ken Ashcorp",
+      "mbid": "4135b794-b15e-492f-bf0b-6fccfc1c0b8a",
+      "url": "https://www.last.fm/music/Ken+Ashcorp"
+    },
+    "album": {
+      "artist": "Ken Ashcorp",
+      "title": "Absolute Territory",
+      "url": "https://www.last.fm/music/Ken+Ashcorp/Absolute+Territory",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/ff44575b191445a589a2dc8782cdb8bc.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/ff44575b191445a589a2dc8782cdb8bc.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/ff44575b191445a589a2dc8782cdb8bc.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/ff44575b191445a589a2dc8782cdb8bc.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "degeneracy",
+          "url": "https://www.last.fm/tag/degeneracy"
+        },
+        {
+          "name": "alternative",
+          "url": "https://www.last.fm/tag/alternative"
+        },
+        {
+          "name": "guilty pleasure",
+          "url": "https://www.last.fm/tag/guilty+pleasure"
+        },
+        {
+          "name": "new rave",
+          "url": "https://www.last.fm/tag/new+rave"
+        },
+        {
+          "name": "ken ashcorp",
+          "url": "https://www.last.fm/tag/ken+ashcorp"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "25 Aug 2025, 23:54",
+      "summary": "less than the skirt, not quite the stocking <a href=\"http://www.last.fm/music/Ken+Ashcorp/_/Absolute+Territory\">Read more on Last.fm</a>.",
+      "content": "less than the skirt, not quite the stocking <a href=\"http://www.last.fm/music/Ken+Ashcorp/_/Absolute+Territory\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

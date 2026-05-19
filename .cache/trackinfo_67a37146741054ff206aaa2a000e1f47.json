@@ -1,0 +1,65 @@
+{
+  "track": {
+    "name": "Static",
+    "mbid": "c5819037-f9ae-496f-8d95-82728d9217e2",
+    "url": "https://www.last.fm/music/Flavor+Foley/_/Static",
+    "duration": "244000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "84647",
+    "playcount": "1778981",
+    "artist": {
+      "name": "Flavor Foley",
+      "url": "https://www.last.fm/music/Flavor+Foley"
+    },
+    "album": {
+      "artist": "Flavor Foley",
+      "title": "Static",
+      "url": "https://www.last.fm/music/Flavor+Foley/Static",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/d0be067a658778de01b859bdda59b6b7.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/d0be067a658778de01b859bdda59b6b7.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/d0be067a658778de01b859bdda59b6b7.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/d0be067a658778de01b859bdda59b6b7.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "vocaloid",
+          "url": "https://www.last.fm/tag/vocaloid"
+        },
+        {
+          "name": "pop",
+          "url": "https://www.last.fm/tag/pop"
+        },
+        {
+          "name": "english",
+          "url": "https://www.last.fm/tag/english"
+        },
+        {
+          "name": "sad",
+          "url": "https://www.last.fm/tag/sad"
+        },
+        {
+          "name": "nostalgia",
+          "url": "https://www.last.fm/tag/nostalgia"
+        }
+      ]
+    }
+  }
+}

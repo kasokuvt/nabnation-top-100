@@ -1,0 +1,66 @@
+{
+  "track": {
+    "name": "Charlie's Inferno",
+    "mbid": "687eb108-6a2e-3982-ace8-672e4dd14e68",
+    "url": "https://www.last.fm/music/That+Handsome+Devil/_/Charlie%27s+Inferno",
+    "duration": "224000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "242871",
+    "playcount": "3747828",
+    "artist": {
+      "name": "That Handsome Devil",
+      "mbid": "dc0d5e24-0ab3-4711-a342-a7fc92b35071",
+      "url": "https://www.last.fm/music/That+Handsome+Devil"
+    },
+    "album": {
+      "artist": "That Handsome Devil",
+      "title": "The heart goes to heaven, The head goes to hell",
+      "url": "https://www.last.fm/music/That+Handsome+Devil/The+heart+goes+to+heaven,+The+head+goes+to+hell",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/bf63bdf6b25526d680147dec5690f35d.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/bf63bdf6b25526d680147dec5690f35d.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/bf63bdf6b25526d680147dec5690f35d.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/bf63bdf6b25526d680147dec5690f35d.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "indie",
+          "url": "https://www.last.fm/tag/indie"
+        },
+        {
+          "name": "alternative rock",
+          "url": "https://www.last.fm/tag/alternative+rock"
+        },
+        {
+          "name": "great",
+          "url": "https://www.last.fm/tag/great"
+        },
+        {
+          "name": "baroque",
+          "url": "https://www.last.fm/tag/baroque"
+        },
+        {
+          "name": "indie rock",
+          "url": "https://www.last.fm/tag/indie+rock"
+        }
+      ]
+    }
+  }
+}

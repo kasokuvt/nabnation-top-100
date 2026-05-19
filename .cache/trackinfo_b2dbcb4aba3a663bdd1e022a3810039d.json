@@ -1,0 +1,45 @@
+{
+  "track": {
+    "name": "Just Me N' My Cup",
+    "mbid": "b05da3cf-f6b1-44df-8f9e-83d532815fb4",
+    "url": "https://www.last.fm/music/Lil+Shine/_/Just+Me+N%27+My+Cup",
+    "duration": "122000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "10696",
+    "playcount": "38813",
+    "artist": {
+      "name": "Lil Shine",
+      "mbid": "616a541a-6a4c-46a6-90b2-aef08df4e722",
+      "url": "https://www.last.fm/music/Lil+Shine"
+    },
+    "album": {
+      "artist": "Lil Shine",
+      "title": "Get Rich or Die Sippin'",
+      "url": "https://www.last.fm/music/Lil+Shine/Get+Rich+or+Die+Sippin%27",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/c6e2fc5bb8898e0dcb1ea0185da48b9d.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/c6e2fc5bb8898e0dcb1ea0185da48b9d.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/c6e2fc5bb8898e0dcb1ea0185da48b9d.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/c6e2fc5bb8898e0dcb1ea0185da48b9d.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

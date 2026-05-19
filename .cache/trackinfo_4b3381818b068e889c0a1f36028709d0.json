@@ -1,0 +1,50 @@
+{
+  "track": {
+    "name": "WNBA",
+    "mbid": "57dc483c-05e3-4fc9-ba8f-370e9000dcb1",
+    "url": "https://www.last.fm/music/Drake/_/WNBA",
+    "duration": "178000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "100115",
+    "playcount": "187236",
+    "artist": {
+      "name": "Drake",
+      "mbid": "9fff2f8a-21e6-47de-a2b8-7f449929d43f",
+      "url": "https://www.last.fm/music/Drake"
+    },
+    "album": {
+      "artist": "Drake",
+      "title": "Habibti",
+      "url": "https://www.last.fm/music/Drake/Habibti",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/36aef3f8dbb1cbb48b0e71bf089347b5.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/36aef3f8dbb1cbb48b0e71bf089347b5.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/36aef3f8dbb1cbb48b0e71bf089347b5.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/36aef3f8dbb1cbb48b0e71bf089347b5.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    },
+    "wiki": {
+      "published": "15 May 2026, 11:02",
+      "summary": "“WNBA” is a song by Drake that centers on a long-distance relationship affected by constant travel and emotional uncertainty.\n\nThroughout the track, Drake talks about a partner who frequently travels from place to place, creating emotional distance between the two. Despite this, Drake attempts to keep the relationship together by supporting and reassuring his partner.\n\nThe song’s title references the professional basketball league, the Women’s National Basketball Association. <a href=\"http://www.last.fm/music/Drake/_/WNBA\">Read more on Last.fm</a>.",
+      "content": "“WNBA” is a song by Drake that centers on a long-distance relationship affected by constant travel and emotional uncertainty.\n\nThroughout the track, Drake talks about a partner who frequently travels from place to place, creating emotional distance between the two. Despite this, Drake attempts to keep the relationship together by supporting and reassuring his partner.\n\nThe song’s title references the professional basketball league, the Women’s National Basketball Association. <a href=\"http://www.last.fm/music/Drake/_/WNBA\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

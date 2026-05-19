@@ -1,0 +1,45 @@
+{
+  "track": {
+    "name": "¥ (Yen)",
+    "mbid": "a76f10bb-0080-4c1a-b545-8e43733b71a1",
+    "url": "https://www.last.fm/music/JPEGMAFIA/_/%C2%A5+(Yen)",
+    "duration": "120000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "18925",
+    "playcount": "53826",
+    "artist": {
+      "name": "JPEGMAFIA",
+      "mbid": "c42e60f4-4520-4954-b6e4-82bbdf532c11",
+      "url": "https://www.last.fm/music/JPEGMAFIA"
+    },
+    "album": {
+      "artist": "JPEGMAFIA",
+      "title": "¥ (Yen)",
+      "url": "https://www.last.fm/music/JPEGMAFIA/%C2%A5+(Yen)",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/652330dd45f061085c2bdf7b829e37c8.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/652330dd45f061085c2bdf7b829e37c8.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/652330dd45f061085c2bdf7b829e37c8.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/652330dd45f061085c2bdf7b829e37c8.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}
