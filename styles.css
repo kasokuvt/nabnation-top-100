@@ -218,11 +218,10 @@ body{
   color: var(--muted);
   font-size: 13px;
   display:flex;
-  gap:10px;
+  gap:14px;
   justify-content:flex-end;
-  flex-wrap:nowrap;
+  flex-wrap:wrap;
   align-items:center;
-  white-space: nowrap;
 }
 
 .stats3 b{
