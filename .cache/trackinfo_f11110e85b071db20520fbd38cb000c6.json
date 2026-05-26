@@ -1,0 +1,45 @@
+{
+  "track": {
+    "name": "Versailles Flow",
+    "mbid": "3f8dd98c-0071-49ff-a37f-52bc35465437",
+    "url": "https://www.last.fm/music/Bladee/_/Versailles+Flow",
+    "duration": "217000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "46617",
+    "playcount": "123383",
+    "artist": {
+      "name": "Bladee",
+      "mbid": "cd689e77-dfdd-4f81-b50c-5e5a3f5e38a4",
+      "url": "https://www.last.fm/music/Bladee"
+    },
+    "album": {
+      "artist": "Bladee",
+      "title": "Sulfur Surfer",
+      "url": "https://www.last.fm/music/Bladee/Sulfur+Surfer",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/b2e1238404e6ea5aa9079e376446b777.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/b2e1238404e6ea5aa9079e376446b777.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/b2e1238404e6ea5aa9079e376446b777.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/b2e1238404e6ea5aa9079e376446b777.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

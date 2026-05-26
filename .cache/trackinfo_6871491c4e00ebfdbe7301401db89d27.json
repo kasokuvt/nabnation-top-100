@@ -1,0 +1,45 @@
+{
+  "track": {
+    "name": "Durins Bane",
+    "mbid": "32a818dc-7fc5-4ed9-9f74-dbf4574e49c4",
+    "url": "https://www.last.fm/music/Bladee/_/Durins+Bane",
+    "duration": "183000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "31489",
+    "playcount": "100046",
+    "artist": {
+      "name": "Bladee",
+      "mbid": "cd689e77-dfdd-4f81-b50c-5e5a3f5e38a4",
+      "url": "https://www.last.fm/music/Bladee"
+    },
+    "album": {
+      "artist": "Bladee",
+      "title": "Sulfur Surfer",
+      "url": "https://www.last.fm/music/Bladee/Sulfur+Surfer",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/b2e1238404e6ea5aa9079e376446b777.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/b2e1238404e6ea5aa9079e376446b777.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/b2e1238404e6ea5aa9079e376446b777.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/b2e1238404e6ea5aa9079e376446b777.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

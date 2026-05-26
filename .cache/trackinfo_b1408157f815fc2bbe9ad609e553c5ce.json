@@ -1,0 +1,39 @@
+{
+  "track": {
+    "name": "Farmcore",
+    "url": "https://www.last.fm/music/Joost/_/Farmcore",
+    "duration": "0",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "55690",
+    "playcount": "419394",
+    "artist": {
+      "name": "Joost",
+      "mbid": "08784766-8643-4b8e-bd0b-c61399ff9539",
+      "url": "https://www.last.fm/music/Joost"
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "HORSE",
+          "url": "https://www.last.fm/tag/HORSE"
+        },
+        {
+          "name": "Gabber",
+          "url": "https://www.last.fm/tag/Gabber"
+        },
+        {
+          "name": "horsegiirl",
+          "url": "https://www.last.fm/tag/horsegiirl"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "01 Jan 2026, 16:49",
+      "summary": "they agree that horses are better <a href=\"http://www.last.fm/music/Joost/_/Farmcore\">Read more on Last.fm</a>.",
+      "content": "they agree that horses are better <a href=\"http://www.last.fm/music/Joost/_/Farmcore\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

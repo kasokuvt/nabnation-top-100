@@ -1,0 +1,21 @@
+{
+  "track": {
+    "name": "Mask On",
+    "url": "https://www.last.fm/music/JPEGMAFIA/_/Mask+On",
+    "duration": "0",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "32307",
+    "playcount": "56836",
+    "artist": {
+      "name": "JPEGMAFIA",
+      "mbid": "c42e60f4-4520-4954-b6e4-82bbdf532c11",
+      "url": "https://www.last.fm/music/JPEGMAFIA"
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

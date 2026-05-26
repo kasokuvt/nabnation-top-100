@@ -1,0 +1,45 @@
+{
+  "track": {
+    "name": "Summer Fling",
+    "mbid": "0dba6d8c-f4c8-4961-8581-b772a3fc18e8",
+    "url": "https://www.last.fm/music/Leroy/_/Summer+Fling",
+    "duration": "241000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "3124",
+    "playcount": "24307",
+    "artist": {
+      "name": "Leroy",
+      "mbid": "17ad5376-5ef7-4519-bae7-67bf3943ac39",
+      "url": "https://www.last.fm/music/Leroy"
+    },
+    "album": {
+      "artist": "Leroy",
+      "title": "Summer Fling",
+      "url": "https://www.last.fm/music/Leroy/Summer+Fling",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/bdb2724d0d11e416d697221c4c9c8dc5.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/bdb2724d0d11e416d697221c4c9c8dc5.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/bdb2724d0d11e416d697221c4c9c8dc5.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/bdb2724d0d11e416d697221c4c9c8dc5.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

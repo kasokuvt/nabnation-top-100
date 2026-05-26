@@ -1,0 +1,43 @@
+{
+  "track": {
+    "name": "Kwik Flip | YTPMV",
+    "url": "https://www.last.fm/music/90%C2%B4s+or+20%C2%B4s+cartoons/_/Kwik+Flip+%7C+YTPMV",
+    "duration": "169000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "5460",
+    "playcount": "58134",
+    "artist": {
+      "name": "90´s or 20´s cartoons",
+      "url": "https://www.last.fm/music/90%C2%B4s+or+20%C2%B4s+cartoons"
+    },
+    "album": {
+      "artist": "90´s or 20´s cartoons",
+      "title": "Kwik Flip | YTPMV",
+      "url": "https://www.last.fm/music/90%C2%B4s+or+20%C2%B4s+cartoons/Kwik+Flip+%7C+YTPMV",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/82c3394c1a36422d8f6fcda24b479254.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/82c3394c1a36422d8f6fcda24b479254.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/82c3394c1a36422d8f6fcda24b479254.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/82c3394c1a36422d8f6fcda24b479254.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

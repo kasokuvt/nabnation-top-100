@@ -1,0 +1,21 @@
+{
+  "track": {
+    "name": "head",
+    "url": "https://www.last.fm/music/JPEGMAFIA/_/head",
+    "duration": "0",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "39708",
+    "playcount": "66269",
+    "artist": {
+      "name": "JPEGMAFIA",
+      "mbid": "c42e60f4-4520-4954-b6e4-82bbdf532c11",
+      "url": "https://www.last.fm/music/JPEGMAFIA"
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

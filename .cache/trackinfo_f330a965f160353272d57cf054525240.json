@@ -1,0 +1,45 @@
+{
+  "track": {
+    "name": "SS26",
+    "mbid": "15c6db57-5ba5-4aa9-a769-95bb473ae1a8",
+    "url": "https://www.last.fm/music/Charli+xcx/_/SS26",
+    "duration": "167000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "116738",
+    "playcount": "363656",
+    "artist": {
+      "name": "Charli xcx",
+      "mbid": "260b6184-8828-48eb-945c-bc4cb6fc34ca",
+      "url": "https://www.last.fm/music/Charli+xcx"
+    },
+    "album": {
+      "artist": "Charli xcx",
+      "title": "SS26",
+      "url": "https://www.last.fm/music/Charli+xcx/SS26",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/ab9c67053111647333dc18acc1314d21.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/ab9c67053111647333dc18acc1314d21.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/ab9c67053111647333dc18acc1314d21.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/ab9c67053111647333dc18acc1314d21.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

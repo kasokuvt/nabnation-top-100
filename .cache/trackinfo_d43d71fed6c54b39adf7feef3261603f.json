@@ -1,0 +1,44 @@
+{
+  "track": {
+    "name": "Homerunner",
+    "mbid": "6f4db8c3-c39b-4e7d-a225-867c4d255723",
+    "url": "https://www.last.fm/music/Slayr/_/Homerunner",
+    "duration": "156000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "16518",
+    "playcount": "75804",
+    "artist": {
+      "name": "Slayr",
+      "url": "https://www.last.fm/music/Slayr"
+    },
+    "album": {
+      "artist": "Slayr",
+      "title": "Homerunner",
+      "url": "https://www.last.fm/music/Slayr/Homerunner",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/c5ebb467b5b34f1c5648dd85bcb4ba1d.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/c5ebb467b5b34f1c5648dd85bcb4ba1d.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/c5ebb467b5b34f1c5648dd85bcb4ba1d.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/c5ebb467b5b34f1c5648dd85bcb4ba1d.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}
