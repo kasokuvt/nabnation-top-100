@@ -67,20 +67,6 @@ function cleanTitle(raw) {
   return s;
 }
 
-function parsePoints(raw) {
-  // Supports:
-  // "(416.0 pts)"
-  // "416 pts"
-  // etc
-  const s = String(raw ?? "");
-
-  const m = s.match(/([\d,.]+)\s*pts?/i);
-  if (!m) return null;
-
-  const num = parseFloat(m[1].replace(/,/g, ""));
-  return Number.isFinite(num) ? num : null;
-}
-
 function songKey(title, artist) {
   const t = cleanTitle(title).toLowerCase();
   const a = cleanArtistName(artist).toLowerCase();
@@ -286,10 +272,6 @@ function deriveEntryForWeek(rawEntry, targetWeek, prevWeekRanks, seenStats, hist
   const title = cleanTitle(rawEntry.title);
   const artist = cleanArtistName(rawEntry.artist);
   const rank = Number(rawEntry.rank);
-  const points =
-    Number.isFinite(rawEntry.points)
-      ? Number(rawEntry.points)
-      : parsePoints(rawEntry.raw || rawEntry.line || "");
 
   const key = songKey(title, artist);
 
@@ -332,7 +314,6 @@ function deriveEntryForWeek(rawEntry, targetWeek, prevWeekRanks, seenStats, hist
     rank,
     title,
     artist,
-    points,
     cover,
     movement,
     lastWeek: lw,
@@ -372,10 +353,6 @@ function buildExpandHtml(entry) {
   const peak = escapeHtml(fmtRankOrDash(entry.peak));
   const weeks = escapeHtml(fmtRankOrDash(entry.weeks));
 
-  const points = entry.points != null
-    ? escapeHtml(entry.points.toFixed(1))
-    : "—";
-
   const debut = escapeHtml(entry.debutDate ?? "—");
   const peakDate = escapeHtml(entry.peakDate ?? "—");
 
@@ -391,7 +368,6 @@ function buildExpandHtml(entry) {
           <span>LW <b>${lw}</b></span>
           <span>Peak <b>${peak}</b></span>
           <span>Weeks <b>${weeks}</b></span>
-          <span>Pts <b>${points}</b></span>
         </div>
 
         <div class="expandLinks">
@@ -687,12 +663,8 @@ async function main() {
             <span>LW <b>${escapeHtml(fmtRankOrDash(e.lastWeek))}</b></span>
             <span>Peak <b>${escapeHtml(fmtRankOrDash(e.peak))}</b></span>
             <span>Weeks <b>${escapeHtml(fmtRankOrDash(e.weeks))}</b></span>
-            <span>Pts <b>${
-              e.points != null
-                ? escapeHtml(e.points.toFixed(1))
-                : "—"
-            }</b></span>
           </div>
+        </div>
 
         <div class="expand" id="${ariaId}"></div>
       </li>
