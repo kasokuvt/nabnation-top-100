@@ -111,6 +111,19 @@ function setupArtistSearch(catalog) {
   });
 }
 
+function computeTotalPoints(history) {
+  if (!Array.isArray(history)) return 0;
+
+  let total = 0;
+
+  for (const h of history) {
+    const pts = Number(h.points);
+    if (Number.isFinite(pts)) total += pts;
+  }
+
+  return total;
+}
+
 function computeStatsFromHistory(history) {
   const h = Array.isArray(history) ? history : [];
   if (h.length === 0) {
@@ -130,11 +143,16 @@ function computeStatsFromHistory(history) {
   let peakDate = sorted.find(r => r.rank === peakPos)?.week || sorted[0].week;
 
   const weeks = sorted.length;
+  
+  const totalPoints = sorted.reduce((acc, r) => {
+    const pts = Number(r.points);
+    return acc + (Number.isFinite(pts) ? pts : 0);
+  }, 0);
 
   // For expand panel we want newest->oldest
   const newestFirst = [...sorted].sort((a, b) => String(b.week).localeCompare(String(a.week)) || (a.rank - b.rank));
 
-  return { debut, peakPos, peakDate, weeks, rows: newestFirst };
+  return { debut, peakPos, peakDate, weeks, totalPoints, rows: newestFirst };
 }
 
 function buildHistoryHtml(rows) {
@@ -174,6 +192,9 @@ function rowHtml(songId, song, artistName, stats) {
         <div class="aCell center"><b class="strong">#${esc(stats.peakPos)}</b></div>
         <div class="aCell center">${esc(stats.peakDate)}</div>
         <div class="aCell center"><b class="strong">${esc(stats.weeks)}</b></div>
+        <div class="aCell center">
+          <b class="strong">${esc(stats.totalPoints.toFixed(1))}</b>
+        </div>
       </div>
 
       <div class="expand" id="exp_${esc(songId)}"></div>
@@ -269,6 +290,7 @@ async function main() {
               <span>Peak <b>#${esc(stats.peakPos)}</b></span>
               <span>Peak Date <b>${esc(stats.peakDate)}</b></span>
               <span>Weeks <b>${esc(stats.weeks)}</b></span>
+              <span>Pts <b>${esc(stats.totalPoints.toFixed(1))}</b></span>
             </div>
             <div class="expandLinks">
               <a href="${artistUrl(name)}">Refresh artist page</a>
