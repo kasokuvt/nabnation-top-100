@@ -1,0 +1,71 @@
+{
+  "track": {
+    "name": "Starting Over",
+    "mbid": "18e52d23-2bf4-391c-8f68-d2befb8cd06b",
+    "url": "https://www.last.fm/music/LSD+and+the+Search+for+God/_/Starting+Over",
+    "duration": "304000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "649165",
+    "playcount": "10112858",
+    "artist": {
+      "name": "LSD and the Search for God",
+      "mbid": "0e24f776-4158-4934-8b78-b4b1edb3ad62",
+      "url": "https://www.last.fm/music/LSD+and+the+Search+for+God"
+    },
+    "album": {
+      "artist": "LSD and the Search for God",
+      "title": "LSD and the Search For God",
+      "url": "https://www.last.fm/music/LSD+and+the+Search+for+God/LSD+and+the+Search+For+God",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/ee2a3ca4bbb25f3c9ea0e36a82d0afa3.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/ee2a3ca4bbb25f3c9ea0e36a82d0afa3.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/ee2a3ca4bbb25f3c9ea0e36a82d0afa3.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/ee2a3ca4bbb25f3c9ea0e36a82d0afa3.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "shoegaze",
+          "url": "https://www.last.fm/tag/shoegaze"
+        },
+        {
+          "name": "dream pop",
+          "url": "https://www.last.fm/tag/dream+pop"
+        },
+        {
+          "name": "WSUM 91.7 FM Madison",
+          "url": "https://www.last.fm/tag/WSUM+91.7+FM+Madison"
+        },
+        {
+          "name": "shoegaze is sex",
+          "url": "https://www.last.fm/tag/shoegaze+is+sex"
+        },
+        {
+          "name": "The Meltdown with Avery Chheda",
+          "url": "https://www.last.fm/tag/The+Meltdown+with+Avery+Chheda"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "02 Oct 2022, 19:24",
+      "summary": "If you like your pop hooks slow-cooked in shoegaze-gravy, have we got the song for you. LSD and the Search for God are as enigmatic as their name, which gives “Starting Over” and their eponymous EP a mystique reserved for the rarest of grimoires. Best enjoyed with headphones securely fastened, “Starting Over” invites you to get lost—and found—inside yourself. <a href=\"http://www.last.fm/music/LSD+and+the+Search+for+God/_/Starting+Over\">Read more on Last.fm</a>.",
+      "content": "If you like your pop hooks slow-cooked in shoegaze-gravy, have we got the song for you. LSD and the Search for God are as enigmatic as their name, which gives “Starting Over” and their eponymous EP a mystique reserved for the rarest of grimoires. Best enjoyed with headphones securely fastened, “Starting Over” invites you to get lost—and found—inside yourself. <a href=\"http://www.last.fm/music/LSD+and+the+Search+for+God/_/Starting+Over\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

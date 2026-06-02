@@ -1,0 +1,71 @@
+{
+  "track": {
+    "name": "Bad",
+    "mbid": "00d3b048-94f8-3f51-a52c-4bc1be3ca5ed",
+    "url": "https://www.last.fm/music/Michael+Jackson/_/Bad",
+    "duration": "247000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "920527",
+    "playcount": "5343981",
+    "artist": {
+      "name": "Michael Jackson",
+      "mbid": "f27ec8db-af05-4f36-916e-3d57f91ecf5e",
+      "url": "https://www.last.fm/music/Michael+Jackson"
+    },
+    "album": {
+      "artist": "Michael Jackson",
+      "title": "The Essential Michael Jackson",
+      "url": "https://www.last.fm/music/Michael+Jackson/The+Essential+Michael+Jackson",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/36577e77dabeb2aed157e98c8924d436.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/36577e77dabeb2aed157e98c8924d436.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/36577e77dabeb2aed157e98c8924d436.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/36577e77dabeb2aed157e98c8924d436.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "pop",
+          "url": "https://www.last.fm/tag/pop"
+        },
+        {
+          "name": "80s",
+          "url": "https://www.last.fm/tag/80s"
+        },
+        {
+          "name": "michael jackson",
+          "url": "https://www.last.fm/tag/michael+jackson"
+        },
+        {
+          "name": "dance",
+          "url": "https://www.last.fm/tag/dance"
+        },
+        {
+          "name": "rock",
+          "url": "https://www.last.fm/tag/rock"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "07 Nov 2008, 21:36",
+      "summary": "Bad was a 1987 hit recording by American singer Michael Jackson. The song was the second of five Billboard Hot 100 number-one hit singles from the album Bad, and was his seventh number-one single overall. Michael Jackson stated: \"'Bad' is a song about the street. It's about this kid ... who gets to go away to a private school. He comes back to the old neighborhood and his old friends start giving him trouble. He sings, 'I'm bad, you're bad, who's bad, who's the best?' He's saying when you're strong and good, then you're bad. <a href=\"http://www.last.fm/music/Michael+Jackson/_/Bad\">Read more on Last.fm</a>.",
+      "content": "Bad was a 1987 hit recording by American singer Michael Jackson. The song was the second of five Billboard Hot 100 number-one hit singles from the album Bad, and was his seventh number-one single overall. Michael Jackson stated: \"'Bad' is a song about the street. It's about this kid ... who gets to go away to a private school. He comes back to the old neighborhood and his old friends start giving him trouble. He sings, 'I'm bad, you're bad, who's bad, who's the best?' He's saying when you're strong and good, then you're bad.\" The video was based on a true story about a real student in same situation who was murdered because of jealousy. <a href=\"http://www.last.fm/music/Michael+Jackson/_/Bad\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

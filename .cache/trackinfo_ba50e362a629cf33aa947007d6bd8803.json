@@ -1,0 +1,50 @@
+{
+  "track": {
+    "name": "Lemonade",
+    "mbid": "2ee72e0f-6126-4218-b0f3-a3cc765fc998",
+    "url": "https://www.last.fm/music/aespa/_/Lemonade",
+    "duration": "187000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "85004",
+    "playcount": "778517",
+    "artist": {
+      "name": "aespa",
+      "mbid": "b51c672b-85e0-48fe-8648-470a2422229f",
+      "url": "https://www.last.fm/music/aespa"
+    },
+    "album": {
+      "artist": "aespa",
+      "title": "Lemonade",
+      "url": "https://www.last.fm/music/aespa/Lemonade",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/b80483030147ea999d90fbee135514ed.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/b80483030147ea999d90fbee135514ed.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/b80483030147ea999d90fbee135514ed.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/b80483030147ea999d90fbee135514ed.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    },
+    "wiki": {
+      "published": "29 May 2026, 19:02",
+      "summary": "\"LEMONADE\" is the title song of aespa's 2nd full-length album \"LEMONADE\", released on May 29, 2026 through SM Entertainment. <a href=\"http://www.last.fm/music/aespa/_/Lemonade\">Read more on Last.fm</a>.",
+      "content": "\"LEMONADE\" is the title song of aespa's 2nd full-length album \"LEMONADE\", released on May 29, 2026 through SM Entertainment. <a href=\"http://www.last.fm/music/aespa/_/Lemonade\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

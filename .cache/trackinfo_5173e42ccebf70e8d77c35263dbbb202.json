@@ -1,0 +1,50 @@
+{
+  "track": {
+    "name": "Polo",
+    "mbid": "305033a4-80aa-4077-9081-88d35ac034ea",
+    "url": "https://www.last.fm/music/Kim+Petras/_/Polo",
+    "duration": "151000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "77096",
+    "playcount": "773233",
+    "artist": {
+      "name": "Kim Petras",
+      "mbid": "54fc0558-12b5-4854-9d57-9441bcd73a72",
+      "url": "https://www.last.fm/music/Kim+Petras"
+    },
+    "album": {
+      "artist": "Kim Petras",
+      "title": "POLO",
+      "url": "https://www.last.fm/music/Kim+Petras/POLO",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/4743b12e8aaec61fbe260f2b654a47ca.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/4743b12e8aaec61fbe260f2b654a47ca.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/4743b12e8aaec61fbe260f2b654a47ca.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/4743b12e8aaec61fbe260f2b654a47ca.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    },
+    "wiki": {
+      "published": "06 Jul 2025, 13:35",
+      "summary": "Polo is a song by Kim Petras, serving as the first and lead single off her upcoming album.\n\nThe song and its lyrics were teased on her tumblr page via gifs, images and hashtags. The title was confirmed on May 31st and a presave link was added to her website. Polo is the first song with Kim as an official producer. <a href=\"http://www.last.fm/music/Kim+Petras/_/Polo\">Read more on Last.fm</a>.",
+      "content": "Polo is a song by Kim Petras, serving as the first and lead single off her upcoming album.\n\nThe song and its lyrics were teased on her tumblr page via gifs, images and hashtags. The title was confirmed on May 31st and a presave link was added to her website. Polo is the first song with Kim as an official producer. <a href=\"http://www.last.fm/music/Kim+Petras/_/Polo\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

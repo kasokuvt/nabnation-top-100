@@ -1,0 +1,45 @@
+{
+  "track": {
+    "name": "dark magic",
+    "mbid": "01edf406-ec02-4d53-b59b-79d220141941",
+    "url": "https://www.last.fm/music/Quadeca/_/dark+magic",
+    "duration": "175000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "18538",
+    "playcount": "173516",
+    "artist": {
+      "name": "Quadeca",
+      "mbid": "3a4024dc-cc62-4d9b-8bed-c22426136a52",
+      "url": "https://www.last.fm/music/Quadeca"
+    },
+    "album": {
+      "artist": "Quadeca",
+      "title": "Dark Magic",
+      "url": "https://www.last.fm/music/Quadeca/Dark+Magic",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/a3dc44b9fa5155a8e42c10ce5dd92424.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/a3dc44b9fa5155a8e42c10ce5dd92424.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/a3dc44b9fa5155a8e42c10ce5dd92424.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/a3dc44b9fa5155a8e42c10ce5dd92424.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

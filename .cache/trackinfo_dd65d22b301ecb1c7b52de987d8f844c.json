@@ -1,0 +1,45 @@
+{
+  "track": {
+    "name": "DTLA",
+    "mbid": "9dd0872c-7df7-4db1-b6a3-228c83e05004",
+    "url": "https://www.last.fm/music/Kim+Petras/_/DTLA",
+    "duration": "200000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "37287",
+    "playcount": "142104",
+    "artist": {
+      "name": "Kim Petras",
+      "mbid": "54fc0558-12b5-4854-9d57-9441bcd73a72",
+      "url": "https://www.last.fm/music/Kim+Petras"
+    },
+    "album": {
+      "artist": "Kim Petras",
+      "title": "Detour",
+      "url": "https://www.last.fm/music/Kim+Petras/Detour",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/8311da86f4df3270c96dbb2723671458.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/8311da86f4df3270c96dbb2723671458.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/8311da86f4df3270c96dbb2723671458.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/8311da86f4df3270c96dbb2723671458.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

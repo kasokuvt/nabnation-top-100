@@ -1,0 +1,71 @@
+{
+  "track": {
+    "name": "Prophecy At 1420 MHz",
+    "mbid": "5ce7e73e-07e8-43c2-b26b-f8cd4a02b135",
+    "url": "https://www.last.fm/music/Boards+of+Canada/_/Prophecy+At+1420+MHz",
+    "duration": "304000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "67722",
+    "playcount": "228071",
+    "artist": {
+      "name": "Boards of Canada",
+      "mbid": "69158f97-4c07-4c4e-baf8-4e4ab1ed666e",
+      "url": "https://www.last.fm/music/Boards+of+Canada"
+    },
+    "album": {
+      "artist": "Boards of Canada",
+      "title": "Inferno",
+      "url": "https://www.last.fm/music/Boards+of+Canada/Inferno",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/f1167dc784d712c89e9214adb5a635df.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/f1167dc784d712c89e9214adb5a635df.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/f1167dc784d712c89e9214adb5a635df.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/f1167dc784d712c89e9214adb5a635df.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "psychedelic",
+          "url": "https://www.last.fm/tag/psychedelic"
+        },
+        {
+          "name": "ambient",
+          "url": "https://www.last.fm/tag/ambient"
+        },
+        {
+          "name": "experimental",
+          "url": "https://www.last.fm/tag/experimental"
+        },
+        {
+          "name": "instrumental",
+          "url": "https://www.last.fm/tag/instrumental"
+        },
+        {
+          "name": "idm",
+          "url": "https://www.last.fm/tag/idm"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "07 May 2026, 16:52",
+      "summary": "The second track on Boards of Canada's fifth album, Inferno, first released as a single on May 7th 2026. The track title is thought to reference the \"hydrogen line\", which is the natural resonant frequency of neutral hydrogen, the most abundant element in the universe. Various lyrics referencing God and an \"Ultimate Resonance\" further credit these theories. <a href=\"http://www.last.fm/music/Boards+of+Canada/_/Prophecy+At+1420+MHz\">Read more on Last.fm</a>.",
+      "content": "The second track on Boards of Canada's fifth album, Inferno, first released as a single on May 7th 2026. The track title is thought to reference the \"hydrogen line\", which is the natural resonant frequency of neutral hydrogen, the most abundant element in the universe. Various lyrics referencing God and an \"Ultimate Resonance\" further credit these theories. <a href=\"http://www.last.fm/music/Boards+of+Canada/_/Prophecy+At+1420+MHz\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

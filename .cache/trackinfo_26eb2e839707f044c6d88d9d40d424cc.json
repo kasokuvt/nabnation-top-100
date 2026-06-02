@@ -1,0 +1,50 @@
+{
+  "track": {
+    "name": "Hydrogen Helium Lithium Leviathan",
+    "mbid": "f4856f43-8912-4b1c-9d89-87aefae8707a",
+    "url": "https://www.last.fm/music/Boards+of+Canada/_/Hydrogen+Helium+Lithium+Leviathan",
+    "duration": "284000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "42231",
+    "playcount": "87386",
+    "artist": {
+      "name": "Boards of Canada",
+      "mbid": "69158f97-4c07-4c4e-baf8-4e4ab1ed666e",
+      "url": "https://www.last.fm/music/Boards+of+Canada"
+    },
+    "album": {
+      "artist": "Boards of Canada",
+      "title": "Inferno",
+      "url": "https://www.last.fm/music/Boards+of+Canada/Inferno",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/f1167dc784d712c89e9214adb5a635df.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/f1167dc784d712c89e9214adb5a635df.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/f1167dc784d712c89e9214adb5a635df.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/f1167dc784d712c89e9214adb5a635df.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    },
+    "wiki": {
+      "published": "01 Jun 2026, 22:43",
+      "summary": "\"Hydrogen Helium Lithium Leviathan\" is the third track by Scottish electronic duo Boards of Canada for their studio album, Inferno. The track blends ambient, downtempo, and IDM with deep conceptual themes exploring the universe's creation and ancient mythology. <a href=\"http://www.last.fm/music/Boards+of+Canada/_/Hydrogen+Helium+Lithium+Leviathan\">Read more on Last.fm</a>.",
+      "content": "\"Hydrogen Helium Lithium Leviathan\" is the third track by Scottish electronic duo Boards of Canada for their studio album, Inferno. The track blends ambient, downtempo, and IDM with deep conceptual themes exploring the universe's creation and ancient mythology. <a href=\"http://www.last.fm/music/Boards+of+Canada/_/Hydrogen+Helium+Lithium+Leviathan\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

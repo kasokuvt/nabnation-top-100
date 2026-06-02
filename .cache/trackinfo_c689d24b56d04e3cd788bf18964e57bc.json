@@ -1,0 +1,45 @@
+{
+  "track": {
+    "name": "Blood In The Labyrinth",
+    "mbid": "dad6065b-f56a-43df-a508-97cc610f9582",
+    "url": "https://www.last.fm/music/Boards+of+Canada/_/Blood+In+The+Labyrinth",
+    "duration": "295000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "30933",
+    "playcount": "64014",
+    "artist": {
+      "name": "Boards of Canada",
+      "mbid": "69158f97-4c07-4c4e-baf8-4e4ab1ed666e",
+      "url": "https://www.last.fm/music/Boards+of+Canada"
+    },
+    "album": {
+      "artist": "Boards of Canada",
+      "title": "Inferno",
+      "url": "https://www.last.fm/music/Boards+of+Canada/Inferno",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/f1167dc784d712c89e9214adb5a635df.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/f1167dc784d712c89e9214adb5a635df.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/f1167dc784d712c89e9214adb5a635df.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/f1167dc784d712c89e9214adb5a635df.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

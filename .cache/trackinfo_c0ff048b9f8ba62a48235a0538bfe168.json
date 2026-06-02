@@ -1,0 +1,66 @@
+{
+  "track": {
+    "name": "Safe In Your Skin",
+    "mbid": "14209d41-ac0f-4b37-82a3-20bb4184887c",
+    "url": "https://www.last.fm/music/Title+Fight/_/Safe+In+Your+Skin",
+    "duration": "131000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "804063",
+    "playcount": "10969861",
+    "artist": {
+      "name": "Title Fight",
+      "mbid": "1154d345-8061-4d04-a52a-6214288523ac",
+      "url": "https://www.last.fm/music/Title+Fight"
+    },
+    "album": {
+      "artist": "Title Fight",
+      "title": "Shed",
+      "url": "https://www.last.fm/music/Title+Fight/Shed",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/ed6c0f269ac75adce1a9f41e98d9a596.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/ed6c0f269ac75adce1a9f41e98d9a596.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/ed6c0f269ac75adce1a9f41e98d9a596.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/ed6c0f269ac75adce1a9f41e98d9a596.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "midwest emo",
+          "url": "https://www.last.fm/tag/midwest+emo"
+        },
+        {
+          "name": "rock",
+          "url": "https://www.last.fm/tag/rock"
+        },
+        {
+          "name": "emo",
+          "url": "https://www.last.fm/tag/emo"
+        },
+        {
+          "name": "shoegaze",
+          "url": "https://www.last.fm/tag/shoegaze"
+        },
+        {
+          "name": "post-hardcore",
+          "url": "https://www.last.fm/tag/post-hardcore"
+        }
+      ]
+    }
+  }
+}

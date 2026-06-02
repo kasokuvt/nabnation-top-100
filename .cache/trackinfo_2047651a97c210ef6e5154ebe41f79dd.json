@@ -1,0 +1,66 @@
+{
+  "track": {
+    "name": "I Like Ur Look",
+    "mbid": "902e7baa-884e-4c67-9b5a-316898c06876",
+    "url": "https://www.last.fm/music/Kim+Petras/_/I+Like+Ur+Look",
+    "duration": "171000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "104421",
+    "playcount": "1345770",
+    "artist": {
+      "name": "Kim Petras",
+      "mbid": "54fc0558-12b5-4854-9d57-9441bcd73a72",
+      "url": "https://www.last.fm/music/Kim+Petras"
+    },
+    "album": {
+      "artist": "Kim Petras",
+      "title": "I Like Ur Look",
+      "url": "https://www.last.fm/music/Kim+Petras/I+Like+Ur+Look",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/282232f4e0d4448f2f721eeb20f7daf2.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/282232f4e0d4448f2f721eeb20f7daf2.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/282232f4e0d4448f2f721eeb20f7daf2.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/282232f4e0d4448f2f721eeb20f7daf2.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "electropop",
+          "url": "https://www.last.fm/tag/electropop"
+        },
+        {
+          "name": "bitpop",
+          "url": "https://www.last.fm/tag/bitpop"
+        },
+        {
+          "name": "dance-pop",
+          "url": "https://www.last.fm/tag/dance-pop"
+        },
+        {
+          "name": "electro house",
+          "url": "https://www.last.fm/tag/electro+house"
+        },
+        {
+          "name": "pop",
+          "url": "https://www.last.fm/tag/pop"
+        }
+      ]
+    }
+  }
+}
