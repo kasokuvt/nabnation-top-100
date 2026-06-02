@@ -192,9 +192,6 @@ function rowHtml(songId, song, artistName, stats) {
         <div class="aCell center"><b class="strong">#${esc(stats.peakPos)}</b></div>
         <div class="aCell center">${esc(stats.peakDate)}</div>
         <div class="aCell center"><b class="strong">${esc(stats.weeks)}</b></div>
-        <div class="aCell center">
-          <b class="strong">${esc(stats.totalPoints.toFixed(1))}</b>
-        </div>
       </div>
 
       <div class="expand" id="exp_${esc(songId)}"></div>
@@ -290,7 +287,6 @@ async function main() {
               <span>Peak <b>#${esc(stats.peakPos)}</b></span>
               <span>Peak Date <b>${esc(stats.peakDate)}</b></span>
               <span>Weeks <b>${esc(stats.weeks)}</b></span>
-              <span>Pts <b>${esc(stats.totalPoints.toFixed(1))}</b></span>
             </div>
             <div class="expandLinks">
               <a href="${artistUrl(name)}">Refresh artist page</a>
