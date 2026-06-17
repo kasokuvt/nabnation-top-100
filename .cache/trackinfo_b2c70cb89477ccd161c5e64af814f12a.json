@@ -1,0 +1,50 @@
+{
+  "track": {
+    "name": "stupid song",
+    "mbid": "6f0d85f5-dbe0-4c53-820c-dc23402af982",
+    "url": "https://www.last.fm/music/Olivia+Rodrigo/_/stupid+song",
+    "duration": "209000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "379795",
+    "playcount": "1743152",
+    "artist": {
+      "name": "Olivia Rodrigo",
+      "mbid": "6925db17-f35e-42f3-a4eb-84ee6bf5d4b0",
+      "url": "https://www.last.fm/music/Olivia+Rodrigo"
+    },
+    "album": {
+      "artist": "Olivia Rodrigo",
+      "title": "you seem pretty sad for a girl so in love [Explicit]",
+      "url": "https://www.last.fm/music/Olivia+Rodrigo/you+seem+pretty+sad+for+a+girl+so+in+love+%5BExplicit%5D",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/03ccafb6b41f9aed0aa827ba3f4baa27.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/03ccafb6b41f9aed0aa827ba3f4baa27.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/03ccafb6b41f9aed0aa827ba3f4baa27.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/03ccafb6b41f9aed0aa827ba3f4baa27.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    },
+    "wiki": {
+      "published": "12 Jun 2026, 12:14",
+      "summary": "“stupid song” is the second track and third single from Olivia Rodrigo’s third studio album, you seem pretty sad for a girl so in love.\n\nThe song finds a deeply in love Rodrigo overwhelmingly infatuated with her lover to the point where words aren’t even enough to capture how she feels.\n\nOn June 9th, Olivia announced on BBC Radio 1 that “stupid song” would be released as the album’s third single alongside a music video. Prior to this interview, she was spotted filming the music video in Upper Manhattan on May 26th. <a href=\"http://www.last.fm/music/Olivia+Rodrigo/_/stupid+song\">Read more on Last.fm</a>.",
+      "content": "“stupid song” is the second track and third single from Olivia Rodrigo’s third studio album, you seem pretty sad for a girl so in love.\n\nThe song finds a deeply in love Rodrigo overwhelmingly infatuated with her lover to the point where words aren’t even enough to capture how she feels.\n\nOn June 9th, Olivia announced on BBC Radio 1 that “stupid song” would be released as the album’s third single alongside a music video. Prior to this interview, she was spotted filming the music video in Upper Manhattan on May 26th. <a href=\"http://www.last.fm/music/Olivia+Rodrigo/_/stupid+song\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

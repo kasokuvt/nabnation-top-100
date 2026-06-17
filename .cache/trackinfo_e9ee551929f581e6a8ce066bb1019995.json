@@ -1,0 +1,71 @@
+{
+  "track": {
+    "name": "Europapa",
+    "mbid": "3ffeae80-22a5-4089-a956-122037c696ef",
+    "url": "https://www.last.fm/music/Joost/_/Europapa",
+    "duration": "160000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "344851",
+    "playcount": "5775228",
+    "artist": {
+      "name": "Joost",
+      "mbid": "08784766-8643-4b8e-bd0b-c61399ff9539",
+      "url": "https://www.last.fm/music/Joost"
+    },
+    "album": {
+      "artist": "Joost",
+      "title": "Europapa",
+      "url": "https://www.last.fm/music/Joost/Europapa",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/459ca3ad6b60838d3278a252eca09c45.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/459ca3ad6b60838d3278a252eca09c45.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/459ca3ad6b60838d3278a252eca09c45.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/459ca3ad6b60838d3278a252eca09c45.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "Eurovision",
+          "url": "https://www.last.fm/tag/Eurovision"
+        },
+        {
+          "name": "dutch",
+          "url": "https://www.last.fm/tag/dutch"
+        },
+        {
+          "name": "happy hardcore",
+          "url": "https://www.last.fm/tag/happy+hardcore"
+        },
+        {
+          "name": "eurodance",
+          "url": "https://www.last.fm/tag/eurodance"
+        },
+        {
+          "name": "Gabber",
+          "url": "https://www.last.fm/tag/Gabber"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "29 Feb 2024, 16:16",
+      "summary": "Europapa is song by Dutch singer Joost Klein, selected to represent the Netherlands in Eurovision 2024. Dedicated to his parents, he combines gabber, rap, his humor and multiple languages into one song about the continent that is Europe, with an ending about his late father.\n\nThe song quickly became a fan favorite among the fans, and became the most streamed song out of all the 2024 Eurovision songs. On May 9th, Joost performed the song in the year's second semi-final and was announced as a qualifier to the grand finale <a href=\"http://www.last.fm/music/Joost/_/Europapa\">Read more on Last.fm</a>.",
+      "content": "Europapa is song by Dutch singer Joost Klein, selected to represent the Netherlands in Eurovision 2024. Dedicated to his parents, he combines gabber, rap, his humor and multiple languages into one song about the continent that is Europe, with an ending about his late father.\n\nThe song quickly became a fan favorite among the fans, and became the most streamed song out of all the 2024 Eurovision songs. On May 9th, Joost performed the song in the year's second semi-final and was announced as a qualifier to the grand finale, however, due to an incident he was later disqualified. Fans say, that he is still first in their hearts. <a href=\"http://www.last.fm/music/Joost/_/Europapa\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "track": {
+    "name": "BOOMPALA",
+    "mbid": "b5021cff-5a02-47b8-9564-277a2f94d74a",
+    "url": "https://www.last.fm/music/LE+SSERAFIM/_/BOOMPALA",
+    "duration": "176000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "173999",
+    "playcount": "1411066",
+    "artist": {
+      "name": "LE SSERAFIM",
+      "mbid": "1ee37742-1e3d-4e61-84d2-bc85f4c1459a",
+      "url": "https://www.last.fm/music/LE+SSERAFIM"
+    },
+    "album": {
+      "artist": "LE SSERAFIM",
+      "title": "‘PUREFLOW’ pt.1",
+      "url": "https://www.last.fm/music/LE+SSERAFIM/%E2%80%98PUREFLOW%E2%80%99+pt.1",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/8411cad4de7abc597a9a22388528e3f0.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/8411cad4de7abc597a9a22388528e3f0.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/8411cad4de7abc597a9a22388528e3f0.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/8411cad4de7abc597a9a22388528e3f0.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "english",
+          "url": "https://www.last.fm/tag/english"
+        },
+        {
+          "name": "Macarena",
+          "url": "https://www.last.fm/tag/Macarena"
+        },
+        {
+          "name": "julia mofada",
+          "url": "https://www.last.fm/tag/julia+mofada"
+        },
+        {
+          "name": "mavi",
+          "url": "https://www.last.fm/tag/mavi"
+        },
+        {
+          "name": "not_is_forever_so_not_to_fera",
+          "url": "https://www.last.fm/tag/not_is_forever_so_not_to_fera"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "23 May 2026, 06:56",
+      "summary": "\"BOOMPALA\" is a song by South Korean girl group LE SSERAFIM, released on May 22, 2026. It is the lead single for their second studio album 'PUREFLOW', Pt. 1. The song is notable for its interpolation of the classic 90s hit, \"Macarena\" by Los del Río. <a href=\"http://www.last.fm/music/LE+SSERAFIM/_/BOOMPALA\">Read more on Last.fm</a>.",
+      "content": "\"BOOMPALA\" is a song by South Korean girl group LE SSERAFIM, released on May 22, 2026. It is the lead single for their second studio album 'PUREFLOW', Pt. 1. The song is notable for its interpolation of the classic 90s hit, \"Macarena\" by Los del Río. <a href=\"http://www.last.fm/music/LE+SSERAFIM/_/BOOMPALA\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

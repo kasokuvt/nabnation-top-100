@@ -1,6 +1,6 @@
 {
   "chartName": "Nabnation Top 100",
-  "generatedAt": "2026-06-02T17:24:24.841657Z",
+  "generatedAt": "2026-06-17T00:00:03.060212Z",
   "weeksIncluded": [
     "2025-09-09",
     "2025-09-16",
@@ -40,7 +40,9 @@
     "2026-05-12",
     "2026-05-19",
     "2026-05-26",
-    "2026-06-02"
+    "2026-06-02",
+    "2026-06-07",
+    "2026-06-16"
   ],
   "artists": {
     "$i#dzy": {
@@ -171,6 +173,28 @@
         }
       }
     },
+    "1985 AOP Mix - Who's Who": {
+      "songs": {
+        "1985 aop mix - whos who|||ulterior motives": {
+          "title": "Ulterior Motives",
+          "cover": "covers/_placeholder.png",
+          "weeks": 2,
+          "peak": 21,
+          "debut": "2026-06-07",
+          "peakDate": "2026-06-07",
+          "history": [
+            {
+              "week": "2026-06-07",
+              "rank": 21
+            },
+            {
+              "week": "2026-06-16",
+              "rank": 22
+            }
+          ]
+        }
+      }
+    },
     "2 Mello": {
       "songs": {
         "2 mello|||i wanna kno": {
@@ -244,14 +268,18 @@
         "2012 remaster - michael jackson|||bad": {
           "title": "Bad",
           "cover": "covers/_placeholder.png",
-          "weeks": 1,
-          "peak": 31,
+          "weeks": 2,
+          "peak": 17,
           "debut": "2026-05-19",
-          "peakDate": "2026-05-19",
+          "peakDate": "2026-06-07",
           "history": [
             {
               "week": "2026-05-19",
               "rank": 31
+            },
+            {
+              "week": "2026-06-07",
+              "rank": 17
             }
           ]
         },
@@ -1156,7 +1184,7 @@
         "addison rae|||fame is a gun": {
           "title": "Fame Is a Gun",
           "cover": "covers/addison_rae__fame_is_a_gun.png",
-          "weeks": 11,
+          "weeks": 12,
           "peak": 19,
           "debut": "2025-12-02",
           "peakDate": "2026-02-03",
@@ -1204,6 +1232,10 @@
             {
               "week": "2026-05-05",
               "rank": 21
+            },
+            {
+              "week": "2026-06-07",
+              "rank": 26
             }
           ]
         },
@@ -1408,14 +1440,22 @@
         "aespa|||lemonade": {
           "title": "Lemonade",
           "cover": "covers/aespa__lemonade.png",
-          "weeks": 1,
-          "peak": 42,
+          "weeks": 3,
+          "peak": 30,
           "debut": "2026-06-02",
-          "peakDate": "2026-06-02",
+          "peakDate": "2026-06-16",
           "history": [
             {
               "week": "2026-06-02",
               "rank": 42
+            },
+            {
+              "week": "2026-06-07",
+              "rank": 54
+            },
+            {
+              "week": "2026-06-16",
+              "rank": 30
             }
           ]
         }
@@ -1472,7 +1512,7 @@
         "alex g|||sarah": {
           "title": "Sarah",
           "cover": "covers/alex_g__sarah.png",
-          "weeks": 3,
+          "weeks": 4,
           "peak": 39,
           "debut": "2025-11-25",
           "peakDate": "2025-12-02",
@@ -1488,6 +1528,10 @@
             {
               "week": "2025-12-09",
               "rank": 100
+            },
+            {
+              "week": "2026-06-07",
+              "rank": 53
             }
           ]
         },
@@ -1632,10 +1676,10 @@
         "american football|||never meant": {
           "title": "Never Meant",
           "cover": "covers/american_football__never_meant.jpg",
-          "weeks": 2,
-          "peak": 66,
+          "weeks": 3,
+          "peak": 52,
           "debut": "2025-12-02",
-          "peakDate": "2025-12-02",
+          "peakDate": "2026-06-07",
           "history": [
             {
               "week": "2025-12-02",
@@ -1644,6 +1688,10 @@
             {
               "week": "2026-06-02",
               "rank": 81
+            },
+            {
+              "week": "2026-06-07",
+              "rank": 52
             }
           ]
         }
@@ -1774,14 +1822,22 @@
         "anythingbecomemoe|||ヤラララyararara": {
           "title": "ヤラララ(YARARARA)",
           "cover": "covers/anythingbecomemoe__yararara.png",
-          "weeks": 1,
-          "peak": 54,
+          "weeks": 3,
+          "peak": 20,
           "debut": "2026-06-02",
-          "peakDate": "2026-06-02",
+          "peakDate": "2026-06-16",
           "history": [
             {
               "week": "2026-06-02",
               "rank": 54
+            },
+            {
+              "week": "2026-06-07",
+              "rank": 37
+            },
+            {
+              "week": "2026-06-16",
+              "rank": 20
             }
           ]
         }
@@ -1886,7 +1942,7 @@
         "arctic monkeys|||505": {
           "title": "505",
           "cover": "covers/arctic_monkeys__505.png",
-          "weeks": 12,
+          "weeks": 13,
           "peak": 23,
           "debut": "2025-10-28",
           "peakDate": "2025-12-23",
@@ -1938,6 +1994,10 @@
             {
               "week": "2026-05-26",
               "rank": 71
+            },
+            {
+              "week": "2026-06-16",
+              "rank": 92
             }
           ]
         },
@@ -1973,6 +2033,28 @@
     },
     "Ariana Grande": {
       "songs": {
+        "ariana grande|||hate that i made you love me": {
+          "title": "hate that i made you love me",
+          "cover": "covers/ariana_grande__hate_that_i_made_you_love_me.png",
+          "weeks": 3,
+          "peak": 7,
+          "debut": "2026-06-02",
+          "peakDate": "2026-06-07",
+          "history": [
+            {
+              "week": "2026-06-02",
+              "rank": 40
+            },
+            {
+              "week": "2026-06-07",
+              "rank": 7
+            },
+            {
+              "week": "2026-06-16",
+              "rank": 28
+            }
+          ]
+        },
         "ariana grande|||santa tell me": {
           "title": "Santa Tell Me",
           "cover": "covers/ariana_grande__santa_tell_me.png",
@@ -1984,20 +2066,6 @@
             {
               "week": "2025-12-16",
               "rank": 35
-            }
-          ]
-        },
-        "ariana grande|||hate that i made you love me": {
-          "title": "hate that i made you love me",
-          "cover": "covers/ariana_grande__hate_that_i_made_you_love_me.png",
-          "weeks": 1,
-          "peak": 40,
-          "debut": "2026-06-02",
-          "peakDate": "2026-06-02",
-          "history": [
-            {
-              "week": "2026-06-02",
-              "rank": 40
             }
           ]
         }
@@ -2566,7 +2634,7 @@
         "bad bunny|||nuevayol": {
           "title": "NUEVAYoL",
           "cover": "covers/bad_bunny__nuevayol.png",
-          "weeks": 4,
+          "weeks": 5,
           "peak": 8,
           "debut": "2026-02-10",
           "peakDate": "2026-02-17",
@@ -2586,6 +2654,10 @@
             {
               "week": "2026-03-03",
               "rank": 65
+            },
+            {
+              "week": "2026-06-16",
+              "rank": 98
             }
           ]
         },
@@ -2776,7 +2848,7 @@
         "bbpanzu|||bang bang bang": {
           "title": "BANG BANG BANG",
           "cover": "covers/bbpanzu__bang_bang_bang.png",
-          "weeks": 9,
+          "weeks": 11,
           "peak": 6,
           "debut": "2026-04-07",
           "peakDate": "2026-04-14",
@@ -2816,6 +2888,14 @@
             {
               "week": "2026-06-02",
               "rank": 66
+            },
+            {
+              "week": "2026-06-07",
+              "rank": 14
+            },
+            {
+              "week": "2026-06-16",
+              "rank": 86
             }
           ]
         }
@@ -2844,7 +2924,7 @@
         "beabadoobee|||the perfect pair": {
           "title": "the perfect pair",
           "cover": "covers/beabadoobee__the_perfect_pair.jpg",
-          "weeks": 4,
+          "weeks": 6,
           "peak": 39,
           "debut": "2025-09-16",
           "peakDate": "2025-12-30",
@@ -2864,6 +2944,14 @@
             {
               "week": "2025-12-30",
               "rank": 39
+            },
+            {
+              "week": "2026-06-07",
+              "rank": 79
+            },
+            {
+              "week": "2026-06-16",
+              "rank": 67
             }
           ]
         },
@@ -2884,7 +2972,7 @@
         "beabadoobee|||take a bite": {
           "title": "take a bite",
           "cover": "covers/beabadoobee__take_a_bite.png",
-          "weeks": 1,
+          "weeks": 2,
           "peak": 73,
           "debut": "2026-04-28",
           "peakDate": "2026-04-28",
@@ -2892,6 +2980,10 @@
             {
               "week": "2026-04-28",
               "rank": 73
+            },
+            {
+              "week": "2026-06-16",
+              "rank": 82
             }
           ]
         }
@@ -3126,7 +3218,7 @@
         "black country new road|||the place where he inserted the blade": {
           "title": "The Place Where He Inserted The Blade",
           "cover": "covers/black_country_new_road__the_place_where_he_inserted_the_blade.jpg",
-          "weeks": 3,
+          "weeks": 4,
           "peak": 30,
           "debut": "2025-10-14",
           "peakDate": "2025-10-28",
@@ -3142,6 +3234,10 @@
             {
               "week": "2025-12-23",
               "rank": 44
+            },
+            {
+              "week": "2026-06-16",
+              "rank": 91
             }
           ]
         },
@@ -4013,12 +4109,30 @@
         }
       }
     },
+    "Bo En": {
+      "songs": {
+        "bo en|||every day": {
+          "title": "every day",
+          "cover": "covers/bo_en__every_day.png",
+          "weeks": 1,
+          "peak": 27,
+          "debut": "2026-06-07",
+          "peakDate": "2026-06-07",
+          "history": [
+            {
+              "week": "2026-06-07",
+              "rank": 27
+            }
+          ]
+        }
+      }
+    },
     "Boards of Canada": {
       "songs": {
         "boards of canada|||the word becomes flesh": {
           "title": "The Word Becomes Flesh",
           "cover": "covers/boards_of_canada__the_word_becomes_flesh.png",
-          "weeks": 1,
+          "weeks": 3,
           "peak": 11,
           "debut": "2026-06-02",
           "peakDate": "2026-06-02",
@@ -4026,6 +4140,14 @@
             {
               "week": "2026-06-02",
               "rank": 11
+            },
+            {
+              "week": "2026-06-07",
+              "rank": 40
+            },
+            {
+              "week": "2026-06-16",
+              "rank": 66
             }
           ]
         },
@@ -4354,7 +4476,7 @@
         "bôa|||duvet": {
           "title": "Duvet",
           "cover": "covers/bôa__duvet.png",
-          "weeks": 17,
+          "weeks": 19,
           "peak": 11,
           "debut": "2025-09-16",
           "peakDate": "2025-10-14",
@@ -4426,6 +4548,14 @@
             {
               "week": "2026-06-02",
               "rank": 21
+            },
+            {
+              "week": "2026-06-07",
+              "rank": 42
+            },
+            {
+              "week": "2026-06-16",
+              "rank": 54
             }
           ]
         }
@@ -4527,6 +4657,24 @@
     },
     "Britney Spears": {
       "songs": {
+        "britney spears|||toxic": {
+          "title": "Toxic",
+          "cover": "covers/britney_spears__toxic.png",
+          "weeks": 2,
+          "peak": 36,
+          "debut": "2026-06-07",
+          "peakDate": "2026-06-07",
+          "history": [
+            {
+              "week": "2026-06-07",
+              "rank": 36
+            },
+            {
+              "week": "2026-06-16",
+              "rank": 61
+            }
+          ]
+        },
         "britney spears|||gimme more": {
           "title": "Gimme More",
           "cover": "covers/britney_spears__gimme_more.png",
@@ -4850,7 +4998,7 @@
         "car seat headrest|||sober to death": {
           "title": "Sober to Death",
           "cover": "covers/car_seat_headrest__sober_to_death.png",
-          "weeks": 3,
+          "weeks": 4,
           "peak": 19,
           "debut": "2025-12-02",
           "peakDate": "2025-12-02",
@@ -4865,6 +5013,10 @@
             },
             {
               "week": "2026-06-02",
+              "rank": 93
+            },
+            {
+              "week": "2026-06-16",
               "rank": 93
             }
           ]
@@ -5724,7 +5876,7 @@
         "childish gambino|||les": {
           "title": "L.E.S.",
           "cover": "covers/childish_gambino__les.png",
-          "weeks": 9,
+          "weeks": 10,
           "peak": 16,
           "debut": "2025-09-23",
           "peakDate": "2025-11-04",
@@ -5764,6 +5916,10 @@
             {
               "week": "2026-01-27",
               "rank": 88
+            },
+            {
+              "week": "2026-06-16",
+              "rank": 95
             }
           ]
         },
@@ -5832,7 +5988,7 @@
         "childish gambino|||heartbeat": {
           "title": "Heartbeat",
           "cover": "covers/childish_gambino__heartbeat.jpg",
-          "weeks": 2,
+          "weeks": 3,
           "peak": 38,
           "debut": "2025-10-14",
           "peakDate": "2025-10-14",
@@ -5844,6 +6000,10 @@
             {
               "week": "2025-10-28",
               "rank": 68
+            },
+            {
+              "week": "2026-06-16",
+              "rank": 49
             }
           ]
         },
@@ -5940,6 +6100,24 @@
             {
               "week": "2026-01-06",
               "rank": 77
+            }
+          ]
+        }
+      }
+    },
+    "chrmbchrmb": {
+      "songs": {
+        "chrmbchrmb|||matrix bl studio loop": {
+          "title": "matrix (BL studio loop)",
+          "cover": "covers/chrmbchrmb__matrix_bl_studio_loop.png",
+          "weeks": 1,
+          "peak": 42,
+          "debut": "2026-06-16",
+          "peakDate": "2026-06-16",
+          "history": [
+            {
+              "week": "2026-06-16",
+              "rank": 42
             }
           ]
         }
@@ -6188,7 +6366,7 @@
         "clarion|||hello juliet": {
           "title": "Hello Juliet",
           "cover": "covers/clarion__hello_juliet.png",
-          "weeks": 3,
+          "weeks": 4,
           "peak": 39,
           "debut": "2026-03-31",
           "peakDate": "2026-04-21",
@@ -6204,6 +6382,10 @@
             {
               "week": "2026-04-21",
               "rank": 39
+            },
+            {
+              "week": "2026-06-07",
+              "rank": 99
             }
           ]
         }
@@ -6686,6 +6868,28 @@
             {
               "week": "2026-01-13",
               "rank": 91
+            }
+          ]
+        }
+      }
+    },
+    "Cuntsniffer": {
+      "songs": {
+        "cuntsniffer|||meant to be": {
+          "title": "Meant To Be",
+          "cover": "covers/cuntsniffer__meant_to_be.png",
+          "weeks": 2,
+          "peak": 9,
+          "debut": "2026-06-07",
+          "peakDate": "2026-06-07",
+          "history": [
+            {
+              "week": "2026-06-07",
+              "rank": 9
+            },
+            {
+              "week": "2026-06-16",
+              "rank": 38
             }
           ]
         }
@@ -7348,7 +7552,7 @@
         "dazey and the scouts|||wet": {
           "title": "Wet",
           "cover": "covers/dazey_and_the_scouts__wet.png",
-          "weeks": 6,
+          "weeks": 7,
           "peak": 35,
           "debut": "2025-10-14",
           "peakDate": "2025-10-14",
@@ -7376,6 +7580,10 @@
             {
               "week": "2026-06-02",
               "rank": 43
+            },
+            {
+              "week": "2026-06-07",
+              "rank": 94
             }
           ]
         }
@@ -7764,7 +7972,7 @@
         "devi mccallion|||i want things to be beautiful": {
           "title": "I WANT THINGS TO BE BEAUTIFUL",
           "cover": "covers/devi_mccallion__i_want_things_to_be_beautiful.jpg",
-          "weeks": 29,
+          "weeks": 30,
           "peak": 1,
           "debut": "2025-09-16",
           "peakDate": "2025-12-30",
@@ -7884,6 +8092,10 @@
             {
               "week": "2026-04-14",
               "rank": 86
+            },
+            {
+              "week": "2026-06-16",
+              "rank": 75
             }
           ]
         }
@@ -8046,7 +8258,7 @@
         "dominic fike|||babydoll": {
           "title": "Babydoll",
           "cover": "covers/dominic_fike__babydoll.png",
-          "weeks": 9,
+          "weeks": 10,
           "peak": 22,
           "debut": "2026-03-03",
           "peakDate": "2026-03-10",
@@ -8086,6 +8298,10 @@
             {
               "week": "2026-05-19",
               "rank": 71
+            },
+            {
+              "week": "2026-06-07",
+              "rank": 43
             }
           ]
         }
@@ -8412,7 +8628,7 @@
         "drake|||dust": {
           "title": "Dust",
           "cover": "covers/drake__dust.png",
-          "weeks": 2,
+          "weeks": 3,
           "peak": 10,
           "debut": "2026-05-19",
           "peakDate": "2026-05-19",
@@ -8424,6 +8640,10 @@
             {
               "week": "2026-05-26",
               "rank": 45
+            },
+            {
+              "week": "2026-06-07",
+              "rank": 68
             }
           ]
         },
@@ -8732,7 +8952,7 @@
         "duran duran|||invisible": {
           "title": "Invisible",
           "cover": "covers/duran_duran__invisible.png",
-          "weeks": 1,
+          "weeks": 2,
           "peak": 47,
           "debut": "2025-10-28",
           "peakDate": "2025-10-28",
@@ -8740,6 +8960,10 @@
             {
               "week": "2025-10-28",
               "rank": 47
+            },
+            {
+              "week": "2026-06-07",
+              "rank": 89
             }
           ]
         }
@@ -9658,10 +9882,10 @@
         "fall out boy|||dance dance": {
           "title": "Dance, Dance",
           "cover": "covers/fall_out_boy__dance_dance.jpg",
-          "weeks": 3,
-          "peak": 42,
+          "weeks": 5,
+          "peak": 25,
           "debut": "2025-10-21",
-          "peakDate": "2025-10-21",
+          "peakDate": "2026-06-16",
           "history": [
             {
               "week": "2025-10-21",
@@ -9674,6 +9898,14 @@
             {
               "week": "2025-12-30",
               "rank": 74
+            },
+            {
+              "week": "2026-06-07",
+              "rank": 73
+            },
+            {
+              "week": "2026-06-16",
+              "rank": 25
             }
           ]
         },
@@ -9687,6 +9919,28 @@
           "history": [
             {
               "week": "2025-09-30",
+              "rank": 65
+            }
+          ]
+        },
+        "fall out boy|||sugar were goin down": {
+          "title": "Sugar, We're Goin Down",
+          "cover": "covers/fall_out_boy__sugar_were_goin_down.png",
+          "weeks": 3,
+          "peak": 65,
+          "debut": "2025-10-21",
+          "peakDate": "2026-06-16",
+          "history": [
+            {
+              "week": "2025-10-21",
+              "rank": 95
+            },
+            {
+              "week": "2025-10-28",
+              "rank": 95
+            },
+            {
+              "week": "2026-06-16",
               "rank": 65
             }
           ]
@@ -9716,24 +9970,6 @@
             {
               "week": "2025-09-30",
               "rank": 91
-            }
-          ]
-        },
-        "fall out boy|||sugar were goin down": {
-          "title": "Sugar, We're Goin Down",
-          "cover": "covers/fall_out_boy__sugar_were_goin_down.png",
-          "weeks": 2,
-          "peak": 95,
-          "debut": "2025-10-21",
-          "peakDate": "2025-10-21",
-          "history": [
-            {
-              "week": "2025-10-21",
-              "rank": 95
-            },
-            {
-              "week": "2025-10-28",
-              "rank": 95
             }
           ]
         },
@@ -10416,7 +10652,7 @@
         "flavor foley|||spoken for": {
           "title": "Spoken For",
           "cover": "covers/flavor_foley__spoken_for.png",
-          "weeks": 15,
+          "weeks": 17,
           "peak": 4,
           "debut": "2025-09-09",
           "peakDate": "2025-10-28",
@@ -10480,6 +10716,14 @@
             {
               "week": "2026-06-02",
               "rank": 33
+            },
+            {
+              "week": "2026-06-07",
+              "rank": 45
+            },
+            {
+              "week": "2026-06-16",
+              "rank": 64
             }
           ]
         },
@@ -10508,7 +10752,7 @@
         "flavor foley|||weathergirl": {
           "title": "weathergirl",
           "cover": "covers/flavor_foley__weathergirl.png",
-          "weeks": 10,
+          "weeks": 11,
           "peak": 12,
           "debut": "2025-09-16",
           "peakDate": "2025-10-14",
@@ -10552,13 +10796,17 @@
             {
               "week": "2026-01-20",
               "rank": 58
+            },
+            {
+              "week": "2026-06-16",
+              "rank": 90
             }
           ]
         },
         "flavor foley|||ego renegade boy": {
           "title": "Ego Renegade Boy",
           "cover": "covers/flavor_foley__ego_renegade_boy.png",
-          "weeks": 6,
+          "weeks": 7,
           "peak": 14,
           "debut": "2026-02-24",
           "peakDate": "2026-02-24",
@@ -10586,6 +10834,10 @@
             {
               "week": "2026-06-02",
               "rank": 91
+            },
+            {
+              "week": "2026-06-07",
+              "rank": 93
             }
           ]
         },
@@ -10610,14 +10862,18 @@
         "flavor foley|||butcher vanity": {
           "title": "BUTCHER VANITY",
           "cover": "covers/flavor_foley__butcher_vanity.png",
-          "weeks": 1,
-          "peak": 78,
+          "weeks": 2,
+          "peak": 77,
           "debut": "2026-04-14",
-          "peakDate": "2026-04-14",
+          "peakDate": "2026-06-07",
           "history": [
             {
               "week": "2026-04-14",
               "rank": 78
+            },
+            {
+              "week": "2026-06-07",
+              "rank": 77
             }
           ]
         }
@@ -10696,7 +10952,7 @@
         "foo fighters|||everlong": {
           "title": "Everlong",
           "cover": "covers/foo_fighters__everlong.png",
-          "weeks": 4,
+          "weeks": 5,
           "peak": 31,
           "debut": "2025-09-09",
           "peakDate": "2025-12-16",
@@ -10716,6 +10972,10 @@
             {
               "week": "2026-02-03",
               "rank": 98
+            },
+            {
+              "week": "2026-06-07",
+              "rank": 71
             }
           ]
         },
@@ -11810,14 +12070,22 @@
         "glass animals|||pork soda": {
           "title": "Pork Soda",
           "cover": "covers/glass_animals__pork_soda.png",
-          "weeks": 1,
-          "peak": 75,
+          "weeks": 3,
+          "peak": 20,
           "debut": "2026-06-02",
-          "peakDate": "2026-06-02",
+          "peakDate": "2026-06-07",
           "history": [
             {
               "week": "2026-06-02",
               "rank": 75
+            },
+            {
+              "week": "2026-06-07",
+              "rank": 20
+            },
+            {
+              "week": "2026-06-16",
+              "rank": 84
             }
           ]
         },
@@ -12004,7 +12272,7 @@
         "gorillaz|||feel good inc": {
           "title": "Feel Good Inc.",
           "cover": "covers/gorillaz__feel_good_inc.png",
-          "weeks": 3,
+          "weeks": 4,
           "peak": 15,
           "debut": "2025-09-09",
           "peakDate": "2025-09-09",
@@ -12020,6 +12288,10 @@
             {
               "week": "2026-06-02",
               "rank": 69
+            },
+            {
+              "week": "2026-06-07",
+              "rank": 78
             }
           ]
         },
@@ -12250,6 +12522,20 @@
             {
               "week": "2025-09-23",
               "rank": 77
+            }
+          ]
+        },
+        "gorillaz|||clint eastwood": {
+          "title": "Clint Eastwood",
+          "cover": "covers/gorillaz__clint_eastwood.png",
+          "weeks": 1,
+          "peak": 80,
+          "debut": "2026-06-07",
+          "peakDate": "2026-06-07",
+          "history": [
+            {
+              "week": "2026-06-07",
+              "rank": 80
             }
           ]
         },
@@ -12904,10 +13190,10 @@
         "imogen heap|||headlock": {
           "title": "Headlock",
           "cover": "covers/imogen_heap__headlock.png",
-          "weeks": 11,
-          "peak": 45,
+          "weeks": 13,
+          "peak": 41,
           "debut": "2025-09-16",
-          "peakDate": "2026-04-28",
+          "peakDate": "2026-06-07",
           "history": [
             {
               "week": "2025-09-16",
@@ -12952,6 +13238,14 @@
             {
               "week": "2026-05-12",
               "rank": 84
+            },
+            {
+              "week": "2026-06-07",
+              "rank": 41
+            },
+            {
+              "week": "2026-06-16",
+              "rank": 52
             }
           ]
         }
@@ -13152,7 +13446,7 @@
         "jamie paige|||birdbrain": {
           "title": "BIRDBRAIN",
           "cover": "covers/jamie_paige__birdbrain.jpg",
-          "weeks": 19,
+          "weeks": 20,
           "peak": 1,
           "debut": "2025-09-09",
           "peakDate": "2025-09-16",
@@ -13232,13 +13526,17 @@
             {
               "week": "2026-06-02",
               "rank": 76
+            },
+            {
+              "week": "2026-06-07",
+              "rank": 61
             }
           ]
         },
         "jamie paige|||rot for clout": {
           "title": "ROT FOR CLOUT",
           "cover": "covers/jamie_paige__rot_for_clout.png",
-          "weeks": 8,
+          "weeks": 9,
           "peak": 8,
           "debut": "2025-09-09",
           "peakDate": "2025-09-30",
@@ -13274,13 +13572,17 @@
             {
               "week": "2025-12-16",
               "rank": 45
+            },
+            {
+              "week": "2026-06-07",
+              "rank": 25
             }
           ]
         },
         "jamie paige|||machine love": {
           "title": "Machine Love",
           "cover": "covers/jamie_paige__machine_love.png",
-          "weeks": 19,
+          "weeks": 21,
           "peak": 13,
           "debut": "2025-09-09",
           "peakDate": "2025-09-30",
@@ -13360,6 +13662,14 @@
             {
               "week": "2026-06-02",
               "rank": 24
+            },
+            {
+              "week": "2026-06-07",
+              "rank": 51
+            },
+            {
+              "week": "2026-06-16",
+              "rank": 41
             }
           ]
         },
@@ -13486,7 +13796,7 @@
         "jane remover|||music baby": {
           "title": "Music Baby",
           "cover": "covers/jane_remover__music_baby.png",
-          "weeks": 22,
+          "weeks": 23,
           "peak": 1,
           "debut": "2025-12-09",
           "peakDate": "2025-12-09",
@@ -13578,6 +13888,10 @@
             {
               "week": "2026-05-12",
               "rank": 8
+            },
+            {
+              "week": "2026-06-16",
+              "rank": 34
             }
           ]
         },
@@ -14044,7 +14358,7 @@
         "jane remover|||how to teleport": {
           "title": "How To Teleport",
           "cover": "covers/jane_remover__how_to_teleport.png",
-          "weeks": 25,
+          "weeks": 26,
           "peak": 4,
           "debut": "2025-11-11",
           "peakDate": "2025-12-09",
@@ -14148,6 +14462,10 @@
             {
               "week": "2026-05-19",
               "rank": 79
+            },
+            {
+              "week": "2026-06-07",
+              "rank": 97
             }
           ]
         },
@@ -14536,7 +14854,7 @@
         "jane remover|||professional vengeance": {
           "title": "Professional Vengeance",
           "cover": "covers/jane_remover__professional_vengeance.png",
-          "weeks": 30,
+          "weeks": 31,
           "peak": 10,
           "debut": "2025-09-16",
           "peakDate": "2025-12-09",
@@ -14660,6 +14978,10 @@
             {
               "week": "2026-05-12",
               "rank": 36
+            },
+            {
+              "week": "2026-06-16",
+              "rank": 55
             }
           ]
         },
@@ -15842,6 +16164,20 @@
               "rank": 72
             }
           ]
+        },
+        "joost|||europapa": {
+          "title": "Europapa",
+          "cover": "covers/joost__europapa.png",
+          "weeks": 1,
+          "peak": 95,
+          "debut": "2026-06-07",
+          "peakDate": "2026-06-07",
+          "history": [
+            {
+              "week": "2026-06-07",
+              "rank": 95
+            }
+          ]
         }
       }
     },
@@ -16148,7 +16484,7 @@
         "julia wolf|||in my room": {
           "title": "In My Room",
           "cover": "covers/julia_wolf__in_my_room.png",
-          "weeks": 11,
+          "weeks": 13,
           "peak": 25,
           "debut": "2025-09-09",
           "peakDate": "2026-04-14",
@@ -16196,6 +16532,14 @@
             {
               "week": "2026-05-19",
               "rank": 37
+            },
+            {
+              "week": "2026-06-07",
+              "rank": 29
+            },
+            {
+              "week": "2026-06-16",
+              "rank": 32
             }
           ]
         }
@@ -16246,7 +16590,7 @@
         "kanye west|||flashing lights": {
           "title": "Flashing Lights",
           "cover": "covers/kanye_west__flashing_lights.png",
-          "weeks": 3,
+          "weeks": 4,
           "peak": 5,
           "debut": "2025-09-30",
           "peakDate": "2025-09-30",
@@ -16262,6 +16606,10 @@
             {
               "week": "2026-03-17",
               "rank": 63
+            },
+            {
+              "week": "2026-06-07",
+              "rank": 39
             }
           ]
         },
@@ -16695,6 +17043,24 @@
         }
       }
     },
+    "Karen Aoki": {
+      "songs": {
+        "karen aoki|||great days": {
+          "title": "Great Days",
+          "cover": "covers/karen_aoki__great_days.png",
+          "weeks": 1,
+          "peak": 92,
+          "debut": "2026-06-07",
+          "peakDate": "2026-06-07",
+          "history": [
+            {
+              "week": "2026-06-07",
+              "rank": 92
+            }
+          ]
+        }
+      }
+    },
     "Kate Bush": {
       "songs": {
         "kate bush|||cloudbusting": {
@@ -16926,7 +17292,7 @@
         "ke$ha|||c u next tuesday": {
           "title": "C U Next Tuesday",
           "cover": "covers/ke_ha__c_u_next_tuesday.png",
-          "weeks": 1,
+          "weeks": 3,
           "peak": 12,
           "debut": "2026-06-02",
           "peakDate": "2026-06-02",
@@ -16934,6 +17300,14 @@
             {
               "week": "2026-06-02",
               "rank": 12
+            },
+            {
+              "week": "2026-06-07",
+              "rank": 98
+            },
+            {
+              "week": "2026-06-16",
+              "rank": 85
             }
           ]
         },
@@ -17118,7 +17492,7 @@
         "kenshi yonezu|||iris out": {
           "title": "IRIS OUT",
           "cover": "covers/kenshi_yonezu__iris_out.png",
-          "weeks": 22,
+          "weeks": 23,
           "peak": 3,
           "debut": "2025-09-16",
           "peakDate": "2025-10-28",
@@ -17210,6 +17584,10 @@
             {
               "week": "2026-05-19",
               "rank": 70
+            },
+            {
+              "week": "2026-06-16",
+              "rank": 72
             }
           ]
         },
@@ -17330,7 +17708,7 @@
         "kim petras|||i like ur look": {
           "title": "I Like Ur Look",
           "cover": "covers/kim_petras__i_like_ur_look.png",
-          "weeks": 2,
+          "weeks": 3,
           "peak": 27,
           "debut": "2025-10-28",
           "peakDate": "2025-10-28",
@@ -17342,13 +17720,17 @@
             {
               "week": "2026-06-02",
               "rank": 55
+            },
+            {
+              "week": "2026-06-07",
+              "rank": 85
             }
           ]
         },
         "kim petras|||need for speed": {
           "title": "Need For Speed",
           "cover": "covers/kim_petras__need_for_speed.png",
-          "weeks": 1,
+          "weeks": 2,
           "peak": 47,
           "debut": "2026-06-02",
           "peakDate": "2026-06-02",
@@ -17356,6 +17738,10 @@
             {
               "week": "2026-06-02",
               "rank": 47
+            },
+            {
+              "week": "2026-06-07",
+              "rank": 60
             }
           ]
         },
@@ -17408,7 +17794,7 @@
         "king gnu|||aizo": {
           "title": "AIZO",
           "cover": "covers/king_gnu__aizo.png",
-          "weeks": 8,
+          "weeks": 9,
           "peak": 11,
           "debut": "2026-01-13",
           "peakDate": "2026-01-13",
@@ -17444,6 +17830,10 @@
             {
               "week": "2026-06-02",
               "rank": 27
+            },
+            {
+              "week": "2026-06-16",
+              "rank": 43
             }
           ]
         }
@@ -17454,7 +17844,7 @@
         "kmfdm|||bait & switch": {
           "title": "Bait & Switch",
           "cover": "covers/kmfdm__bait_switch.png",
-          "weeks": 2,
+          "weeks": 3,
           "peak": 41,
           "debut": "2025-12-02",
           "peakDate": "2025-12-02",
@@ -17466,6 +17856,10 @@
             {
               "week": "2026-01-13",
               "rank": 61
+            },
+            {
+              "week": "2026-06-16",
+              "rank": 63
             }
           ]
         },
@@ -17892,7 +18286,7 @@
         "laufey|||lover girl": {
           "title": "Lover Girl",
           "cover": "covers/laufey__lover_girl.png",
-          "weeks": 9,
+          "weeks": 11,
           "peak": 11,
           "debut": "2025-09-16",
           "peakDate": "2025-10-07",
@@ -17932,13 +18326,21 @@
             {
               "week": "2026-01-06",
               "rank": 31
+            },
+            {
+              "week": "2026-06-07",
+              "rank": 88
+            },
+            {
+              "week": "2026-06-16",
+              "rank": 99
             }
           ]
         },
         "laufey|||from the start": {
           "title": "From the Start",
           "cover": "covers/laufey__from_the_start.png",
-          "weeks": 12,
+          "weeks": 13,
           "peak": 20,
           "debut": "2025-09-09",
           "peakDate": "2025-11-25",
@@ -17990,6 +18392,38 @@
             {
               "week": "2026-02-24",
               "rank": 51
+            },
+            {
+              "week": "2026-06-07",
+              "rank": 75
+            }
+          ]
+        },
+        "laufey|||promise": {
+          "title": "Promise",
+          "cover": "covers/laufey__promise.png",
+          "weeks": 1,
+          "peak": 46,
+          "debut": "2026-06-07",
+          "peakDate": "2026-06-07",
+          "history": [
+            {
+              "week": "2026-06-07",
+              "rank": 46
+            }
+          ]
+        },
+        "laufey|||madwoman": {
+          "title": "Madwoman",
+          "cover": "covers/laufey__madwoman.png",
+          "weeks": 1,
+          "peak": 59,
+          "debut": "2026-06-07",
+          "peakDate": "2026-06-07",
+          "history": [
+            {
+              "week": "2026-06-07",
+              "rank": 59
             }
           ]
         },
@@ -18072,6 +18506,34 @@
             {
               "week": "2026-01-27",
               "rank": 75
+            }
+          ]
+        },
+        "le sserafim|||iconic by mistake": {
+          "title": "ICONIC BY MISTAKE",
+          "cover": "covers/le_sserafim__iconic_by_mistake.png",
+          "weeks": 1,
+          "peak": 57,
+          "debut": "2026-06-16",
+          "peakDate": "2026-06-16",
+          "history": [
+            {
+              "week": "2026-06-16",
+              "rank": 57
+            }
+          ]
+        },
+        "le sserafim|||boompala": {
+          "title": "BOOMPALA",
+          "cover": "covers/le_sserafim__boompala.png",
+          "weeks": 1,
+          "peak": 78,
+          "debut": "2026-06-16",
+          "peakDate": "2026-06-16",
+          "history": [
+            {
+              "week": "2026-06-16",
+              "rank": 78
             }
           ]
         },
@@ -18510,7 +18972,7 @@
         "lit|||my own worst enemy": {
           "title": "My Own Worst Enemy",
           "cover": "covers/lit__my_own_worst_enemy.png",
-          "weeks": 5,
+          "weeks": 7,
           "peak": 29,
           "debut": "2025-11-11",
           "peakDate": "2025-11-11",
@@ -18534,6 +18996,14 @@
             {
               "week": "2026-02-24",
               "rank": 61
+            },
+            {
+              "week": "2026-06-07",
+              "rank": 72
+            },
+            {
+              "week": "2026-06-16",
+              "rank": 62
             }
           ]
         }
@@ -18664,7 +19134,7 @@
         "lucy bedroque|||how to pretend": {
           "title": "How To Pretend",
           "cover": "covers/lucy_bedroque__how_to_pretend.png",
-          "weeks": 31,
+          "weeks": 33,
           "peak": 1,
           "debut": "2025-09-09",
           "peakDate": "2026-02-10",
@@ -18792,6 +19262,14 @@
             {
               "week": "2026-06-02",
               "rank": 9
+            },
+            {
+              "week": "2026-06-07",
+              "rank": 18
+            },
+            {
+              "week": "2026-06-16",
+              "rank": 5
             }
           ]
         },
@@ -18856,7 +19334,7 @@
         "lucy bedroque|||2010 justin bieber": {
           "title": "2010 Justin Bieber",
           "cover": "covers/lucy_bedroque__2010_justin_bieber.png",
-          "weeks": 24,
+          "weeks": 25,
           "peak": 8,
           "debut": "2025-09-09",
           "peakDate": "2025-10-21",
@@ -18956,13 +19434,17 @@
             {
               "week": "2026-05-19",
               "rank": 74
+            },
+            {
+              "week": "2026-06-16",
+              "rank": 79
             }
           ]
         },
         "lucy bedroque|||knot me": {
           "title": "Knot Me",
           "cover": "covers/lucy_bedroque__knot_me.png",
-          "weeks": 23,
+          "weeks": 24,
           "peak": 10,
           "debut": "2025-09-09",
           "peakDate": "2026-05-12",
@@ -19058,6 +19540,10 @@
             {
               "week": "2026-06-02",
               "rank": 37
+            },
+            {
+              "week": "2026-06-16",
+              "rank": 51
             }
           ]
         },
@@ -19220,7 +19706,7 @@
         "lucy bedroque|||pretty peach": {
           "title": "Pretty Peach",
           "cover": "covers/lucy_bedroque__pretty_peach.png",
-          "weeks": 8,
+          "weeks": 9,
           "peak": 31,
           "debut": "2025-11-04",
           "peakDate": "2026-04-28",
@@ -19256,6 +19742,10 @@
             {
               "week": "2026-05-05",
               "rank": 56
+            },
+            {
+              "week": "2026-06-16",
+              "rank": 97
             }
           ]
         },
@@ -20062,7 +20552,7 @@
         "magdalena bay|||killshot": {
           "title": "Killshot",
           "cover": "covers/magdalena_bay__killshot.png",
-          "weeks": 1,
+          "weeks": 2,
           "peak": 28,
           "debut": "2026-04-14",
           "peakDate": "2026-04-14",
@@ -20070,6 +20560,10 @@
             {
               "week": "2026-04-14",
               "rank": 28
+            },
+            {
+              "week": "2026-06-07",
+              "rank": 31
             }
           ]
         },
@@ -20126,10 +20620,10 @@
         "malcolm todd|||earrings": {
           "title": "Earrings",
           "cover": "covers/malcolm_todd__earrings.jpg",
-          "weeks": 19,
-          "peak": 6,
+          "weeks": 21,
+          "peak": 3,
           "debut": "2025-12-09",
-          "peakDate": "2026-05-26",
+          "peakDate": "2026-06-07",
           "history": [
             {
               "week": "2025-12-09",
@@ -20206,6 +20700,76 @@
             {
               "week": "2026-06-02",
               "rank": 28
+            },
+            {
+              "week": "2026-06-07",
+              "rank": 3
+            },
+            {
+              "week": "2026-06-16",
+              "rank": 9
+            }
+          ]
+        },
+        "malcolm todd|||malcolm in the middle": {
+          "title": "Malcolm In The Middle",
+          "cover": "covers/malcolm_todd__malcolm_in_the_middle.png",
+          "weeks": 1,
+          "peak": 23,
+          "debut": "2026-06-16",
+          "peakDate": "2026-06-16",
+          "history": [
+            {
+              "week": "2026-06-16",
+              "rank": 23
+            }
+          ]
+        },
+        "malcolm todd|||breathe": {
+          "title": "Breathe",
+          "cover": "covers/malcolm_todd__breathe.png",
+          "weeks": 3,
+          "peak": 28,
+          "debut": "2026-05-05",
+          "peakDate": "2026-06-07",
+          "history": [
+            {
+              "week": "2026-05-05",
+              "rank": 78
+            },
+            {
+              "week": "2026-06-07",
+              "rank": 28
+            },
+            {
+              "week": "2026-06-16",
+              "rank": 58
+            }
+          ]
+        },
+        "malcolm todd|||i saw your face": {
+          "title": "I Saw Your Face",
+          "cover": "covers/malcolm_todd__i_saw_your_face.png",
+          "weeks": 4,
+          "peak": 30,
+          "debut": "2026-04-28",
+          "peakDate": "2026-06-07",
+          "history": [
+            {
+              "week": "2026-04-28",
+              "rank": 51
+            },
+            {
+              "week": "2026-05-05",
+              "rank": 46
+            },
+            {
+              "week": "2026-06-07",
+              "rank": 30
+            },
+            {
+              "week": "2026-06-16",
+              "rank": 44
             }
           ]
         },
@@ -20243,24 +20807,6 @@
             }
           ]
         },
-        "malcolm todd|||i saw your face": {
-          "title": "I Saw Your Face",
-          "cover": "covers/malcolm_todd__i_saw_your_face.png",
-          "weeks": 2,
-          "peak": 46,
-          "debut": "2026-04-28",
-          "peakDate": "2026-05-05",
-          "history": [
-            {
-              "week": "2026-04-28",
-              "rank": 51
-            },
-            {
-              "week": "2026-05-05",
-              "rank": 46
-            }
-          ]
-        },
         "malcolm todd|||roommates": {
           "title": "Roommates",
           "cover": "covers/malcolm_todd__roommates.png",
@@ -20295,6 +20841,20 @@
             }
           ]
         },
+        "malcolm todd|||chest pain i love": {
+          "title": "Chest Pain (I Love)",
+          "cover": "covers/malcolm_todd__chest_pain_i_love.png",
+          "weeks": 1,
+          "peak": 55,
+          "debut": "2026-06-07",
+          "peakDate": "2026-06-07",
+          "history": [
+            {
+              "week": "2026-06-07",
+              "rank": 55
+            }
+          ]
+        },
         "malcolm todd|||mr incorrect": {
           "title": "Mr. Incorrect",
           "cover": "covers/malcolm_todd__mr_incorrect.png",
@@ -20313,17 +20873,45 @@
             }
           ]
         },
-        "malcolm todd|||breathe": {
-          "title": "Breathe",
-          "cover": "covers/malcolm_todd__breathe.png",
+        "malcolm todd|||xs & os": {
+          "title": "X's & O's",
+          "cover": "covers/malcolm_todd__x_s_o_s.png",
           "weeks": 1,
-          "peak": 78,
-          "debut": "2026-05-05",
-          "peakDate": "2026-05-05",
+          "peak": 81,
+          "debut": "2026-06-07",
+          "peakDate": "2026-06-07",
           "history": [
             {
-              "week": "2026-05-05",
-              "rank": 78
+              "week": "2026-06-07",
+              "rank": 81
+            }
+          ]
+        },
+        "malcolm todd|||obsessica": {
+          "title": "Obsessica",
+          "cover": "covers/malcolm_todd__obsessica.png",
+          "weeks": 1,
+          "peak": 87,
+          "debut": "2026-06-07",
+          "peakDate": "2026-06-07",
+          "history": [
+            {
+              "week": "2026-06-07",
+              "rank": 87
+            }
+          ]
+        },
+        "malcolm todd|||jean skirt": {
+          "title": "Jean Skirt",
+          "cover": "covers/malcolm_todd__jean_skirt.png",
+          "weeks": 1,
+          "peak": 100,
+          "debut": "2026-06-07",
+          "peakDate": "2026-06-07",
+          "history": [
+            {
+              "week": "2026-06-07",
+              "rank": 100
             }
           ]
         }
@@ -20548,7 +21136,7 @@
         "michael jackson|||billie jean": {
           "title": "Billie Jean",
           "cover": "covers/michael_jackson__billie_jean.png",
-          "weeks": 5,
+          "weeks": 7,
           "peak": 4,
           "debut": "2026-05-05",
           "peakDate": "2026-06-02",
@@ -20572,72 +21160,24 @@
             {
               "week": "2026-06-02",
               "rank": 4
-            }
-          ]
-        },
-        "michael jackson|||chicago": {
-          "title": "Chicago",
-          "cover": "covers/michael_jackson__chicago.png",
-          "weeks": 4,
-          "peak": 8,
-          "debut": "2026-05-12",
-          "peakDate": "2026-06-02",
-          "history": [
-            {
-              "week": "2026-05-12",
-              "rank": 92
             },
             {
-              "week": "2026-05-19",
-              "rank": 9
+              "week": "2026-06-07",
+              "rank": 13
             },
             {
-              "week": "2026-05-26",
-              "rank": 17
-            },
-            {
-              "week": "2026-06-02",
-              "rank": 8
-            }
-          ]
-        },
-        "michael jackson|||dont stop til you get enough": {
-          "title": "Don't Stop 'Til You Get Enough",
-          "cover": "covers/michael_jackson__don_t_stop_til_you_get_enough.png",
-          "weeks": 5,
-          "peak": 10,
-          "debut": "2026-05-05",
-          "peakDate": "2026-05-05",
-          "history": [
-            {
-              "week": "2026-05-05",
-              "rank": 10
-            },
-            {
-              "week": "2026-05-12",
-              "rank": 17
-            },
-            {
-              "week": "2026-05-19",
-              "rank": 21
-            },
-            {
-              "week": "2026-05-26",
-              "rank": 12
-            },
-            {
-              "week": "2026-06-02",
-              "rank": 10
+              "week": "2026-06-16",
+              "rank": 70
             }
           ]
         },
         "michael jackson|||human nature": {
           "title": "Human Nature",
           "cover": "covers/michael_jackson__human_nature.png",
-          "weeks": 6,
-          "peak": 13,
+          "weeks": 8,
+          "peak": 6,
           "debut": "2026-04-28",
-          "peakDate": "2026-06-02",
+          "peakDate": "2026-06-07",
           "history": [
             {
               "week": "2026-04-28",
@@ -20662,6 +21202,82 @@
             {
               "week": "2026-06-02",
               "rank": 13
+            },
+            {
+              "week": "2026-06-07",
+              "rank": 6
+            },
+            {
+              "week": "2026-06-16",
+              "rank": 29
+            }
+          ]
+        },
+        "michael jackson|||chicago": {
+          "title": "Chicago",
+          "cover": "covers/michael_jackson__chicago.png",
+          "weeks": 6,
+          "peak": 8,
+          "debut": "2026-05-12",
+          "peakDate": "2026-06-02",
+          "history": [
+            {
+              "week": "2026-05-12",
+              "rank": 92
+            },
+            {
+              "week": "2026-05-19",
+              "rank": 9
+            },
+            {
+              "week": "2026-05-26",
+              "rank": 17
+            },
+            {
+              "week": "2026-06-02",
+              "rank": 8
+            },
+            {
+              "week": "2026-06-07",
+              "rank": 10
+            },
+            {
+              "week": "2026-06-16",
+              "rank": 37
+            }
+          ]
+        },
+        "michael jackson|||dont stop til you get enough": {
+          "title": "Don't Stop 'Til You Get Enough",
+          "cover": "covers/michael_jackson__don_t_stop_til_you_get_enough.png",
+          "weeks": 6,
+          "peak": 10,
+          "debut": "2026-05-05",
+          "peakDate": "2026-05-05",
+          "history": [
+            {
+              "week": "2026-05-05",
+              "rank": 10
+            },
+            {
+              "week": "2026-05-12",
+              "rank": 17
+            },
+            {
+              "week": "2026-05-19",
+              "rank": 21
+            },
+            {
+              "week": "2026-05-26",
+              "rank": 12
+            },
+            {
+              "week": "2026-06-02",
+              "rank": 10
+            },
+            {
+              "week": "2026-06-07",
+              "rank": 24
             }
           ]
         },
@@ -20682,7 +21298,7 @@
         "michael jackson|||thriller": {
           "title": "Thriller",
           "cover": "covers/michael_jackson__thriller.png",
-          "weeks": 3,
+          "weeks": 5,
           "peak": 15,
           "debut": "2026-05-12",
           "peakDate": "2026-05-19",
@@ -20698,13 +21314,21 @@
             {
               "week": "2026-06-02",
               "rank": 56
+            },
+            {
+              "week": "2026-06-07",
+              "rank": 49
+            },
+            {
+              "week": "2026-06-16",
+              "rank": 76
             }
           ]
         },
         "michael jackson|||beat it": {
           "title": "Beat It",
           "cover": "covers/michael_jackson__beat_it.png",
-          "weeks": 4,
+          "weeks": 6,
           "peak": 16,
           "debut": "2026-05-12",
           "peakDate": "2026-05-19",
@@ -20724,6 +21348,54 @@
             {
               "week": "2026-06-02",
               "rank": 26
+            },
+            {
+              "week": "2026-06-07",
+              "rank": 63
+            },
+            {
+              "week": "2026-06-16",
+              "rank": 60
+            }
+          ]
+        },
+        "michael jackson|||pyt pretty young thing": {
+          "title": "P.Y.T. (Pretty Young Thing)",
+          "cover": "covers/michael_jackson__p_y_t_pretty_young_thing.png",
+          "weeks": 4,
+          "peak": 35,
+          "debut": "2026-05-12",
+          "peakDate": "2026-06-07",
+          "history": [
+            {
+              "week": "2026-05-12",
+              "rank": 85
+            },
+            {
+              "week": "2026-05-26",
+              "rank": 75
+            },
+            {
+              "week": "2026-06-02",
+              "rank": 78
+            },
+            {
+              "week": "2026-06-07",
+              "rank": 35
+            }
+          ]
+        },
+        "michael jackson|||they dont care about us": {
+          "title": "They Don't Care About Us",
+          "cover": "covers/michael_jackson__they_don_t_care_about_us.png",
+          "weeks": 1,
+          "peak": 58,
+          "debut": "2026-06-07",
+          "peakDate": "2026-06-07",
+          "history": [
+            {
+              "week": "2026-06-07",
+              "rank": 58
             }
           ]
         },
@@ -20748,7 +21420,7 @@
         "michael jackson|||the girl is mine with paul mccartney": {
           "title": "The Girl Is Mine (with Paul McCartney)",
           "cover": "covers/michael_jackson__the_girl_is_mine_with_paul_mccartney.png",
-          "weeks": 1,
+          "weeks": 2,
           "peak": 72,
           "debut": "2025-11-18",
           "peakDate": "2025-11-18",
@@ -20756,28 +21428,24 @@
             {
               "week": "2025-11-18",
               "rank": 72
+            },
+            {
+              "week": "2026-06-16",
+              "rank": 81
             }
           ]
         },
-        "michael jackson|||pyt pretty young thing": {
-          "title": "P.Y.T. (Pretty Young Thing)",
-          "cover": "covers/michael_jackson__p_y_t_pretty_young_thing.png",
-          "weeks": 3,
-          "peak": 75,
-          "debut": "2026-05-12",
-          "peakDate": "2026-05-26",
+        "michael jackson|||off the wall": {
+          "title": "Off the Wall",
+          "cover": "covers/michael_jackson__off_the_wall.png",
+          "weeks": 1,
+          "peak": 74,
+          "debut": "2026-06-07",
+          "peakDate": "2026-06-07",
           "history": [
             {
-              "week": "2026-05-12",
-              "rank": 85
-            },
-            {
-              "week": "2026-05-26",
-              "rank": 75
-            },
-            {
-              "week": "2026-06-02",
-              "rank": 78
+              "week": "2026-06-07",
+              "rank": 74
             }
           ]
         },
@@ -20795,6 +21463,24 @@
             }
           ]
         },
+        "michael jackson|||remember the time": {
+          "title": "Remember the Time",
+          "cover": "covers/michael_jackson__remember_the_time.png",
+          "weeks": 2,
+          "peak": 80,
+          "debut": "2026-05-19",
+          "peakDate": "2026-06-16",
+          "history": [
+            {
+              "week": "2026-05-19",
+              "rank": 88
+            },
+            {
+              "week": "2026-06-16",
+              "rank": 80
+            }
+          ]
+        },
         "michael jackson|||smooth criminal": {
           "title": "Smooth Criminal",
           "cover": "covers/michael_jackson__smooth_criminal.png",
@@ -20806,20 +21492,6 @@
             {
               "week": "2026-05-05",
               "rank": 87
-            }
-          ]
-        },
-        "michael jackson|||remember the time": {
-          "title": "Remember the Time",
-          "cover": "covers/michael_jackson__remember_the_time.png",
-          "weeks": 1,
-          "peak": 88,
-          "debut": "2026-05-19",
-          "peakDate": "2026-05-19",
-          "history": [
-            {
-              "week": "2026-05-19",
-              "rank": 88
             }
           ]
         }
@@ -21126,7 +21798,7 @@
         "muse|||supermassive black hole": {
           "title": "Supermassive Black Hole",
           "cover": "covers/muse__supermassive_black_hole.png",
-          "weeks": 1,
+          "weeks": 2,
           "peak": 63,
           "debut": "2026-05-19",
           "peakDate": "2026-05-19",
@@ -21134,6 +21806,10 @@
             {
               "week": "2026-05-19",
               "rank": 63
+            },
+            {
+              "week": "2026-06-07",
+              "rank": 84
             }
           ]
         }
@@ -21844,7 +22520,7 @@
         "ninajirachi|||delete": {
           "title": "Delete",
           "cover": "covers/ninajirachi__delete.png",
-          "weeks": 11,
+          "weeks": 12,
           "peak": 9,
           "debut": "2025-09-09",
           "peakDate": "2026-02-03",
@@ -21892,13 +22568,17 @@
             {
               "week": "2026-05-26",
               "rank": 74
+            },
+            {
+              "week": "2026-06-07",
+              "rank": 57
             }
           ]
         },
         "ninajirachi|||fuck my computer": {
           "title": "Fuck My Computer",
           "cover": "covers/ninajirachi__fuck_my_computer.png",
-          "weeks": 11,
+          "weeks": 12,
           "peak": 11,
           "debut": "2025-09-09",
           "peakDate": "2026-04-14",
@@ -21946,13 +22626,17 @@
             {
               "week": "2026-05-26",
               "rank": 50
+            },
+            {
+              "week": "2026-06-16",
+              "rank": 89
             }
           ]
         },
         "ninajirachi|||ipod touch": {
           "title": "iPod Touch",
           "cover": "covers/ninajirachi__ipod_touch.png",
-          "weeks": 16,
+          "weeks": 17,
           "peak": 17,
           "debut": "2025-09-09",
           "peakDate": "2026-04-14",
@@ -22020,6 +22704,10 @@
             {
               "week": "2026-05-26",
               "rank": 94
+            },
+            {
+              "week": "2026-06-16",
+              "rank": 73
             }
           ]
         },
@@ -22136,7 +22824,7 @@
         "nine inch nails|||closer": {
           "title": "Closer",
           "cover": "covers/nine_inch_nails__closer.png",
-          "weeks": 4,
+          "weeks": 5,
           "peak": 16,
           "debut": "2025-10-14",
           "peakDate": "2026-04-21",
@@ -22156,6 +22844,10 @@
             {
               "week": "2026-04-28",
               "rank": 44
+            },
+            {
+              "week": "2026-06-16",
+              "rank": 94
             }
           ]
         },
@@ -22497,10 +23189,24 @@
     },
     "Olivia Rodrigo": {
       "songs": {
+        "olivia rodrigo|||stupid song": {
+          "title": "stupid song",
+          "cover": "covers/olivia_rodrigo__stupid_song.png",
+          "weeks": 1,
+          "peak": 3,
+          "debut": "2026-06-16",
+          "peakDate": "2026-06-16",
+          "history": [
+            {
+              "week": "2026-06-16",
+              "rank": 3
+            }
+          ]
+        },
         "olivia rodrigo|||drop dead": {
           "title": "Drop Dead",
           "cover": "covers/olivia_rodrigo__drop_dead.png",
-          "weeks": 2,
+          "weeks": 3,
           "peak": 6,
           "debut": "2026-04-21",
           "peakDate": "2026-04-21",
@@ -22512,16 +23218,48 @@
             {
               "week": "2026-04-28",
               "rank": 42
+            },
+            {
+              "week": "2026-06-16",
+              "rank": 8
+            }
+          ]
+        },
+        "olivia rodrigo|||maggots for brains": {
+          "title": "maggots for brains",
+          "cover": "covers/olivia_rodrigo__maggots_for_brains.png",
+          "weeks": 1,
+          "peak": 10,
+          "debut": "2026-06-16",
+          "peakDate": "2026-06-16",
+          "history": [
+            {
+              "week": "2026-06-16",
+              "rank": 10
+            }
+          ]
+        },
+        "olivia rodrigo|||my way": {
+          "title": "my way",
+          "cover": "covers/_placeholder.png",
+          "weeks": 1,
+          "peak": 11,
+          "debut": "2026-06-16",
+          "peakDate": "2026-06-16",
+          "history": [
+            {
+              "week": "2026-06-16",
+              "rank": 11
             }
           ]
         },
         "olivia rodrigo|||the cure": {
           "title": "tHe CuRe",
           "cover": "covers/olivia_rodrigo__the_cure.png",
-          "weeks": 2,
-          "peak": 19,
+          "weeks": 3,
+          "peak": 12,
           "debut": "2026-05-26",
-          "peakDate": "2026-06-02",
+          "peakDate": "2026-06-16",
           "history": [
             {
               "week": "2026-05-26",
@@ -22530,6 +23268,122 @@
             {
               "week": "2026-06-02",
               "rank": 19
+            },
+            {
+              "week": "2026-06-16",
+              "rank": 12
+            }
+          ]
+        },
+        "olivia rodrigo|||expectations": {
+          "title": "expectations",
+          "cover": "covers/olivia_rodrigo__expectations.png",
+          "weeks": 1,
+          "peak": 14,
+          "debut": "2026-06-16",
+          "peakDate": "2026-06-16",
+          "history": [
+            {
+              "week": "2026-06-16",
+              "rank": 14
+            }
+          ]
+        },
+        "olivia rodrigo|||u + me = <3": {
+          "title": "u + me = <3",
+          "cover": "covers/_placeholder.png",
+          "weeks": 1,
+          "peak": 15,
+          "debut": "2026-06-16",
+          "peakDate": "2026-06-16",
+          "history": [
+            {
+              "week": "2026-06-16",
+              "rank": 15
+            }
+          ]
+        },
+        "olivia rodrigo|||honeybee": {
+          "title": "honeybee",
+          "cover": "covers/olivia_rodrigo__honeybee.png",
+          "weeks": 1,
+          "peak": 19,
+          "debut": "2026-06-16",
+          "peakDate": "2026-06-16",
+          "history": [
+            {
+              "week": "2026-06-16",
+              "rank": 19
+            }
+          ]
+        },
+        "olivia rodrigo|||whats wrong with me": {
+          "title": "what's wrong with me",
+          "cover": "covers/_placeholder.png",
+          "weeks": 1,
+          "peak": 24,
+          "debut": "2026-06-16",
+          "peakDate": "2026-06-16",
+          "history": [
+            {
+              "week": "2026-06-16",
+              "rank": 24
+            }
+          ]
+        },
+        "olivia rodrigo|||begged": {
+          "title": "begged",
+          "cover": "covers/olivia_rodrigo__begged.png",
+          "weeks": 1,
+          "peak": 31,
+          "debut": "2026-06-16",
+          "peakDate": "2026-06-16",
+          "history": [
+            {
+              "week": "2026-06-16",
+              "rank": 31
+            }
+          ]
+        },
+        "olivia rodrigo|||less": {
+          "title": "less",
+          "cover": "covers/olivia_rodrigo__less.png",
+          "weeks": 1,
+          "peak": 36,
+          "debut": "2026-06-16",
+          "peakDate": "2026-06-16",
+          "history": [
+            {
+              "week": "2026-06-16",
+              "rank": 36
+            }
+          ]
+        },
+        "olivia rodrigo|||purple": {
+          "title": "purple",
+          "cover": "covers/olivia_rodrigo__purple.png",
+          "weeks": 1,
+          "peak": 39,
+          "debut": "2026-06-16",
+          "peakDate": "2026-06-16",
+          "history": [
+            {
+              "week": "2026-06-16",
+              "rank": 39
+            }
+          ]
+        },
+        "olivia rodrigo|||cigarette smoke": {
+          "title": "cigarette smoke",
+          "cover": "covers/_placeholder.png",
+          "weeks": 1,
+          "peak": 40,
+          "debut": "2026-06-16",
+          "peakDate": "2026-06-16",
+          "history": [
+            {
+              "week": "2026-06-16",
+              "rank": 40
             }
           ]
         }
@@ -22957,6 +23811,28 @@
     },
     "Panchiko": {
       "songs": {
+        "panchiko|||d>e>a>t>h>m>e>t>a>l": {
+          "title": "D>E>A>T>H>M>E>T>A>L",
+          "cover": "covers/panchiko__deathmetal.png",
+          "weeks": 3,
+          "peak": 21,
+          "debut": "2025-10-07",
+          "peakDate": "2026-06-16",
+          "history": [
+            {
+              "week": "2025-10-07",
+              "rank": 77
+            },
+            {
+              "week": "2026-06-02",
+              "rank": 48
+            },
+            {
+              "week": "2026-06-16",
+              "rank": 21
+            }
+          ]
+        },
         "panchiko|||laputa": {
           "title": "Laputa",
           "cover": "covers/panchiko__laputa.png",
@@ -22976,24 +23852,6 @@
             {
               "week": "2026-06-02",
               "rank": 25
-            }
-          ]
-        },
-        "panchiko|||d>e>a>t>h>m>e>t>a>l": {
-          "title": "D>E>A>T>H>M>E>T>A>L",
-          "cover": "covers/panchiko__deathmetal.png",
-          "weeks": 2,
-          "peak": 48,
-          "debut": "2025-10-07",
-          "peakDate": "2026-06-02",
-          "history": [
-            {
-              "week": "2025-10-07",
-              "rank": 77
-            },
-            {
-              "week": "2026-06-02",
-              "rank": 48
             }
           ]
         },
@@ -23098,6 +23956,20 @@
             {
               "week": "2025-10-21",
               "rank": 73
+            }
+          ]
+        },
+        "panic at the disco|||i write sins not tragedies": {
+          "title": "I Write Sins Not Tragedies",
+          "cover": "covers/panic_at_the_disco__i_write_sins_not_tragedies.png",
+          "weeks": 1,
+          "peak": 83,
+          "debut": "2026-06-16",
+          "peakDate": "2026-06-16",
+          "history": [
+            {
+              "week": "2026-06-16",
+              "rank": 83
             }
           ]
         }
@@ -23376,7 +24248,7 @@
         "pinkpantheress|||girl like me": {
           "title": "Girl Like Me",
           "cover": "covers/pinkpantheress__girl_like_me.png",
-          "weeks": 18,
+          "weeks": 20,
           "peak": 1,
           "debut": "2025-09-09",
           "peakDate": "2026-05-12",
@@ -23452,13 +24324,21 @@
             {
               "week": "2026-06-02",
               "rank": 2
+            },
+            {
+              "week": "2026-06-07",
+              "rank": 1
+            },
+            {
+              "week": "2026-06-16",
+              "rank": 1
             }
           ]
         },
         "pinkpantheress|||stateside + zara larsson": {
           "title": "Stateside + Zara Larsson",
           "cover": "covers/pinkpantheress__stateside_zara_larsson.jpg",
-          "weeks": 24,
+          "weeks": 26,
           "peak": 3,
           "debut": "2025-12-16",
           "peakDate": "2026-03-03",
@@ -23558,6 +24438,14 @@
             {
               "week": "2026-06-02",
               "rank": 7
+            },
+            {
+              "week": "2026-06-07",
+              "rank": 4
+            },
+            {
+              "week": "2026-06-16",
+              "rank": 17
             }
           ]
         },
@@ -23720,7 +24608,7 @@
         "pinkpantheress|||illegal": {
           "title": "Illegal",
           "cover": "covers/pinkpantheress__illegal.png",
-          "weeks": 10,
+          "weeks": 11,
           "peak": 36,
           "debut": "2025-09-09",
           "peakDate": "2026-01-20",
@@ -23764,6 +24652,10 @@
             {
               "week": "2026-05-26",
               "rank": 44
+            },
+            {
+              "week": "2026-06-16",
+              "rank": 47
             }
           ]
         },
@@ -24174,7 +25066,7 @@
         "queens of the stone age|||go with the flow": {
           "title": "Go With the Flow",
           "cover": "covers/queens_of_the_stone_age__go_with_the_flow.png",
-          "weeks": 6,
+          "weeks": 7,
           "peak": 59,
           "debut": "2026-01-06",
           "peakDate": "2026-02-24",
@@ -24202,6 +25094,10 @@
             {
               "week": "2026-03-24",
               "rank": 95
+            },
+            {
+              "week": "2026-06-16",
+              "rank": 96
             }
           ]
         }
@@ -24323,6 +25219,28 @@
             }
           ]
         },
+        "radiohead|||creep": {
+          "title": "Creep",
+          "cover": "covers/radiohead__creep.png",
+          "weeks": 3,
+          "peak": 33,
+          "debut": "2026-02-10",
+          "peakDate": "2026-06-16",
+          "history": [
+            {
+              "week": "2026-02-10",
+              "rank": 39
+            },
+            {
+              "week": "2026-06-07",
+              "rank": 76
+            },
+            {
+              "week": "2026-06-16",
+              "rank": 33
+            }
+          ]
+        },
         "radiohead|||weird fishes arpeggi": {
           "title": "Weird Fishes / Arpeggi",
           "cover": "covers/radiohead__weird_fishes_arpeggi.png",
@@ -24338,20 +25256,6 @@
             {
               "week": "2026-04-14",
               "rank": 43
-            }
-          ]
-        },
-        "radiohead|||creep": {
-          "title": "Creep",
-          "cover": "covers/radiohead__creep.png",
-          "weeks": 1,
-          "peak": 39,
-          "debut": "2026-02-10",
-          "peakDate": "2026-02-10",
-          "history": [
-            {
-              "week": "2026-02-10",
-              "rank": 39
             }
           ]
         },
@@ -24394,7 +25298,7 @@
         "radiohead|||all i need": {
           "title": "All I Need",
           "cover": "covers/radiohead__all_i_need.png",
-          "weeks": 2,
+          "weeks": 3,
           "peak": 58,
           "debut": "2025-09-09",
           "peakDate": "2025-09-09",
@@ -24406,6 +25310,10 @@
             {
               "week": "2025-09-16",
               "rank": 58
+            },
+            {
+              "week": "2026-06-07",
+              "rank": 86
             }
           ]
         },
@@ -24474,6 +25382,24 @@
             {
               "week": "2026-04-14",
               "rank": 77
+            }
+          ]
+        }
+      }
+    },
+    "Remastered 2006 - Jamiroquai": {
+      "songs": {
+        "remastered 2006 - jamiroquai|||virtual insanity": {
+          "title": "Virtual Insanity",
+          "cover": "covers/_placeholder.png",
+          "weeks": 1,
+          "peak": 74,
+          "debut": "2026-06-16",
+          "peakDate": "2026-06-16",
+          "history": [
+            {
+              "week": "2026-06-16",
+              "rank": 74
             }
           ]
         }
@@ -24750,10 +25676,10 @@
         "rusino|||looping the rooms": {
           "title": "Looping the Rooms",
           "cover": "covers/rusino__looping_the_rooms.png",
-          "weeks": 7,
-          "peak": 6,
+          "weeks": 9,
+          "peak": 4,
           "debut": "2026-04-07",
-          "peakDate": "2026-06-02",
+          "peakDate": "2026-06-16",
           "history": [
             {
               "week": "2026-04-07",
@@ -24782,6 +25708,14 @@
             {
               "week": "2026-06-02",
               "rank": 6
+            },
+            {
+              "week": "2026-06-07",
+              "rank": 16
+            },
+            {
+              "week": "2026-06-16",
+              "rank": 4
             }
           ]
         }
@@ -24977,6 +25911,24 @@
         }
       }
     },
+    "ScHoolboy Q": {
+      "songs": {
+        "schoolboy q|||collard greens": {
+          "title": "Collard Greens",
+          "cover": "covers/schoolboy_q__collard_greens.png",
+          "weeks": 1,
+          "peak": 47,
+          "debut": "2026-06-07",
+          "peakDate": "2026-06-07",
+          "history": [
+            {
+              "week": "2026-06-07",
+              "rank": 47
+            }
+          ]
+        }
+      }
+    },
     "Scissor Sisters": {
       "songs": {
         "scissor sisters|||it cant come quickly enough": {
@@ -25094,7 +26046,7 @@
         "sheena ringo|||薄ら氷心中": {
           "title": "薄ら氷心中",
           "cover": "covers/sheena_ringo__薄ら氷心中.jpg",
-          "weeks": 4,
+          "weeks": 5,
           "peak": 48,
           "debut": "2025-09-09",
           "peakDate": "2025-11-04",
@@ -25114,6 +26066,10 @@
             {
               "week": "2026-06-02",
               "rank": 82
+            },
+            {
+              "week": "2026-06-07",
+              "rank": 90
             }
           ]
         }
@@ -25138,7 +26094,7 @@
         "shihoko hirata|||heartbeat heartbreak": {
           "title": "Heartbeat, Heartbreak",
           "cover": "covers/shihoko_hirata__heartbeat_heartbreak.jpg",
-          "weeks": 5,
+          "weeks": 6,
           "peak": 69,
           "debut": "2025-10-07",
           "peakDate": "2026-05-05",
@@ -25162,6 +26118,10 @@
             {
               "week": "2026-05-12",
               "rank": 93
+            },
+            {
+              "week": "2026-06-16",
+              "rank": 100
             }
           ]
         }
@@ -25172,7 +26132,7 @@
         "sidney gish|||impostor syndrome": {
           "title": "Impostor Syndrome",
           "cover": "covers/sidney_gish__impostor_syndrome.png",
-          "weeks": 13,
+          "weeks": 15,
           "peak": 3,
           "debut": "2025-09-23",
           "peakDate": "2025-11-25",
@@ -25228,6 +26188,14 @@
             {
               "week": "2026-06-02",
               "rank": 36
+            },
+            {
+              "week": "2026-06-07",
+              "rank": 11
+            },
+            {
+              "week": "2026-06-16",
+              "rank": 35
             }
           ]
         }
@@ -25274,7 +26242,7 @@
         "single version - michael jackson|||rock with you": {
           "title": "Rock With You",
           "cover": "covers/_placeholder.png",
-          "weeks": 3,
+          "weeks": 4,
           "peak": 23,
           "debut": "2026-05-05",
           "peakDate": "2026-06-02",
@@ -25290,6 +26258,28 @@
             {
               "week": "2026-06-02",
               "rank": 23
+            },
+            {
+              "week": "2026-06-07",
+              "rank": 62
+            }
+          ]
+        }
+      }
+    },
+    "Sixpence None the Richer": {
+      "songs": {
+        "sixpence none the richer|||kiss me": {
+          "title": "Kiss Me",
+          "cover": "covers/sixpence_none_the_richer__kiss_me.png",
+          "weeks": 1,
+          "peak": 53,
+          "debut": "2026-06-16",
+          "peakDate": "2026-06-16",
+          "history": [
+            {
+              "week": "2026-06-16",
+              "rank": 53
             }
           ]
         }
@@ -25676,7 +26666,7 @@
         "slayr|||love blur": {
           "title": "Love Blur",
           "cover": "covers/slayr__love_blur.png",
-          "weeks": 13,
+          "weeks": 14,
           "peak": 4,
           "debut": "2026-01-06",
           "peakDate": "2026-03-03",
@@ -25732,6 +26722,10 @@
             {
               "week": "2026-05-12",
               "rank": 61
+            },
+            {
+              "week": "2026-06-07",
+              "rank": 66
             }
           ]
         },
@@ -26424,10 +27418,10 @@
         "slayyyter|||crank": {
           "title": "CRANK",
           "cover": "covers/slayyyter__crank.png",
-          "weeks": 13,
-          "peak": 9,
+          "weeks": 15,
+          "peak": 8,
           "debut": "2026-02-24",
-          "peakDate": "2026-04-14",
+          "peakDate": "2026-06-07",
           "history": [
             {
               "week": "2026-02-24",
@@ -26480,6 +27474,14 @@
             {
               "week": "2026-06-02",
               "rank": 61
+            },
+            {
+              "week": "2026-06-07",
+              "rank": 8
+            },
+            {
+              "week": "2026-06-16",
+              "rank": 27
             }
           ]
         },
@@ -26524,7 +27526,7 @@
         "slayyyter|||dance": {
           "title": "DANCE...",
           "cover": "covers/slayyyter__dance.png",
-          "weeks": 4,
+          "weeks": 6,
           "peak": 30,
           "debut": "2026-01-20",
           "peakDate": "2026-03-31",
@@ -26544,6 +27546,14 @@
             {
               "week": "2026-04-28",
               "rank": 76
+            },
+            {
+              "week": "2026-06-07",
+              "rank": 67
+            },
+            {
+              "week": "2026-06-16",
+              "rank": 45
             }
           ]
         },
@@ -26576,7 +27586,7 @@
         "slayyyter|||cannibalism": {
           "title": "CANNIBALISM!",
           "cover": "covers/slayyyter__cannibalism.png",
-          "weeks": 4,
+          "weeks": 5,
           "peak": 34,
           "debut": "2026-03-31",
           "peakDate": "2026-04-28",
@@ -26596,6 +27606,10 @@
             {
               "week": "2026-04-28",
               "rank": 34
+            },
+            {
+              "week": "2026-06-07",
+              "rank": 82
             }
           ]
         },
@@ -26942,7 +27956,7 @@
         "soundgarden|||black hole sun": {
           "title": "Black Hole Sun",
           "cover": "covers/soundgarden__black_hole_sun.png",
-          "weeks": 3,
+          "weeks": 4,
           "peak": 55,
           "debut": "2025-10-28",
           "peakDate": "2025-10-28",
@@ -26958,6 +27972,10 @@
             {
               "week": "2026-04-28",
               "rank": 69
+            },
+            {
+              "week": "2026-06-07",
+              "rank": 65
             }
           ]
         }
@@ -27023,17 +28041,39 @@
     },
     "Steve Lacy": {
       "songs": {
+        "steve lacy|||the feeling": {
+          "title": "The Feeling",
+          "cover": "covers/steve_lacy__the_feeling.png",
+          "weeks": 2,
+          "peak": 12,
+          "debut": "2026-06-07",
+          "peakDate": "2026-06-07",
+          "history": [
+            {
+              "week": "2026-06-07",
+              "rank": 12
+            },
+            {
+              "week": "2026-06-16",
+              "rank": 18
+            }
+          ]
+        },
         "steve lacy|||bad habit": {
           "title": "Bad Habit",
           "cover": "covers/steve_lacy__bad_habit.jpg",
-          "weeks": 1,
-          "peak": 99,
+          "weeks": 2,
+          "peak": 96,
           "debut": "2025-11-11",
-          "peakDate": "2025-11-11",
+          "peakDate": "2026-06-07",
           "history": [
             {
               "week": "2025-11-11",
               "rank": 99
+            },
+            {
+              "week": "2026-06-07",
+              "rank": 96
             }
           ]
         }
@@ -27044,10 +28084,10 @@
         "stevie wonder|||isnt she lovely": {
           "title": "Isn't She Lovely",
           "cover": "covers/stevie_wonder__isn_t_she_lovely.png",
-          "weeks": 2,
-          "peak": 49,
+          "weeks": 4,
+          "peak": 6,
           "debut": "2026-05-26",
-          "peakDate": "2026-05-26",
+          "peakDate": "2026-06-16",
           "history": [
             {
               "week": "2026-05-26",
@@ -27056,6 +28096,14 @@
             {
               "week": "2026-06-02",
               "rank": 65
+            },
+            {
+              "week": "2026-06-07",
+              "rank": 32
+            },
+            {
+              "week": "2026-06-16",
+              "rank": 6
             }
           ]
         }
@@ -27200,7 +28248,7 @@
         "tame impala|||dracula": {
           "title": "Dracula",
           "cover": "covers/tame_impala__dracula.png",
-          "weeks": 24,
+          "weeks": 25,
           "peak": 1,
           "debut": "2025-09-30",
           "peakDate": "2025-09-30",
@@ -27300,6 +28348,10 @@
             {
               "week": "2026-06-02",
               "rank": 32
+            },
+            {
+              "week": "2026-06-07",
+              "rank": 48
             }
           ]
         },
@@ -27340,6 +28392,20 @@
             {
               "week": "2025-09-30",
               "rank": 23
+            }
+          ]
+        },
+        "tame impala|||borderline": {
+          "title": "Borderline",
+          "cover": "covers/tame_impala__borderline.png",
+          "weeks": 1,
+          "peak": 34,
+          "debut": "2026-06-07",
+          "peakDate": "2026-06-07",
+          "history": [
+            {
+              "week": "2026-06-07",
+              "rank": 34
             }
           ]
         },
@@ -27474,6 +28540,20 @@
               "rank": 37
             }
           ]
+        },
+        "taylor swift|||i knew it i knew you": {
+          "title": "I Knew It, I Knew You",
+          "cover": "covers/taylor_swift__i_knew_it_i_knew_you.png",
+          "weeks": 1,
+          "peak": 83,
+          "debut": "2026-06-07",
+          "peakDate": "2026-06-07",
+          "history": [
+            {
+              "week": "2026-06-07",
+              "rank": 83
+            }
+          ]
         }
       }
     },
@@ -27500,7 +28580,7 @@
         "that handsome devil|||charlies inferno": {
           "title": "Charlie's Inferno",
           "cover": "covers/that_handsome_devil__charlie_s_inferno.png",
-          "weeks": 3,
+          "weeks": 5,
           "peak": 1,
           "debut": "2026-05-19",
           "peakDate": "2026-05-26",
@@ -27516,6 +28596,14 @@
             {
               "week": "2026-06-02",
               "rank": 1
+            },
+            {
+              "week": "2026-06-07",
+              "rank": 15
+            },
+            {
+              "week": "2026-06-16",
+              "rank": 2
             }
           ]
         }
@@ -27671,6 +28759,20 @@
     },
     "The Living Tombstone": {
       "songs": {
+        "the living tombstone|||its been so long": {
+          "title": "It's Been So Long",
+          "cover": "covers/the_living_tombstone__it_s_been_so_long.png",
+          "weeks": 1,
+          "peak": 33,
+          "debut": "2026-06-07",
+          "peakDate": "2026-06-07",
+          "history": [
+            {
+              "week": "2026-06-07",
+              "rank": 33
+            }
+          ]
+        },
         "the living tombstone|||step on up": {
           "title": "Step On Up",
           "cover": "covers/_placeholder.png",
@@ -27698,6 +28800,20 @@
               "rank": 75
             }
           ]
+        },
+        "the living tombstone|||my ordinary life": {
+          "title": "My Ordinary Life",
+          "cover": "covers/the_living_tombstone__my_ordinary_life.png",
+          "weeks": 1,
+          "peak": 77,
+          "debut": "2026-06-16",
+          "peakDate": "2026-06-16",
+          "history": [
+            {
+              "week": "2026-06-16",
+              "rank": 77
+            }
+          ]
         }
       }
     },
@@ -27706,10 +28822,10 @@
         "the long faces|||jane": {
           "title": "Jane!",
           "cover": "covers/the_long_faces__jane.png",
-          "weeks": 19,
-          "peak": 3,
+          "weeks": 21,
+          "peak": 2,
           "debut": "2026-01-13",
-          "peakDate": "2026-05-19",
+          "peakDate": "2026-06-07",
           "history": [
             {
               "week": "2026-01-13",
@@ -27786,6 +28902,14 @@
             {
               "week": "2026-06-02",
               "rank": 5
+            },
+            {
+              "week": "2026-06-07",
+              "rank": 2
+            },
+            {
+              "week": "2026-06-16",
+              "rank": 7
             }
           ]
         }
@@ -28521,17 +29645,43 @@
             }
           ]
         },
+        "tv girl|||taking whats not yours": {
+          "title": "Taking What's Not Yours",
+          "cover": "covers/tv_girl__taking_what_s_not_yours.png",
+          "weeks": 3,
+          "peak": 70,
+          "debut": "2026-02-17",
+          "peakDate": "2026-06-07",
+          "history": [
+            {
+              "week": "2026-02-17",
+              "rank": 95
+            },
+            {
+              "week": "2026-05-19",
+              "rank": 93
+            },
+            {
+              "week": "2026-06-07",
+              "rank": 70
+            }
+          ]
+        },
         "tv girl|||hate yourself": {
           "title": "Hate Yourself",
           "cover": "covers/tv_girl__hate_yourself.png",
-          "weeks": 1,
-          "peak": 76,
+          "weeks": 2,
+          "peak": 71,
           "debut": "2026-04-14",
-          "peakDate": "2026-04-14",
+          "peakDate": "2026-06-16",
           "history": [
             {
               "week": "2026-04-14",
               "rank": 76
+            },
+            {
+              "week": "2026-06-16",
+              "rank": 71
             }
           ]
         },
@@ -28546,24 +29696,6 @@
             {
               "week": "2025-11-25",
               "rank": 77
-            }
-          ]
-        },
-        "tv girl|||taking whats not yours": {
-          "title": "Taking What's Not Yours",
-          "cover": "covers/tv_girl__taking_what_s_not_yours.png",
-          "weeks": 2,
-          "peak": 93,
-          "debut": "2026-02-17",
-          "peakDate": "2026-05-19",
-          "history": [
-            {
-              "week": "2026-02-17",
-              "rank": 95
-            },
-            {
-              "week": "2026-05-19",
-              "rank": 93
             }
           ]
         }
@@ -28872,7 +30004,7 @@
         "tyler the creator|||ring ring ring": {
           "title": "Ring Ring Ring",
           "cover": "covers/tyler_the_creator__ring_ring_ring.png",
-          "weeks": 13,
+          "weeks": 14,
           "peak": 3,
           "debut": "2025-09-09",
           "peakDate": "2025-09-09",
@@ -28928,6 +30060,10 @@
             {
               "week": "2026-03-03",
               "rank": 60
+            },
+            {
+              "week": "2026-06-16",
+              "rank": 69
             }
           ]
         },
@@ -29256,7 +30392,7 @@
         "tyler the creator|||see you again feat kali uchis": {
           "title": "See You Again (feat. Kali Uchis)",
           "cover": "covers/tyler_the_creator__see_you_again_feat_kali_uchis.png",
-          "weeks": 1,
+          "weeks": 2,
           "peak": 60,
           "debut": "2025-10-14",
           "peakDate": "2025-10-14",
@@ -29264,6 +30400,10 @@
             {
               "week": "2025-10-14",
               "rank": 60
+            },
+            {
+              "week": "2026-06-16",
+              "rank": 87
             }
           ]
         },
@@ -29318,6 +30458,20 @@
             {
               "week": "2025-09-09",
               "rank": 68
+            }
+          ]
+        },
+        "tyler the creator|||she": {
+          "title": "She",
+          "cover": "covers/_placeholder.png",
+          "weeks": 1,
+          "peak": 69,
+          "debut": "2026-06-07",
+          "peakDate": "2026-06-07",
+          "history": [
+            {
+              "week": "2026-06-07",
+              "rank": 69
             }
           ]
         },
@@ -29444,7 +30598,7 @@
         "underscores|||do it": {
           "title": "Do It",
           "cover": "covers/underscores__do_it.png",
-          "weeks": 28,
+          "weeks": 30,
           "peak": 1,
           "debut": "2025-11-11",
           "peakDate": "2025-11-18",
@@ -29560,13 +30714,21 @@
             {
               "week": "2026-06-02",
               "rank": 17
+            },
+            {
+              "week": "2026-06-07",
+              "rank": 5
+            },
+            {
+              "week": "2026-06-16",
+              "rank": 26
             }
           ]
         },
         "underscores|||innuendo i get u": {
           "title": "Innuendo (I Get U)",
           "cover": "covers/underscores__innuendo_i_get_u.png",
-          "weeks": 11,
+          "weeks": 13,
           "peak": 1,
           "debut": "2026-03-24",
           "peakDate": "2026-03-24",
@@ -29614,13 +30776,21 @@
             {
               "week": "2026-06-02",
               "rank": 58
+            },
+            {
+              "week": "2026-06-07",
+              "rank": 64
+            },
+            {
+              "week": "2026-06-16",
+              "rank": 56
             }
           ]
         },
         "underscores|||music": {
           "title": "Music",
           "cover": "covers/underscores__music.png",
-          "weeks": 22,
+          "weeks": 24,
           "peak": 1,
           "debut": "2025-09-09",
           "peakDate": "2026-04-14",
@@ -29712,6 +30882,14 @@
             {
               "week": "2026-06-02",
               "rank": 35
+            },
+            {
+              "week": "2026-06-07",
+              "rank": 23
+            },
+            {
+              "week": "2026-06-16",
+              "rank": 16
             }
           ]
         },
@@ -29780,7 +30958,7 @@
         "underscores|||hollywood forever": {
           "title": "Hollywood Forever",
           "cover": "covers/underscores__hollywood_forever.png",
-          "weeks": 11,
+          "weeks": 13,
           "peak": 2,
           "debut": "2026-03-24",
           "peakDate": "2026-03-24",
@@ -29828,13 +31006,21 @@
             {
               "week": "2026-06-02",
               "rank": 46
+            },
+            {
+              "week": "2026-06-07",
+              "rank": 22
+            },
+            {
+              "week": "2026-06-16",
+              "rank": 50
             }
           ]
         },
         "underscores|||lovefield": {
           "title": "Lovefield",
           "cover": "covers/underscores__lovefield.png",
-          "weeks": 11,
+          "weeks": 13,
           "peak": 2,
           "debut": "2026-03-24",
           "peakDate": "2026-03-31",
@@ -29882,13 +31068,21 @@
             {
               "week": "2026-06-02",
               "rank": 51
+            },
+            {
+              "week": "2026-06-07",
+              "rank": 19
+            },
+            {
+              "week": "2026-06-16",
+              "rank": 48
             }
           ]
         },
         "underscores|||the peace": {
           "title": "The Peace",
           "cover": "covers/underscores__the_peace.png",
-          "weeks": 11,
+          "weeks": 13,
           "peak": 5,
           "debut": "2026-03-24",
           "peakDate": "2026-04-28",
@@ -29936,13 +31130,21 @@
             {
               "week": "2026-06-02",
               "rank": 14
+            },
+            {
+              "week": "2026-06-07",
+              "rank": 38
+            },
+            {
+              "week": "2026-06-16",
+              "rank": 68
             }
           ]
         },
         "underscores|||bodyfeeling": {
           "title": "Bodyfeeling",
           "cover": "covers/underscores__bodyfeeling.png",
-          "weeks": 9,
+          "weeks": 10,
           "peak": 8,
           "debut": "2026-03-24",
           "peakDate": "2026-03-24",
@@ -29982,13 +31184,17 @@
             {
               "week": "2026-05-26",
               "rank": 61
+            },
+            {
+              "week": "2026-06-16",
+              "rank": 88
             }
           ]
         },
         "underscores|||wish u well": {
           "title": "Wish U Well",
           "cover": "covers/underscores__wish_u_well.png",
-          "weeks": 8,
+          "weeks": 9,
           "peak": 8,
           "debut": "2026-03-24",
           "peakDate": "2026-04-07",
@@ -30024,6 +31230,10 @@
             {
               "week": "2026-05-26",
               "rank": 89
+            },
+            {
+              "week": "2026-06-07",
+              "rank": 56
             }
           ]
         },
@@ -30117,6 +31327,28 @@
             }
           ]
         },
+        "underscores|||locals girls like us with gabby start": {
+          "title": "Locals (Girls like us) [with gabby start]",
+          "cover": "covers/underscores__locals_girls_like_us_with_gabby_start.png",
+          "weeks": 3,
+          "peak": 46,
+          "debut": "2026-02-17",
+          "peakDate": "2026-06-16",
+          "history": [
+            {
+              "week": "2026-02-17",
+              "rank": 76
+            },
+            {
+              "week": "2026-03-03",
+              "rank": 94
+            },
+            {
+              "week": "2026-06-16",
+              "rank": 46
+            }
+          ]
+        },
         "underscores|||cops and robbers": {
           "title": "Cops and robbers",
           "cover": "covers/underscores__cops_and_robbers.png",
@@ -30132,24 +31364,6 @@
             {
               "week": "2026-02-17",
               "rank": 59
-            }
-          ]
-        },
-        "underscores|||locals girls like us with gabby start": {
-          "title": "Locals (Girls like us) [with gabby start]",
-          "cover": "covers/underscores__locals_girls_like_us_with_gabby_start.png",
-          "weeks": 2,
-          "peak": 76,
-          "debut": "2026-02-17",
-          "peakDate": "2026-02-17",
-          "history": [
-            {
-              "week": "2026-02-17",
-              "rank": 76
-            },
-            {
-              "week": "2026-03-03",
-              "rank": 94
             }
           ]
         },
@@ -30392,6 +31606,52 @@
             {
               "week": "2026-02-17",
               "rank": 100
+            }
+          ]
+        }
+      }
+    },
+    "Vince Staples": {
+      "songs": {
+        "vince staples|||cotton": {
+          "title": "Cotton",
+          "cover": "covers/vince_staples__cotton.png",
+          "weeks": 1,
+          "peak": 44,
+          "debut": "2026-06-07",
+          "peakDate": "2026-06-07",
+          "history": [
+            {
+              "week": "2026-06-07",
+              "rank": 44
+            }
+          ]
+        },
+        "vince staples|||the big bad wolf": {
+          "title": "The Big Bad Wolf",
+          "cover": "covers/vince_staples__the_big_bad_wolf.png",
+          "weeks": 1,
+          "peak": 50,
+          "debut": "2026-06-07",
+          "peakDate": "2026-06-07",
+          "history": [
+            {
+              "week": "2026-06-07",
+              "rank": 50
+            }
+          ]
+        },
+        "vince staples|||blackberry marmalade": {
+          "title": "Blackberry Marmalade",
+          "cover": "covers/vince_staples__blackberry_marmalade.png",
+          "weeks": 1,
+          "peak": 91,
+          "debut": "2026-06-07",
+          "peakDate": "2026-06-07",
+          "history": [
+            {
+              "week": "2026-06-07",
+              "rank": 91
             }
           ]
         }
@@ -31006,7 +32266,7 @@
         "zara larsson|||midnight sun": {
           "title": "Midnight Sun",
           "cover": "covers/zara_larsson__midnight_sun.png",
-          "weeks": 10,
+          "weeks": 11,
           "peak": 24,
           "debut": "2025-12-09",
           "peakDate": "2025-12-23",
@@ -31050,6 +32310,10 @@
             {
               "week": "2026-05-05",
               "rank": 63
+            },
+            {
+              "week": "2026-06-16",
+              "rank": 59
             }
           ]
         }
@@ -31072,6 +32336,24 @@
             {
               "week": "2025-12-09",
               "rank": 49
+            }
+          ]
+        }
+      }
+    },
+    "藤田真由美": {
+      "songs": {
+        "藤田真由美|||a way of life": {
+          "title": "A Way of Life",
+          "cover": "covers/__a_way_of_life.png",
+          "weeks": 1,
+          "peak": 13,
+          "debut": "2026-06-16",
+          "peakDate": "2026-06-16",
+          "history": [
+            {
+              "week": "2026-06-16",
+              "rank": 13
             }
           ]
         }

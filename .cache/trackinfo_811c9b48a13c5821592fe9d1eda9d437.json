@@ -1,0 +1,43 @@
+{
+  "track": {
+    "name": "matrix (BL studio loop)",
+    "url": "https://www.last.fm/music/chrmbchrmb/_/matrix+(BL+studio+loop)",
+    "duration": "108000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "19174",
+    "playcount": "181929",
+    "artist": {
+      "name": "chrmbchrmb",
+      "url": "https://www.last.fm/music/chrmbchrmb"
+    },
+    "album": {
+      "artist": "chrmbchrmb",
+      "title": "doodles",
+      "url": "https://www.last.fm/music/chrmbchrmb/doodles",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/f5002f78f2a6aef86d4527724bf0dcae.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/f5002f78f2a6aef86d4527724bf0dcae.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/f5002f78f2a6aef86d4527724bf0dcae.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/f5002f78f2a6aef86d4527724bf0dcae.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

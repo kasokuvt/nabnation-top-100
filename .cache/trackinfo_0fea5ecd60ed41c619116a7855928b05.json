@@ -1,0 +1,50 @@
+{
+  "track": {
+    "name": "purple",
+    "mbid": "927d1771-3d1b-4cf3-8e94-e1150420f383",
+    "url": "https://www.last.fm/music/Olivia+Rodrigo/_/purple",
+    "duration": "240000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "295966",
+    "playcount": "952238",
+    "artist": {
+      "name": "Olivia Rodrigo",
+      "mbid": "6925db17-f35e-42f3-a4eb-84ee6bf5d4b0",
+      "url": "https://www.last.fm/music/Olivia+Rodrigo"
+    },
+    "album": {
+      "artist": "Olivia Rodrigo",
+      "title": "you seem pretty sad for a girl so in love [Explicit]",
+      "url": "https://www.last.fm/music/Olivia+Rodrigo/you+seem+pretty+sad+for+a+girl+so+in+love+%5BExplicit%5D",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/03ccafb6b41f9aed0aa827ba3f4baa27.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/03ccafb6b41f9aed0aa827ba3f4baa27.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/03ccafb6b41f9aed0aa827ba3f4baa27.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/03ccafb6b41f9aed0aa827ba3f4baa27.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    },
+    "wiki": {
+      "published": "12 Jun 2026, 12:13",
+      "summary": "“purple” is the seventh track from Olivia Rodrigo’s third studio album, you seem pretty sad for a girl so in love.\n\nOlivia initially teased the track in an interview with Cosmopolitan:\n\n\"There’s still some purple in my life—let’s just say that. I won’t give too much away but there’s still some purple.\" <a href=\"http://www.last.fm/music/Olivia+Rodrigo/_/purple\">Read more on Last.fm</a>.",
+      "content": "“purple” is the seventh track from Olivia Rodrigo’s third studio album, you seem pretty sad for a girl so in love.\n\nOlivia initially teased the track in an interview with Cosmopolitan:\n\n\"There’s still some purple in my life—let’s just say that. I won’t give too much away but there’s still some purple.\" <a href=\"http://www.last.fm/music/Olivia+Rodrigo/_/purple\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

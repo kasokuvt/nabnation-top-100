@@ -1,0 +1,50 @@
+{
+  "track": {
+    "name": "less",
+    "mbid": "5f51e4d3-efc9-44cb-bbdd-00d9070b0944",
+    "url": "https://www.last.fm/music/Olivia+Rodrigo/_/less",
+    "duration": "193000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "278628",
+    "playcount": "1010489",
+    "artist": {
+      "name": "Olivia Rodrigo",
+      "mbid": "6925db17-f35e-42f3-a4eb-84ee6bf5d4b0",
+      "url": "https://www.last.fm/music/Olivia+Rodrigo"
+    },
+    "album": {
+      "artist": "Olivia Rodrigo",
+      "title": "you seem pretty sad for a girl so in love [Explicit]",
+      "url": "https://www.last.fm/music/Olivia+Rodrigo/you+seem+pretty+sad+for+a+girl+so+in+love+%5BExplicit%5D",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/03ccafb6b41f9aed0aa827ba3f4baa27.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/03ccafb6b41f9aed0aa827ba3f4baa27.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/03ccafb6b41f9aed0aa827ba3f4baa27.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/03ccafb6b41f9aed0aa827ba3f4baa27.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    },
+    "wiki": {
+      "published": "12 Jun 2026, 12:13",
+      "summary": "‘less’ is the eleventh track off Olivia Rodrigo’s third studio album, ‘you seem pretty sad for a girl so in love’.\n\nThe song details the last attempts at saving the relationship and its sorrowful end. Rodrigo wishes the muse loved her less so that the relationship would continue or the fallout was less painful than ended up being.\n\nThe title was officially announced on May 26th, 2026 and eventually released on June 12th, 2026, along with the rest of the album. <a href=\"http://www.last.fm/music/Olivia+Rodrigo/_/less\">Read more on Last.fm</a>.",
+      "content": "‘less’ is the eleventh track off Olivia Rodrigo’s third studio album, ‘you seem pretty sad for a girl so in love’.\n\nThe song details the last attempts at saving the relationship and its sorrowful end. Rodrigo wishes the muse loved her less so that the relationship would continue or the fallout was less painful than ended up being.\n\nThe title was officially announced on May 26th, 2026 and eventually released on June 12th, 2026, along with the rest of the album.\n\nPrior to the release, Rodrigo commented in an interview with Popcast that this song has some restrain due to its later creation, compared to the other songs on the album. <a href=\"http://www.last.fm/music/Olivia+Rodrigo/_/less\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

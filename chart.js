@@ -693,7 +693,6 @@ async function main() {
                 : "—"
             }</b></span>
           </div>
-        </div>
 
         <div class="expand" id="${ariaId}"></div>
       </li>

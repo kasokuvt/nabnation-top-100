@@ -1,0 +1,45 @@
+{
+  "track": {
+    "name": "Jean Skirt",
+    "mbid": "d5a19ef1-74f5-4534-afa2-9bab69165de7",
+    "url": "https://www.last.fm/music/Malcolm+Todd/_/Jean+Skirt",
+    "duration": "59000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "87884",
+    "playcount": "356329",
+    "artist": {
+      "name": "Malcolm Todd",
+      "mbid": "6c2a79b8-2b5c-4c2d-b495-6a446811bf9d",
+      "url": "https://www.last.fm/music/Malcolm+Todd"
+    },
+    "album": {
+      "artist": "Malcolm Todd",
+      "title": "Do That Again [Explicit]",
+      "url": "https://www.last.fm/music/Malcolm+Todd/Do+That+Again+%5BExplicit%5D",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/c50be1d96c946054a27aa82e79abbc45.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/c50be1d96c946054a27aa82e79abbc45.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/c50be1d96c946054a27aa82e79abbc45.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/c50be1d96c946054a27aa82e79abbc45.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

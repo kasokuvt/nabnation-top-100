@@ -1,0 +1,71 @@
+{
+  "track": {
+    "name": "Invisible",
+    "mbid": "273f1193-a9ff-4913-8704-7b95a631bf75",
+    "url": "https://www.last.fm/music/Duran+Duran/_/Invisible",
+    "duration": "191000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "485408",
+    "playcount": "7409011",
+    "artist": {
+      "name": "Duran Duran",
+      "mbid": "1a1cd7f3-e5df-4eca-bae2-2757c9e656b5",
+      "url": "https://www.last.fm/music/Duran+Duran"
+    },
+    "album": {
+      "artist": "Duran Duran",
+      "title": "INVISIBLE",
+      "url": "https://www.last.fm/music/Duran+Duran/INVISIBLE",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/fda39ebfa02dcb49b57c7b513d6f1339.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/fda39ebfa02dcb49b57c7b513d6f1339.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/fda39ebfa02dcb49b57c7b513d6f1339.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/fda39ebfa02dcb49b57c7b513d6f1339.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "pop rock",
+          "url": "https://www.last.fm/tag/pop+rock"
+        },
+        {
+          "name": "new wave",
+          "url": "https://www.last.fm/tag/new+wave"
+        },
+        {
+          "name": "synthpop",
+          "url": "https://www.last.fm/tag/synthpop"
+        },
+        {
+          "name": "rock",
+          "url": "https://www.last.fm/tag/rock"
+        },
+        {
+          "name": "upbeat",
+          "url": "https://www.last.fm/tag/upbeat"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "07 Oct 2025, 14:54",
+      "summary": "No! That is NOT Solid Snake! <a href=\"http://www.last.fm/music/Duran+Duran/_/Invisible\">Read more on Last.fm</a>.",
+      "content": "No! That is NOT Solid Snake! <a href=\"http://www.last.fm/music/Duran+Duran/_/Invisible\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

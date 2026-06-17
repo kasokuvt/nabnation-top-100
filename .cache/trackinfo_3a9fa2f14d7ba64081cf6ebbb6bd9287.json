@@ -1,0 +1,45 @@
+{
+  "track": {
+    "name": "The Big Bad Wolf",
+    "mbid": "a1525a61-6114-4c4b-bf50-e6b6d66643f0",
+    "url": "https://www.last.fm/music/Vince+Staples/_/The+Big+Bad+Wolf",
+    "duration": "132000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "42344",
+    "playcount": "111191",
+    "artist": {
+      "name": "Vince Staples",
+      "mbid": "78e854b8-9713-4ff2-9218-6b3784893bff",
+      "url": "https://www.last.fm/music/Vince+Staples"
+    },
+    "album": {
+      "artist": "Vince Staples",
+      "title": "Cry Baby",
+      "url": "https://www.last.fm/music/Vince+Staples/Cry+Baby",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/a593e3e5b7c0a90ec80234a4c8f52f6e.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/a593e3e5b7c0a90ec80234a4c8f52f6e.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/a593e3e5b7c0a90ec80234a4c8f52f6e.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/a593e3e5b7c0a90ec80234a4c8f52f6e.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

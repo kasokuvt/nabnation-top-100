@@ -1,0 +1,50 @@
+{
+  "track": {
+    "name": "A Way of Life",
+    "mbid": "da1aaaa1-4095-3e91-aebb-21ec841a63a6",
+    "url": "https://www.last.fm/music/%E8%97%A4%E7%94%B0%E7%9C%9F%E7%94%B1%E7%BE%8E/_/A+Way+of+Life",
+    "duration": "140000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "32744",
+    "playcount": "359266",
+    "artist": {
+      "name": "藤田真由美",
+      "mbid": "bfa3b3b2-41fb-4dc4-ab42-85e1c167b13d",
+      "url": "https://www.last.fm/music/%E8%97%A4%E7%94%B0%E7%9C%9F%E7%94%B1%E7%BE%8E"
+    },
+    "album": {
+      "artist": "目黒将司",
+      "title": "ペルソナ3 ポータブル オリジナル・サウンドトラック",
+      "url": "https://www.last.fm/music/%E7%9B%AE%E9%BB%92%E5%B0%86%E5%8F%B8/%E3%83%9A%E3%83%AB%E3%82%BD%E3%83%8A3+%E3%83%9D%E3%83%BC%E3%82%BF%E3%83%96%E3%83%AB+%E3%82%AA%E3%83%AA%E3%82%B8%E3%83%8A%E3%83%AB%E3%83%BB%E3%82%B5%E3%82%A6%E3%83%B3%E3%83%89%E3%83%88%E3%83%A9%E3%83%83%E3%82%AF",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/17b18975c1a24fd99dbf71e063c23135.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/17b18975c1a24fd99dbf71e063c23135.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/17b18975c1a24fd99dbf71e063c23135.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/17b18975c1a24fd99dbf71e063c23135.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    },
+    "wiki": {
+      "published": "29 Jan 2023, 06:13",
+      "summary": "\"A Way of Life\" is a song featured in Persona 3 Portable. Composed by Shoji Meguro, written by Reiko Tanaka and sung by Mayumi Fujita. The song is played when the female protagonist travels around Tatsumi Port Island. It is the second track in the Persona 3 Portable Original Soundtrack. <a href=\"http://www.last.fm/music/%E8%97%A4%E7%94%B0%E7%9C%9F%E7%94%B1%E7%BE%8E/_/A+Way+of+Life\">Read more on Last.fm</a>.",
+      "content": "\"A Way of Life\" is a song featured in Persona 3 Portable. Composed by Shoji Meguro, written by Reiko Tanaka and sung by Mayumi Fujita. The song is played when the female protagonist travels around Tatsumi Port Island. It is the second track in the Persona 3 Portable Original Soundtrack. <a href=\"http://www.last.fm/music/%E8%97%A4%E7%94%B0%E7%9C%9F%E7%94%B1%E7%BE%8E/_/A+Way+of+Life\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

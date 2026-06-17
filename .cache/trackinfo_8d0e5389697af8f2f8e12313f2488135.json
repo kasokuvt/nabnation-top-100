@@ -1,0 +1,50 @@
+{
+  "track": {
+    "name": "begged",
+    "mbid": "977a73bd-c1ee-4db5-aae6-1ee35eb64b03",
+    "url": "https://www.last.fm/music/Olivia+Rodrigo/_/begged",
+    "duration": "217000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "289629",
+    "playcount": "1087305",
+    "artist": {
+      "name": "Olivia Rodrigo",
+      "mbid": "6925db17-f35e-42f3-a4eb-84ee6bf5d4b0",
+      "url": "https://www.last.fm/music/Olivia+Rodrigo"
+    },
+    "album": {
+      "artist": "Olivia Rodrigo",
+      "title": "you seem pretty sad for a girl so in love [Explicit]",
+      "url": "https://www.last.fm/music/Olivia+Rodrigo/you+seem+pretty+sad+for+a+girl+so+in+love+%5BExplicit%5D",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/03ccafb6b41f9aed0aa827ba3f4baa27.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/03ccafb6b41f9aed0aa827ba3f4baa27.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/03ccafb6b41f9aed0aa827ba3f4baa27.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/03ccafb6b41f9aed0aa827ba3f4baa27.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    },
+    "wiki": {
+      "published": "12 Jun 2026, 12:15",
+      "summary": "“begged” finds Olivia desperately wanting more affection from her partner. Her requests just make her feel worse, knowing that instead of naturally being shown love, she has to beg for it.\n\nOlivia debuted the song at a secret live show at The Echo in Los Angeles on April 24, 2026. She then performed it on Saturday Night Live on May 2. <a href=\"http://www.last.fm/music/Olivia+Rodrigo/_/begged\">Read more on Last.fm</a>.",
+      "content": "“begged” finds Olivia desperately wanting more affection from her partner. Her requests just make her feel worse, knowing that instead of naturally being shown love, she has to beg for it.\n\nOlivia debuted the song at a secret live show at The Echo in Los Angeles on April 24, 2026. She then performed it on Saturday Night Live on May 2. <a href=\"http://www.last.fm/music/Olivia+Rodrigo/_/begged\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

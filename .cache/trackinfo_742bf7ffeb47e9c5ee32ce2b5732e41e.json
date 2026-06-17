@@ -1,0 +1,71 @@
+{
+  "track": {
+    "name": "Clint Eastwood",
+    "mbid": "00dd9c16-9e6c-302c-ad44-2adab51e14b6",
+    "url": "https://www.last.fm/music/Gorillaz/_/Clint+Eastwood",
+    "duration": "340000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "2674369",
+    "playcount": "23244109",
+    "artist": {
+      "name": "Gorillaz",
+      "mbid": "e21857d5-3256-4547-afb3-4b6ded592596",
+      "url": "https://www.last.fm/music/Gorillaz"
+    },
+    "album": {
+      "artist": "Gorillaz",
+      "title": "Gorillaz",
+      "url": "https://www.last.fm/music/Gorillaz/Gorillaz",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/86fc45f14a789e9fee32a99ea9036d3d.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/86fc45f14a789e9fee32a99ea9036d3d.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/86fc45f14a789e9fee32a99ea9036d3d.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/86fc45f14a789e9fee32a99ea9036d3d.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "alternative",
+          "url": "https://www.last.fm/tag/alternative"
+        },
+        {
+          "name": "electronic",
+          "url": "https://www.last.fm/tag/electronic"
+        },
+        {
+          "name": "Hip-Hop",
+          "url": "https://www.last.fm/tag/Hip-Hop"
+        },
+        {
+          "name": "gorillaz",
+          "url": "https://www.last.fm/tag/gorillaz"
+        },
+        {
+          "name": "rock",
+          "url": "https://www.last.fm/tag/rock"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "29 Dec 2008, 18:51",
+      "summary": "Featuring the lyrical stylings of Del Tha Funkee Homosapien. According to the Clint Eastwood Songfacts, the reason the song is called Clint Eastwood is because of the strange harmonica-like instrument (known as a Melodica) used in the background. The same instrument was used in Eastwood's movie A Fistful of Dollars. <a href=\"http://www.last.fm/music/Gorillaz/_/Clint+Eastwood\">Read more on Last.fm</a>.",
+      "content": "Featuring the lyrical stylings of Del Tha Funkee Homosapien. According to the Clint Eastwood Songfacts, the reason the song is called Clint Eastwood is because of the strange harmonica-like instrument (known as a Melodica) used in the background. The same instrument was used in Eastwood's movie A Fistful of Dollars. <a href=\"http://www.last.fm/music/Gorillaz/_/Clint+Eastwood\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}
