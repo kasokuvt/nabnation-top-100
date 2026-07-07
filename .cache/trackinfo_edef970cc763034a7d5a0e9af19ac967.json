@@ -1,0 +1,66 @@
+{
+  "track": {
+    "name": "For Our Elegant Caste",
+    "mbid": "03e44b67-8bd9-3bd4-b571-24fa4ff0be39",
+    "url": "https://www.last.fm/music/of+Montreal/_/For+Our+Elegant+Caste",
+    "duration": "200000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "166533",
+    "playcount": "1310092",
+    "artist": {
+      "name": "of Montreal",
+      "mbid": "8475297d-fb78-4630-8d74-9b87b6bb7cc8",
+      "url": "https://www.last.fm/music/of+Montreal"
+    },
+    "album": {
+      "artist": "of Montreal",
+      "title": "Skeletal Lamping",
+      "url": "https://www.last.fm/music/of+Montreal/Skeletal+Lamping",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/d0ebdad32b5642c8b36ab17f9a882703.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/d0ebdad32b5642c8b36ab17f9a882703.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/d0ebdad32b5642c8b36ab17f9a882703.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/d0ebdad32b5642c8b36ab17f9a882703.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "poptron",
+          "url": "https://www.last.fm/tag/poptron"
+        },
+        {
+          "name": "indie pop",
+          "url": "https://www.last.fm/tag/indie+pop"
+        },
+        {
+          "name": "psychedelic pop",
+          "url": "https://www.last.fm/tag/psychedelic+pop"
+        },
+        {
+          "name": "indie rock",
+          "url": "https://www.last.fm/tag/indie+rock"
+        },
+        {
+          "name": "indie",
+          "url": "https://www.last.fm/tag/indie"
+        }
+      ]
+    }
+  }
+}

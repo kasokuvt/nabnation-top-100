@@ -1,0 +1,44 @@
+{
+  "track": {
+    "name": "CONSTANTLY",
+    "url": "https://www.last.fm/music/Tiffany+Day/_/CONSTANTLY",
+    "duration": "182000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "76193",
+    "playcount": "360762",
+    "artist": {
+      "name": "Tiffany Day",
+      "mbid": "c9e3089c-a7bc-4df5-80f9-9161eaa74a02",
+      "url": "https://www.last.fm/music/Tiffany+Day"
+    },
+    "album": {
+      "artist": "Tiffany Day",
+      "title": "CONSTANTLY",
+      "url": "https://www.last.fm/music/Tiffany+Day/CONSTANTLY",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/60027850e49eacdb6025f1a8c07e9977.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/60027850e49eacdb6025f1a8c07e9977.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/60027850e49eacdb6025f1a8c07e9977.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/60027850e49eacdb6025f1a8c07e9977.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

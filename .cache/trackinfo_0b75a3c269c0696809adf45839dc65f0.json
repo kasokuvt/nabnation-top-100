@@ -1,0 +1,26 @@
+{
+  "track": {
+    "name": "Poplife",
+    "url": "https://www.last.fm/music/umru/_/Poplife",
+    "duration": "0",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "73974",
+    "playcount": "575063",
+    "artist": {
+      "name": "umru",
+      "mbid": "088ea12a-cb0a-4965-8b9b-c5b996a29dba",
+      "url": "https://www.last.fm/music/umru"
+    },
+    "toptags": {
+      "tag": []
+    },
+    "wiki": {
+      "published": "07 May 2025, 16:53",
+      "summary": "Featuring underscores. <a href=\"http://www.last.fm/music/umru/_/Poplife\">Read more on Last.fm</a>.",
+      "content": "Featuring underscores. <a href=\"http://www.last.fm/music/umru/_/Poplife\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

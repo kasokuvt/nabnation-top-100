@@ -1,0 +1,45 @@
+{
+  "track": {
+    "name": "Petal Dance",
+    "mbid": "1408b5b7-cc40-440f-bfd1-27e8fb7c06f7",
+    "url": "https://www.last.fm/music/Toby+Fox/_/Petal+Dance",
+    "duration": "92000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "23710",
+    "playcount": "188944",
+    "artist": {
+      "name": "Toby Fox",
+      "mbid": "1c26f82c-b35d-4c8e-a1f4-9c20747495c9",
+      "url": "https://www.last.fm/music/Toby+Fox"
+    },
+    "album": {
+      "artist": "Toby Fox",
+      "title": "DELTARUNE Chapter 5: Original Game Soundtrack",
+      "url": "https://www.last.fm/music/Toby+Fox/DELTARUNE+Chapter+5:+Original+Game+Soundtrack",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/212321499418f29d361003640337a908.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/212321499418f29d361003640337a908.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/212321499418f29d361003640337a908.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/212321499418f29d361003640337a908.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

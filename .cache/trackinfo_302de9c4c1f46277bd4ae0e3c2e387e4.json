@@ -1,0 +1,21 @@
+{
+  "track": {
+    "name": "Rakuichi Buster",
+    "url": "https://www.last.fm/music/Toby+Fox/_/Rakuichi+Buster",
+    "duration": "109000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "19511",
+    "playcount": "87407",
+    "artist": {
+      "name": "Toby Fox",
+      "mbid": "1c26f82c-b35d-4c8e-a1f4-9c20747495c9",
+      "url": "https://www.last.fm/music/Toby+Fox"
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

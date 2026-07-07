@@ -1,0 +1,45 @@
+{
+  "track": {
+    "name": "Flower Foyer",
+    "mbid": "aab417c6-b6a6-4df8-b1e4-61158f560fa9",
+    "url": "https://www.last.fm/music/Toby+Fox/_/Flower+Foyer",
+    "duration": "55000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "12499",
+    "playcount": "34126",
+    "artist": {
+      "name": "Toby Fox",
+      "mbid": "1c26f82c-b35d-4c8e-a1f4-9c20747495c9",
+      "url": "https://www.last.fm/music/Toby+Fox"
+    },
+    "album": {
+      "artist": "Toby Fox",
+      "title": "DELTARUNE Chapter 5: Original Game Soundtrack",
+      "url": "https://www.last.fm/music/Toby+Fox/DELTARUNE+Chapter+5:+Original+Game+Soundtrack",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/212321499418f29d361003640337a908.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/212321499418f29d361003640337a908.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/212321499418f29d361003640337a908.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/212321499418f29d361003640337a908.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

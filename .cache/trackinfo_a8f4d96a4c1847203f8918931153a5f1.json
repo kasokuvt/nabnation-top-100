@@ -1,0 +1,71 @@
+{
+  "track": {
+    "name": "Dark Red",
+    "mbid": "7f586f5c-2c50-4f93-947e-99c8474f6955",
+    "url": "https://www.last.fm/music/Steve+Lacy/_/Dark+Red",
+    "duration": "173000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "2218552",
+    "playcount": "41430304",
+    "artist": {
+      "name": "Steve Lacy",
+      "mbid": "ca9766a0-1c30-43e6-a213-bac1334efc4a",
+      "url": "https://www.last.fm/music/Steve+Lacy"
+    },
+    "album": {
+      "artist": "Steve Lacy",
+      "title": "Steve Lacy's Demo",
+      "url": "https://www.last.fm/music/Steve+Lacy/Steve+Lacy%27s+Demo",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/06c9ee82c4cb73aceba1cea79312f4c6.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/06c9ee82c4cb73aceba1cea79312f4c6.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/06c9ee82c4cb73aceba1cea79312f4c6.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/06c9ee82c4cb73aceba1cea79312f4c6.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "rnb",
+          "url": "https://www.last.fm/tag/rnb"
+        },
+        {
+          "name": "indie pop",
+          "url": "https://www.last.fm/tag/indie+pop"
+        },
+        {
+          "name": "bedroom pop",
+          "url": "https://www.last.fm/tag/bedroom+pop"
+        },
+        {
+          "name": "rock",
+          "url": "https://www.last.fm/tag/rock"
+        },
+        {
+          "name": "pop",
+          "url": "https://www.last.fm/tag/pop"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "07 Jan 2022, 00:23",
+      "summary": "Dark red lipstick is the shade that represents a girl’s confidence and will to move on. Steve Lacy sees this as a bad sign and begs for her not to give up on them. He tries to see it from her perspective and offers that maybe she’s fine and it’s himself that’s in the wrong. <a href=\"http://www.last.fm/music/Steve+Lacy/_/Dark+Red\">Read more on Last.fm</a>.",
+      "content": "Dark red lipstick is the shade that represents a girl’s confidence and will to move on. Steve Lacy sees this as a bad sign and begs for her not to give up on them. He tries to see it from her perspective and offers that maybe she’s fine and it’s himself that’s in the wrong. <a href=\"http://www.last.fm/music/Steve+Lacy/_/Dark+Red\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

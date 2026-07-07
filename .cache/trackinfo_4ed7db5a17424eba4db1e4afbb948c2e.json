@@ -1,0 +1,50 @@
+{
+  "track": {
+    "name": "The place where it rained",
+    "mbid": "83c30014-19a1-4533-a562-cc0d02bdcf2e",
+    "url": "https://www.last.fm/music/Toby+Fox/_/The+place+where+it+rained",
+    "duration": "172000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "60218",
+    "playcount": "999494",
+    "artist": {
+      "name": "Toby Fox",
+      "mbid": "1c26f82c-b35d-4c8e-a1f4-9c20747495c9",
+      "url": "https://www.last.fm/music/Toby+Fox"
+    },
+    "album": {
+      "artist": "Toby Fox",
+      "title": "DELTARUNE Soundtrack",
+      "url": "https://www.last.fm/music/Toby+Fox/DELTARUNE+Soundtrack",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/25a9b786934e3aea4a33d8b87dd8b84a.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/25a9b786934e3aea4a33d8b87dd8b84a.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/25a9b786934e3aea4a33d8b87dd8b84a.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/25a9b786934e3aea4a33d8b87dd8b84a.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    },
+    "wiki": {
+      "published": "27 Oct 2025, 22:25",
+      "summary": "\"The place where it rained\" is a very moody song in DELTARUNE. It was a song made to reference the original track it samples, \"It's Raining Somewhere Else\" from UNDERTALE, DELTARUNE's parallel universe, which plays during the \"date\" with Sans in the CORE Hotel.\n\nThe titles of the tracks strengthen this connection, implying that Hometown (or Deltarune's world in general) may be the \"somewhere else\" previously alluded to. The most notable difference between the two tracks is the usage of Sans's leitmotif <a href=\"http://www.last.fm/music/Toby+Fox/_/The+place+where+it+rained\">Read more on Last.fm</a>.",
+      "content": "\"The place where it rained\" is a very moody song in DELTARUNE. It was a song made to reference the original track it samples, \"It's Raining Somewhere Else\" from UNDERTALE, DELTARUNE's parallel universe, which plays during the \"date\" with Sans in the CORE Hotel.\n\nThe titles of the tracks strengthen this connection, implying that Hometown (or Deltarune's world in general) may be the \"somewhere else\" previously alluded to. The most notable difference between the two tracks is the usage of Sans's leitmotif, as The place where it rained removes any references to said leitmotif while retaining the remainder of the song's melody. (source; DELTARUNE Wiki)\n\nIt smells nice.\nAfter the rain. <a href=\"http://www.last.fm/music/Toby+Fox/_/The+place+where+it+rained\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

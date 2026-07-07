@@ -1,0 +1,50 @@
+{
+  "track": {
+    "name": "Sun Has Set",
+    "mbid": "6620511e-390d-45b2-a541-ac79f173b8b8",
+    "url": "https://www.last.fm/music/beabadoobee/_/Sun+Has+Set",
+    "duration": "141000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "139310",
+    "playcount": "783522",
+    "artist": {
+      "name": "beabadoobee",
+      "mbid": "88d17133-abbc-42db-9526-4e2c1db60336",
+      "url": "https://www.last.fm/music/beabadoobee"
+    },
+    "album": {
+      "artist": "beabadoobee",
+      "title": "Pylon",
+      "url": "https://www.last.fm/music/beabadoobee/Pylon",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/23b3eaeb2a0f98d04cc75e07b1c1787b.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/23b3eaeb2a0f98d04cc75e07b1c1787b.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/23b3eaeb2a0f98d04cc75e07b1c1787b.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/23b3eaeb2a0f98d04cc75e07b1c1787b.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    },
+    "wiki": {
+      "published": "03 Jul 2026, 13:28",
+      "summary": "First and lead single from Beabadoobee's new album Pylon, to be released in September 2026. <a href=\"http://www.last.fm/music/beabadoobee/_/Sun+Has+Set\">Read more on Last.fm</a>.",
+      "content": "First and lead single from Beabadoobee's new album Pylon, to be released in September 2026. <a href=\"http://www.last.fm/music/beabadoobee/_/Sun+Has+Set\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

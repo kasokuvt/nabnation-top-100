@@ -1,0 +1,71 @@
+{
+  "track": {
+    "name": "Francis Forever",
+    "mbid": "11db0822-9b98-443a-a6e0-1c4cc922b972",
+    "url": "https://www.last.fm/music/Mitski/_/Francis+Forever",
+    "duration": "150000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "1313123",
+    "playcount": "25987012",
+    "artist": {
+      "name": "Mitski",
+      "mbid": "fa58cf24-0e44-421d-8519-8bf461dcfaa5",
+      "url": "https://www.last.fm/music/Mitski"
+    },
+    "album": {
+      "artist": "Mitski",
+      "title": "bury me at makeout creek",
+      "url": "https://www.last.fm/music/Mitski/bury+me+at+makeout+creek",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/48b1e85daff0afa738996e8f7737f1ef.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/48b1e85daff0afa738996e8f7737f1ef.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/48b1e85daff0afa738996e8f7737f1ef.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/48b1e85daff0afa738996e8f7737f1ef.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "rock",
+          "url": "https://www.last.fm/tag/rock"
+        },
+        {
+          "name": "power pop",
+          "url": "https://www.last.fm/tag/power+pop"
+        },
+        {
+          "name": "slacker rock",
+          "url": "https://www.last.fm/tag/slacker+rock"
+        },
+        {
+          "name": "WSUM 91.7 FM Madison",
+          "url": "https://www.last.fm/tag/WSUM+91.7+FM+Madison"
+        },
+        {
+          "name": "Chronically On Air with DJames and DJ Double You",
+          "url": "https://www.last.fm/tag/Chronically+On+Air+with+DJames+and+DJ+Double+You"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "25 Jan 2022, 14:59",
+      "summary": "\"Francis Forever\" is a song about missing a person who has gone away and not being able to move on. The lyrics express the difficulty of dealing with the absence of someone special, and how it affects the singer's emotions and thoughts. The song also conveys a sense of bittersweet longing, as the singer wishes they could still be together, but knows they can't. The chorus repeats the line, \"I don't think I could stand to be where you don't see me\", emphasizing the singer's unchanging feelings and desire for the relationship to continue. <a href=\"http://www.last.fm/music/Mitski/_/Francis+Forever\">Read more on Last.fm</a>.",
+      "content": "\"Francis Forever\" is a song about missing a person who has gone away and not being able to move on. The lyrics express the difficulty of dealing with the absence of someone special, and how it affects the singer's emotions and thoughts. The song also conveys a sense of bittersweet longing, as the singer wishes they could still be together, but knows they can't. The chorus repeats the line, \"I don't think I could stand to be where you don't see me\", emphasizing the singer's unchanging feelings and desire for the relationship to continue.\n\nThe song was covered by Marceline in the episode “The Music Hole” from Cartoon Network’s Adventure Time. It also was the inspiration behind the name of the artist \"Frances Forever,\" as said in this article from wbur. <a href=\"http://www.last.fm/music/Mitski/_/Francis+Forever\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

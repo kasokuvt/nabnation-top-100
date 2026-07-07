@@ -1,0 +1,20 @@
+{
+  "track": {
+    "name": "Creep",
+    "url": "https://www.last.fm/music/Acoustic+-+Radiohead/_/Creep",
+    "duration": "0",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "1",
+    "playcount": "1",
+    "artist": {
+      "name": "Acoustic - Radiohead",
+      "url": "https://www.last.fm/music/Acoustic+-+Radiohead"
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

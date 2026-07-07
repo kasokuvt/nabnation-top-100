@@ -1,0 +1,45 @@
+{
+  "track": {
+    "name": "Somebody Else",
+    "mbid": "2e1297cf-85a6-44e3-a6f4-d66ef7a64e18",
+    "url": "https://www.last.fm/music/Madeon/_/Somebody+Else",
+    "duration": "193000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "9193",
+    "playcount": "39191",
+    "artist": {
+      "name": "Madeon",
+      "mbid": "fa1de503-aba7-41fa-a1ed-371b3e87a717",
+      "url": "https://www.last.fm/music/Madeon"
+    },
+    "album": {
+      "artist": "Madeon",
+      "title": "Victory",
+      "url": "https://www.last.fm/music/Madeon/Victory",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/854d748937528c96c26cec55e81157a6.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/854d748937528c96c26cec55e81157a6.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/854d748937528c96c26cec55e81157a6.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/854d748937528c96c26cec55e81157a6.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

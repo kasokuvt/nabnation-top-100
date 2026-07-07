@@ -1,0 +1,21 @@
+{
+  "track": {
+    "name": "Still Life",
+    "url": "https://www.last.fm/music/Kane+Parsons/_/Still+Life",
+    "duration": "0",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "33285",
+    "playcount": "236784",
+    "artist": {
+      "name": "Kane Parsons",
+      "mbid": "deb98724-3ae4-4c23-8a2d-31b210d9e772",
+      "url": "https://www.last.fm/music/Kane+Parsons"
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

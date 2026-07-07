@@ -1,0 +1,21 @@
+{
+  "track": {
+    "name": "I guess I'm in love",
+    "url": "https://www.last.fm/music/Toby+Fox/_/I+guess+I%27m+in+love",
+    "duration": "177000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "12058",
+    "playcount": "46351",
+    "artist": {
+      "name": "Toby Fox",
+      "mbid": "1c26f82c-b35d-4c8e-a1f4-9c20747495c9",
+      "url": "https://www.last.fm/music/Toby+Fox"
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

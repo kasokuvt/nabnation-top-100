@@ -1,0 +1,45 @@
+{
+  "track": {
+    "name": "Baby Steps",
+    "mbid": "a43764c1-02db-4c0a-9ec9-ce3c4e0167ec",
+    "url": "https://www.last.fm/music/Quadeca/_/Baby+Steps",
+    "duration": "238000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "25097",
+    "playcount": "155327",
+    "artist": {
+      "name": "Quadeca",
+      "mbid": "3a4024dc-cc62-4d9b-8bed-c22426136a52",
+      "url": "https://www.last.fm/music/Quadeca"
+    },
+    "album": {
+      "artist": "Quadeca",
+      "title": "Baby Steps",
+      "url": "https://www.last.fm/music/Quadeca/Baby+Steps",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/86f0402ea4a7585fd2415e6862f9198c.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/86f0402ea4a7585fd2415e6862f9198c.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/86f0402ea4a7585fd2415e6862f9198c.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/86f0402ea4a7585fd2415e6862f9198c.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

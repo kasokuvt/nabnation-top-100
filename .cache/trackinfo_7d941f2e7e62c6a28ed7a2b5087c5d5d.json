@@ -1,0 +1,44 @@
+{
+  "track": {
+    "name": "Is it cool? (feat. SZA)",
+    "url": "https://www.last.fm/music/Steve+Lacy/_/Is+it+cool%3F+(feat.+SZA)",
+    "duration": "174000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "157057",
+    "playcount": "505380",
+    "artist": {
+      "name": "Steve Lacy",
+      "mbid": "ca9766a0-1c30-43e6-a213-bac1334efc4a",
+      "url": "https://www.last.fm/music/Steve+Lacy"
+    },
+    "album": {
+      "artist": "Steve Lacy",
+      "title": "is it cool? (feat. SZA)",
+      "url": "https://www.last.fm/music/Steve+Lacy/is+it+cool%3F+(feat.+SZA)",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/1e4df1682566ffaa68f17dc7d3c99998.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/1e4df1682566ffaa68f17dc7d3c99998.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/1e4df1682566ffaa68f17dc7d3c99998.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/1e4df1682566ffaa68f17dc7d3c99998.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

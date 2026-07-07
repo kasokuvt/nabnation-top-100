@@ -1,0 +1,44 @@
+{
+  "track": {
+    "name": "Love is in the Air, Pt. 1",
+    "mbid": "cc5b44da-91ac-459f-9831-1c57dd95d56a",
+    "url": "https://www.last.fm/music/Rock+Burwell/_/Love+is+in+the+Air,+Pt.+1",
+    "duration": "124000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "50658",
+    "playcount": "765609",
+    "artist": {
+      "name": "Rock Burwell",
+      "url": "https://www.last.fm/music/Rock+Burwell"
+    },
+    "album": {
+      "artist": "Rock Burwell",
+      "title": "Obsession (Original Motion Picture Soundtrack)",
+      "url": "https://www.last.fm/music/Rock+Burwell/Obsession+(Original+Motion+Picture+Soundtrack)",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/7b6b8243be3bc2175288f427997aa370.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/7b6b8243be3bc2175288f427997aa370.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/7b6b8243be3bc2175288f427997aa370.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/7b6b8243be3bc2175288f427997aa370.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

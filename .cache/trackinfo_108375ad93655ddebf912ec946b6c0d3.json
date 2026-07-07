@@ -1,0 +1,71 @@
+{
+  "track": {
+    "name": "Misery Business",
+    "mbid": "025deb53-07b3-4531-90ff-7915f9416611",
+    "url": "https://www.last.fm/music/Paramore/_/Misery+Business",
+    "duration": "211000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "2767518",
+    "playcount": "38460184",
+    "artist": {
+      "name": "Paramore",
+      "mbid": "44cf61b8-5197-448a-b82b-cef6ee89fac5",
+      "url": "https://www.last.fm/music/Paramore"
+    },
+    "album": {
+      "artist": "Paramore",
+      "title": "RIOT!",
+      "url": "https://www.last.fm/music/Paramore/RIOT%21",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/b7a4b3000d0c431fbce299986ac51c48.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/b7a4b3000d0c431fbce299986ac51c48.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/b7a4b3000d0c431fbce299986ac51c48.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/b7a4b3000d0c431fbce299986ac51c48.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "rock",
+          "url": "https://www.last.fm/tag/rock"
+        },
+        {
+          "name": "pop punk",
+          "url": "https://www.last.fm/tag/pop+punk"
+        },
+        {
+          "name": "female vocalists",
+          "url": "https://www.last.fm/tag/female+vocalists"
+        },
+        {
+          "name": "Paramore",
+          "url": "https://www.last.fm/tag/Paramore"
+        },
+        {
+          "name": "alternative",
+          "url": "https://www.last.fm/tag/alternative"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "21 Jul 2008, 15:50",
+      "summary": "\"Misery Business\" is the first single from Paramore's second album, Riot!. The song's music video was the third of the band's videos to be directed by Shane Drake, and was nominated for the Best Video award at the Kerrang! Awards 2007, but lost to Fall Out Boy's \"This Ain't a Scene, It's an Arms Race\". \"Misery Business\" is also featured on the soundtrack to the EA Sports video game NHL 08 and was used in professional StarCraft's Shinhan Bank Proleague. <a href=\"http://www.last.fm/music/Paramore/_/Misery+Business\">Read more on Last.fm</a>.",
+      "content": "\"Misery Business\" is the first single from Paramore's second album, Riot!. The song's music video was the third of the band's videos to be directed by Shane Drake, and was nominated for the Best Video award at the Kerrang! Awards 2007, but lost to Fall Out Boy's \"This Ain't a Scene, It's an Arms Race\". \"Misery Business\" is also featured on the soundtrack to the EA Sports video game NHL 08 and was used in professional StarCraft's Shinhan Bank Proleague. It is also included in the popular video game Guitar Hero World Tour, which Hayley Williams is also playable in. It was also heard in an episode of Degrassi. <a href=\"http://www.last.fm/music/Paramore/_/Misery+Business\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

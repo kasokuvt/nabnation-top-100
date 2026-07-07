@@ -1,0 +1,66 @@
+{
+  "track": {
+    "name": "Hammer of Justice",
+    "mbid": "d0841b0e-4aca-4025-9472-eb54af8cd9aa",
+    "url": "https://www.last.fm/music/Toby+Fox/_/Hammer+of+Justice",
+    "duration": "133000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "80997",
+    "playcount": "1231809",
+    "artist": {
+      "name": "Toby Fox",
+      "mbid": "1c26f82c-b35d-4c8e-a1f4-9c20747495c9",
+      "url": "https://www.last.fm/music/Toby+Fox"
+    },
+    "album": {
+      "artist": "Toby Fox",
+      "title": "DELTARUNE Soundtrack",
+      "url": "https://www.last.fm/music/Toby+Fox/DELTARUNE+Soundtrack",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/25a9b786934e3aea4a33d8b87dd8b84a.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/25a9b786934e3aea4a33d8b87dd8b84a.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/25a9b786934e3aea4a33d8b87dd8b84a.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/25a9b786934e3aea4a33d8b87dd8b84a.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "Soundtrack",
+          "url": "https://www.last.fm/tag/Soundtrack"
+        },
+        {
+          "name": "electronic",
+          "url": "https://www.last.fm/tag/electronic"
+        },
+        {
+          "name": "chiptune",
+          "url": "https://www.last.fm/tag/chiptune"
+        },
+        {
+          "name": "ost",
+          "url": "https://www.last.fm/tag/ost"
+        },
+        {
+          "name": "vgm",
+          "url": "https://www.last.fm/tag/vgm"
+        }
+      ]
+    }
+  }
+}

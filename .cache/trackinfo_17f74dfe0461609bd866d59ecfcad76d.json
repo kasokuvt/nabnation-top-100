@@ -1,0 +1,43 @@
+{
+  "track": {
+    "name": "do i clench my fists?",
+    "url": "https://www.last.fm/music/ridgeclub/_/do+i+clench+my+fists%3F",
+    "duration": "153000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "65966",
+    "playcount": "593496",
+    "artist": {
+      "name": "ridgeclub",
+      "url": "https://www.last.fm/music/ridgeclub"
+    },
+    "album": {
+      "artist": "ridgeclub",
+      "title": "do i clench my fists?",
+      "url": "https://www.last.fm/music/ridgeclub/do+i+clench+my+fists%3F",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/5ca233f00a3052bd44c76b269381306c.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/5ca233f00a3052bd44c76b269381306c.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/5ca233f00a3052bd44c76b269381306c.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/5ca233f00a3052bd44c76b269381306c.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

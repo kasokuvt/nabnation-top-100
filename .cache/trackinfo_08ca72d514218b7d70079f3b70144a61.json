@@ -1,0 +1,59 @@
+{
+  "track": {
+    "name": "THAT GUY",
+    "mbid": "a4e6a18b-8721-4f1e-a6ab-28b3c29bcd0e",
+    "url": "https://www.last.fm/music/Tyler,+The+Creator/_/THAT+GUY",
+    "duration": "167000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "130645",
+    "playcount": "435480",
+    "artist": {
+      "name": "Tyler, The Creator",
+      "mbid": "f6beac20-5dfe-4d1f-ae02-0b0a740aafd6",
+      "url": "https://www.last.fm/music/Tyler,+The+Creator"
+    },
+    "album": {
+      "artist": "Tyler, The Creator",
+      "title": "THAT GUY",
+      "url": "https://www.last.fm/music/Tyler,+The+Creator/THAT+GUY",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/58973070d0ce7c3d6dd335539f294cea.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/58973070d0ce7c3d6dd335539f294cea.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/58973070d0ce7c3d6dd335539f294cea.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/58973070d0ce7c3d6dd335539f294cea.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "west coast",
+          "url": "https://www.last.fm/tag/west+coast"
+        },
+        {
+          "name": "freestyle",
+          "url": "https://www.last.fm/tag/freestyle"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "08 Mar 2025, 16:23",
+      "summary": "\"THAT GUY\" is a song by Tyler, The Creator that was released as a surprise single on December 25, 2024. The song features the beat of Kendrick Lamar's 2024 song, \"hey now\".\nIn the song, Tyler raps about his successes throughout the past year, including his appearance at the Pop Out: Ken & Friends concert and CHROMAKOPIA. <a href=\"http://www.last.fm/music/Tyler,+The+Creator/_/THAT+GUY\">Read more on Last.fm</a>.",
+      "content": "\"THAT GUY\" is a song by Tyler, The Creator that was released as a surprise single on December 25, 2024. The song features the beat of Kendrick Lamar's 2024 song, \"hey now\".\nIn the song, Tyler raps about his successes throughout the past year, including his appearance at the Pop Out: Ken & Friends concert and CHROMAKOPIA. <a href=\"http://www.last.fm/music/Tyler,+The+Creator/_/THAT+GUY\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

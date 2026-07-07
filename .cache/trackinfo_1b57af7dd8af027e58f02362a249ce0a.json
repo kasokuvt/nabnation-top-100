@@ -1,0 +1,43 @@
+{
+  "track": {
+    "name": "Candy Scar (VIVINOS-ZOMST Original Soundtrack Part.1)",
+    "url": "https://www.last.fm/music/rubyeye/_/Candy+Scar+(VIVINOS-ZOMST+Original+Soundtrack+Part.1)",
+    "duration": "251000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "20298",
+    "playcount": "310796",
+    "artist": {
+      "name": "rubyeye",
+      "url": "https://www.last.fm/music/rubyeye"
+    },
+    "album": {
+      "artist": "rubyeye",
+      "title": "Zombie Stage (Original Soundtrack Part.1)",
+      "url": "https://www.last.fm/music/rubyeye/Zombie+Stage+(Original+Soundtrack+Part.1)",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/54f0955563f1e5f07e1dc262dee7872a.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/54f0955563f1e5f07e1dc262dee7872a.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/54f0955563f1e5f07e1dc262dee7872a.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/54f0955563f1e5f07e1dc262dee7872a.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

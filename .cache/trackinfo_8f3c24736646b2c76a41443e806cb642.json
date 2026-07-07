@@ -1,0 +1,66 @@
+{
+  "track": {
+    "name": "Field of Hopes And Dreams",
+    "mbid": "51addebd-7ce2-449f-86c5-f7325c3b9bf5",
+    "url": "https://www.last.fm/music/Toby+Fox/_/Field+of+Hopes+And+Dreams",
+    "duration": "161000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "141583",
+    "playcount": "1564962",
+    "artist": {
+      "name": "Toby Fox",
+      "mbid": "1c26f82c-b35d-4c8e-a1f4-9c20747495c9",
+      "url": "https://www.last.fm/music/Toby+Fox"
+    },
+    "album": {
+      "artist": "Toby Fox",
+      "title": "DELTARUNE Chapter 1 (Original Game Soundtrack)",
+      "url": "https://www.last.fm/music/Toby+Fox/DELTARUNE+Chapter+1+(Original+Game+Soundtrack)",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/356a1f15dc5e3e2b06226390370618bf.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/356a1f15dc5e3e2b06226390370618bf.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/356a1f15dc5e3e2b06226390370618bf.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/356a1f15dc5e3e2b06226390370618bf.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "chiptune",
+          "url": "https://www.last.fm/tag/chiptune"
+        },
+        {
+          "name": "instrumental",
+          "url": "https://www.last.fm/tag/instrumental"
+        },
+        {
+          "name": "video game",
+          "url": "https://www.last.fm/tag/video+game"
+        },
+        {
+          "name": "electronic",
+          "url": "https://www.last.fm/tag/electronic"
+        },
+        {
+          "name": "sad",
+          "url": "https://www.last.fm/tag/sad"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "track": {
+    "name": "Maybe This Time",
+    "mbid": "d63f20d5-ca03-43b8-ae1e-f83603365d0a",
+    "url": "https://www.last.fm/music/Natasha+Richardson/_/Maybe+This+Time",
+    "duration": "180000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "103999",
+    "playcount": "1109345",
+    "artist": {
+      "name": "Natasha Richardson",
+      "mbid": "897e755e-47ca-4b0f-80c6-12f508885179",
+      "url": "https://www.last.fm/music/Natasha+Richardson"
+    },
+    "album": {
+      "artist": "Musical Cast Recording",
+      "title": "Cabaret: The New Broadway Cast Recording",
+      "url": "https://www.last.fm/music/Musical+Cast+Recording/Cabaret:+The+New+Broadway+Cast+Recording",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/1cb9408d613947a1955a3f640e0e7c79.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/1cb9408d613947a1955a3f640e0e7c79.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/1cb9408d613947a1955a3f640e0e7c79.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/1cb9408d613947a1955a3f640e0e7c79.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}
